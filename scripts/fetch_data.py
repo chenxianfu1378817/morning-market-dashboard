@@ -3,6 +3,8 @@ import urllib.parse
 import urllib.request
 import time
 import xml.etree.ElementTree as ET
+import re
+import html
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -45,8 +47,28 @@ def news():
     except Exception as e:
         return [{"title":"国际新闻暂时无法更新","link":"https://www.bbc.com/news/world","published":"","error":str(e)}]
 
+def translate(text):
+    try:
+        q=urllib.parse.urlencode({"q":text[:450],"langpair":"en|zh-CN"})
+        d=get_json("https://api.mymemory.translated.net/get?"+q)
+        return d.get("responseData",{}).get("translatedText") or text
+    except Exception: return text
+
+def truth_posts():
+    try:
+        req=urllib.request.Request("https://trumpstruth.org/feed",headers={"User-Agent":UA})
+        with urllib.request.urlopen(req,timeout=25) as r: root=ET.fromstring(r.read())
+        out=[]
+        for item in root.findall("./channel/item")[:5]:
+            title=html.unescape(item.findtext("title","")).strip()
+            raw=re.sub("<[^>]+>"," ",item.findtext("description","") or "")
+            text=html.unescape(re.sub(r"\s+"," ",raw)).strip() or title
+            out.append({"original":text,"translated":translate(text),"link":item.findtext("link",""),"published":item.findtext("pubDate","")})
+        return out
+    except Exception as e: return [{"original":"暂时无法读取 Truth Social 镜像数据","translated":"暂时无法读取 Truth Social 镜像数据","link":"https://trumpstruth.org/","published":"","error":str(e)}]
+
 now=datetime.now().astimezone()
-data={"updated_at":now.strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil(),"news":news()}
+data={"updated_at":now.strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil(),"news":news(),"truth_posts":truth_posts()}
 history_path=Path("data/history.json")
 try: history=json.loads(history_path.read_text(encoding="utf-8"))
 except (FileNotFoundError,json.JSONDecodeError): history=[]
