@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-30 07:28",
+  "updated_at": "2026-07-30 09:58",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.6,
-      "feels_like": 30.2,
-      "code": 81,
+      "temperature": 26.3,
+      "feels_like": 31.2,
+      "code": 53,
       "max": 29.1,
       "min": 24.6,
       "rain_probability": 100
     },
     {
       "name": "桂林",
-      "temperature": 27.6,
-      "feels_like": 31.4,
-      "code": 55,
+      "temperature": 25.9,
+      "feels_like": 31.5,
+      "code": 53,
       "max": 31.2,
       "min": 24.5,
       "rain_probability": 89
     },
     {
       "name": "广州",
-      "temperature": 26.7,
-      "feels_like": 32.2,
+      "temperature": 27.9,
+      "feels_like": 33.4,
       "code": 3,
       "max": 29.1,
       "min": 24.4,
@@ -31,8 +31,8 @@
     },
     {
       "name": "深圳",
-      "temperature": 27.4,
-      "feels_like": 33.1,
+      "temperature": 27.3,
+      "feels_like": 32.1,
       "code": 3,
       "max": 27.8,
       "min": 24.6,
@@ -44,24 +44,44 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 84.46,
-      "current_price": 85.22,
+      "current_price": 84.07,
       "previous_close": 84.46,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "07-30 07:18"
+      "market_time": "07-30 09:48"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 90.74,
-      "current_price": 92.27,
+      "current_price": 90.75,
       "previous_close": 90.74,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "07-30 07:13"
+      "market_time": "07-30 09:44"
     }
   ],
   "news": [
+    {
+      "title": "中国经验为非洲国家减贫事业提供有益启示——访南非《星期日世界报》首席执行官贝利",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669327.shtml",
+      "published": "Thu, 30 Jul 2026 17:45:45 +0800"
+    },
+    {
+      "title": "美军授予洛克希德·马丁586亿美元大单 以生产“爱国者”导弹",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669316.shtml",
+      "published": "Thu, 30 Jul 2026 16:09:52 +0800"
+    },
+    {
+      "title": "乌克兰多地遇袭已致8人丧生",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669280.shtml",
+      "published": "Thu, 30 Jul 2026 16:05:07 +0800"
+    },
+    {
+      "title": "日本熊本强震已造成34人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669272.shtml",
+      "published": "Thu, 30 Jul 2026 15:27:01 +0800"
+    },
     {
       "title": "欧洲山火持续蔓延 希腊3名消防员殉职",
       "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669174.shtml",
@@ -71,26 +91,6 @@
       "title": "日本熊本县余震不断 部分地区水电仍中断",
       "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669168.shtml",
       "published": "Thu, 30 Jul 2026 14:00:44 +0800"
-    },
-    {
-      "title": "日本开始新一轮核污染水排海 预计排放总量约7800吨",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669191.shtml",
-      "published": "Thu, 30 Jul 2026 13:37:36 +0800"
-    },
-    {
-      "title": "高市早苗：日本熊本县地震死亡人数升至30人",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669172.shtml",
-      "published": "Thu, 30 Jul 2026 13:16:09 +0800"
-    },
-    {
-      "title": "印尼巴布亚省发生5.1级地震 震源深度20千米",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669171.shtml",
-      "published": "Thu, 30 Jul 2026 13:14:51 +0800"
-    },
-    {
-      "title": "印尼巴布亚省发生5.1级地震 震源深度20千米",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669169.shtml",
-      "published": "Thu, 30 Jul 2026 13:14:29 +0800"
     }
   ],
   "truth_posts": [
