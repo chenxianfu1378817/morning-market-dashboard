@@ -1,7 +1,9 @@
 import json
 import urllib.parse
 import urllib.request
+import time
 from datetime import datetime, timezone
+from pathlib import Path
 
 UA = "morning-market-dashboard/1.0"
 LOCATIONS = [("南宁",22.817,108.366),("桂林",25.274,110.290),("广州",23.130,113.264),("深圳",22.543,114.058)]
@@ -9,7 +11,12 @@ OIL = [("WTI 原油", "CL=F"), ("Brent 原油", "BZ=F")]
 
 def get_json(url):
     req=urllib.request.Request(url,headers={"User-Agent":UA})
-    with urllib.request.urlopen(req,timeout=25) as r:return json.load(r)
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req,timeout=25) as r:return json.load(r)
+        except Exception:
+            if attempt==2: raise
+            time.sleep(2)
 
 def weather():
     out=[]
@@ -29,5 +36,12 @@ def oil():
         except Exception as e: out.append({"name":name,"symbol":symbol,"error":str(e)})
     return out
 
-data={"updated_at":datetime.now().astimezone().strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil()}
+now=datetime.now().astimezone()
+data={"updated_at":now.strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil()}
+history_path=Path("data/history.json")
+try: history=json.loads(history_path.read_text(encoding="utf-8"))
+except (FileNotFoundError,json.JSONDecodeError): history=[]
+history.append({"time":now.strftime("%Y-%m-%d %H:%M"),"oil":[{"symbol":x.get("symbol"),"price":x.get("price")} for x in data["oil"] if x.get("price") is not None]})
+history=history[-672:]
 with open("data/latest.json","w",encoding="utf-8") as f:json.dump(data,f,ensure_ascii=False,indent=2)
+with open(history_path,"w",encoding="utf-8") as f:json.dump(history,f,ensure_ascii=False,indent=2)
