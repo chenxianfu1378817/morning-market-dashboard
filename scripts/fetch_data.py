@@ -39,7 +39,7 @@ def oil():
 
 def news():
     try:
-        req=urllib.request.Request("https://feeds.bbci.co.uk/news/world/rss.xml",headers={"User-Agent":UA})
+        req=urllib.request.Request("https://www.chinanews.com.cn/rss/world.xml",headers={"User-Agent":UA})
         with urllib.request.urlopen(req,timeout=25) as r: root=ET.fromstring(r.read())
         return [{"title":item.findtext("title",""),"link":item.findtext("link",""),"published":item.findtext("pubDate","")} for item in root.findall("./channel/item")[:6]]
     except Exception as e:
