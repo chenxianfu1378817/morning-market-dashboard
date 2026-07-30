@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-07-30 04:49",
+  "updated_at": "2026-07-30 07:28",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 28.9,
-      "feels_like": 34.9,
-      "code": 95,
+      "temperature": 26.6,
+      "feels_like": 30.2,
+      "code": 81,
       "max": 29.1,
       "min": 24.6,
       "rain_probability": 100
     },
     {
       "name": "桂林",
-      "temperature": 28.0,
-      "feels_like": 32.9,
-      "code": 95,
-      "max": 31.4,
+      "temperature": 27.6,
+      "feels_like": 31.4,
+      "code": 55,
+      "max": 31.2,
       "min": 24.5,
       "rain_probability": 89
     },
     {
       "name": "广州",
-      "temperature": 28.8,
-      "feels_like": 34.4,
-      "code": 51,
-      "max": 29.0,
+      "temperature": 26.7,
+      "feels_like": 32.2,
+      "code": 3,
+      "max": 29.1,
       "min": 24.4,
       "rain_probability": 99
     },
     {
       "name": "深圳",
-      "temperature": 28.7,
-      "feels_like": 32.9,
-      "code": 51,
-      "max": 28.7,
-      "min": 24.5,
+      "temperature": 27.4,
+      "feels_like": 33.1,
+      "code": 3,
+      "max": 27.8,
+      "min": 24.6,
       "rain_probability": 79
     }
   ],
@@ -44,53 +44,53 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 84.46,
-      "current_price": 83.75,
+      "current_price": 85.22,
       "previous_close": 84.46,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "07-30 04:38"
+      "market_time": "07-30 07:18"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 90.74,
-      "current_price": 89.8,
+      "current_price": 92.27,
       "previous_close": 90.74,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "07-30 04:16"
+      "market_time": "07-30 07:13"
     }
   ],
   "news": [
     {
-      "title": "美军重新恢复对伊朗军事打击",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669123.shtml",
-      "published": "Thu, 30 Jul 2026 11:21:37 +0800"
+      "title": "欧洲山火持续蔓延 希腊3名消防员殉职",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669174.shtml",
+      "published": "Thu, 30 Jul 2026 14:01:44 +0800"
     },
     {
-      "title": "美军称打击数十个伊朗伊斯兰革命卫队目标",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669088.shtml",
-      "published": "Thu, 30 Jul 2026 10:38:08 +0800"
+      "title": "日本熊本县余震不断 部分地区水电仍中断",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669168.shtml",
+      "published": "Thu, 30 Jul 2026 14:00:44 +0800"
     },
     {
-      "title": "日媒：日本熊本县地震死亡人数升至28人",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669065.shtml",
-      "published": "Thu, 30 Jul 2026 10:22:20 +0800"
+      "title": "日本开始新一轮核污染水排海 预计排放总量约7800吨",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669191.shtml",
+      "published": "Thu, 30 Jul 2026 13:37:36 +0800"
     },
     {
-      "title": "日本熊本地震已致28人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669063.shtml",
-      "published": "Thu, 30 Jul 2026 10:20:34 +0800"
+      "title": "高市早苗：日本熊本县地震死亡人数升至30人",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669172.shtml",
+      "published": "Thu, 30 Jul 2026 13:16:09 +0800"
     },
     {
-      "title": "国际最新研究：硅芯片能实现量子计算至关重要的基本运算",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669036.shtml",
-      "published": "Thu, 30 Jul 2026 10:03:47 +0800"
+      "title": "印尼巴布亚省发生5.1级地震 震源深度20千米",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669171.shtml",
+      "published": "Thu, 30 Jul 2026 13:14:51 +0800"
     },
     {
-      "title": "最新考古研究揭示亚马孙文明规模：可能有2.4万-3万处土墩遗存",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669025.shtml",
-      "published": "Thu, 30 Jul 2026 10:03:25 +0800"
+      "title": "印尼巴布亚省发生5.1级地震 震源深度20千米",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669169.shtml",
+      "published": "Thu, 30 Jul 2026 13:14:29 +0800"
     }
   ],
   "truth_posts": [
