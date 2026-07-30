@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-07-30 09:32",
+  "timezone": "Asia/Shanghai",
+  "weather": [
+    {
+      "name": "南宁",
+      "temperature": 27.2,
+      "feels_like": 31.4,
+      "code": 3,
+      "max": 29.1,
+      "min": 24.6,
+      "rain_probability": 100
+    },
+    {
+      "name": "桂林",
+      "temperature": 27.8,
+      "feels_like": 31.9,
+      "code": 3,
+      "max": 31.4,
+      "min": 24.5,
+      "rain_probability": 91
+    },
+    {
+      "name": "广州",
+      "temperature": 26.5,
+      "feels_like": 31.6,
+      "code": 51,
+      "max": 29.0,
+      "min": 24.4,
+      "rain_probability": 93
+    },
+    {
+      "name": "深圳",
+      "temperature": 26.8,
+      "feels_like": 31.4,
+      "code": 51,
+      "max": 28.7,
+      "min": 24.5,
+      "rain_probability": 78
+    }
+  ],
+  "oil": [
+    {
+      "name": "WTI 原油",
+      "symbol": "CL=F",
+      "price": 84.04,
+      "previous_close": 84.46,
+      "change": -0.4199999999999875,
+      "change_pct": -0.4972768174283537,
+      "market_time": "07-30 09:22"
+    },
+    {
+      "name": "Brent 原油",
+      "symbol": "BZ=F",
+      "price": 89.74,
+      "previous_close": 90.74,
+      "change": -1.0,
+      "change_pct": -1.102049812651532,
+      "market_time": "07-30 09:21"
+    }
+  ]
+}
