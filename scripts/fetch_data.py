@@ -2,6 +2,7 @@ import json
 import urllib.parse
 import urllib.request
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -36,8 +37,16 @@ def oil():
         except Exception as e: out.append({"name":name,"symbol":symbol,"error":str(e)})
     return out
 
+def news():
+    try:
+        req=urllib.request.Request("https://feeds.bbci.co.uk/news/world/rss.xml",headers={"User-Agent":UA})
+        with urllib.request.urlopen(req,timeout=25) as r: root=ET.fromstring(r.read())
+        return [{"title":item.findtext("title",""),"link":item.findtext("link",""),"published":item.findtext("pubDate","")} for item in root.findall("./channel/item")[:6]]
+    except Exception as e:
+        return [{"title":"国际新闻暂时无法更新","link":"https://www.bbc.com/news/world","published":"","error":str(e)}]
+
 now=datetime.now().astimezone()
-data={"updated_at":now.strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil()}
+data={"updated_at":now.strftime("%Y-%m-%d %H:%M"),"timezone":"Asia/Shanghai","weather":weather(),"oil":oil(),"news":news()}
 history_path=Path("data/history.json")
 try: history=json.loads(history_path.read_text(encoding="utf-8"))
 except (FileNotFoundError,json.JSONDecodeError): history=[]
