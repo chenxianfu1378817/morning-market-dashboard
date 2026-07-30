@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-07-30 02:13",
+  "updated_at": "2026-07-30 03:34",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.7,
-      "feels_like": 31.7,
-      "code": 3,
+      "temperature": 26.8,
+      "feels_like": 31.9,
+      "code": 96,
       "max": 29.1,
       "min": 24.6,
       "rain_probability": 100
     },
     {
       "name": "桂林",
-      "temperature": 28.2,
-      "feels_like": 32.1,
+      "temperature": 29.7,
+      "feels_like": 34.2,
       "code": 3,
       "max": 31.4,
       "min": 24.5,
-      "rain_probability": 91
+      "rain_probability": 89
     },
     {
       "name": "广州",
-      "temperature": 26.7,
-      "feels_like": 31.6,
+      "temperature": 28.0,
+      "feels_like": 33.1,
       "code": 51,
       "max": 29.0,
       "min": 24.4,
-      "rain_probability": 93
+      "rain_probability": 99
     },
     {
       "name": "深圳",
-      "temperature": 27.3,
-      "feels_like": 31.9,
-      "code": 51,
+      "temperature": 28.6,
+      "feels_like": 33.2,
+      "code": 3,
       "max": 28.7,
       "min": 24.5,
-      "rain_probability": 78
+      "rain_probability": 79
     }
   ],
   "oil": [
@@ -44,53 +44,85 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 84.46,
-      "current_price": 83.65,
+      "current_price": 83.51,
       "previous_close": 79.26,
       "change": 5.199999999999989,
       "change_pct": 6.560686348725699,
-      "market_time": "07-30 02:03"
+      "market_time": "07-30 03:24"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 90.74,
-      "current_price": 89.79,
+      "current_price": 89.35,
       "previous_close": 84.09,
       "change": 6.6499999999999915,
       "change_pct": 7.908193602092985,
-      "market_time": "07-30 01:33"
+      "market_time": "07-30 03:24"
     }
   ],
   "news": [
     {
-      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 18:41:31 GMT"
+      "title": "美军重新恢复对伊朗军事打击",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669123.shtml",
+      "published": "Thu, 30 Jul 2026 11:21:37 +0800"
     },
     {
-      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 01:53:25 GMT"
+      "title": "美军称打击数十个伊朗伊斯兰革命卫队目标",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669088.shtml",
+      "published": "Thu, 30 Jul 2026 10:38:08 +0800"
     },
     {
-      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 20:21:46 GMT"
+      "title": "日媒：日本熊本县地震死亡人数升至28人",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669065.shtml",
+      "published": "Thu, 30 Jul 2026 10:22:20 +0800"
     },
     {
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 16:49:41 GMT"
+      "title": "日本熊本地震已致28人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669063.shtml",
+      "published": "Thu, 30 Jul 2026 10:20:34 +0800"
     },
     {
-      "title": "Salman Rushdie attacker convicted of terror offences ",
-      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 22:15:33 GMT"
+      "title": "国际最新研究：硅芯片能实现量子计算至关重要的基本运算",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669036.shtml",
+      "published": "Thu, 30 Jul 2026 10:03:47 +0800"
     },
     {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 00:41:28 GMT"
+      "title": "最新考古研究揭示亚马孙文明规模：可能有2.4万-3万处土墩遗存",
+      "link": "https://www.chinanews.com.cn/gj/2026/07-30/10669025.shtml",
+      "published": "Thu, 30 Jul 2026 10:03:25 +0800"
+    }
+  ],
+  "truth_posts": [
+    {
+      "original": "Thank you Abe! President DJT",
+      "translated": "谢谢您， Abe ！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/40394",
+      "published": "Thu, 30 Jul 2026 01:18:18 +0000"
+    },
+    {
+      "original": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J. TRUMP",
+      "translated": "有没有人知道美国最高法院对出生公民身份和关税的负面裁决花费了我们国家多少钱和声望？答案，万亿美元！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/40393",
+      "published": "Wed, 29 Jul 2026 22:13:23 +0000"
+    },
+    {
+      "original": "[No Title] - Post from July 29, 2026",
+      "translated": "【无标题】- 2026年7月29日的帖子",
+      "link": "https://trumpstruth.org/statuses/40392",
+      "published": "Wed, 29 Jul 2026 17:03:48 +0000"
+    },
+    {
+      "original": "Many more people died of Covid under the Biden Administration than under the Trump Administration. “Operation Warp Speed” was a SPECTACULAR SUCCESS, in fact, many say, one of the most successful things ever done by an American President. I overrode Fauci on this. His ideas were CRAZY! Also, I said from the beginning that the Virus came from the Wuhan Laboratory in China. Fauci strongly disagreed, always trying to protect China. I Inherited Fauci, who was there since the 1980’s, but with each passing day, relied less and less on him. He made too many bad calls, like on MASKS. Remember at the beginning he was an anti-masker. He then switched to a super-masker. In any event I didn’t let him shut the Country down, although he wanted to. I went the Federalist way, and let the governors decide. The Republican governors did a much better job than the Dumocrats. Fauci was largely taken out of play, and then along came Sleepy Joe Biden, who made Fauci a “King!” I called Biden to tell him Fauci was no good, either didn’t have a clue, or was dishonest. The call was well received, but sadly, not acted on. Biden went on to give Fauci vast destructive power. The rest is history! President DJT",
+      "translated": "拜登政府时期死于新冠肺炎的人数比特朗普政府时期多得多。“曲速行动”取得了巨大的成功，事实上，许多人说，这是美国总统做过的最成功的事情之一。我在这个问题上凌驾于Fauci之上。他的想法太疯狂了！此外，我从一开始就说病毒来自中国的武汉实验室。Fauci强烈反对，总是试图保护中国。我继承了Fauci ，",
+      "link": "https://trumpstruth.org/statuses/40391",
+      "published": "Wed, 29 Jul 2026 11:46:42 +0000"
+    },
+    {
+      "original": "Senator Ron Johnson is working hard with Senate Republican Leadership to adopt a Budget Resolution before the August recess. This is the first step towards getting as much of THE SAVE AMERICA ACT as possible in a Budget Bill, funding our Troops, and helping our Farmers. I am calling on the Senate to get this critical first step done before the August recess. This Resolution can be adopted at a simple Majority threshold. GET IT DONE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "参议员罗恩·约翰逊（ Ron Johnson ）正在努力与参议院共和党领导层合作，在8月休会前通过一项预算决议。这是在预算法案中获得尽可能多的拯救美国行动的第一步，为我们的部队提供资金，并帮助我们的农民。我呼吁参议院在8月休会前完成这一关键的第一步。此决议可以在简单的多数阈值上通过。完成它！感谢您",
+      "link": "https://trumpstruth.org/statuses/40390",
+      "published": "Wed, 29 Jul 2026 01:09:06 +0000"
     }
   ]
 }
