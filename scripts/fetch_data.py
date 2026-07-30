@@ -31,7 +31,7 @@ def oil():
     for name,symbol in OIL:
         url="https://query1.finance.yahoo.com/v8/finance/chart/"+urllib.parse.quote(symbol)+"?range=2d&interval=1m"
         try:
-            d=get_json(url)["chart"]["result"][0]; meta=d["meta"]; price=meta.get("regularMarketPrice"); prev=meta.get("previousClose") or meta.get("chartPreviousClose"); change=(price-prev) if price is not None and prev is not None else None
+            d=get_json(url)["chart"]["result"][0]; meta=d["meta"]; price=meta.get("previousClose") or meta.get("chartPreviousClose"); prev=meta.get("chartPreviousClose"); change=(price-prev) if price is not None and prev is not None else None
             out.append({"name":name,"symbol":symbol,"price":price,"previous_close":prev,"change":change,"change_pct":change/prev*100 if change is not None and prev else None,"market_time":datetime.fromtimestamp(meta.get("regularMarketTime",0),timezone.utc).astimezone().strftime("%m-%d %H:%M") if meta.get("regularMarketTime") else None})
         except Exception as e: out.append({"name":name,"symbol":symbol,"error":str(e)})
     return out
