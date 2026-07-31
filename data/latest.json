@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-07-30 23:54",
+  "updated_at": "2026-07-31 23:54",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.1,
-      "feels_like": 29.6,
+      "temperature": 25.2,
+      "feels_like": 30.0,
       "code": 3,
-      "max": 28.9,
-      "min": 24.3,
-      "rain_probability": 100
+      "max": 30.8,
+      "min": 24.5,
+      "rain_probability": 94
     },
     {
       "name": "桂林",
-      "temperature": 24.4,
-      "feels_like": 30.0,
+      "temperature": 25.0,
+      "feels_like": 29.5,
       "code": 3,
-      "max": 31.7,
-      "min": 23.5,
-      "rain_probability": 81
+      "max": 32.7,
+      "min": 23.4,
+      "rain_probability": 51
     },
     {
       "name": "广州",
-      "temperature": 26.0,
-      "feels_like": 31.6,
+      "temperature": 24.5,
+      "feels_like": 28.7,
       "code": 51,
-      "max": 29.8,
-      "min": 25.2,
-      "rain_probability": 88
+      "max": 28.8,
+      "min": 23.8,
+      "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 25.0,
-      "feels_like": 30.1,
-      "code": 51,
-      "max": 26.5,
-      "min": 23.9,
-      "rain_probability": 93
+      "temperature": 23.7,
+      "feels_like": 28.1,
+      "code": 80,
+      "max": 27.1,
+      "min": 23.4,
+      "rain_probability": 100
     }
   ],
   "oil": [
@@ -44,85 +44,85 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 83.59,
-      "current_price": 84.08,
-      "previous_close": 84.46,
-      "change": -0.8699999999999903,
-      "change_pct": -1.0300734075301803,
-      "market_time": "07-30 23:44"
+      "current_price": 86.8,
+      "previous_close": 83.59,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "07-31 20:59"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 89.03,
-      "current_price": 89.38,
-      "previous_close": 90.74,
-      "change": -1.7099999999999937,
-      "change_pct": -1.8845051796341126,
-      "market_time": "07-30 23:08"
+      "current_price": 90.12,
+      "previous_close": 89.03,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "07-31 18:28"
     }
   ],
   "news": [
     {
-      "title": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669594.shtml",
-      "published": "Fri, 31 Jul 2026 07:22:03 +0800"
+      "title": "先撤军还是先解除武装？加沙停火卡在关键前提",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670286.shtml",
+      "published": "Sat, 1 Aug 2026 07:30:28 +0800"
     },
     {
-      "title": "美国否认伊朗摧毁三架F-35战斗机的说法",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669593.shtml",
-      "published": "Fri, 31 Jul 2026 07:09:26 +0800"
+      "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670283.shtml",
+      "published": "Sat, 1 Aug 2026 07:13:39 +0800"
     },
     {
-      "title": "外媒：欧足联或将抵制世界杯",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669591.shtml",
-      "published": "Fri, 31 Jul 2026 06:54:37 +0800"
+      "title": "今年7月欧元区通胀率升至2.9%",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670270.shtml",
+      "published": "Sat, 1 Aug 2026 06:54:59 +0800"
     },
     {
-      "title": "欧足联宣布抵制所有国际足联赛事",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669590.shtml",
-      "published": "Fri, 31 Jul 2026 06:53:51 +0800"
+      "title": "法国密切关注西班牙飞地移民危机 加强法西边境管控",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670271.shtml",
+      "published": "Sat, 1 Aug 2026 06:49:27 +0800"
     },
     {
-      "title": "特朗普称已就哈马斯“全面解除武装”达成协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669589.shtml",
-      "published": "Fri, 31 Jul 2026 06:52:18 +0800"
+      "title": "霍尔木兹海峡单日船舶通行量降至5艘",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670279.shtml",
+      "published": "Sat, 1 Aug 2026 06:48:47 +0800"
     },
     {
-      "title": "日本政府正式设立“国家情报局”",
-      "link": "https://www.chinanews.com.cn/gj/2026/07-31/10669587.shtml",
-      "published": "Fri, 31 Jul 2026 06:37:08 +0800"
+      "title": "古特雷斯呼吁停止海湾地区战事",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670278.shtml",
+      "published": "Sat, 1 Aug 2026 06:47:43 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "RT @ realDonaldTrump Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza. This is a monumental step toward lasting PEACE and SECURITY. This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely with the Board of Peace to help the Palestinian people. At the same time, Israel will have the security it deserves, with Gaza no longer used as a base for terror attacks. This is a major milestone in the implementation of the Trump 20-Point Plan. The agreement will be carried out in carefully structured phases. As disarmament is completed, Israeli forces will withdraw, and the International Stabilization Force will work with a new Palestinian police force to take responsibility for Gaza being safe for its residents and its neighbors. One year ago there was a violent raging war, humanitarian crisis and hostages kept in brutal captivity. We have made historic progress and there is still much work to do. I want to thank the mediators—Egypt, Qatar, and Türkiye—for their important efforts, and especially my outstanding team, whose tireless work made this historic breakthrough possible. The threat that emerged from Gaza on October 7 will NOT be allowed to rebuild! Under this agreement, Gaza will finally be in the hands of a new Palestinian government that serves its PEOPLE. CONGRATULATIONS TO ALL ON THIS AMAZING DEVELOPMENT, THAT EVERYBODY SAID COULD NEVER BE ACHIEVED! DONALD J. TRUMP President of the United States of America",
-      "translated": "RT @ realDonaldTrump今天，和平委员会就彻底解除哈马斯和加沙所有其他武装团体的武装达成了历史性协议。这是迈向持久和平与安全的重要一步。该协议是加沙最终由新的巴勒斯坦政府治理的关键一步，该政府将与和平委员会密切合作，帮助巴勒斯坦人民。与此同时，以色列将获得应有的安全",
-      "link": "https://trumpstruth.org/statuses/40398",
-      "published": "Thu, 30 Jul 2026 23:13:14 +0000"
+      "original": "[No Title] - Post from July 31, 2026",
+      "translated": "[No Title] - 2026年7月31日的帖子",
+      "link": "https://trumpstruth.org/statuses/40405",
+      "published": "Fri, 31 Jul 2026 21:30:31 +0000"
     },
     {
-      "original": "GREAT new song by Steve Gruber & The Freedom Project! https:// youtu.be/9rHJoI3Ge6U?is=zDTIM8 6DSa4d5qbv",
-      "translated": "Steve Gruber和自由项目的精彩新歌！ https://youtu.be/9rHJoI3Ge6U?is=zDTIM8 6DSa4d5qbv",
-      "link": "https://trumpstruth.org/statuses/40399",
-      "published": "Thu, 30 Jul 2026 23:13:06 +0000"
+      "original": "RT @ RobertCahaly BREAKING: @ trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
+      "translated": "RT @ RobertCahaly突破： @ trafalgar_group SC GOP 2026美国参议院追踪民意调查特别选举（ 7/28-30 ） 989名受访者2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
+      "link": "https://trumpstruth.org/statuses/40406",
+      "published": "Fri, 31 Jul 2026 21:30:18 +0000"
     },
     {
-      "original": "RT @ EximBankUS Thanks to @ realDonaldTrump , the Export-Import Bank is profitable for the first time in nearly a DECADE. Here’s why that matters to every American: ✅ Supply Chain Security: EXIM is answering @ realDonaldTrump ’s call to action - delivering Project Vault and $28 billion in deals to ensure companies large and small have access to critical raw materials. ✅ Reindustrializing America: EXIM is a frontline economic tool again, and small businesses are at the heart of our mission, supporting over 45,000 American jobs. ✅ Energy DOMINANCE: After 4 years of Biden inaction, President Trump is unleashing American Energy Dominance & EXIM is sending American molecules and technologies to every corner of the globe. ✅ American Innovation: EXIM is investing in America’s future by making sure we can innovate AND build in America again, backing cutting-edge companies like JetZero, Beta Technologies and K2 Space as they transform their industries. EXIM is doing all of this while returning a profit to the taxpayer. When EXIM does its job, hardworking Americans across the country have more high-paying jobs and more money in their pockets.",
-      "translated": "RT @ EximBankUS得益于@ realDonaldTrump ，进出口银行近十年来首次实现盈利。这就是为什么这对每个美国人都很重要：✅供应链安全： EXIM正在响应@ realDonaldTrump的行动呼吁-提供Project Vault和280亿美元的交易，以确保大小公司都能获得关键原材料。✅美国再工业化：进出口再次成为前线经济工具，",
-      "link": "https://trumpstruth.org/statuses/40400",
-      "published": "Thu, 30 Jul 2026 23:12:52 +0000"
+      "original": "BREAKING: @ trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
+      "translated": "突破： @ trafalgar_group SC GOP 2026美国参议院追踪民意调查特别选举（ 7/28-30 ） 989名受访者2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
+      "link": "https://trumpstruth.org/statuses/40407",
+      "published": "Fri, 31 Jul 2026 20:21:52 +0000"
     },
     {
-      "original": "Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza. This is a monumental step toward lasting PEACE and SECURITY. This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely with the Board of Peace to help the Palestinian people. At the same time, Israel will have the security it deserves, with Gaza no longer used as a base for terror attacks. This is a major milestone in the implementation of the Trump 20-Point Plan. The agreement will be carried out in carefully structured phases. As disarmament is completed, Israeli forces will withdraw, and the International Stabilization Force will work with a new Palestinian police force to take responsibility for Gaza being safe for its residents and its neighbors. One year ago there was a violent raging war, humanitarian crisis and hostages kept in brutal captivity. We have made historic progress and there is still much work to do. I want to thank the mediators—Egypt, Qatar, and Türkiye—for their important efforts, and especially my outstanding team, whose tireless work made this historic breakthrough possible. The threat that emerged from Gaza on October 7 will NOT be allowed to rebuild! Under this agreement, Gaza will finally be in the hands of a new Palestinian government that serves its PEOPLE. CONGRATULATIONS TO ALL ON THIS AMAZING DEVELOPMENT, THAT EVERYBODY SAID COULD NEVER BE ACHIEVED! DONALD J. TRUMP President of the United States of America",
-      "translated": "今天，和平委员会就彻底解除哈马斯和加沙所有其他武装团体的武装达成了一项历史性协议。这是迈向持久和平与安全的重要一步。该协议是加沙最终由新的巴勒斯坦政府治理的关键一步，该政府将与和平委员会密切合作，帮助巴勒斯坦人民。与此同时，以色列将获得应有的安全，加沙没有希望",
-      "link": "https://trumpstruth.org/statuses/40397",
-      "published": "Thu, 30 Jul 2026 22:24:54 +0000"
+      "original": "What’s happening with Spain, with tens of thousands of Illegal Immigrants invading it, happened in the United States during the Sleepy Joe Biden Administration, and it will happen again, only worse, if the Dumocrats ever again gain power. DON’T LET OUR COUNTRY BE DESTROYED. VOTE REPUBLICAN, AND BE PROUD OF THE U.S.A. President DONALD J. TRUMP",
+      "translated": "西班牙正在发生的事情，成千上万的非法移民入侵它，发生在昏昏欲睡的乔·拜登政府时期的美国，如果杜莫克拉再次掌权，这种情况将再次发生，只会更糟。不要让我们的国家被摧毁。投票给共和党人，为美国总统唐纳德· J ·特朗普感到自豪",
+      "link": "https://trumpstruth.org/statuses/40404",
+      "published": "Fri, 31 Jul 2026 20:10:20 +0000"
     },
     {
-      "original": "President Trump Makes an Announcement with the Secretary of Transportation: https:// youtube.com/watch?v=sCPQKhHlN9 k&t=1016s&pp=2AH4B5ACAdIHCQlkAqO1ajebQw%3D%3D&ra=m",
-      "translated": "特朗普总统与交通部长发布公告： https://youtube.com/watch?v=sCPQKhHlN9 k&t = 1016s&pp = 2AH4B5ACAdIHCQlkAqO1ajebQw % 3D % 3D&ra = m",
-      "link": "https://trumpstruth.org/statuses/40396",
-      "published": "Thu, 30 Jul 2026 17:09:36 +0000"
+      "original": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP",
+      "translated": "我很高兴地宣布，这位如此愚蠢地领导印第安纳州参议院的人，几乎所有候选人都失去了竞选资格，其中许多人已经执政多年，他不会寻求连任参议院议长，因为他没有机会当选—如果他完全辞职会更好，但他将在印第安纳州民意调查中与我们会面。罗德里克·布雷（ Rodric Bray ）应该为自己使我们的国家付出代价而感到羞耻， m",
+      "link": "https://trumpstruth.org/statuses/40403",
+      "published": "Fri, 31 Jul 2026 14:50:41 +0000"
     }
   ]
 }
