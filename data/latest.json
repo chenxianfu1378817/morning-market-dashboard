@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-07-31 23:54",
+  "updated_at": "2026-08-01 23:49",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.2,
-      "feels_like": 30.0,
+      "temperature": 25.5,
+      "feels_like": 30.6,
       "code": 3,
-      "max": 30.8,
+      "max": 32.1,
       "min": 24.5,
-      "rain_probability": 94
+      "rain_probability": 92
     },
     {
       "name": "桂林",
-      "temperature": 25.0,
-      "feels_like": 29.5,
+      "temperature": 25.3,
+      "feels_like": 30.2,
       "code": 3,
-      "max": 32.7,
-      "min": 23.4,
-      "rain_probability": 51
+      "max": 31.5,
+      "min": 24.6,
+      "rain_probability": 79
     },
     {
       "name": "广州",
-      "temperature": 24.5,
-      "feels_like": 28.7,
+      "temperature": 25.0,
+      "feels_like": 29.4,
       "code": 51,
-      "max": 28.8,
-      "min": 23.8,
-      "rain_probability": 100
+      "max": 30.6,
+      "min": 23.9,
+      "rain_probability": 98
     },
     {
       "name": "深圳",
       "temperature": 23.7,
-      "feels_like": 28.1,
-      "code": 80,
-      "max": 27.1,
-      "min": 23.4,
-      "rain_probability": 100
+      "feels_like": 29.0,
+      "code": 95,
+      "max": 27.2,
+      "min": 23.1,
+      "rain_probability": 96
     }
   ],
   "oil": [
@@ -44,7 +44,7 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 83.59,
-      "current_price": 86.8,
+      "current_price": 84.67,
       "previous_close": 83.59,
       "change": 0.0,
       "change_pct": 0.0,
@@ -63,66 +63,66 @@
   ],
   "news": [
     {
-      "title": "先撤军还是先解除武装？加沙停火卡在关键前提",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670286.shtml",
-      "published": "Sat, 1 Aug 2026 07:30:28 +0800"
+      "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670688.shtml",
+      "published": "Sun, 2 Aug 2026 07:22:05 +0800"
     },
     {
-      "title": "中国企业家代表团与美中贸委会及其会员企业交流座谈",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670283.shtml",
-      "published": "Sat, 1 Aug 2026 07:13:39 +0800"
+      "title": "法国西南部吉伦特省野火受控 20万被疏散人员返回",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670678.shtml",
+      "published": "Sun, 2 Aug 2026 07:17:07 +0800"
     },
     {
-      "title": "今年7月欧元区通胀率升至2.9%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670270.shtml",
-      "published": "Sat, 1 Aug 2026 06:54:59 +0800"
+      "title": "莫斯科发生爆炸事件已致3人死亡21人受伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670679.shtml",
+      "published": "Sun, 2 Aug 2026 06:49:57 +0800"
     },
     {
-      "title": "法国密切关注西班牙飞地移民危机 加强法西边境管控",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670271.shtml",
-      "published": "Sat, 1 Aug 2026 06:49:27 +0800"
+      "title": "莫斯科餐厅爆炸已致3死21伤 俄称系自制炸弹袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670682.shtml",
+      "published": "Sun, 2 Aug 2026 06:36:26 +0800"
     },
     {
-      "title": "霍尔木兹海峡单日船舶通行量降至5艘",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670279.shtml",
-      "published": "Sat, 1 Aug 2026 06:48:47 +0800"
+      "title": "美驻中东多国使馆发布警告 称地区局势可能升级",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670681.shtml",
+      "published": "Sun, 2 Aug 2026 06:34:26 +0800"
     },
     {
-      "title": "古特雷斯呼吁停止海湾地区战事",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-01/10670278.shtml",
-      "published": "Sat, 1 Aug 2026 06:47:43 +0800"
+      "title": "以官员称美接近批准对伊军事打击 以方保持高度警惕",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-02/10670680.shtml",
+      "published": "Sun, 2 Aug 2026 06:32:18 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from July 31, 2026",
-      "translated": "[No Title] - 2026年7月31日的帖子",
-      "link": "https://trumpstruth.org/statuses/40405",
-      "published": "Fri, 31 Jul 2026 21:30:31 +0000"
+      "original": "[No Title] - Post from August 1, 2026",
+      "translated": "[No Title] - 2026年8月1日的帖子",
+      "link": "https://trumpstruth.org/statuses/40451",
+      "published": "Sat, 01 Aug 2026 19:47:26 +0000"
     },
     {
-      "original": "RT @ RobertCahaly BREAKING: @ trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
-      "translated": "RT @ RobertCahaly突破： @ trafalgar_group SC GOP 2026美国参议院追踪民意调查特别选举（ 7/28-30 ） 989名受访者2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
-      "link": "https://trumpstruth.org/statuses/40406",
-      "published": "Fri, 31 Jul 2026 21:30:18 +0000"
+      "original": "[No Title] - Post from August 1, 2026",
+      "translated": "[No Title] - 2026年8月1日的帖子",
+      "link": "https://trumpstruth.org/statuses/40452",
+      "published": "Sat, 01 Aug 2026 19:47:13 +0000"
     },
     {
-      "original": "BREAKING: @ trafalgar_group SC GOP 2026 Special Election for US Senate Tracking Poll (7/28-30) 989 Respondents 2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
-      "translated": "突破： @ trafalgar_group SC GOP 2026美国参议院追踪民意调查特别选举（ 7/28-30 ） 989名受访者2.9 MOE 27.0% Darline Graham 17.4% @ RussellFrySC 17.4% Ralph Norman 15.1% Mark Sanford 8.1% Mark Lynch 1.1% Samuel Sam Shepherd 0.9% Duke Buckner 0.4% Mark McBride 0.3% Clark Nielson 12.4% Und",
-      "link": "https://trumpstruth.org/statuses/40407",
-      "published": "Fri, 31 Jul 2026 20:21:52 +0000"
+      "original": "[No Title] - Post from August 1, 2026",
+      "translated": "[No Title] - 2026年8月1日的帖子",
+      "link": "https://trumpstruth.org/statuses/40450",
+      "published": "Sat, 01 Aug 2026 19:42:54 +0000"
     },
     {
-      "original": "What’s happening with Spain, with tens of thousands of Illegal Immigrants invading it, happened in the United States during the Sleepy Joe Biden Administration, and it will happen again, only worse, if the Dumocrats ever again gain power. DON’T LET OUR COUNTRY BE DESTROYED. VOTE REPUBLICAN, AND BE PROUD OF THE U.S.A. President DONALD J. TRUMP",
-      "translated": "西班牙正在发生的事情，成千上万的非法移民入侵它，发生在昏昏欲睡的乔·拜登政府时期的美国，如果杜莫克拉再次掌权，这种情况将再次发生，只会更糟。不要让我们的国家被摧毁。投票给共和党人，为美国总统唐纳德· J ·特朗普感到自豪",
-      "link": "https://trumpstruth.org/statuses/40404",
-      "published": "Fri, 31 Jul 2026 20:10:20 +0000"
+      "original": "[No Title] - Post from August 1, 2026",
+      "translated": "[No Title] - 2026年8月1日的帖子",
+      "link": "https://trumpstruth.org/statuses/40449",
+      "published": "Sat, 01 Aug 2026 18:45:09 +0000"
     },
     {
-      "original": "I am pleased to announce that the man who so foolishly led the Indiana State Senate, with almost every Candidate losing their Race, many of them in Office for years, will not be seeking Re-Election as Senate President because he wouldn’t have had a chance to be elected — Better yet would be if he would resign from Office, completely, but he will be met by us at the Indiana Polls. Rodric Bray should be ashamed of himself for costing our Country, mainly the Republican Party, two U.S. House Seats, and for costing all of his colleagues who went along with him, an Election loss! Isn’t it amazing how Politics works? I want to thank the Great State of Indiana for your support, not only in my Presidential Election, which we won with the Highest Vote in the History of the State, but also for your support in getting rid of wayward Senators, led down the Path of Destruction by a FOOL named Rodric Bray. Indiana, I will never forget your loyalty! President DONALD J. TRUMP",
-      "translated": "我很高兴地宣布，这位如此愚蠢地领导印第安纳州参议院的人，几乎所有候选人都失去了竞选资格，其中许多人已经执政多年，他不会寻求连任参议院议长，因为他没有机会当选—如果他完全辞职会更好，但他将在印第安纳州民意调查中与我们会面。罗德里克·布雷（ Rodric Bray ）应该为自己使我们的国家付出代价而感到羞耻， m",
-      "link": "https://trumpstruth.org/statuses/40403",
-      "published": "Fri, 31 Jul 2026 14:50:41 +0000"
+      "original": "RT @ realDonaldTrump Great job by Chairman Rick Crawford on FoxNews interview - A total Pro!!! President DJT",
+      "translated": "RT @ realDonaldTrump主席Rick Crawford在FoxNews采访中做得很好-完全专业！ ！ ！总裁DJT",
+      "link": "https://trumpstruth.org/statuses/40440",
+      "published": "Sat, 01 Aug 2026 18:32:55 +0000"
     }
   ]
 }
