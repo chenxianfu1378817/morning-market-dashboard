@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-02 23:51",
+  "updated_at": "2026-08-04 00:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.5,
-      "feels_like": 30.3,
+      "temperature": 25.2,
+      "feels_like": 30.4,
       "code": 3,
-      "max": 31.1,
-      "min": 24.8,
-      "rain_probability": 88
+      "max": 30.8,
+      "min": 24.7,
+      "rain_probability": 91
     },
     {
       "name": "桂林",
-      "temperature": 25.4,
-      "feels_like": 31.2,
+      "temperature": 24.8,
+      "feels_like": 30.4,
       "code": 3,
-      "max": 31.2,
-      "min": 24.5,
-      "rain_probability": 86
+      "max": 30.9,
+      "min": 23.8,
+      "rain_probability": 98
     },
     {
       "name": "广州",
-      "temperature": 25.0,
-      "feels_like": 30.2,
-      "code": 51,
-      "max": 29.5,
+      "temperature": 25.6,
+      "feels_like": 31.8,
+      "code": 53,
+      "max": 30.7,
       "min": 24.3,
-      "rain_probability": 94
+      "rain_probability": 67
     },
     {
       "name": "深圳",
-      "temperature": 24.8,
-      "feels_like": 31.0,
-      "code": 80,
-      "max": 27.3,
-      "min": 23.9,
-      "rain_probability": 99
+      "temperature": 25.9,
+      "feels_like": 32.3,
+      "code": 3,
+      "max": 31.0,
+      "min": 24.3,
+      "rain_probability": 51
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 84.67,
-      "current_price": 80.74,
-      "previous_close": 84.67,
+      "price": 80.34,
+      "current_price": 80.27,
+      "previous_close": 80.34,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-02 23:41"
+      "market_time": "08-03 23:50"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 90.12,
-      "current_price": 90.12,
-      "previous_close": 90.12,
+      "price": 83.77,
+      "current_price": 83.86,
+      "previous_close": 83.77,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "07-31 18:28"
+      "market_time": "08-03 23:49"
     }
   ],
   "news": [
     {
-      "title": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670987.shtml",
-      "published": "Mon, 3 Aug 2026 07:43:21 +0800"
+      "title": "英格兰威尔士遭遇有记录以来最干旱7月",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671503.shtml",
+      "published": "Tue, 4 Aug 2026 07:53:10 +0800"
     },
     {
-      "title": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670980.shtml",
-      "published": "Mon, 3 Aug 2026 07:10:53 +0800"
+      "title": "荷兰反恐行动持续 第四名涉恐嫌犯被捕",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671502.shtml",
+      "published": "Tue, 4 Aug 2026 07:52:20 +0800"
     },
     {
-      "title": "特朗普称美伊3日将举行谈判",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
-      "published": "Mon, 3 Aug 2026 06:36:55 +0800"
+      "title": "美国25个州就特朗普政府加征新关税政策提起诉讼",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671501.shtml",
+      "published": "Tue, 4 Aug 2026 07:51:42 +0800"
     },
     {
-      "title": "巴西总统卢拉登记参选 谋求连任",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670976.shtml",
-      "published": "Mon, 3 Aug 2026 05:45:14 +0800"
+      "title": "美国密歇根州报告两例环孢子虫病死亡病例",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671511.shtml",
+      "published": "Tue, 4 Aug 2026 07:51:14 +0800"
     },
     {
-      "title": "巴西劳工党正式确认卢拉为总统候选人",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670975.shtml",
-      "published": "Mon, 3 Aug 2026 05:41:35 +0800"
+      "title": "美国25州联合起诉特朗普政府301关税政策",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671508.shtml",
+      "published": "Tue, 4 Aug 2026 07:27:59 +0800"
     },
     {
-      "title": "巴基斯坦西北部发生爆炸致14人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-03/10670974.shtml",
-      "published": "Mon, 3 Aug 2026 05:37:33 +0800"
+      "title": "美军通报：继续海上封锁伊朗 已改变44艘商船航线",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-04/10671505.shtml",
+      "published": "Tue, 4 Aug 2026 07:19:41 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "The Winning Shot in the Bedminster Club Championship! Thank you very much to all of those who participated. I won with a score of 70, and am so honored in that, unlike the rest of the field, I’m given very little time to practice, because I’m focused on many other things. It’s called TALENT, and I have it, and they don’t! President DONALD J. TRUMP",
-      "translated": "贝德明斯特俱乐部锦标赛的胜利镜头！非常感谢所有参与的人。我以70分的成绩获胜，我感到非常荣幸，与该领域的其他成员不同，我几乎没有时间练习，因为我专注于许多其他事情。这叫做天赋，我有，他们没有！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/40461",
-      "published": "Sun, 02 Aug 2026 18:30:59 +0000"
+      "original": "RT @ realDonaldTrump It is my Great Honor to endorse MAGA Warrior, Rick Brattin, who is running to represent the wonderful people of Missouri’s 5th Congressional District! Rick is strongly supported by many of the greatest America First Patriots in Missouri, including Governor Mike Kehoe, and Congressmen Jason Smith, Bob Onder, and Eric Burlison, among others! From bravely fighting for the U.S. Marine Corps, to strongly representing his community as a State Senator, Rick has served his State and Nation with great distinction, and will bring that same Fighting Spirit to the U.S. Congress. Everywhere Rick Brattin has gone, he has been respected! As your next Congressman, Rick will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Strengthen our Incredible Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment, which I have flawlessly fought to protect for many years. Rick Brattin has my Complete and Total Endorsement to be the next Representative from Missouri’s 5th Congressional District — RICK WILL NEVER LET YOU DOWN!",
+      "translated": "RT @ realDonaldTrump我很荣幸为代表密苏里州第五国会选区优秀人民的MAGA Warrior Rick Brattin背书！ Rick得到了密苏里州许多最伟大的美国优先爱国者的大力支持，包括州长Mike Kehoe、国会议员Jason Smith、Bob Onder和Eric Burlison等！从勇敢地为美国海军陆战队而战，到坚定地代表他的社区",
+      "link": "https://trumpstruth.org/statuses/40511",
+      "published": "Mon, 03 Aug 2026 23:18:01 +0000"
     },
     {
-      "original": "https://www. energy.gov/articles/secretary- wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
-      "translated": "https://energy.gov/articles/secretary- wright-directs-sable-offshore-restore-santa-ynez-unit-and-pipeline",
-      "link": "https://trumpstruth.org/statuses/40460",
-      "published": "Sun, 02 Aug 2026 16:22:34 +0000"
+      "original": "It is my Great Honor to endorse America First Patriot, Jon Maples, who is running to represent the fantastic people of Florida’s 87th State House District! Jon is a very successful Businessman and Civic Leader, who is known and loved, and also endorsed by so many of my Palm Beach County friends, including by Great State Representative “MAGA” Meg Weinberger. As your next State Representative, Jon will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Advance Election Integrity, Support our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. Jon Maples has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!",
+      "translated": "我非常荣幸地支持美国第一爱国者乔恩·梅普尔斯（ Jon Maples ） ，他代表佛罗里达州第87州众议院选区的出色人民！ Jon是一位非常成功的商人和公民领袖，他广为人知，深受我的许多棕榈滩县朋友的喜爱，包括伟大的州众议员“MAGA” Meg Weinberger。作为你的下一任州代表，乔恩将不知疲倦地努力发展经济，削减税收",
+      "link": "https://trumpstruth.org/statuses/40510",
+      "published": "Mon, 03 Aug 2026 23:12:26 +0000"
     },
     {
-      "original": "Why I Put President Trump's Name on Palm Beach's Airport: https:// townhall.com/columnists/meg-we inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374",
-      "translated": "我为什么把特朗普总统的名字放在棕榈滩机场： https://townhall.com/columnists/meg-we inberger/2026/07/14/why-i-put-president-trumps-name-on-palm-beachs-airport-n2679374",
-      "link": "https://trumpstruth.org/statuses/40456",
-      "published": "Sun, 02 Aug 2026 12:58:43 +0000"
+      "original": "Wilton Simpson is the strong and highly popular Agriculture Commissioner for Florida, my “Home” State, which I love and won SIX times, including with 6.1 Million Votes in 2024, the most in History (BY FAR)! Wilton is a Fifth Generation Floridian, lifelong Egg Farmer, successful Businessman, former President of the State Senate, and now, as Agriculture Commissioner, has served the Sunshine State during a career “loaded up” with accolades and wins. A true America First Patriot, who has been with us from the very beginning, Wilton is an incredibly effective Voice for Florida Agriculture, and our amazing Farmers and Ranchers. He is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our now very Secure Border, SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, and Protect our always under siege Second Amendment. Commissioner Wilton Simpson has my Complete and Total Endorsement for Re-Election – HE WILL NEVER LET YOU DOWN!",
+      "translated": "威尔顿·辛普森（ Wilton Simpson ）是我的“故乡”佛罗里达州的强大且备受欢迎的农业专员，我喜欢并赢得了六次，其中包括2024年的610万张选票，这是历史上最多的（迄今为止） ！威尔顿是第五代佛罗里达人，终身养鸡，成功的商人，前州参议院议长，现在担任农业专员，在阳光州的职业生涯中“加载”了荣誉和胜利。",
+      "link": "https://trumpstruth.org/statuses/40506",
+      "published": "Mon, 03 Aug 2026 22:52:37 +0000"
     },
     {
-      "original": "Trump’s Energy Triumph: https://www. wsj.com/opinion/trumps-energy- triumph-82e4b953",
-      "translated": "特朗普的能源胜利： https://wsj.com/opinion/trumps-energy- triumph-82e4b953",
-      "link": "https://trumpstruth.org/statuses/40457",
-      "published": "Sun, 02 Aug 2026 12:58:05 +0000"
+      "original": "Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024! A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Help Secure our already Secure Southern Border, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment. Ashley Moody has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!",
+      "translated": "参议员阿什利·穆迪（ Ashley Moody ）代表佛罗里达州令人难以置信的人民做了出色的工作，佛罗里达州是我热爱的州，并在2016年、2020年和2024年赢得了巨大的胜利！阿什利是第五代佛罗里达人，在成为一位非常杰出和受人尊敬的美国参议员之前，曾担任州检察长六年。Ashley不知疲倦地致力于发展我们的经济，削减税收和法规，推广美国制造，倡导美国能源主导地位，帮助",
+      "link": "https://trumpstruth.org/statuses/40507",
+      "published": "Mon, 03 Aug 2026 22:52:30 +0000"
     },
     {
-      "original": "Mexico's Problem: https://www. billoreilly.com/b/Mexicos-Prob lem/-45344169968241838.html",
-      "translated": "墨西哥的问题： https://billoreilly.com/b/Mexicos-Prob LEM/-45344169968241838.html",
-      "link": "https://trumpstruth.org/statuses/40458",
-      "published": "Sun, 02 Aug 2026 12:57:45 +0000"
+      "original": "Florida Attorney General James Uthmeier is doing a GREAT job for the Sunshine State, which I won BIG in 2016, 2020, and 2024. James is an America First Warrior, who is a true champion for “MAGA.” He is THE MAN behind ALLIGATOR ALCATRAZ, and argued strongly at the United States Supreme Court in defense of my Executive Power to fire Deep State bureaucrats. Under James’ fearless leadership, over 1,000 CRIMINAL PEDOPHILES have been arrested, missing children have been SAVED, and our Great Members of Law Enforcement have been empowered to do their jobs and, KEEP FLORIDA SAFE. In his next term, James will continue to work tirelessly to Ensure Law and Order, Uphold our Constitutional Rights, and Protect our always under siege Second Amendment. James Uthmeier is a Strong Conservative Fighter and Prosecutor, and has my Complete and Total Endorsement — HE WILL NOT LET YOU DOWN!",
+      "translated": "佛罗里达州总检察长詹姆斯·乌斯迈尔（ James Uthmeier ）为阳光州做了出色的工作，我在2016年、2020年和2024年赢得了大奖。詹姆斯是美国第一勇士，他是“MAGA”的真正冠军。“他是ALCATRAZ鳄鱼背后的人，并在美国最高法院强烈辩护，以捍卫我的行政权力，解雇深州官僚。在詹姆斯无畏的领导下，已有1000多名恋童癖犯罪分子被捕，",
+      "link": "https://trumpstruth.org/statuses/40508",
+      "published": "Mon, 03 Aug 2026 22:50:20 +0000"
     }
   ]
 }
