@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-04 23:55",
+  "updated_at": "2026-08-05 23:51",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.4,
-      "feels_like": 30.8,
-      "code": 3,
-      "max": 30.8,
-      "min": 24.6,
+      "temperature": 25.1,
+      "feels_like": 30.4,
+      "code": 51,
+      "max": 32.2,
+      "min": 24.2,
       "rain_probability": 99
     },
     {
       "name": "桂林",
-      "temperature": 24.4,
-      "feels_like": 29.5,
-      "code": 3,
-      "max": 29.9,
-      "min": 23.7,
-      "rain_probability": 100
+      "temperature": 25.2,
+      "feels_like": 30.5,
+      "code": 51,
+      "max": 33.5,
+      "min": 24.5,
+      "rain_probability": 86
     },
     {
       "name": "广州",
-      "temperature": 26.5,
-      "feels_like": 32.8,
-      "code": 3,
-      "max": 32.4,
-      "min": 25.2,
-      "rain_probability": 66
+      "temperature": 28.0,
+      "feels_like": 33.7,
+      "code": 1,
+      "max": 33.3,
+      "min": 26.1,
+      "rain_probability": 55
     },
     {
       "name": "深圳",
-      "temperature": 25.7,
-      "feels_like": 32.1,
-      "code": 1,
-      "max": 32.2,
-      "min": 25.0,
-      "rain_probability": 63
+      "temperature": 27.0,
+      "feels_like": 33.0,
+      "code": 3,
+      "max": 32.9,
+      "min": 24.7,
+      "rain_probability": 27
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 75.77,
-      "current_price": 75.22,
-      "previous_close": 80.34,
-      "change": -4.570000000000007,
-      "change_pct": -5.688324620363464,
-      "market_time": "08-04 23:45"
+      "price": 75.22,
+      "current_price": 75.03,
+      "previous_close": 75.77,
+      "change": -0.5499999999999972,
+      "change_pct": -0.7258809555232905,
+      "market_time": "08-05 23:41"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 79.36,
-      "current_price": 78.78,
-      "previous_close": 83.77,
-      "change": -4.409999999999997,
-      "change_pct": -5.264414468186698,
-      "market_time": "08-04 23:35"
+      "price": 79.45,
+      "current_price": 79.36,
+      "previous_close": 79.36,
+      "change": 0.09000000000000341,
+      "change_pct": 0.11340725806452043,
+      "market_time": "08-05 23:38"
     }
   ],
   "news": [
     {
-      "title": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672074.shtml",
-      "published": "Wed, 5 Aug 2026 07:24:44 +0800"
+      "title": "德国机场发现携爆炸物无人机 内政部长：安全威胁升至“新的危险级别”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672686.shtml",
+      "published": "Thu, 6 Aug 2026 07:47:00 +0800"
     },
     {
-      "title": "内塔尼亚胡：哈马斯完全解除武装前不会从加沙撤军",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672071.shtml",
-      "published": "Wed, 5 Aug 2026 07:15:31 +0800"
+      "title": "突发！日本熊本县发生5.1级地震 ",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672680.shtml",
+      "published": "Thu, 6 Aug 2026 07:20:30 +0800"
     },
     {
-      "title": "美国撤销巴西驻美大使签证",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672068.shtml",
-      "published": "Wed, 5 Aug 2026 06:47:03 +0800"
+      "title": "卢拉谴责美国撤销巴西驻美大使签证：“既不负责任、又欠缺考虑”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672677.shtml",
+      "published": "Thu, 6 Aug 2026 06:59:43 +0800"
     },
     {
-      "title": "旅美大熊猫“宝力”迎来五周岁生日",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672067.shtml",
-      "published": "Wed, 5 Aug 2026 06:41:23 +0800"
+      "title": "英国服务业重回扩张 企业景气预期回升",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672676.shtml",
+      "published": "Thu, 6 Aug 2026 06:42:50 +0800"
     },
     {
-      "title": "乌克兰首都连续传出爆炸声 基辅市长称“多枚导弹向基辅飞来”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672066.shtml",
-      "published": "Wed, 5 Aug 2026 06:35:47 +0800"
+      "title": "伦敦市中心发生持刀伤人事件 四人遭刺伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672675.shtml",
+      "published": "Thu, 6 Aug 2026 06:41:08 +0800"
     },
     {
-      "title": "多重因素叠加 休达成欧洲移民危机“风暴眼”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-05/10672064.shtml",
-      "published": "Wed, 5 Aug 2026 06:06:33 +0800"
+      "title": "美国北卡罗来纳州发生大规模枪击事件 已致多人伤亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-06/10672673.shtml",
+      "published": "Thu, 6 Aug 2026 06:33:35 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "For far too long, Radical Climate Activists attempted to hold our Great Country hostage by drastically and unreasonably expanding the intended scope of the Endangered Species Act. This was complete and total regulatory overreach by unelected bureaucrats! They treated Americans very unfairly by stifling the production of important resources like Oil, Natural Gas, and Timber, and blocking the construction of family homes and critical Infrastructure. Even our Military couldn’t train on land that was deemed “off limits” to protect a little rodent! Now my Administration has returned the Endangered Species Act to how it was intended to be, just as the Great Justice Antonin Scalia has explained in previous cases. While responsibly protecting our beautiful Country, the United States of America is going to BUILD again. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "长期以来，激进的气候活动人士试图通过大幅度、不合理地扩大《濒危物种法》的预期范围来劫持我们伟大的国家。这是非民选官僚完全和完全的监管过度！他们非常不公平地对待美国人，扼杀了石油、天然气和木材等重要资源的生产，并阻止了家庭住宅和关键基础设施的建设",
-      "link": "https://trumpstruth.org/statuses/40554",
-      "published": "Tue, 04 Aug 2026 22:52:51 +0000"
+      "original": "[No Title] - Post from August 5, 2026",
+      "translated": "[No Title] - 2026年8月5日的帖子",
+      "link": "https://trumpstruth.org/statuses/40595",
+      "published": "Wed, 05 Aug 2026 23:46:33 +0000"
     },
     {
-      "original": "Congratulations to Brandon Beach, Treasurer of the United States, on having a portion of Highway 9 in Alpharetta, Georgia, named in his honor! He helped us secure a HISTORIC Victory in the Great State of Georgia. As Treasurer, he is working closely with our Secretary of the Treasury, Scott Bessent, to promote Dollar Dominance, and strengthen America’s Financial Future. Brandon is doing an incredible job for our Country. Congratulations Brandon!",
-      "translated": "祝贺美国财政部长布兰登·比奇（ Brandon Beach ）在佐治亚州阿尔法雷塔（ Alpharetta ）拥有9号高速公路的一部分，并以他的名字命名！他帮助我们在伟大的格鲁吉亚州取得了历史性的胜利。作为财务主管，他正在与我们的财政部长Scott Bessent密切合作，以促进美元主导地位，并加强美国的金融未来。布兰登为我们的国家做了令人难以置信的工作。恭喜布兰登！",
-      "link": "https://trumpstruth.org/statuses/40555",
-      "published": "Tue, 04 Aug 2026 22:52:02 +0000"
+      "original": "I was 28-1 last night on Endorsements, and numerous of them were outliers, but if you studied the Fake News, you would think it was just the opposite, 1-28. All they talked about was the one, and that’s why they call it the FAKE NEWS! President DJT",
+      "translated": "我昨晚28-1代言，其中许多是异常值，但如果你研究假新闻，你会认为恰恰相反， 1-28。他们谈论的只是一个，这就是为什么他们称之为假新闻！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/40594",
+      "published": "Wed, 05 Aug 2026 20:16:40 +0000"
     },
     {
-      "original": "The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to defend Democracy from Communism, and it is our Honor to welcome him into the Party of COMMON SENSE! There are many others, like Alan, who feel abandoned by the Radical Left Dumocrats, and are fleeing the Dumocrat Party, and Blue States, for FREEDOM — This Book is for you. Preorder your copy today: https:// amazon.com/Why-Quit-Dems-confe ssions-Republican/dp/1510789367",
-      "translated": "备受尊敬的艾伦·德肖维茨（ Alan Dershowitz ）写了一本强大的新书， “为什么我退出民主党，你也应该这样做！ （一位不情愿的共和党人的供词* ）。“艾伦是一位伟大的美国爱国者，他理解捍卫民主免受共产主义的智慧和勇气，我们很荣幸欢迎他加入常识党！还有很多其他人，比如艾伦，他们感到被激进的左翼民主党人抛弃，正在逃离民主党人",
-      "link": "https://trumpstruth.org/statuses/40551",
-      "published": "Tue, 04 Aug 2026 22:34:59 +0000"
+      "original": "Great news for the Republican Party. El-Sayed, a Communist loser who hates Jews and Israel, is the projected winner in his race with the Socialist. As usual, the Polls were way off on this one. She was not expected to do nearly as well as she did. Now, the Dumocrats crazy policies will only get worse!",
+      "translated": "对共和党来说是个好消息。El-Sayed是一个共产主义失败者，他憎恨犹太人和以色列，预计他将赢得与社会主义者的竞选。像往常一样，这次的投票很不顺利。预计她不会像她那样做得那么好。现在， Dumocrats的疯狂政策只会变得更糟！",
+      "link": "https://trumpstruth.org/statuses/40593",
+      "published": "Wed, 05 Aug 2026 14:10:28 +0000"
     },
     {
-      "original": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today: https://www. amazon.com/Blue-Collar-Conserv ative-Reagan-Trump/dp/1960452258",
-      "translated": "我很荣幸为布赖恩·潘纳贝克（ Brian Pannebecker ）令人难以置信的新书《蓝领保守派：从里根到特朗普》（ Blue Collar Conservative: From Reagan to Trump. “作为特朗普汽车工人的负责人，布莱恩从一开始就与我们在一起，他和其他人一样，了解使美国再次伟大所需的智慧、勇气和关税。正是像Brian这样的伟大爱国者帮助我们在三次总统竞选中取得了历史性胜利，并且正在努力",
-      "link": "https://trumpstruth.org/statuses/40552",
-      "published": "Tue, 04 Aug 2026 22:34:28 +0000"
+      "original": "Wayne County (Detroit) in Michigan is one of the most corrupt voting areas in the United States, if not the World. It is strictly Third World! Miracles happen in Wayne County, including more votes being cast than there are voters, by a lot. Therefore, the Communist, who is not liked in Detroit, is potentially in “Vote Counter” trouble. The Radical Left Socialist has a real shot, and don’t discount all of those fake mail-in ballots that will “surprisingly” show up at the last moment. Get ready for another Rigged Election. In November we must VOTE FOR MIKE ROGERS, and make Michigan TOO BIG TO RIG. God Bless America! President DJT",
+      "translated": "密歇根州的韦恩县（底特律）是美国最腐败的投票区之一，如果不是世界上的话。这里绝对是第三世界！在韦恩县，奇迹发生了，包括投出的选票比选民多得多。因此，在底特律不受欢迎的共产党人可能会陷入“投票柜台”的麻烦。激进的左翼社会主义者有一个真正的机会，不要打折所有那些虚假的邮寄选票，这些选票将“",
+      "link": "https://trumpstruth.org/statuses/40592",
+      "published": "Wed, 05 Aug 2026 13:28:05 +0000"
     },
     {
-      "original": "For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Boost the Sports, Fitness, Tourism, Retail, and Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Democrats, and Independents can unite behind. I am asking Republican Senators to release their holds, and allow the hotline to clear on the Republican side. LET’S PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "多年来，绝大多数美国人都要求将夏令时永久化，但直到现在，还没有一个政府能够做到这一点。我很自豪地宣布，众议院已通过该法案，该法案现已提交参议院最终批准。人们厌倦了每年更换两次时钟。这是愚蠢的，不方便的，在某些情况下，非常昂贵。对于城市和州w",
-      "link": "https://trumpstruth.org/statuses/40553",
-      "published": "Tue, 04 Aug 2026 22:30:40 +0000"
+      "original": "[No Title] - Post from August 5, 2026",
+      "translated": "[No Title] - 2026年8月5日的帖子",
+      "link": "https://trumpstruth.org/statuses/40591",
+      "published": "Wed, 05 Aug 2026 05:15:13 +0000"
     }
   ]
 }
