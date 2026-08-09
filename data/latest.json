@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-08 23:19",
+  "updated_at": "2026-08-09 23:21",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.2,
-      "feels_like": 32.3,
+      "temperature": 26.8,
+      "feels_like": 32.5,
       "code": 0,
-      "max": 34.8,
-      "min": 26.8,
-      "rain_probability": 29
+      "max": 34.6,
+      "min": 26.5,
+      "rain_probability": 6
     },
     {
       "name": "桂林",
-      "temperature": 26.8,
-      "feels_like": 31.0,
-      "code": 0,
-      "max": 35.3,
-      "min": 25.9,
-      "rain_probability": 17
+      "temperature": 26.6,
+      "feels_like": 29.6,
+      "code": 1,
+      "max": 35.2,
+      "min": 25.7,
+      "rain_probability": 22
     },
     {
       "name": "广州",
-      "temperature": 28.2,
-      "feels_like": 33.7,
-      "code": 0,
-      "max": 35.1,
-      "min": 27.0,
-      "rain_probability": 8
+      "temperature": 27.9,
+      "feels_like": 32.1,
+      "code": 2,
+      "max": 34.5,
+      "min": 27.3,
+      "rain_probability": 2
     },
     {
       "name": "深圳",
-      "temperature": 28.0,
-      "feels_like": 33.7,
+      "temperature": 27.9,
+      "feels_like": 32.4,
       "code": 0,
-      "max": 34.6,
-      "min": 26.9,
-      "rain_probability": 14
+      "max": 34.4,
+      "min": 27.1,
+      "rain_probability": 10
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 77.29,
-      "current_price": 78.18,
-      "previous_close": 77.29,
+      "price": 78.18,
+      "current_price": 78.65,
+      "previous_close": 78.18,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-07 20:59"
+      "market_time": "08-09 23:11"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 82.49,
-      "current_price": 83.55,
-      "previous_close": 82.49,
+      "price": 83.55,
+      "current_price": 84.18,
+      "previous_close": 83.55,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-07 20:59"
+      "market_time": "08-09 23:07"
     }
   ],
   "news": [
     {
-      "title": "美副总统称美伊冲突仍处于“博弈中段”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674472.shtml",
-      "published": "Sun, 9 Aug 2026 07:13:50 +0800"
+      "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674878.shtml",
+      "published": "Mon, 10 Aug 2026 07:09:26 +0800"
     },
     {
-      "title": "克罗地亚两列火车相撞致20人受伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674469.shtml",
-      "published": "Sun, 9 Aug 2026 07:06:49 +0800"
+      "title": "以媒：以总理曾同意从加沙部分地区撤军 但又改变决定",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674877.shtml",
+      "published": "Mon, 10 Aug 2026 06:54:23 +0800"
     },
     {
-      "title": "日本岩手县近海地区发生5.6级地震",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674465.shtml",
-      "published": "Sun, 9 Aug 2026 06:27:37 +0800"
+      "title": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml",
+      "published": "Mon, 10 Aug 2026 06:37:48 +0800"
     },
     {
-      "title": "泰国校园枪击案死亡人数升至9人",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674460.shtml",
-      "published": "Sun, 9 Aug 2026 06:10:28 +0800"
+      "title": "印尼一赛车比赛发生事故致7亡9重伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml",
+      "published": "Mon, 10 Aug 2026 06:25:51 +0800"
     },
     {
-      "title": "老挝国会主席赛宋蓬病逝",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674459.shtml",
-      "published": "Sun, 9 Aug 2026 06:08:28 +0800"
+      "title": "特朗普称正在“低调处理”伊朗问题",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml",
+      "published": "Mon, 10 Aug 2026 06:22:39 +0800"
     },
     {
-      "title": "美参议院通过临时拨款法案 暂缓政府“停摆”风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674458.shtml",
-      "published": "Sun, 9 Aug 2026 06:07:16 +0800"
+      "title": "泰国2026年上半年出口额同比增长17.6%",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674866.shtml",
+      "published": "Sun, 9 Aug 2026 23:21:10 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/mrddmia/statuses/117060035123254425 Very true! President DJT",
-      "translated": "RT ： https://truthsocial.com/users/mrddmia/statuses/117060035123254425非常真实！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/40666",
-      "published": "Sat, 08 Aug 2026 19:58:34 +0000"
+      "original": "Exclusive — Inside Greece’s Migrant Control Operation Center: Migration Minister Reveals How Trump Win Sparked Worldwide Border Crackdown: https://www. breitbart.com/europe/2026/08/0 9/exclusive-inside-greeces-migrant-control-operation-center-migration-minister-reveals-how-trump-win-sparked-worldwide-border-crackdown/",
+      "translated": "独家—希腊移民控制运营中心内部：移民部长揭示特朗普获胜如何引发全球边境镇压： https://breitbart.com/europe/2026/08/0 9/exclusive-inside-greeces-migrant-control-operation-center-migration-minister-reveals-how-trump-win-sparked-worldwide-border-crackdown/",
+      "link": "https://trumpstruth.org/statuses/40699",
+      "published": "Sun, 09 Aug 2026 23:17:47 +0000"
     },
     {
-      "original": "Great Poll Numbers. Thank You!!! President DJT",
-      "translated": "很棒的投票号码。谢谢！ ！ ！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/40662",
-      "published": "Sat, 08 Aug 2026 19:52:51 +0000"
+      "original": "[No Title] - Post from August 9, 2026",
+      "translated": "[No Title] - 2026年8月9日的帖子",
+      "link": "https://trumpstruth.org/statuses/40697",
+      "published": "Sun, 09 Aug 2026 22:46:48 +0000"
     },
     {
-      "original": "Cash is king: Washington Republicans bankroll midterms as National Democrat coffers are in the red: https:// justthenews.com/politics-polic y/elections/cash-king-republicans-bankroll-midterms-democrat-coffers-are-red",
-      "translated": "现金为王：华盛顿共和党人资助中期选举，因为国家民主党的金库是红色的： https://justthenews.com/politics-polic y/elections/cash-king-republicans-bankroll-midterms-democrat-coffers-are-red",
-      "link": "https://trumpstruth.org/statuses/40663",
-      "published": "Sat, 08 Aug 2026 19:51:34 +0000"
+      "original": "[No Title] - Post from August 9, 2026",
+      "translated": "[No Title] - 2026年8月9日的帖子",
+      "link": "https://trumpstruth.org/statuses/40698",
+      "published": "Sun, 09 Aug 2026 22:45:36 +0000"
     },
     {
-      "original": "More than 600,000 voter files ripped off Arizona site in 2020 by hacker, but DOJ didn't prosecute: https:// justthenews.com/government/cou rts-law/6amhundreds-thousands-voter-files-were-hacked-arizona-2020-doj-declined",
-      "translated": "2020年，超过60万份选民文件被黑客窃取，但美国司法部没有起诉： https://justthenews.com/government/cou rts-law/6amhundreds-thousands-voter-files-were-hacked-arizona-2020-doj-declined",
-      "link": "https://trumpstruth.org/statuses/40664",
-      "published": "Sat, 08 Aug 2026 19:51:08 +0000"
+      "original": "[No Title] - Post from August 9, 2026",
+      "translated": "[No Title] - 2026年8月9日的帖子",
+      "link": "https://trumpstruth.org/statuses/40696",
+      "published": "Sun, 09 Aug 2026 22:43:25 +0000"
     },
     {
-      "original": "New evidence further undermines claim that 2020 election was ‘most secure’ in history: https:// justthenews.com/politics-polic y/elections/new-evidence-further-undermines-claim-2020-election-was-most-secure",
-      "translated": "新证据进一步削弱了2020年选举是历史上“最安全”的说法： https://justthenews.com/politics-polic y/elections/new-evidence-f further-undermines-claim-2020-election-was-most-secure",
-      "link": "https://trumpstruth.org/statuses/40665",
-      "published": "Sat, 08 Aug 2026 19:50:45 +0000"
+      "original": "ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "警告：国家公园管理局的一名职业员工是一名高度可信的证人，他看到David Hearn （ ActBlue ）在光天化日之下通过“暴力”撕裂和拉扯泳池有点精致的涂层来破坏反射泳池。国家公园管理局的员工于7月初向美国检察官办公室提供了这份证人证词，如下所示。发生了许多其他事件，包括在刚刚安装的GRAS上使用酸性类似物质",
+      "link": "https://trumpstruth.org/statuses/40695",
+      "published": "Sun, 09 Aug 2026 22:10:43 +0000"
     }
   ]
 }
