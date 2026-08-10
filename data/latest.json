@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-09 23:21",
+  "updated_at": "2026-08-10 23:26",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.8,
-      "feels_like": 32.5,
+      "temperature": 26.7,
+      "feels_like": 32.3,
       "code": 0,
-      "max": 34.6,
-      "min": 26.5,
-      "rain_probability": 6
+      "max": 35.4,
+      "min": 25.8,
+      "rain_probability": 0
     },
     {
       "name": "桂林",
-      "temperature": 26.6,
-      "feels_like": 29.6,
+      "temperature": 25.3,
+      "feels_like": 29.4,
       "code": 1,
-      "max": 35.2,
-      "min": 25.7,
-      "rain_probability": 22
-    },
-    {
-      "name": "广州",
-      "temperature": 27.9,
-      "feels_like": 32.1,
-      "code": 2,
-      "max": 34.5,
-      "min": 27.3,
+      "max": 36.0,
+      "min": 24.1,
       "rain_probability": 2
     },
     {
-      "name": "深圳",
-      "temperature": 27.9,
-      "feels_like": 32.4,
+      "name": "广州",
+      "temperature": 27.6,
+      "feels_like": 32.2,
       "code": 0,
-      "max": 34.4,
+      "max": 35.1,
+      "min": 26.8,
+      "rain_probability": 0
+    },
+    {
+      "name": "深圳",
+      "temperature": 28.0,
+      "feels_like": 33.1,
+      "code": 0,
+      "max": 34.7,
       "min": 27.1,
-      "rain_probability": 10
+      "rain_probability": 4
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 78.18,
-      "current_price": 78.65,
-      "previous_close": 78.18,
+      "price": 82.13,
+      "current_price": 81.98,
+      "previous_close": 82.13,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-09 23:11"
+      "market_time": "08-10 23:16"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 83.55,
-      "current_price": 84.18,
-      "previous_close": 83.55,
+      "price": 87.72,
+      "current_price": 87.53,
+      "previous_close": 87.72,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-09 23:07"
+      "market_time": "08-10 23:16"
     }
   ],
   "news": [
     {
-      "title": "伊朗任命雷扎伊为最高国家安全委员会秘书",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674878.shtml",
-      "published": "Mon, 10 Aug 2026 07:09:26 +0800"
+      "title": "特朗普称美军对霍尔木兹海峡拥有“100%”控制权",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675465.shtml",
+      "published": "Tue, 11 Aug 2026 07:06:40 +0800"
     },
     {
-      "title": "以媒：以总理曾同意从加沙部分地区撤军 但又改变决定",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674877.shtml",
-      "published": "Mon, 10 Aug 2026 06:54:23 +0800"
+      "title": "特朗普称要向伊朗索赔 外媒：美伊谈判陷入僵局",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675463.shtml",
+      "published": "Tue, 11 Aug 2026 06:50:41 +0800"
     },
     {
-      "title": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml",
-      "published": "Mon, 10 Aug 2026 06:37:48 +0800"
+      "title": "美国战略石油储备降至1983年以来最低水平",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675462.shtml",
+      "published": "Tue, 11 Aug 2026 06:39:22 +0800"
     },
     {
-      "title": "印尼一赛车比赛发生事故致7亡9重伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674871.shtml",
-      "published": "Mon, 10 Aug 2026 06:25:51 +0800"
+      "title": "哥伦比亚7.5级强震已致111人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675461.shtml",
+      "published": "Tue, 11 Aug 2026 06:37:14 +0800"
     },
     {
-      "title": "特朗普称正在“低调处理”伊朗问题",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml",
-      "published": "Mon, 10 Aug 2026 06:22:39 +0800"
+      "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675460.shtml",
+      "published": "Tue, 11 Aug 2026 06:36:08 +0800"
     },
     {
-      "title": "泰国2026年上半年出口额同比增长17.6%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-09/10674866.shtml",
-      "published": "Sun, 9 Aug 2026 23:21:10 +0800"
+      "title": "委内瑞拉地震已致6301人遇难",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10675459.shtml",
+      "published": "Tue, 11 Aug 2026 06:33:00 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Exclusive — Inside Greece’s Migrant Control Operation Center: Migration Minister Reveals How Trump Win Sparked Worldwide Border Crackdown: https://www. breitbart.com/europe/2026/08/0 9/exclusive-inside-greeces-migrant-control-operation-center-migration-minister-reveals-how-trump-win-sparked-worldwide-border-crackdown/",
-      "translated": "独家—希腊移民控制运营中心内部：移民部长揭示特朗普获胜如何引发全球边境镇压： https://breitbart.com/europe/2026/08/0 9/exclusive-inside-greeces-migrant-control-operation-center-migration-minister-reveals-how-trump-win-sparked-worldwide-border-crackdown/",
-      "link": "https://trumpstruth.org/statuses/40699",
-      "published": "Sun, 09 Aug 2026 23:17:47 +0000"
+      "original": "It was my Honor to welcome now Senator Darline Graham Nordone (The sister of the Late, Great Lindsey Graham!), from the Wonderful State of South Carolina, into the Oval Office. We have known each other for a long time — She is a spectacular person, and a true American Patriot. Lindsey was one of the greatest people and Senators I have ever known, and his sister shares his deep love of our Country, and the State of South Carolina. During her visit, I asked Darline, for the Good of our Nation, to run for the U.S. Senate in the Special Republican Primary on Tuesday, August 11, 2026. She accepted, as there is nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life, and has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina. GET OUT AND VOTE FOR DARLINE — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/south-caro lina/",
+      "translated": "现在，我很荣幸地欢迎来自南卡罗来纳州的参议员Darline Graham Nordone （已故的Great Lindsey Graham的妹妹！ ）进入椭圆形办公室。我们认识很长时间了--她是一个了不起的人，也是一个真正的美国爱国者。Lindsey是我所认识的最伟大的人物和参议员之一，他的妹妹分享了他对我们国家和南卡罗来纳州的深切热爱。在她访问期间",
+      "link": "https://trumpstruth.org/statuses/40713",
+      "published": "Mon, 10 Aug 2026 23:10:54 +0000"
     },
     {
-      "original": "[No Title] - Post from August 9, 2026",
-      "translated": "[No Title] - 2026年8月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/40697",
-      "published": "Sun, 09 Aug 2026 22:46:48 +0000"
+      "original": "Congressman Barry Moore, an America First Patriot who has been with me from the very beginning (He was the first Elected Official in the Country to Endorse me!), is running for the United States Senate in Alabama, a place I love and WON BIG in 2016, 2020, and 2024, getting the Highest Vote in that Great State’s History. A very successful Businessman, Civic Leader, and Highly Respected State Legislator prior to becoming a distinguished Congressman, Barry has dedicated his life to serving his Community. As your next Senator, Barry will continue to fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Barry Moore is a good friend, fighter, and WINNER, and has my Complete and Total Endorsement to be the next United States Senator from Alabama – HE WILL NEVER LET YOU DOWN!",
+      "translated": "众议员巴里·摩尔（ Barry Moore ）是美国第一爱国者，他从一开始就和我在一起（他是全国第一位支持我的民选官员！ ） ，他正在竞选阿拉巴马州的美国参议院，这是我喜欢的地方，并在2016年、2020年和2024年赢得了大奖，获得了该州历史上最高的选票。在成为杰出的国会议员之前，他是一位非常成功的商人、公民领袖和备受尊敬的州议员",
+      "link": "https://trumpstruth.org/statuses/40714",
+      "published": "Mon, 10 Aug 2026 23:09:01 +0000"
     },
     {
-      "original": "[No Title] - Post from August 9, 2026",
-      "translated": "[No Title] - 2026年8月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/40698",
-      "published": "Sun, 09 Aug 2026 22:45:36 +0000"
+      "original": "Highly Respected Senator, “Coach” Tommy Tuberville, is running for Governor of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! A former SEC Championship winning College Football Coach, and now, as a Highly Respected U.S. Senator, Tommy has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State and Nation. He is a Lifelong Leader, both on and off the field — A true WINNER! As your next Governor, “Coach” will work tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Military/Veterans, Safeguard our Elections, and Protect our always under siege Second Amendment. I was proud to endorse “Coach” when he ran for the Senate in 2020, and am honored to do so again. Tommy Tuberville has my Complete and Total Endorsement to be the next Governor of the Great State of Alabama — HE WILL NEVER LET YOU DOWN!",
+      "translated": "备受尊敬的参议员“教练”汤米·图伯维尔（ Tommy Tuberville ）正在竞选阿拉巴马州州长，我喜欢这个地方，并在2016年、2020年和2024年赢得了包括初选在内的六次大奖！前美国证券交易委员会锦标赛冠军大学橄榄球教练，现在，作为一位备受尊敬的美国参议员，汤米已经证明他有勇气和智慧，为他美好的国家和国家的令人难以置信的人民提供强大的成果。他是终身领导者，无论是开启还是关闭",
+      "link": "https://trumpstruth.org/statuses/40715",
+      "published": "Mon, 10 Aug 2026 23:08:55 +0000"
     },
     {
-      "original": "[No Title] - Post from August 9, 2026",
-      "translated": "[No Title] - 2026年8月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/40696",
-      "published": "Sun, 09 Aug 2026 22:43:25 +0000"
+      "original": "It is my Great Honor to endorse America First Patriot, Jerry Carl, who is running to represent the wonderful people of Alabama’s 1st Congressional District! A Highly Respected Legislator, and Successful Businessman, Jerry has been an incredible Voice for MAGA, and has been with me from the very beginning! In Congress, he will fight tirelessly to Grow our Economy, Support our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Champion our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Jerry Carl has my Complete and Total Endorsement to, once again, be the Representative of Alabama’s 1st Congressional District. Election Day is Tuesday, August 11th. GET OUT AND VOTE FOR JERRY — HE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alabama/",
+      "translated": "我非常荣幸地支持美国第一爱国者杰里·卡尔（ Jerry Carl ） ，他正在代表阿拉巴马州第一国会选区的优秀人民竞选！杰里是一位备受尊敬的立法者和成功的商人，从一开始就与我一起为MAGA发声！在国会，他将不知疲倦地努力发展我们的经济，支持我们了不起的农民和牧场主，削减税收和法规，解放美国",
+      "link": "https://trumpstruth.org/statuses/40716",
+      "published": "Mon, 10 Aug 2026 23:07:25 +0000"
     },
     {
-      "original": "ALERT: A National Park Service career employee, a highly credible witness, saw David Hearn (ActBlue) in broad daylight vandalize the Reflecting Pool by “violently” ripping and tugging at the Pool’s somewhat delicate coating. The National Park Service employee provided this witness testimony to the U.S. Attorney’s Office in early July, as seen below. Numerous other events took place, including using an acid like material on the just installed grass adjoining the Pool. On it were written the letters, “86 47,” a phrase probably gotten from James Comey. There was substantial other damage to the Reflecting Pool, also but, unfortunately, there is no video or proof, other than the damage, itself. We are working on the Pool, and it will reopen shortly. As with many jobs, there was also some contractor error done by rushing the job for a July 4th opening, but it was a very small area of this massive Pool, and was relatively inconsequential. Security cameras have been, and are being, installed. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "警告：国家公园管理局的一名职业员工是一名高度可信的证人，他看到David Hearn （ ActBlue ）在光天化日之下通过“暴力”撕裂和拉扯泳池有点精致的涂层来破坏反射泳池。国家公园管理局的员工于7月初向美国检察官办公室提供了这份证人证词，如下所示。发生了许多其他事件，包括在刚刚安装的GRAS上使用酸性类似物质",
-      "link": "https://trumpstruth.org/statuses/40695",
-      "published": "Sun, 09 Aug 2026 22:10:43 +0000"
+      "original": "It is my Great Honor to endorse America First Patriot, Rhett Marques, who is running to represent the wonderful people of Alabama’s 2nd Congressional District. Rhett is strongly supported by many of the Greatest MAGA Warriors in Alabama, including my friend, U.S. Senator Katie Britt, among others! A Highly Respected State Representative, Businessman, and Civic Leader, prior to running for Congress, Rhett has dedicated his life to serving his Community. As your next Congressman, he will fight tirelessly to Grow our Economy, Champion our Farmers and American Agriculture, Cut Taxes and Regulations, Unleash American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. Rhett Marques has my Complete and Total Endorsement to be the next Representative from Alabama’s 2nd Congressional District. Election Day is Tuesday, August 11th. GET OUT AND VOTE FOR RHETT — HE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alabama/",
+      "translated": "我非常荣幸地支持美国第一爱国者瑞德·马克斯（ Rhett Marques ） ，他正在代表阿拉巴马州第二国会选区的优秀人民竞选。Rhett得到了阿拉巴马州许多最伟大的MAGA勇士的大力支持，包括我的朋友，美国参议员Katie Britt等！瑞德是一位备受尊敬的州代表、商人和公民领袖，在竞选国会议员之前，他一生致力于为他的",
+      "link": "https://trumpstruth.org/statuses/40717",
+      "published": "Mon, 10 Aug 2026 23:07:04 +0000"
     }
   ]
 }
