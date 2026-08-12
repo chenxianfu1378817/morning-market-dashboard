@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-11 23:30",
+  "updated_at": "2026-08-12 23:31",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 28.2,
-      "feels_like": 34.1,
-      "code": 0,
-      "max": 36.3,
-      "min": 27.2,
-      "rain_probability": 57
+      "temperature": 25.3,
+      "feels_like": 31.3,
+      "code": 51,
+      "max": 32.2,
+      "min": 24.7,
+      "rain_probability": 69
     },
     {
       "name": "桂林",
-      "temperature": 27.9,
-      "feels_like": 32.5,
-      "code": 3,
-      "max": 36.8,
-      "min": 26.5,
-      "rain_probability": 65
+      "temperature": 26.9,
+      "feels_like": 31.0,
+      "code": 1,
+      "max": 33.2,
+      "min": 26.0,
+      "rain_probability": 80
     },
     {
       "name": "广州",
-      "temperature": 29.2,
-      "feels_like": 34.8,
+      "temperature": 29.1,
+      "feels_like": 36.0,
       "code": 2,
-      "max": 37.0,
-      "min": 27.8,
-      "rain_probability": 14
+      "max": 35.7,
+      "min": 26.8,
+      "rain_probability": 95
     },
     {
       "name": "深圳",
-      "temperature": 29.9,
-      "feels_like": 36.1,
-      "code": 3,
-      "max": 35.3,
-      "min": 28.6,
-      "rain_probability": 41
+      "temperature": 29.1,
+      "feels_like": 35.2,
+      "code": 1,
+      "max": 33.9,
+      "min": 28.1,
+      "rain_probability": 84
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 83.2,
-      "current_price": 83.48,
-      "previous_close": 82.13,
-      "change": 1.0700000000000074,
-      "change_pct": 1.3028126141483105,
-      "market_time": "08-11 23:20"
+      "price": 83.27,
+      "current_price": 82.73,
+      "previous_close": 83.2,
+      "change": 0.06999999999999318,
+      "change_pct": 0.08413461538460718,
+      "market_time": "08-12 23:21"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 88.91,
-      "current_price": 89.3,
-      "previous_close": 87.72,
-      "change": 1.1899999999999977,
-      "change_pct": 1.356589147286819,
-      "market_time": "08-11 22:59"
+      "price": 88.98,
+      "current_price": 88.56,
+      "previous_close": 88.91,
+      "change": 0.07000000000000739,
+      "change_pct": 0.07873130131594577,
+      "market_time": "08-12 23:19"
     }
   ],
   "news": [
     {
-      "title": "外媒称哥伦比亚强震已致超200人死亡 古特雷斯发声",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676084.shtml",
-      "published": "Wed, 12 Aug 2026 07:05:27 +0800"
+      "title": "德国政府通过情报机构改革草案",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676703.shtml",
+      "published": "Thu, 13 Aug 2026 07:24:35 +0800"
     },
     {
-      "title": "英国首相伯纳姆出台新政 力图振兴萧条的商业街",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676079.shtml",
-      "published": "Wed, 12 Aug 2026 06:29:23 +0800"
+      "title": "英国财政部：中东局势或致英国明年经济增长近乎停滞",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676700.shtml",
+      "published": "Thu, 13 Aug 2026 07:24:13 +0800"
     },
     {
-      "title": "美军：使用导弹袭击一艘驶往伊朗的货轮 并致其停航",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676078.shtml",
-      "published": "Wed, 12 Aug 2026 06:28:21 +0800"
+      "title": "韩国前总统尹锡悦面临新指控",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676699.shtml",
+      "published": "Thu, 13 Aug 2026 07:23:53 +0800"
     },
     {
-      "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-12/10676077.shtml",
-      "published": "Wed, 12 Aug 2026 06:28:09 +0800"
+      "title": "特朗普称白宫新闻秘书莱维特将离职",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676705.shtml",
+      "published": "Thu, 13 Aug 2026 07:21:11 +0800"
     },
     {
-      "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10676076.shtml",
-      "published": "Tue, 11 Aug 2026 23:54:38 +0800"
+      "title": "美军称已使59艘商船改变航线，特朗普：伊朗无能为力",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676698.shtml",
+      "published": "Thu, 13 Aug 2026 07:12:28 +0800"
     },
     {
-      "title": "俄伊外交部就伊朗核计划问题举行司长级磋商",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-11/10676075.shtml",
-      "published": "Tue, 11 Aug 2026 23:51:41 +0800"
+      "title": "美国佐治亚州一所高中卫生间内发生枪击，一人受伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10676696.shtml",
+      "published": "Thu, 13 Aug 2026 06:56:11 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Today, at my direction, Dr. Mehemet Oz announced that Medicaid will NO LONGER fund gender transition surgeries and hormones for minors. We are not going to pay for our innocent children to undergo these barbaric surgeries and practices, which result in unthinkable and irreversible harm to their young bodies. Thanks to our strong position and pressure on this issue over the past year and a half, dozens of U.S. hospitals have already ended this so-called “gender-affirming care,” and we expect many more to follow. Just think about all of the young, innocent, and perhaps confused children who will be spared! While the Dumocrat Party wants your kids to be able to chop off their reproductive organs before they are old enough to vote, President Donald J. Trump (ME!) and the Republican Party say that is ABSURD, and we will protect America’s children. Please remember this when you are casting your vote in the Midterm Elections in November. Thank you for your attention to this very important matter! President DONALD J. TRUMP",
-      "translated": "今天，在我的指导下， Mehemet Oz博士宣布，医疗补助将不再为未成年人的性别转换手术和激素提供资金。我们不会为我们无辜的孩子接受这些野蛮的手术和做法付出代价，这些手术和做法导致他们年轻的身体受到不可想象和不可逆转的伤害。由于我们在过去一年半中在这个问题上的强势地位和压力，数十家美国医院已经结束了这一局面-",
-      "link": "https://trumpstruth.org/statuses/40734",
-      "published": "Tue, 11 Aug 2026 21:21:15 +0000"
+      "original": "I am pleased to announce the nomination of Lee Rudofsky to the United States Court of Appeals for the Eighth Circuit! Lee is currently a distinguished Federal District Court Judge in Arkansas. He previously was Solicitor General of Arkansas, and Assistant General Counsel of Walmart. He is a Graduate of Harvard Law School and Cornell University. Lee will be a rock solid defender of the Constitution on the Eighth Circuit. Congratulations Lee! President DONALD J. TRUMP",
+      "translated": "我很高兴地宣布Lee Rudofsky被提名为美国第八巡回上诉法院法官！ Lee目前是阿肯色州杰出的联邦地区法院法官。此前，他曾担任阿肯色州副检察长和沃尔玛助理总法律顾问。他毕业于哈佛法学院和康奈尔大学。Lee将成为第八巡回法院宪法的坚定捍卫者。恭喜Lee ！ Presi",
+      "link": "https://trumpstruth.org/statuses/40784",
+      "published": "Wed, 12 Aug 2026 22:58:45 +0000"
     },
     {
-      "original": "A GREAT new book out by Todd Starnes called, “The Golden Age: How Trump Saved America.” Everyone is raving about it! https:// a.co/d/01AHD479",
-      "translated": "托德·斯塔恩斯（ Todd Starnes ）的一本伟大的新书名为《黄金时代：特朗普如何拯救美国》。”每个人都对此赞不绝口！ https://a.co/d/01AHD479",
-      "link": "https://trumpstruth.org/statuses/40733",
-      "published": "Tue, 11 Aug 2026 19:04:47 +0000"
+      "original": "For many years, the vast Majority of Americans have asked to make Daylight Saving Time permanent, but no Administration has been able to get it properly done, until now. I am proud to announce that the House of Representatives has passed the Bill, and it has now gone to the Senate for final approval. People are sick and tired of having to change their clocks twice a year. It is foolish, inconvenient and, in some cases, very costly. For Cities and States with Watchtowers, and hard to reach places, it costs Millions of Dollars. A recent case was made that it is also bad for your health in the anxiety it creates. Leading Medical, Crime, and Economic Studies have shown that ceasing the biannual time change, giving us one extra hour of natural sunlight in the evenings, will help Decrease Robbery and Murder Rates, Reduce Car Accidents (especially those involving Pedestrians!), Lower Risk for Cardiac Issues, Stroke, and Seasonal Depression, Make It Safer for Children to Walk Home from School, Increase Time with your Family, Strongly Support Extracurricular Activities, Be a Big Boost to Sports, Fitness, Tourism, Retail, and the Restaurant Industries (and more!), and Save Money on Energy Bills, because everyone will be enjoying an EXTRA HOUR OF DAYLIGHT. In other words, leave it as it is now, and never change again. This is an issue that Republicans, Dumocrats, and Independents can unite behind. I am asking Republican Senators to PASS THE SUNSHINE PROTECTION ACT, ASAP. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "多年来，绝大多数美国人都要求将夏令时永久化，但直到现在，还没有一届政府能够妥善完成这项工作。我很自豪地宣布，众议院已通过该法案，该法案现已提交参议院最终批准。人们厌倦了每年更换两次时钟。这是愚蠢的，不方便的，在某些情况下，非常昂贵。对于城市和",
+      "link": "https://trumpstruth.org/statuses/40783",
+      "published": "Wed, 12 Aug 2026 22:45:40 +0000"
     },
     {
-      "original": "I am proud to announce that American Citizen Robert Gilman, a former United States Marine, is coming HOME! In a well known Media story, Robert was imprisoned in Russia in 2022, during the Biden Administration. After my discussions with President Vladimir Putin, Russia has agreed to release him, very much on a Humanitarian Basis. We appreciate this decision, and the fact that Russia asked for no one in return — No exchange took place. Robert will land at Andrews Air Force Base, in Washington, D.C., tonight, where my Representatives, some of whom are on the plane with him, will welcome Robert back to THE UNITED STATES OF AMERICA! I just spoke to him, and he had one request — A GREAT cheeseburger when he lands. I will take care of that! During my Administration, we have prioritized bringing home Americans Detained Abroad, and have done so at a level never seen before, returning hundreds of people to their families. We have also freed many non Americans who were under capture in different countries throughout the World. Robert Gilman has been reunited with his wonderful mother, Nancy, who is also on the plane with him, and will soon get to see all of his loved ones. Thank you to my incredible Team, including Special Envoy for Peace Missions, Steve Witkoff, Special Envoy for Hostage Response, Adam Boehler, Senior Director for Counterterrorism, Sebastian Gorka, Jared Kushner, and the many others who made this possible. GOD BLESS AMERICA! President DONALD J. TRUMP",
-      "translated": "我很自豪地宣布，前美国海军陆战队员、美国公民罗伯特·吉尔曼（ Robert Gilman ）即将回国！在一个众所周知的媒体报道中，罗伯特于2022年在拜登政府期间被监禁在俄罗斯。在我与弗拉基米尔·普京总统讨论后，俄罗斯同意释放他，这在很大程度上是基于人道主义。我们感谢这一决定，以及俄罗斯不要求任何人回报的事实—没有发生交换。罗伯特将",
-      "link": "https://trumpstruth.org/statuses/40732",
-      "published": "Tue, 11 Aug 2026 16:10:14 +0000"
+      "original": "MAGA Warrior Mike Mazzei is running for Governor in Oklahoma, where I was the ONLY President to win ALL 77 Counties in three straight Elections (Ronald Reagan was second!). Additionally, I won more votes than any Candidate in the State’s History! I LOVE Oklahoma, and Mike Mazzei has my COMPLETE and TOTAL Endorsement for Governor! Meanwhile, his Runoff Election Opponent, Gentner Drummond, is a FAKE Republican, who donated to SLEEPY Joe Biden, and the totally corrupt and anti-American “Lincoln Project,” which is now in shambles because of their views on Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. In fact, the Lincoln Project’s top man and founder, John Weaver, sent unsolicited sexually provocative messages to 21 young men, and supposedly, a 14-year-old boy. Another one of their people, Steve Schmidt, a total loser who has gone down in flames, for lots of bad reasons, was one of the biggest proponents of the failed and highly disgraced Lincoln Project. This is what Drummond, and his equally Liberal wife, Wendy, supported at levels that are shameful and, frankly, that makes them both Radical Left Dumocrats. Additionally, he wants to dethrone a magnificent, Job producing, desperately needed, and brand new, Aluminum Plant that will be one of the best projects ever conceived or built, not only in the Great State of Oklahoma, but in the United States, itself. It will be one of the most successful Job creating Plants ever built in our Country. The group that’s doing it is extraordinarily wealthy and, if they don’t do it in Oklahoma, they have 20 other sites that would love to have them. Our Country needs Aluminum, and the beautiful Town of Inola, Oklahoma (which was very nice to me in all three Elections!), will be the primary beneficiary in terms of Jobs, Lower Taxes, and the funding of Schools. In addition, it helps our Country with regards to National Security — You can’t get Aluminum in the United States, and this Plant will go elsewhere if it’s not approved. Oklahoma can lead the way! Very simply, Mike Mazzei is for this desperately needed Job Producing Aluminum Plant. Drummond, for his own reasons, is not — He even SUED, unsuccessfully, to block it. It’s going to be the Biggest Aluminum Plant in the Country, and it’s all financed and done! It is a financial windfall for the State of Oklahoma, including what will be a major reduction in your Taxes! Gentner Drummond has also stated publicly he had \"no opinion\" on the BOGUS IMPEACHMENT of a young and very handsome gentleman, named, President Donald J. Trump (ME!). All Republicans feel the opposite on the Dumocrat inspired Impeachment Hoax. Drummond even SUED to BLOCK a religious based charter school strongly supported by my Administration — Very troubling for Educational Freedom, and an outright attack on Christianity! Drummond is not the right guy. He’s got a bad attitude, and he doesn’t stand for the Values of Oklahoma, which must VOTE FOR “MIKE MAZZEI FOR GOVERNOR,” on Tuesday, August 25th — MIKE WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "MAGA勇士迈克·马泽伊（ Mike Mazzei ）正在竞选俄克拉荷马州州长，我是唯一一位连续三次赢得所有77个县的总统（罗纳德·里根（ Ronald Reagan ）排名第二！ ）。此外，我赢得的选票比该州历史上任何候选人都多！我爱俄克拉荷马州， Mike Mazzei得到了我对州长的完全和全面的支持！与此同时，他的决选对手Gentner Drummond是一名虚假的共和党人，他向昏昏欲睡的Joe Biden捐款，",
+      "link": "https://trumpstruth.org/statuses/40782",
+      "published": "Wed, 12 Aug 2026 22:42:21 +0000"
     },
     {
-      "original": "The NYC Pied-a-Terre Tax is costing New York City and State a fortune in that the money, eventually to be gotten, is very little compared to to the TAXES PAID by the tens of thousands of people who are fleeing the City, never to return. Florida, Texas, and numerous other States, are making an absolute fortune! This dangerous political “experiment” in New York will destroy what was once a great City and State. It is pure Amateur Hour, and it’s hard, as President of the United States of America, to sit back and watch it happen, especially to a place I once loved. Financial, and then Social, RUIN, is a 100% certainty - And then the Radical Left Jihadists charge Congestion Pricing on top of everything else. This doesn’t work in America, and must be stopped, NOW! I am looking to see if the Federal Government has any legal right to avert this disaster, before it is too late, for the millions of people who cherish New York and want to see it thrive, as opposed to becoming a filthy, crime ridden, decrepit place of mockery and scorn. MAKE AMERICA GREAT AGAIN! President DJT",
-      "translated": "纽约市的Pied-a-Terre税花费了纽约市和州的一大笔钱，因为与成千上万逃离纽约市的人所缴纳的税款相比，这笔钱最终只会得到很少的回报。佛罗里达州、德克萨斯州和许多其他州都在发大财！纽约的这一危险的政治“实验”将摧毁曾经是一个伟大的城市和州。这是纯粹的业余时间，这是",
-      "link": "https://trumpstruth.org/statuses/40731",
-      "published": "Tue, 11 Aug 2026 15:38:30 +0000"
+      "original": "RT @ realDonaldTrump Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect! Karoline will now be one of my top outside advisors, and an influential voice within the Republican Party, as we work to defy History, and conclusively win the Midterm Elections. Karoline has been a real leader in the White House, and has done a phenomenal job fighting for Justice, Liberty, and Freedom, since 2018, including our Historic Re-Election Campaign of 2024. Karoline has been one of the best White House Press Secretaries in the History of the Office. Thank you, Karoline, for a job well done! President DONALD J. TRUMP",
+      "translated": "RT @ realDonaldTrump我们出色的白宫新闻秘书、我最信任的助手之一Karoline Leavitt将于本月底离职，这样她就可以花更多时间陪伴她美丽的小孩和家人，我完全理解并尊重这一决定！卡罗琳现在将是我的顶级外部顾问之一，也是共和党内有影响力的声音，因为我们致力于蔑视历史，并最终赢得中产阶级",
+      "link": "https://trumpstruth.org/statuses/40768",
+      "published": "Wed, 12 Aug 2026 22:08:48 +0000"
     },
     {
-      "original": "Mike Lindell deserves a BIG WIN IN MINNESOTA today. Nobody has worked harder, and given up so much, in fighting for free and fair Elections. Go out, NOW, and VOTE for Mike Lindell for Governor. He will not let you down. Thank you! President DJT",
-      "translated": "Mike Lindell今天应该在明尼苏达州赢得一场大胜利。没有人为争取自由和公平的选举而更加努力地工作，并放弃了这么多。现在就出去，投票给迈克·林德尔担任州长。他不会让你失望的。谢谢！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/40730",
-      "published": "Tue, 11 Aug 2026 14:10:37 +0000"
+      "original": "Senator Ashley Moody is doing a tremendous job representing the incredible people of Florida, a State I love, and WON BIG, in 2016, 2020, and 2024! A fifth generation Floridian, Ashley served as State Attorney General for six years prior to becoming a very distinguished and well respected U.S. Senator. Ashley is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Murderers, and other Criminals from illegally entering our Country, Strengthen our Great Military/Veterans, and Defend our always under siege Second Amendment. Ashley Moody has my Complete and Total Endorsement! Early Voting is underway NOW, and Election Day is August 18th. GET OUT AND VOTE FOR ASHLEY — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/florida/",
+      "translated": "参议员阿什利·穆迪（ Ashley Moody ）代表佛罗里达州令人难以置信的人民做了出色的工作，佛罗里达州是我热爱的州，并在2016年、2020年和2024年赢得了巨大的胜利！阿什利是第五代佛罗里达人，在成为一位非常杰出和受人尊敬的美国参议员之前，曾担任州检察长六年。Ashley不知疲倦地致力于发展我们的经济，削减税收和法规，促进美国制造，冠军美国能源优势，保持",
+      "link": "https://trumpstruth.org/statuses/40769",
+      "published": "Wed, 12 Aug 2026 22:08:33 +0000"
     }
   ]
 }
