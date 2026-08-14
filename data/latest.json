@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-13 23:32",
+  "updated_at": "2026-08-14 23:13",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.7,
-      "feels_like": 30.4,
-      "code": 1,
-      "max": 32.6,
-      "min": 23.9,
-      "rain_probability": 77
+      "temperature": 24.6,
+      "feels_like": 29.6,
+      "code": 0,
+      "max": 32.1,
+      "min": 24.1,
+      "rain_probability": 55
     },
     {
       "name": "桂林",
-      "temperature": 24.8,
-      "feels_like": 27.6,
-      "code": 0,
-      "max": 33.2,
-      "min": 23.8,
-      "rain_probability": 25
+      "temperature": 24.1,
+      "feels_like": 27.0,
+      "code": 1,
+      "max": 34.3,
+      "min": 23.6,
+      "rain_probability": 28
     },
     {
       "name": "广州",
-      "temperature": 25.4,
-      "feels_like": 31.2,
-      "code": 55,
-      "max": 30.0,
-      "min": 25.2,
-      "rain_probability": 99
+      "temperature": 25.3,
+      "feels_like": 31.4,
+      "code": 2,
+      "max": 32.8,
+      "min": 25.0,
+      "rain_probability": 88
     },
     {
       "name": "深圳",
-      "temperature": 26.2,
-      "feels_like": 32.1,
-      "code": 95,
-      "max": 29.4,
-      "min": 25.3,
+      "temperature": 24.6,
+      "feels_like": 29.6,
+      "code": 53,
+      "max": 30.1,
+      "min": 24.2,
       "rain_probability": 100
     }
   ],
@@ -44,85 +44,85 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 81.25,
-      "current_price": 81.21,
-      "previous_close": 83.27,
-      "change": -2.019999999999996,
-      "change_pct": -2.4258436411672823,
-      "market_time": "08-13 23:21"
+      "current_price": 82.4,
+      "previous_close": 81.25,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "08-14 20:59"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 87.07,
-      "current_price": 86.98,
-      "previous_close": 88.98,
-      "change": -1.9100000000000108,
-      "change_pct": -2.1465497864688814,
-      "market_time": "08-13 23:18"
+      "current_price": 88.59,
+      "previous_close": 87.07,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "08-14 20:59"
     }
   ],
   "news": [
     {
-      "title": "俄外交部驳斥日方抗议：“不可接受，令人愤慨”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677353.shtml",
-      "published": "Fri, 14 Aug 2026 07:29:56 +0800"
+      "title": "日本防卫大臣小泉进次郎参拜靖国神社",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml",
+      "published": "Sat, 15 Aug 2026 06:51:34 +0800"
     },
     {
-      "title": "美防长称有足够军事力量，可无限期维持对伊朗海上封锁",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677345.shtml",
-      "published": "Fri, 14 Aug 2026 07:21:21 +0800"
+      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
+      "published": "Sat, 15 Aug 2026 06:50:38 +0800"
     },
     {
-      "title": "美媒：“乔治·华盛顿”号航母驶往中东  替换“亚伯拉罕·林肯”号",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677344.shtml",
-      "published": "Fri, 14 Aug 2026 07:06:42 +0800"
+      "title": "拉美首个中外共建中文本科专业在巴西阿西斯开学",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
+      "published": "Sat, 15 Aug 2026 06:33:01 +0800"
     },
     {
-      "title": "驳斥特朗普的说法 伊朗称霍尔木兹海峡在伊朗控制和管理之下",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677342.shtml",
-      "published": "Fri, 14 Aug 2026 06:42:55 +0800"
+      "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
+      "published": "Sat, 15 Aug 2026 06:18:36 +0800"
     },
     {
-      "title": "高达100% 美国将对进口无人机及零部件征收关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10677339.shtml",
-      "published": "Fri, 14 Aug 2026 06:28:46 +0800"
+      "title": "澳中友协成立75周年庆祝活动在墨尔本举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10678010.shtml",
+      "published": "Fri, 14 Aug 2026 23:53:48 +0800"
     },
     {
-      "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-13/10677337.shtml",
-      "published": "Thu, 13 Aug 2026 23:56:31 +0800"
+      "title": "泰国成立专门机构强化数据中心管理",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10678009.shtml",
+      "published": "Fri, 14 Aug 2026 23:37:55 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "RT @ realDonaldTrump It is my Great Honor to endorse America First Patriot, Catalina Lauf, who is running to represent the tremendous people of Florida’s 19th Congressional District! As a former Presidential Appointee at the U.S. Department of Commerce in my First Administration, Catalina has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State and Nation — She has truly been with us from the beginning! As your next Congresswoman, Catalina will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. Catalina Lauf has my Complete and Total Endorsement to be the next Congresswoman from Florida’s 19th Congressional District — SHE WILL NEVER LET YOU DOWN!",
-      "translated": "RT @ realDonaldTrump我很荣幸为美国第一爱国者卡塔琳娜·劳夫（ Catalina Lauf ）背书，她代表着佛罗里达州第19国会选区的伟大人民！作为我的第一届政府中美国商务部的前总统任命人员， Catalina证明了她有勇气和智慧为她所在州和国家的令人难以置信的人民带来强大的成果—她从一开始就真正与我们在一起",
-      "link": "https://trumpstruth.org/statuses/40814",
-      "published": "Thu, 13 Aug 2026 23:14:40 +0000"
+      "original": "Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interesting is happening in New York State! He is a great person, a great politician and, if elected, will be the best Governor in the History of New York! President DONALD J. TRUMP",
+      "translated": "为了纪念正在竞选纽约州州长的布鲁斯·布莱克曼（ Bruce Blakeman ） ，刚刚在拿骚县（ Nassau County ）举行了一场集会。人群疯狂起来。纽约州正在发生一些非常有趣的事情！他是一个伟大的人，一个伟大的政治家，如果当选，他将成为纽约历史上最好的州长！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/40829",
+      "published": "Fri, 14 Aug 2026 21:37:25 +0000"
     },
     {
-      "original": "RT @ realDonaldTrump State Representative “MAGA” Meg Weinberger is an America First Patriot who is doing an incredible job representing Florida’s 94th State House District! Meg is MAGA all the way, and has been with us from the very beginning, helping advance our AMERICA FIRST Agenda. In the State House, she is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Champion American Energy DOMINANCE, Promote MADE IN THE U.S.A., Keep our Border SECURE, Stop Migrant Crime, Strengthen our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. “MAGA” Meg Weinberger has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
-      "translated": "RT @ realDonaldTrump州众议员“MAGA” Meg Weinberger是美国第一爱国者，他代表佛罗里达州第94个州众议院区做了出色的工作！ MEG一直是MAGA ，从一开始就与我们在一起，帮助推进我们的美国优先议程。在州议会，她不知疲倦地致力于发展我们的经济，削减税收和法规，倡导美国能源主导地位，促进美国制造，保持",
-      "link": "https://trumpstruth.org/statuses/40811",
-      "published": "Thu, 13 Aug 2026 23:14:37 +0000"
+      "original": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources. Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment. Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is: “SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT” “SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "参议员丹·沙利文（ Dan Sullivan ）代表阿拉斯加州做了出色的工作！在成为一位非常杰出和备受尊敬的参议员之前， Dan曾担任州检察长和阿拉斯加自然资源部专员。Dan是一位伟人，一直为阿拉斯加提供服务（我在2016年、2020年和2024年三次大获全胜！ ） ，并将继续在美国参议院这样做。没有人为您做过更多的事情",
+      "link": "https://trumpstruth.org/statuses/40830",
+      "published": "Fri, 14 Aug 2026 21:36:50 +0000"
     },
     {
-      "original": "RT @ realDonaldTrump I am looking forward to being back in the Great State of New York tomorrow, where Highly Respected and very popular Nassau County Executive, Bruce Blakeman, is running to be the next Governor! Bruce is MAGA all the way, and has been with me from the very beginning. As Nassau County Executive, he is working tirelessly with the Brave Heroes of ICE, Border Patrol, and Law Enforcement to Keep Our Border SECURE, Stop Migrant Crime, Safeguard our Community, and Ensure LAW AND ORDER. As your next Governor, Bruce will continue to fight hard to Grow the Economy, Cut Taxes, and Regulations, Promote MADE IN THE U.S.A., Champion American Energy DOMINANCE, Strengthen our Military/Veterans, Advance Election Integrity, and Protect our always under siege Second Amendment! Bruce Blakeman is a FANTASTIC guy, will win the big November Election and, without hesitation, has my Complete and Total Endorsement for Governor of the ONCE GREAT STATE OF NEW YORK. BRUCE WILL MAKE IT GREAT AGAIN, AND WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "RT @ realDonaldTrump我期待着明天回到伟大的纽约州，在那里，备受尊敬和非常受欢迎的拿骚县执行官布鲁斯·布莱克曼（ Bruce Blakeman ）将竞选下一任州长！ Bruce一直都是MAGA ，从一开始就和我在一起。作为拿骚县执行官，他与ICE、边境巡逻队和执法部门的勇敢英雄不知疲倦地合作，以保持我们边境的安全，制止移民犯罪",
-      "link": "https://trumpstruth.org/statuses/40812",
-      "published": "Thu, 13 Aug 2026 23:14:22 +0000"
+      "original": "It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York. Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL! Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman! As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States! On the other hand, as your next Attorney General, Saritha Komatireddy will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment. Vote against the Most Corrupt Attorney General in the Country, Peekaboo James — Vote for Saritha Komatireddy, who has my Complete and Total Endorsement to be the next Attorney General of New York. SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "我非常荣幸地支持美国第一爱国者Saritha Komatireddy ，她将成为曾经美好的纽约州的下一任总检察长。在凯西·霍丘尔（ Kathy Hochul ）和该国最腐败的司法部长利蒂西亚·詹姆斯（ Letitia James ）之间，它已经下地狱了！ Saritha得到了纽约最伟大的MAGA勇士队的大力支持，包括我的朋友和共和党州长提名人Bruce Blakeman ！作为前联邦检察官",
+      "link": "https://trumpstruth.org/statuses/40828",
+      "published": "Fri, 14 Aug 2026 21:35:21 +0000"
     },
     {
-      "original": "RT @ realDonaldTrump It is my Great Honor to endorse America First Patriot, Kailee Buller, who is running to represent the Fantastic People of New York’s 22nd Congressional District! As the former Chief of Staff at the U.S. Department of Agriculture in my Administration, Kailee has proven she has the Courage and Wisdom to deliver strong results for the incredible people of her State, and our Nation. She has truly been with us from the beginning! Her opponent, John Mannion, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender Mutilization of your Children. No more Thanksgiving if John Mannion and the Dumocrats get in! On the other hand, as your next Congresswoman, Kailee will work hard to Grow our Economy, Cut Taxes and Regulations, Support our Amazing Farmers and Ranchers, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military, Veterans, and Law Enforcement, and Defend our always under siege Second Amendment. Kailee Buller has my Complete and Total Endorsement to be the next Congresswoman from New York’s 22nd Congressional District — SHE WILL NEVER LET YOU DOWN!",
-      "translated": "RT @ realDonaldTrump我很荣幸为美国第一爱国者Kailee Buller背书，他代表纽约第22届国会选区的了不起的人民！作为本届政府美国农业部的前参谋长， Kailee证明了她有勇气和智慧为她的州和我们国家的伟大人民带来强大的成果。她真的从一开始就和我们在一起！",
-      "link": "https://trumpstruth.org/statuses/40813",
-      "published": "Thu, 13 Aug 2026 23:14:15 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810 Thank you Russell — You have a big future ahead of you!",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810谢谢您， Russell —您前方有着美好的未来！",
+      "link": "https://trumpstruth.org/statuses/40826",
+      "published": "Fri, 14 Aug 2026 20:57:05 +0000"
     },
     {
-      "original": "It is my Great Honor to endorse Highly Respected Hempstead Town Receiver, Jeanine Driscoll, who is running to represent the tremendous people of New York’s 4th Congressional District! As the Receiver of Taxes in America’s largest town, Jeanine knows the AMERICA FIRST Policies required to Grow our Economy, Create GREAT Jobs, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., and Unleash American Energy DOMINANCE. Her opponent, Laura Gillen, voted against NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things would be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women’s Sports, and Transgender for Everybody. On the other hand, Jeanine Driscoll will work tirelessly to Safeguard our Elections, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Jeanine Driscoll has my Complete and Total Endorsement to be the next Representative from New York’s 4th Congressional District – SHE WILL NEVER LET YOU DOWN!",
-      "translated": "我非常荣幸地为备受尊敬的亨普斯特德镇接管人珍妮·德里斯科尔（ Jeanine Driscoll ）代言，她将代表纽约第四国会选区的广大人民！作为美国最大城镇的税收接收者， Jeanine了解发展经济、创造伟大就业机会、削减税收和法规、促进美国制造和释放美国能源主导地位所需的美国优先政策。她的对手劳拉·吉伦（ Laura Gillen ）",
-      "link": "https://trumpstruth.org/statuses/40810",
-      "published": "Thu, 13 Aug 2026 22:26:37 +0000"
+      "original": "SOUTH CAROLINA: GET OUT AND VOTE FOR DARLINE GRAHAM ON TUESDAY, AUGUST 25TH. DARLINE HAS MY COMPLETE AND TOTAL ENDORSEMENT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "南卡罗来纳州： 8月25日星期二，出去投票给达琳·格雷厄姆。DARLINE得到了我完全和全面的支持--她永远不会让你失望！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/40827",
+      "published": "Fri, 14 Aug 2026 20:56:55 +0000"
     }
   ]
 }
