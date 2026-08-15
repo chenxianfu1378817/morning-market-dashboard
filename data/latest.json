@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-08-14 23:13",
+  "updated_at": "2026-08-15 23:11",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.6,
-      "feels_like": 29.6,
+      "temperature": 24.8,
+      "feels_like": 30.3,
       "code": 0,
-      "max": 32.1,
-      "min": 24.1,
-      "rain_probability": 55
+      "max": 33.1,
+      "min": 24.8,
+      "rain_probability": 69
     },
     {
       "name": "桂林",
-      "temperature": 24.1,
-      "feels_like": 27.0,
-      "code": 1,
-      "max": 34.3,
-      "min": 23.6,
-      "rain_probability": 28
+      "temperature": 24.9,
+      "feels_like": 28.6,
+      "code": 2,
+      "max": 34.8,
+      "min": 24.5,
+      "rain_probability": 39
     },
     {
       "name": "广州",
-      "temperature": 25.3,
-      "feels_like": 31.4,
-      "code": 2,
+      "temperature": 27.3,
+      "feels_like": 34.1,
+      "code": 51,
       "max": 32.8,
-      "min": 25.0,
-      "rain_probability": 88
+      "min": 26.8,
+      "rain_probability": 53
     },
     {
       "name": "深圳",
-      "temperature": 24.6,
-      "feels_like": 29.6,
+      "temperature": 25.6,
+      "feels_like": 31.9,
       "code": 53,
-      "max": 30.1,
-      "min": 24.2,
-      "rain_probability": 100
+      "max": 31.1,
+      "min": 25.4,
+      "rain_probability": 73
     }
   ],
   "oil": [
@@ -54,7 +54,7 @@
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 87.07,
-      "current_price": 88.59,
+      "current_price": 88.52,
       "previous_close": 87.07,
       "change": 0.0,
       "change_pct": 0.0,
@@ -63,66 +63,66 @@
   ],
   "news": [
     {
-      "title": "日本防卫大臣小泉进次郎参拜靖国神社",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml",
-      "published": "Sat, 15 Aug 2026 06:51:34 +0800"
+      "title": "以色列空袭黎巴嫩 造成11人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-16/10678443.shtml",
+      "published": "Sun, 16 Aug 2026 06:40:56 +0800"
     },
     {
-      "title": "美国7月零售销售额环比下降0.6% 创一年来最大跌幅",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678016.shtml",
-      "published": "Sat, 15 Aug 2026 06:50:38 +0800"
+      "title": "日本民众游行反对政客参拜靖国神社",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678425.shtml",
+      "published": "Sat, 15 Aug 2026 22:10:56 +0800"
     },
     {
-      "title": "拉美首个中外共建中文本科专业在巴西阿西斯开学",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678013.shtml",
-      "published": "Sat, 15 Aug 2026 06:33:01 +0800"
+      "title": "印尼7.7级地震已致47人死亡 3名中国游客受轻伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678422.shtml",
+      "published": "Sat, 15 Aug 2026 22:09:18 +0800"
     },
     {
-      "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678012.shtml",
-      "published": "Sat, 15 Aug 2026 06:18:36 +0800"
+      "title": "调查显示：柬埔寨青年对中柬人文交流认知大幅正向提升",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678420.shtml",
+      "published": "Sat, 15 Aug 2026 21:50:22 +0800"
     },
     {
-      "title": "澳中友协成立75周年庆祝活动在墨尔本举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10678010.shtml",
-      "published": "Fri, 14 Aug 2026 23:53:48 +0800"
+      "title": "韩国朝野抨击日本政要参拜靖国神社",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678419.shtml",
+      "published": "Sat, 15 Aug 2026 21:49:40 +0800"
     },
     {
-      "title": "泰国成立专门机构强化数据中心管理",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-14/10678009.shtml",
-      "published": "Fri, 14 Aug 2026 23:37:55 +0800"
+      "title": "中国地震局：印尼7.7级地震区域板块汇聚作用强烈",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-15/10678412.shtml",
+      "published": "Sat, 15 Aug 2026 21:35:22 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Just left a Rally in Nassau County in honor of Bruce Blakeman, who is running for Governor of New York. The crowd went WILD. Something very interesting is happening in New York State! He is a great person, a great politician and, if elected, will be the best Governor in the History of New York! President DONALD J. TRUMP",
-      "translated": "为了纪念正在竞选纽约州州长的布鲁斯·布莱克曼（ Bruce Blakeman ） ，刚刚在拿骚县（ Nassau County ）举行了一场集会。人群疯狂起来。纽约州正在发生一些非常有趣的事情！他是一个伟大的人，一个伟大的政治家，如果当选，他将成为纽约历史上最好的州长！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/40829",
-      "published": "Fri, 14 Aug 2026 21:37:25 +0000"
+      "original": "State Representative Kim Kendall is a Strong Champion for the Great People of Florida’s 18th State House District! A Highly Respected Air Traffic Controller and Small Business Owner, prior to becoming a distinguished State Representative, Kim has dedicated her life to serving her Community. In the State House, she is working hard to Protect Florida Values, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military, Veterans, and Law Enforcement, Champion Parental Rights, Advance Election Integrity, and Defend our always under siege Second Amendment. Kim Kendall has my Complete and Total Endorsement for Re-Election — SHE WILL NEVER LET YOU DOWN!",
+      "translated": "州众议员Kim Kendall是佛罗里达州第18州众议院选区伟大人民的坚定拥护者！ Kim是一位备受尊敬的空中交通管制员和小企业主，在成为杰出的国家代表之前，她一直致力于为社区服务。在州议会，她正在努力保护佛罗里达州的价值观，发展我们的经济，削减税收和法规，促进美国制造，制止移民犯罪",
+      "link": "https://trumpstruth.org/statuses/40885",
+      "published": "Sat, 15 Aug 2026 21:32:28 +0000"
     },
     {
-      "original": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources. Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment. Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is: “SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT” “SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "参议员丹·沙利文（ Dan Sullivan ）代表阿拉斯加州做了出色的工作！在成为一位非常杰出和备受尊敬的参议员之前， Dan曾担任州检察长和阿拉斯加自然资源部专员。Dan是一位伟人，一直为阿拉斯加提供服务（我在2016年、2020年和2024年三次大获全胜！ ） ，并将继续在美国参议院这样做。没有人为您做过更多的事情",
-      "link": "https://trumpstruth.org/statuses/40830",
-      "published": "Fri, 14 Aug 2026 21:36:50 +0000"
+      "original": "State Representative J.J. Grow is doing a terrific job representing the incredible people of Florida’s 23rd State House District! A Successful Entrepreneur and Civic Leader, before his service in the State House, J.J. is a Proven Leader who has dedicated his life to serving his Community. In the State House, he is working hard to Protect Florida Values, Champion our Amazing Farmers and Ranchers, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Stop Migrant Crime, Strengthen our Military/Veterans, Advance Election Integrity, and Defend our always under siege Second Amendment. J.J. Grow has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+      "translated": "州众议员J.J. Grow在代表佛罗里达州第23州众议院选区令人难以置信的人民方面做得非常出色！ J.J.是一位成功的企业家和公民领袖，在州议会任职之前，他是一位成熟的领导者，一生致力于为社区服务。在州议会，他正在努力保护佛罗里达州的价值观，支持我们了不起的农民和牧场主，发展经济，削减税收和法规，促进",
+      "link": "https://trumpstruth.org/statuses/40886",
+      "published": "Sat, 15 Aug 2026 21:32:09 +0000"
     },
     {
-      "original": "It is my Great Honor to endorse America First Patriot, Saritha Komatireddy, who is running to be the next Attorney General of the once wonderful State of New York. Between Kathy Hochul and the Most Corrupt Attorney General in the Country, Letitia James, it has gone to HELL! Saritha is strongly supported by the Greatest MAGA Warriors in New York, including my friend, and Republican Nominee for Governor, Bruce Blakeman! As a former Federal Prosecutor, Chief of Staff of the Drug Enforcement Administration, Law Clerk for then-Judge Brett Kavanaugh, and a distinguished Harvard Law School graduate, with Honors, Saritha has proven she has the Courage and Wisdom to deliver strong results for the incredible people of New York City and State. Her opponent, the totally corrupt, unlawful, and incompetent, Letitia “Peekaboo” James, is considered by many to be the WORST Attorney General in our Country. She is a Complete and Total Disaster, who tried running against Kathy Hochul for Governor, and got less than 1% of the Vote in the Polls, and QUIT, taking many innocent suckers down with her. She then went back to her WITCH HUNT against your favorite President, (ME!), and others, yet Murder and other Violent Crime is RAGING OUT OF CONTROL in New York, as People and Businesses flee, in Record Numbers, to other States! On the other hand, as your next Attorney General, Saritha Komatireddy will fight tirelessly to Ensure LAW AND ORDER, Grow our Economy, Champion our Law Enforcement and First Responders, Support our Military/Veterans, Advance Election Integrity, Keep our Border SECURE, Stop Migrant Crime, Uphold our Constitution, and Defend our always under siege Second Amendment. Vote against the Most Corrupt Attorney General in the Country, Peekaboo James — Vote for Saritha Komatireddy, who has my Complete and Total Endorsement to be the next Attorney General of New York. SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "我非常荣幸地支持美国第一爱国者Saritha Komatireddy ，她将成为曾经美好的纽约州的下一任总检察长。在凯西·霍丘尔（ Kathy Hochul ）和该国最腐败的司法部长利蒂西亚·詹姆斯（ Letitia James ）之间，它已经下地狱了！ Saritha得到了纽约最伟大的MAGA勇士队的大力支持，包括我的朋友和共和党州长提名人Bruce Blakeman ！作为前联邦检察官",
-      "link": "https://trumpstruth.org/statuses/40828",
-      "published": "Fri, 14 Aug 2026 21:35:21 +0000"
+      "original": "State Representative Jon Albert is doing a tremendous job representing the wonderful people of Florida’s 48th State House District! From bravely fighting for the U.S. Marine Corps, to strongly representing his Community as Mayor of Frostproof, and now, as a Highly Respected State Representative, Jon has served his State, and our Nation, with distinction. In the State House, he is working tirelessly to Protect Florida Values, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A. and American Energy DOMINANCE, Safeguard our Elections, Stop Migrant Crime, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment. Jon Albert has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+      "translated": "州众议员乔恩·阿尔伯特（ Jon Albert ）代表佛罗里达州第48州众议院选区的优秀人民做了出色的工作！从勇敢地为美国海军陆战队而战，到坚定地代表他的社区担任Frostproof市长，现在，作为一位备受尊敬的州代表， Jon出色地为他的国家和我们的国家服务。在州议会，他正在不知疲倦地努力保护佛罗里达州的价值观，发展我们的经济，削减",
+      "link": "https://trumpstruth.org/statuses/40887",
+      "published": "Sat, 15 Aug 2026 21:31:49 +0000"
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810 Thank you Russell — You have a big future ahead of you!",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117095859215373810谢谢您， Russell —您前方有着美好的未来！",
-      "link": "https://trumpstruth.org/statuses/40826",
-      "published": "Fri, 14 Aug 2026 20:57:05 +0000"
+      "original": "State Representative Bill Conerly is an America First Patriot doing a fantastic job representing Florida’s 72nd State House District! A Fifth Generation Floridian, and a Brave U.S. Navy Veteran, Bill knows the Wisdom and Courage that is required to Defend our Country, Support our Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In the State House, he is working hard to Protect Florida Values, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Champion Small Businesses and American Ingenuity, Ensure U.S. Energy DOMINANCE, Safeguard our Elections, and Defend our always under siege Second Amendment. Bill Conerly has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+      "translated": "州众议员比尔·康纳利（ Bill Conerly ）是美国第一爱国者，代表佛罗里达州第72个州众议院选区出色地完成了工作！比尔是第五代佛罗里达人，也是一名勇敢的美国海军退伍军人，他知道保卫我们的国家，支持我们的军队/退伍军人，并通过力量确保和平所需的智慧和勇气。在州议会，他正在努力保护佛罗里达州的价值观，阻止移民犯罪，发展我们的经济，削减税收",
+      "link": "https://trumpstruth.org/statuses/40888",
+      "published": "Sat, 15 Aug 2026 21:29:31 +0000"
     },
     {
-      "original": "SOUTH CAROLINA: GET OUT AND VOTE FOR DARLINE GRAHAM ON TUESDAY, AUGUST 25TH. DARLINE HAS MY COMPLETE AND TOTAL ENDORSEMENT — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "南卡罗来纳州： 8月25日星期二，出去投票给达琳·格雷厄姆。DARLINE得到了我完全和全面的支持--她永远不会让你失望！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/40827",
-      "published": "Fri, 14 Aug 2026 20:56:55 +0000"
+      "original": "[No Title] - Post from August 15, 2026",
+      "translated": "[No Title] - 2026年8月15日的帖子",
+      "link": "https://trumpstruth.org/statuses/40884",
+      "published": "Sat, 15 Aug 2026 20:32:47 +0000"
     }
   ]
 }
