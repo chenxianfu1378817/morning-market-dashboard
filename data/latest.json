@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-16 23:11",
+  "updated_at": "2026-08-17 23:14",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.7,
-      "feels_like": 32.5,
-      "code": 1,
-      "max": 33.2,
-      "min": 25.5,
-      "rain_probability": 51
+      "temperature": 25.3,
+      "feels_like": 31.5,
+      "code": 51,
+      "max": 32.3,
+      "min": 25.2,
+      "rain_probability": 88
     },
     {
       "name": "桂林",
-      "temperature": 27.0,
-      "feels_like": 30.7,
-      "code": 1,
-      "max": 34.5,
-      "min": 26.7,
-      "rain_probability": 64
+      "temperature": 27.4,
+      "feels_like": 30.9,
+      "code": 0,
+      "max": 35.6,
+      "min": 27.2,
+      "rain_probability": 94
     },
     {
       "name": "广州",
-      "temperature": 26.8,
-      "feels_like": 33.5,
-      "code": 2,
-      "max": 33.8,
-      "min": 26.7,
-      "rain_probability": 92
+      "temperature": 25.0,
+      "feels_like": 30.2,
+      "code": 81,
+      "max": 32.9,
+      "min": 24.8,
+      "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 27.7,
-      "feels_like": 34.2,
+      "temperature": 25.9,
+      "feels_like": 31.2,
       "code": 51,
-      "max": 33.3,
-      "min": 26.3,
-      "rain_probability": 100
+      "max": 31.7,
+      "min": 25.9,
+      "rain_probability": 85
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 82.4,
-      "current_price": 82.39,
-      "previous_close": 82.4,
+      "price": 84.5,
+      "current_price": 85.05,
+      "previous_close": 84.5,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-16 23:00"
+      "market_time": "08-17 23:03"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 88.52,
-      "current_price": 88.67,
-      "previous_close": 88.52,
+      "price": 90.87,
+      "current_price": 91.14,
+      "previous_close": 90.87,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-16 23:00"
+      "market_time": "08-17 23:01"
     }
   ],
   "news": [
     {
-      "title": "巴西里约热内卢州一大巴翻覆致10人遇难",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678807.shtml",
-      "published": "Mon, 17 Aug 2026 07:01:24 +0800"
+      "title": "民调：特朗普支持率创第二任期内新低",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml",
+      "published": "Tue, 18 Aug 2026 06:56:20 +0800"
     },
     {
-      "title": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678803.shtml",
-      "published": "Mon, 17 Aug 2026 06:49:49 +0800"
+      "title": "特朗普称金正恩已回应其“对话”请求",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml",
+      "published": "Tue, 18 Aug 2026 06:43:43 +0800"
     },
     {
-      "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml",
-      "published": "Mon, 17 Aug 2026 06:28:06 +0800"
+      "title": "委内瑞拉强震已致6438人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679355.shtml",
+      "published": "Tue, 18 Aug 2026 06:32:41 +0800"
     },
     {
-      "title": "以军袭击已致黎巴嫩4346人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678800.shtml",
-      "published": "Mon, 17 Aug 2026 06:26:04 +0800"
+      "title": "英国与黎巴嫩签署谅解备忘录 强化安全合作",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679350.shtml",
+      "published": "Tue, 18 Aug 2026 06:28:33 +0800"
     },
     {
-      "title": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml",
-      "published": "Mon, 17 Aug 2026 06:16:05 +0800"
+      "title": "曾公开批评因凡蒂诺 国际足联首席运营官已离任",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679353.shtml",
+      "published": "Tue, 18 Aug 2026 06:27:57 +0800"
     },
     {
-      "title": "德国企业上半年对美直接投资降至三年来新低",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-17/10678797.shtml",
-      "published": "Mon, 17 Aug 2026 06:12:21 +0800"
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679351.shtml",
+      "published": "Tue, 18 Aug 2026 06:23:42 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with the fact that the United States has, long ago, agreed to participate in Joint Military Exercises with South Korea. These exercises are not only costly, with much of these costs paid for by the United States of America (as usual!), but send a signal that is totally inappropriate and hostile, to a Country that, as long as Donald J. Trump has been President, has been unthreatening and respectful. Therefore, and based on the fact that it is too late to cancel, I have instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises! While somewhat unrelated (?), I recently asked the President of South Korea if they would like to join us in the Denuclearization of the Islamic Republic of Iran, and they said, “No thanks!” Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "基于我与朝鲜金正恩的良好关系，我很不高兴美国很久以前就同意参加与韩国的联合军事演习。这些演习不仅代价高昂，其中大部分费用由美利坚合众国支付（像往常一样！ ） ，而且向一个只要唐纳德· J ·特朗普担任总统，",
-      "link": "https://trumpstruth.org/statuses/40905",
-      "published": "Sun, 16 Aug 2026 21:04:57 +0000"
+      "original": "Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a valid Photo ID? India’s last Election had 646,000,000 Voters! Less than 1% voted by mail, and every single Voter had to have a VALID Photo Identity Document. We need to pass THE SAVE AMERICA ACT, now! President DONALD J. TRUMP",
+      "translated": "本月早些时候，印度首席选举专员贾内什·库马尔（ Gyanesh Kumar ）问我们的政府：如果没有带照片的有效身份证件，如何在美国举行选举？印度上次大选有6.46亿选民！通过邮件投票的选民不到1% ，每个选民都必须持有有效的带照片的身份证件。我们现在需要通过《拯救美国法案》！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/40923",
+      "published": "Mon, 17 Aug 2026 23:04:32 +0000"
     },
     {
-      "original": "Very happy to see that Saudi Arabia, Turkey, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement. It shows how the Middle East is coming together, and how Countries will finally be able to defend themselves in a more meaningful way. Congratulations to the Great Leadership of the three Nations mentioned. THIS IS A BIG, BOLD, AND IMPORTANT FIRST STEP — WOW! President DONALD J. TRUMP",
-      "translated": "很高兴看到沙特阿拉伯、土耳其和巴基斯坦最近并最终签署了《麦加联合防御协定》。它展示了中东是如何走到一起的，以及各国最终将如何以更有意义的方式自卫。祝贺上述三个国家的伟大领导。这是一个伟大、大胆和重要的第一步--哇！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/40906",
-      "published": "Sun, 16 Aug 2026 21:04:03 +0000"
+      "original": "Highly Respected Congresswoman, Harriet Hageman, is running for the United States Senate in the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024! I know Harriet well, and she is a TOTAL WINNER! Harriet has ALWAYS delivered for Wyoming, and will continue to do so in the United States Senate. She will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Harriet Hageman has my Complete and Total Endorsement to be your next Senator! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR HARRIET — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/wyoming/",
+      "translated": "备受尊敬的国会女议员哈里特·哈格曼（ Harriet Hageman ）正在怀俄明州竞选美国参议员，我喜欢这个地方，并在2016年、2020年和2024年大获全胜！我非常了解Harriet ，她绝对是赢家！ Harriet一直为怀俄明州提供服务，并将在美国参议院继续这样做。她将不知疲倦地努力发展我们的经济，削减税收和法规，推广美国制造，释放美国能源多米纳",
+      "link": "https://trumpstruth.org/statuses/40922",
+      "published": "Mon, 17 Aug 2026 22:50:40 +0000"
     },
     {
-      "original": "Watching FoxNews with Shannon Bream is always like watching the Worst of Fake News CNN. I don’t know Shannon, but she always seems to pick guests, charts, and “polls” that are negative, never talking about all of the incredible things that the Trump Administration has done, like Total Border Control, the Most Successful Stock Market in History (81 Record Days in a year and a half!), Biggest Investment in our Country in History (19.2 Trillion Dollars!), breaking the Record by many times over, the Great Military Victories over Venezuela and the essential Denuclearization of Iran — The rest to follow! — The Lowest Crime Rate in Recorded History, the Lowest Murder Rate since 1900 — 125 years! — The Highest Number of People that have Jobs in the United States, EVER, the fact that the United States is more RESPECTED throughout the World than at any time in Memory, the Biggest Drop in Drug Prices, over 500%, than has ever been seen before, which will lead to tremendous SAVINGS in Healthcare, the Rebuilding of our Military, in my First Term, making it the Strongest in U.S. History, with the inclusion of Space Force, and so many other things! Yet, week after week, I see Shannon “interviewing” hostile guests, and having losers like Juan Williams, who got fired like a dog from PBS, was thrown off of The Five for somebody even dumber than him, Jessica Tarlov, and when he saw me walking into the Headquarters of Fox, he went CRAZY, begging me for a picture — “Could I have a picture with you? It would be such a Great Honor!” In any event, Shannon’s “show” is beyond redemption. Fortunately, MAGA, which is close to 100% of the Republican Party, understands that, and watch her “Ratings” start to fall. Chris Wallace was bad, but Shannon is even worse! Oh well, it couldn’t have had too much of an impact, because I’m now heading back into the Oval Office to continue working on more TRIUMPHS and SUCCESSES for our Country! President DONALD J. TRUMP",
-      "translated": "与Shannon Bream一起观看FoxNews总是像观看最糟糕的假新闻CNN一样。我不认识香农，但她似乎总是选择消极的客人、图表和“民意调查” ，从不谈论特朗普政府所做的所有令人难以置信的事情，比如全面边境管制，历史上最成功的股票市场（一年半中创纪录的81天！ ） ，我国历史上最大的投资（ 19.2万亿美元）",
-      "link": "https://trumpstruth.org/statuses/40904",
-      "published": "Sun, 16 Aug 2026 20:10:37 +0000"
+      "original": "“MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan is fantastic, and strongly supported by many of our Greatest Warriors, including future Senator Harriet Hageman! A Sixth Generation Wyomingite, and Wyoming’s very popular Superintendent of Public Instruction, Megan has dedicated her life to serving her Community. As your next Governor, Megan will work tirelessly to Champion Wyoming Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Megan Degenfelder has my Complete and Total Endorsement! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR “MAGA” MEGAN — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/wyoming/",
+      "translated": "“MAGA” Megan Degenfelder将成为伟大的怀俄明州的下一任州长，我喜欢这个地方，并在2016年、2020年和2024年大获全胜。梅根非常棒，并得到了包括未来参议员哈里特·哈格曼（ Harriet Hageman ）在内的许多伟大战士的大力支持！ Megan是第六代怀俄明人，也是怀俄明州非常受欢迎的公共教育总监，她一生致力于为社区服务。作为你的下一任州长，梅根将",
+      "link": "https://trumpstruth.org/statuses/40919",
+      "published": "Mon, 17 Aug 2026 22:50:19 +0000"
     },
     {
-      "original": "RT @ AndrewHGiuliani Thanks to the vision and leadership of President Donald J. Trump, America fell in love with the World Cup, and the world fell in love with the United States of America, again!",
-      "translated": "RT @ AndrewHGiuliani感谢唐纳德· J ·特朗普总统的远见卓识和领导才能，美国爱上了世界杯，世界再次爱上了美利坚合众国！",
-      "link": "https://trumpstruth.org/statuses/40893",
-      "published": "Sun, 16 Aug 2026 13:28:38 +0000"
+      "original": "Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, and 2024! A very successful Businessman, Nick knows the America First Policies required to Create Great Jobs, Cut Taxes, Strengthen our Economy, and Eliminate Government Waste. He will never stop fighting to Secure our Border, Stop Migrant Crime, Halt the Flow of Illegal Drugs, Strengthen our Military/Vets, Champion American Energy DOMINANCE, and Defend our always under siege Second Amendment. Nick Begich has my Complete and Total Endorsement for Re-Election! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR NICK — HE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alaska/",
+      "translated": "国会议员尼克·贝吉奇（ Nick Begich ）代表阿拉斯加州的伟大人民做了令人难以置信的工作，阿拉斯加州是我热爱的州，并在2016年、2020年和2024年三次赢得大奖！尼克是一位非常成功的商人，他知道创造良好就业机会、减税、加强我们的经济和消除政府浪费所需的美国优先政策。他永远不会停止为保护我们的边境、制止移民犯罪、阻止非法毒品流动、加强我们的军队而战。",
+      "link": "https://trumpstruth.org/statuses/40920",
+      "published": "Mon, 17 Aug 2026 22:43:06 +0000"
     },
     {
-      "original": "Todd Blanche sworn in as AG; White House celebrates ‘huge win’: https:// heartlandernews.com/todd-blanc he-sworn-in-as-ag-white-house-celebrates-huge-win/",
-      "translated": "Todd Blanche宣誓就职AG ；白宫庆祝“巨大胜利” ： https://heartlandernews.com/todd-blanc he-sworn-in-as-ag-white-house-celebrates-huge-win/",
-      "link": "https://trumpstruth.org/statuses/40895",
-      "published": "Sun, 16 Aug 2026 13:28:09 +0000"
+      "original": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources. Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment. Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is: “SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT” “SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alaska/",
+      "translated": "参议员丹·沙利文（ Dan Sullivan ）代表阿拉斯加州做了出色的工作！在成为一位非常杰出和备受尊敬的参议员之前， Dan曾担任州检察长和阿拉斯加自然资源部专员。Dan是一位伟人，一直为阿拉斯加提供服务（我在2016年、2020年和2024年三次大获全胜！ ） ，并将继续在美国参议院这样做。没有人为您做过更多的事情",
+      "link": "https://trumpstruth.org/statuses/40921",
+      "published": "Mon, 17 Aug 2026 22:42:51 +0000"
     }
   ]
 }
