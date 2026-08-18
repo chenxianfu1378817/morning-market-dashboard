@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-17 23:14",
+  "updated_at": "2026-08-18 23:13",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.3,
-      "feels_like": 31.5,
+      "temperature": 25.0,
+      "feels_like": 30.4,
       "code": 51,
-      "max": 32.3,
-      "min": 25.2,
-      "rain_probability": 88
+      "max": 33.1,
+      "min": 24.6,
+      "rain_probability": 91
     },
     {
       "name": "桂林",
-      "temperature": 27.4,
-      "feels_like": 30.9,
-      "code": 0,
-      "max": 35.6,
-      "min": 27.2,
-      "rain_probability": 94
+      "temperature": 26.8,
+      "feels_like": 30.6,
+      "code": 3,
+      "max": 35.1,
+      "min": 26.5,
+      "rain_probability": 74
     },
     {
       "name": "广州",
-      "temperature": 25.0,
-      "feels_like": 30.2,
-      "code": 81,
-      "max": 32.9,
-      "min": 24.8,
-      "rain_probability": 100
+      "temperature": 27.2,
+      "feels_like": 32.5,
+      "code": 1,
+      "max": 34.7,
+      "min": 26.7,
+      "rain_probability": 55
     },
     {
       "name": "深圳",
-      "temperature": 25.9,
-      "feels_like": 31.2,
-      "code": 51,
-      "max": 31.7,
+      "temperature": 27.1,
+      "feels_like": 30.7,
+      "code": 1,
+      "max": 32.5,
       "min": 25.9,
-      "rain_probability": 85
+      "rain_probability": 78
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 84.5,
-      "current_price": 85.05,
+      "price": 84.06,
+      "current_price": 84.49,
       "previous_close": 84.5,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "08-17 23:03"
+      "change": -0.4399999999999977,
+      "change_pct": -0.520710059171595,
+      "market_time": "08-18 23:03"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 90.87,
-      "current_price": 91.14,
+      "price": 91.02,
+      "current_price": 91.35,
       "previous_close": 90.87,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "08-17 23:01"
+      "change": 0.14999999999999147,
+      "change_pct": 0.16507098052161492,
+      "market_time": "08-18 23:03"
     }
   ],
   "news": [
     {
-      "title": "民调：特朗普支持率创第二任期内新低",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml",
-      "published": "Tue, 18 Aug 2026 06:56:20 +0800"
+      "title": "阿联酋宣布暂停与伊朗所有贸易及金融交易",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679986.shtml",
+      "published": "Wed, 19 Aug 2026 06:54:12 +0800"
     },
     {
-      "title": "特朗普称金正恩已回应其“对话”请求",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml",
-      "published": "Tue, 18 Aug 2026 06:43:43 +0800"
+      "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
+      "published": "Wed, 19 Aug 2026 06:13:30 +0800"
     },
     {
-      "title": "委内瑞拉强震已致6438人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679355.shtml",
-      "published": "Tue, 18 Aug 2026 06:32:41 +0800"
+      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679979.shtml",
+      "published": "Wed, 19 Aug 2026 06:02:53 +0800"
     },
     {
-      "title": "英国与黎巴嫩签署谅解备忘录 强化安全合作",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679350.shtml",
-      "published": "Tue, 18 Aug 2026 06:28:33 +0800"
+      "title": "尼泊尔和印度将联合测绘“跨境占用”土地",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679973.shtml",
+      "published": "Wed, 19 Aug 2026 00:52:55 +0800"
     },
     {
-      "title": "曾公开批评因凡蒂诺 国际足联首席运营官已离任",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679353.shtml",
-      "published": "Tue, 18 Aug 2026 06:27:57 +0800"
+      "title": "伊朗举行已故最高领袖下葬四十日纪念仪式",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679975.shtml",
+      "published": "Wed, 19 Aug 2026 00:52:25 +0800"
     },
     {
-      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-18/10679351.shtml",
-      "published": "Tue, 18 Aug 2026 06:23:42 +0800"
+      "title": "英国二季度劳动力市场进一步降温",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-19/10679972.shtml",
+      "published": "Wed, 19 Aug 2026 00:51:39 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Earlier this month, India’s Chief Election Commissioner, Gyanesh Kumar, asked our Administration — How can you have Elections in the U.S. without a valid Photo ID? India’s last Election had 646,000,000 Voters! Less than 1% voted by mail, and every single Voter had to have a VALID Photo Identity Document. We need to pass THE SAVE AMERICA ACT, now! President DONALD J. TRUMP",
-      "translated": "本月早些时候，印度首席选举专员贾内什·库马尔（ Gyanesh Kumar ）问我们的政府：如果没有带照片的有效身份证件，如何在美国举行选举？印度上次大选有6.46亿选民！通过邮件投票的选民不到1% ，每个选民都必须持有有效的带照片的身份证件。我们现在需要通过《拯救美国法案》！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/40923",
-      "published": "Mon, 17 Aug 2026 23:04:32 +0000"
+      "original": "[No Title] - Post from August 18, 2026",
+      "translated": "[No Title] - 2026年8月18日的帖子",
+      "link": "https://trumpstruth.org/statuses/40978",
+      "published": "Tue, 18 Aug 2026 23:09:27 +0000"
     },
     {
-      "original": "Highly Respected Congresswoman, Harriet Hageman, is running for the United States Senate in the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024! I know Harriet well, and she is a TOTAL WINNER! Harriet has ALWAYS delivered for Wyoming, and will continue to do so in the United States Senate. She will fight tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Champion our Amazing Farmers and Ranchers, Keep our Border SECURE, Stop Migrant Crime, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Harriet Hageman has my Complete and Total Endorsement to be your next Senator! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR HARRIET — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/wyoming/",
-      "translated": "备受尊敬的国会女议员哈里特·哈格曼（ Harriet Hageman ）正在怀俄明州竞选美国参议员，我喜欢这个地方，并在2016年、2020年和2024年大获全胜！我非常了解Harriet ，她绝对是赢家！ Harriet一直为怀俄明州提供服务，并将在美国参议院继续这样做。她将不知疲倦地努力发展我们的经济，削减税收和法规，推广美国制造，释放美国能源多米纳",
-      "link": "https://trumpstruth.org/statuses/40922",
-      "published": "Mon, 17 Aug 2026 22:50:40 +0000"
+      "original": "[No Title] - Post from August 18, 2026",
+      "translated": "[No Title] - 2026年8月18日的帖子",
+      "link": "https://trumpstruth.org/statuses/40979",
+      "published": "Tue, 18 Aug 2026 23:09:19 +0000"
     },
     {
-      "original": "“MAGA” Megan Degenfelder is running to be the next Governor of the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024. Megan is fantastic, and strongly supported by many of our Greatest Warriors, including future Senator Harriet Hageman! A Sixth Generation Wyomingite, and Wyoming’s very popular Superintendent of Public Instruction, Megan has dedicated her life to serving her Community. As your next Governor, Megan will work tirelessly to Champion Wyoming Values, Promote our Amazing Farmers and Ranchers, Grow our Economy, Cut Taxes and Regulations, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Support our Brave Military, Veterans, and Law Enforcement, Safeguard our Elections, and Protect our always under siege Second Amendment. Megan Degenfelder has my Complete and Total Endorsement! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR “MAGA” MEGAN — SHE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/wyoming/",
-      "translated": "“MAGA” Megan Degenfelder将成为伟大的怀俄明州的下一任州长，我喜欢这个地方，并在2016年、2020年和2024年大获全胜。梅根非常棒，并得到了包括未来参议员哈里特·哈格曼（ Harriet Hageman ）在内的许多伟大战士的大力支持！ Megan是第六代怀俄明人，也是怀俄明州非常受欢迎的公共教育总监，她一生致力于为社区服务。作为你的下一任州长，梅根将",
-      "link": "https://trumpstruth.org/statuses/40919",
-      "published": "Mon, 17 Aug 2026 22:50:19 +0000"
+      "original": "[No Title] - Post from August 18, 2026",
+      "translated": "[No Title] - 2026年8月18日的帖子",
+      "link": "https://trumpstruth.org/statuses/40980",
+      "published": "Tue, 18 Aug 2026 23:09:10 +0000"
     },
     {
-      "original": "Congressman Nick Begich is doing an incredible job representing the Great People of Alaska, a State I love, and WON BIG THREE TIMES, in 2016, 2020, and 2024! A very successful Businessman, Nick knows the America First Policies required to Create Great Jobs, Cut Taxes, Strengthen our Economy, and Eliminate Government Waste. He will never stop fighting to Secure our Border, Stop Migrant Crime, Halt the Flow of Illegal Drugs, Strengthen our Military/Vets, Champion American Energy DOMINANCE, and Defend our always under siege Second Amendment. Nick Begich has my Complete and Total Endorsement for Re-Election! Election Day is Tuesday, August 18th. GET OUT AND VOTE FOR NICK — HE WILL NEVER LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alaska/",
-      "translated": "国会议员尼克·贝吉奇（ Nick Begich ）代表阿拉斯加州的伟大人民做了令人难以置信的工作，阿拉斯加州是我热爱的州，并在2016年、2020年和2024年三次赢得大奖！尼克是一位非常成功的商人，他知道创造良好就业机会、减税、加强我们的经济和消除政府浪费所需的美国优先政策。他永远不会停止为保护我们的边境、制止移民犯罪、阻止非法毒品流动、加强我们的军队而战。",
-      "link": "https://trumpstruth.org/statuses/40920",
-      "published": "Mon, 17 Aug 2026 22:43:06 +0000"
+      "original": "[No Title] - Post from August 18, 2026",
+      "translated": "[No Title] - 2026年8月18日的帖子",
+      "link": "https://trumpstruth.org/statuses/40981",
+      "published": "Tue, 18 Aug 2026 23:09:02 +0000"
     },
     {
-      "original": "Senator Dan Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissioner of the Alaska Department of Natural Resources. Dan is a GREAT man, has ALWAYS delivered for Alaska (which I won three times by BIG margins in 2016, 2020, and 2024!), and will continue doing so in the U.S. Senate. No one has done more for Alaska than “TRUMP,” including just securing 11 new Arctic Security Cutter Icebreakers, the first such ships bought in more than 40 years, and Dan Sullivan has been with us all the way. He is fighting hard to Grow our Economy, Lower Taxes, Cut Regulations, Help Secure our VERY Secure (Record Setting!) Border, Champion our Incredible Military/Veterans, Advance American Energy DOMINANCE by helping to keep the price of Gasoline, Oil, and all forms of Energy VERY LOW, and Defend our always under siege Second Amendment. Because of the trickery in the Voting, the Crooked, Radical Left Dumocrats have put up another man named “Dan Sullivan,” and they did this to take Votes away from our Great Senator of the same name. Democrats are trying to “trick” Alaskans, and treat Alaskan Voters with contempt. On Tuesday, August 18th, Alaskans, don’t be fooled. The Senator you want to vote for is: “SULLIVAN, DAN S. — REGISTERED REPUBLICAN/INCUMBENT” “SULLIVAN, DAN S” has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN! Find your Voting Location here: https:// swampthevoteusa.com/alaska/",
-      "translated": "参议员丹·沙利文（ Dan Sullivan ）代表阿拉斯加州做了出色的工作！在成为一位非常杰出和备受尊敬的参议员之前， Dan曾担任州检察长和阿拉斯加自然资源部专员。Dan是一位伟人，一直为阿拉斯加提供服务（我在2016年、2020年和2024年三次大获全胜！ ） ，并将继续在美国参议院这样做。没有人为您做过更多的事情",
-      "link": "https://trumpstruth.org/statuses/40921",
-      "published": "Mon, 17 Aug 2026 22:42:51 +0000"
+      "original": "[No Title] - Post from August 18, 2026",
+      "translated": "[No Title] - 2026年8月18日的帖子",
+      "link": "https://trumpstruth.org/statuses/40982",
+      "published": "Tue, 18 Aug 2026 23:08:53 +0000"
     }
   ]
 }
