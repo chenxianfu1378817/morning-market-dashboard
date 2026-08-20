@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-19 23:14",
+  "updated_at": "2026-08-20 23:17",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.1,
-      "feels_like": 31.7,
-      "code": 1,
-      "max": 34.2,
-      "min": 26.0,
-      "rain_probability": 66
+      "temperature": 26.0,
+      "feels_like": 29.9,
+      "code": 51,
+      "max": 31.9,
+      "min": 25.9,
+      "rain_probability": 100
     },
     {
       "name": "桂林",
-      "temperature": 27.4,
-      "feels_like": 31.3,
-      "code": 3,
-      "max": 35.0,
-      "min": 27.2,
-      "rain_probability": 45
+      "temperature": 27.6,
+      "feels_like": 31.0,
+      "code": 1,
+      "max": 35.6,
+      "min": 26.9,
+      "rain_probability": 63
     },
     {
       "name": "广州",
-      "temperature": 26.6,
-      "feels_like": 31.6,
-      "code": 0,
-      "max": 31.2,
-      "min": 26.2,
-      "rain_probability": 95
+      "temperature": 26.4,
+      "feels_like": 32.3,
+      "code": 3,
+      "max": 31.5,
+      "min": 25.7,
+      "rain_probability": 99
     },
     {
       "name": "深圳",
-      "temperature": 25.6,
-      "feels_like": 29.9,
-      "code": 51,
-      "max": 30.5,
-      "min": 25.6,
-      "rain_probability": 98
+      "temperature": 25.7,
+      "feels_like": 32.0,
+      "code": 3,
+      "max": 31.5,
+      "min": 24.9,
+      "rain_probability": 94
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 84.39,
-      "current_price": 84.43,
-      "previous_close": 84.94,
-      "change": -0.5499999999999972,
-      "change_pct": -0.6475158935719298,
-      "market_time": "08-19 23:04"
+      "price": 86.83,
+      "current_price": 86.32,
+      "previous_close": 85.83,
+      "change": 1.0,
+      "change_pct": 1.165093790050099,
+      "market_time": "08-20 23:06"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 91.62,
-      "current_price": 91.63,
-      "previous_close": 91.02,
-      "change": 0.6000000000000085,
-      "change_pct": 0.65919578114701,
-      "market_time": "08-19 23:04"
+      "price": 93.78,
+      "current_price": 93.32,
+      "previous_close": 91.62,
+      "change": 2.1599999999999966,
+      "change_pct": 2.357563850687619,
+      "market_time": "08-20 23:03"
     }
   ],
   "news": [
     {
-      "title": "美联邦政府债务首破40万亿美元大关，财政危机警报拉响",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680730.shtml",
-      "published": "Thu, 20 Aug 2026 06:58:55 +0800"
+      "title": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681393.shtml",
+      "published": "Fri, 21 Aug 2026 07:06:18 +0800"
     },
     {
-      "title": "“我和他相处得很好” 特朗普：预计今年晚些时候会见金正恩",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680728.shtml",
-      "published": "Thu, 20 Aug 2026 06:40:24 +0800"
+      "title": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
+      "published": "Fri, 21 Aug 2026 06:45:37 +0800"
     },
     {
-      "title": "知情人士：若美升级战事 伊朗考虑打击驻欧美军设施",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680727.shtml",
-      "published": "Thu, 20 Aug 2026 06:28:21 +0800"
+      "title": "吉尔吉斯斯坦欢迎中方对吉公民实施过境免签政策",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681389.shtml",
+      "published": "Fri, 21 Aug 2026 06:40:13 +0800"
     },
     {
-      "title": "“尼泊尔摄影记者镜头下的中国”摄影展开展",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680717.shtml",
-      "published": "Thu, 20 Aug 2026 06:26:51 +0800"
+      "title": "泰国政府官员中文学习班赴华学习",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681388.shtml",
+      "published": "Fri, 21 Aug 2026 06:39:27 +0800"
     },
     {
-      "title": "一乌克兰籍嫌疑人涉嫌参与“北溪”爆炸案被捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680718.shtml",
-      "published": "Thu, 20 Aug 2026 06:26:33 +0800"
+      "title": "今年上半年中国继续保持德国最大贸易伙伴",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681390.shtml",
+      "published": "Fri, 21 Aug 2026 06:38:02 +0800"
     },
     {
-      "title": "“看见西藏”故事分享会在尼泊尔举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-20/10680720.shtml",
-      "published": "Thu, 20 Aug 2026 06:21:09 +0800"
+      "title": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+      "published": "Fri, 21 Aug 2026 06:33:06 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "No one has given the Islamic Republic of Iran a greater opportunity to make a Deal than me. TRAGICALLY, for them, they have failed to take it. Therefore, today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER TAKEN AGAINST ANY COUNTRY! This will be Economic Warfare and Isolation on an unprecedented scale. Their navy is gone, their air force is destroyed, their military factories are now rubble, their currency is worthless, and their country is hanging by a thread. Today, I am also announcing that ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences. Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies — It all needs to stop NOW. You know who you are. This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat. These maniacs are on the ropes, and these HISTORIC MEASURES will cripple them and their ability to project terror worldwide. IRAN WILL NEVER HAVE A NUCLEAR WEAPON. THANK YOU FOR YOUR ATTENTION TO THIS MATTER. President DONALD J. TRUMP",
-      "translated": "没有人比我给伊朗伊斯兰共和国更大的机会达成协议。可悲的是，对他们来说，他们没有接受它。因此，今天，我宣布对任何国家采取有史以来最具破坏性的经济行动！这将是前所未有的经济战和孤立。他们的海军不复存在，他们的空军被摧毁，他们的军工厂现在是废墟，他们的货币一文不值，",
-      "link": "https://trumpstruth.org/statuses/41017",
-      "published": "Wed, 19 Aug 2026 22:59:02 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117130257407138275",
+      "link": "https://trumpstruth.org/statuses/41037",
+      "published": "Thu, 20 Aug 2026 22:52:35 +0000"
     },
     {
-      "original": "THE GREATEST RALLY OF THEM ALL THE MIDTERM CONVENTION is coming to Dallas, Texas, September 9th and 10th. It will be a Rally like never before — Incredible! For the first time EVER, Republicans from all across our Great Country will come together for a Midterm Convention to celebrate our Tremendous Victories and Success, showcase our incredible Candidates, and prepare for the most important Midterm Election in History. Our Movement is bigger, better, and stronger than ever before. We have MADE AMERICA GREAT AGAIN, AND WE ARE GOING TO CELEBRATE THIS TREMENDOUS AND TOTALLY UNPRECEDENTED SUCCESS! The Radical Left Lunatics are trying to destroy our Country, but they have failed, and will never be successful, unless we allow that to happen — AND WE WON’T! We are going to WIN the Midterms, protect and cherish our Country, and make it GREATER THAN EVER BEFORE. Be there, September 9th and 10th — It will be like nothing else. The Music, Excitement, and Importance of this Evening will be at levels never seen at a Convention or Political Event. I will be with you both nights, and rarin’ to go. See you in Dallas! President DONALD J. TRUMP https:// gopconvention.com",
-      "translated": "最伟大的中期大会将于9月9日和10日在德克萨斯州达拉斯举行。这将是一场前所未有的拉力赛—难以置信！有史以来第一次，来自我们伟大国家的共和党人将齐聚一堂，举行中期大会，庆祝我们的巨大胜利和成功，展示我们令人难以置信的候选人，并为历史上最重要的中期选举做准备。我们的运动更大，下注",
-      "link": "https://trumpstruth.org/statuses/41014",
-      "published": "Wed, 19 Aug 2026 21:52:12 +0000"
+      "original": "[No Title] - Post from August 20, 2026",
+      "translated": "[No Title] - 2026年8月20日的帖子",
+      "link": "https://trumpstruth.org/statuses/41036",
+      "published": "Thu, 20 Aug 2026 22:44:50 +0000"
     },
     {
-      "original": "[No Title] - Post from August 19, 2026",
-      "translated": "[No Title] - 2026年8月19日的帖子",
-      "link": "https://trumpstruth.org/statuses/41015",
-      "published": "Wed, 19 Aug 2026 21:50:57 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117129934429426476",
+      "link": "https://trumpstruth.org/statuses/41035",
+      "published": "Thu, 20 Aug 2026 21:23:19 +0000"
     },
     {
-      "original": "[No Title] - Post from August 19, 2026",
-      "translated": "[No Title] - 2026年8月19日的帖子",
-      "link": "https://trumpstruth.org/statuses/41016",
-      "published": "Wed, 19 Aug 2026 21:50:51 +0000"
+      "original": "[No Title] - Post from August 20, 2026",
+      "translated": "[No Title] - 2026年8月20日的帖子",
+      "link": "https://trumpstruth.org/statuses/41030",
+      "published": "Thu, 20 Aug 2026 21:22:42 +0000"
     },
     {
-      "original": "Today I am honored to nominate the wonderful Dr. Heidi Overton, MD, PhD, as our next FDA Commissioner. Dr. Heidi has been a ROCKSTAR in my Administration, where she has worked directly with Secretary Kennedy, Dr. Oz, and team, to deliver on the MOST TRANSFORMATIVE Health Agenda in History. She is known to take on the HARDEST issues, and bring me solutions that work best for the Country. Heidi is “ALWAYS RIGHT,” Secretary Kennedy recently said in the Oval Office! We need her leadership at the FDA now to ensure that the U.S. remains the WORLD LEADER for Scientific Discovery and CURES. Dr. Overton was a prestigious White House Fellow in my First Term, is a Board-Certified Physician in Public Health and General Preventive Medicine, and holds a Ph.D. in Clinical Investigations from the Johns Hopkins University. She is SMART and RESPECTED by all! Dr. Heidi will work with Secretary Kennedy and Dr. Oz to RAPIDLY deliver on my priorities of FASTER Cures, INCREASED American Innovation, MAJOR Clinical Trial Reforms, LOWER Drug Prices, and even more MAHA WINS! Dr. Overton will continue putting AMERICA FIRST, and creating a HEALTHY AMERICA. Congratulations to Dr. Heidi Overton! President DONALD J. TRUMP",
-      "translated": "今天，我很荣幸提名出色的Heidi Overton博士，医学博士，博士，为我们的下一任FDA专员。海蒂博士一直是我政府中的摇滚明星，她曾直接与肯尼迪国务卿、奥兹博士和团队合作，以实现历史上最具变革性的健康议程。众所周知，她处理最棘手的问题，并为我带来最适合该国的解决方案。海蒂“永远是对的” ，肯尼迪国务卿最近在",
-      "link": "https://trumpstruth.org/statuses/41013",
-      "published": "Wed, 19 Aug 2026 16:12:33 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117129931396749934",
+      "link": "https://trumpstruth.org/statuses/41031",
+      "published": "Thu, 20 Aug 2026 21:22:26 +0000"
     }
   ]
 }
