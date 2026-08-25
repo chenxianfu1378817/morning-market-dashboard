@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-24 23:15",
+  "updated_at": "2026-08-25 23:17",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.2,
-      "feels_like": 30.3,
+      "temperature": 26.5,
+      "feels_like": 32.6,
       "code": 3,
-      "max": 32.5,
-      "min": 24.9,
-      "rain_probability": 71
+      "max": 30.9,
+      "min": 25.9,
+      "rain_probability": 92
     },
     {
       "name": "桂林",
-      "temperature": 26.1,
-      "feels_like": 30.7,
+      "temperature": 26.0,
+      "feels_like": 31.6,
       "code": 2,
-      "max": 33.3,
-      "min": 25.4,
-      "rain_probability": 91
+      "max": 32.5,
+      "min": 25.7,
+      "rain_probability": 92
     },
     {
       "name": "广州",
-      "temperature": 26.9,
-      "feels_like": 33.3,
+      "temperature": 25.7,
+      "feels_like": 30.7,
       "code": 3,
-      "max": 33.3,
-      "min": 26.2,
-      "rain_probability": 82
+      "max": 30.5,
+      "min": 25.5,
+      "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 27.2,
-      "feels_like": 32.9,
-      "code": 3,
-      "max": 32.2,
-      "min": 26.2,
-      "rain_probability": 96
+      "temperature": 26.2,
+      "feels_like": 32.6,
+      "code": 55,
+      "max": 31.0,
+      "min": 25.8,
+      "rain_probability": 98
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 85.01,
-      "current_price": 85.11,
+      "price": 82.36,
+      "current_price": 80.98,
       "previous_close": 85.01,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "08-24 23:05"
+      "change": -2.6500000000000057,
+      "change_pct": -3.1172803199623638,
+      "market_time": "08-25 23:07"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 92.17,
-      "current_price": 92.13,
+      "price": 87.27,
+      "current_price": 85.86,
       "previous_close": 92.17,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "08-24 22:46"
+      "change": -4.900000000000006,
+      "change_pct": -5.316263426277536,
+      "market_time": "08-25 23:06"
     }
   ],
   "news": [
     {
-      "title": "美军再次在东太平洋打击“贩毒船” 致2人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683507.shtml",
-      "published": "Tue, 25 Aug 2026 06:59:16 +0800"
+      "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml",
+      "published": "Wed, 26 Aug 2026 07:00:36 +0800"
     },
     {
-      "title": "美方宣布对伊朗新一轮制裁措施 伊朗回应：已做好准备",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683506.shtml",
-      "published": "Tue, 25 Aug 2026 06:46:17 +0800"
+      "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml",
+      "published": "Wed, 26 Aug 2026 06:46:50 +0800"
     },
     {
-      "title": "以色列总理声称伊朗曾企图暗杀其子",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683504.shtml",
-      "published": "Tue, 25 Aug 2026 06:10:29 +0800"
+      "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml",
+      "published": "Wed, 26 Aug 2026 06:44:08 +0800"
     },
     {
-      "title": "加拿大总理：若美国拿出“正确态度” 将重返贸易谈判",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683503.shtml",
-      "published": "Tue, 25 Aug 2026 06:00:55 +0800"
+      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+      "published": "Wed, 26 Aug 2026 06:31:05 +0800"
     },
     {
-      "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683502.shtml",
-      "published": "Tue, 25 Aug 2026 05:59:32 +0800"
+      "title": "古巴谴责美国延长对古实施经济封锁",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+      "published": "Wed, 26 Aug 2026 05:56:21 +0800"
     },
     {
-      "title": "“赛考斯”重访殷玉珍家：美中两国人民可以成为一家人",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-25/10683500.shtml",
-      "published": "Tue, 25 Aug 2026 05:55:42 +0800"
+      "title": "中方呼吁推动停火止战以保障粮食生产安全",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+      "published": "Wed, 26 Aug 2026 05:54:15 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from August 24, 2026",
-      "translated": "[No Title] - 2026年8月24日的帖子",
-      "link": "https://trumpstruth.org/statuses/41180",
-      "published": "Mon, 24 Aug 2026 22:35:19 +0000"
+      "original": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP",
+      "translated": "非常悲伤地报告，最伟大的乡村歌手之一多莉·帕顿（ Dolly Parton ）刚刚去世。这对数百万人来说是一个真正的损失。从来没有像她这样的人，也永远不会有。为了向她致敬，我将从今晚6点开始在全美降下美国国旗，为期一周。安息吧，多莉！全世界都爱你。唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/41213",
+      "published": "Tue, 25 Aug 2026 18:32:56 +0000"
     },
     {
-      "original": "[No Title] - Post from August 24, 2026",
-      "translated": "[No Title] - 2026年8月24日的帖子",
-      "link": "https://trumpstruth.org/statuses/41176",
-      "published": "Mon, 24 Aug 2026 22:35:07 +0000"
+      "original": "[No Title] - Post from August 25, 2026",
+      "translated": "[No Title] - 2026年8月25日的帖子",
+      "link": "https://trumpstruth.org/statuses/41211",
+      "published": "Tue, 25 Aug 2026 18:19:49 +0000"
     },
     {
-      "original": "[No Title] - Post from August 24, 2026",
-      "translated": "[No Title] - 2026年8月24日的帖子",
-      "link": "https://trumpstruth.org/statuses/41177",
-      "published": "Mon, 24 Aug 2026 22:34:48 +0000"
+      "original": "[No Title] - Post from August 25, 2026",
+      "translated": "[No Title] - 2026年8月25日的帖子",
+      "link": "https://trumpstruth.org/statuses/41212",
+      "published": "Tue, 25 Aug 2026 18:19:39 +0000"
     },
     {
-      "original": "[No Title] - Post from August 24, 2026",
-      "translated": "[No Title] - 2026年8月24日的帖子",
-      "link": "https://trumpstruth.org/statuses/41178",
-      "published": "Mon, 24 Aug 2026 22:34:35 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
+      "link": "https://trumpstruth.org/statuses/41209",
+      "published": "Tue, 25 Aug 2026 15:47:02 +0000"
     },
     {
-      "original": "[No Title] - Post from August 24, 2026",
-      "translated": "[No Title] - 2026年8月24日的帖子",
-      "link": "https://trumpstruth.org/statuses/41179",
-      "published": "Mon, 24 Aug 2026 22:34:23 +0000"
+      "original": "[No Title] - Post from August 25, 2026",
+      "translated": "[No Title] - 2026年8月25日的帖子",
+      "link": "https://trumpstruth.org/statuses/41210",
+      "published": "Tue, 25 Aug 2026 15:46:50 +0000"
     }
   ]
 }
