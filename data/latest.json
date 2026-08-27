@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-25 23:17",
+  "updated_at": "2026-08-27 04:09",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.5,
-      "feels_like": 32.6,
-      "code": 3,
-      "max": 30.9,
-      "min": 25.9,
-      "rain_probability": 92
+      "temperature": 27.2,
+      "feels_like": 33.4,
+      "code": 51,
+      "max": 30.8,
+      "min": 25.7,
+      "rain_probability": 100
     },
     {
       "name": "桂林",
-      "temperature": 26.0,
-      "feels_like": 31.6,
+      "temperature": 32.0,
+      "feels_like": 38.8,
       "code": 2,
-      "max": 32.5,
-      "min": 25.7,
-      "rain_probability": 92
+      "max": 32.0,
+      "min": 25.9,
+      "rain_probability": 98
     },
     {
       "name": "广州",
-      "temperature": 25.7,
-      "feels_like": 30.7,
-      "code": 3,
-      "max": 30.5,
-      "min": 25.5,
+      "temperature": 27.4,
+      "feels_like": 33.7,
+      "code": 96,
+      "max": 30.1,
+      "min": 25.6,
       "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 26.2,
-      "feels_like": 32.6,
-      "code": 55,
-      "max": 31.0,
-      "min": 25.8,
-      "rain_probability": 98
+      "temperature": 26.4,
+      "feels_like": 31.6,
+      "code": 95,
+      "max": 29.5,
+      "min": 25.4,
+      "rain_probability": 100
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 82.36,
-      "current_price": 80.98,
-      "previous_close": 85.01,
-      "change": -2.6500000000000057,
-      "change_pct": -3.1172803199623638,
-      "market_time": "08-25 23:07"
+      "price": 82.23,
+      "current_price": 81.84,
+      "previous_close": 82.23,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "08-27 03:58"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 87.27,
-      "current_price": 85.86,
-      "previous_close": 92.17,
-      "change": -4.900000000000006,
-      "change_pct": -5.316263426277536,
-      "market_time": "08-25 23:06"
+      "price": 86.94,
+      "current_price": 86.51,
+      "previous_close": 87.84,
+      "change": -0.9000000000000057,
+      "change_pct": -1.0245901639344328,
+      "market_time": "08-27 03:55"
     }
   ],
   "news": [
     {
-      "title": "美国蒙大拿州家庭枪击惨案致9死 枪手杀害8名亲属后自杀",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684225.shtml",
-      "published": "Wed, 26 Aug 2026 07:00:36 +0800"
+      "title": "尼泊尔山洪已致162人死亡，484人失联",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685076.shtml",
+      "published": "Thu, 27 Aug 2026 11:26:59 +0800"
     },
     {
-      "title": "美移民执法局7月逮捕近5万人 创特朗普第二任期单月新高",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684224.shtml",
-      "published": "Wed, 26 Aug 2026 06:46:50 +0800"
+      "title": "韩国警方提请法院批捕中国留学生遇害案嫌疑人",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685077.shtml",
+      "published": "Thu, 27 Aug 2026 11:26:21 +0800"
     },
     {
-      "title": "加拿大宣布对价值约200亿美元美国商品征收报复性关税",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684222.shtml",
-      "published": "Wed, 26 Aug 2026 06:44:08 +0800"
+      "title": "积弊难除 日本自民党“进贡”丑闻持续发酵",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685064.shtml",
+      "published": "Thu, 27 Aug 2026 11:00:07 +0800"
     },
     {
-      "title": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
-      "published": "Wed, 26 Aug 2026 06:31:05 +0800"
+      "title": "尼泊尔山洪死亡人数增至162人",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685047.shtml",
+      "published": "Thu, 27 Aug 2026 10:47:56 +0800"
     },
     {
-      "title": "古巴谴责美国延长对古实施经济封锁",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
-      "published": "Wed, 26 Aug 2026 05:56:21 +0800"
+      "title": "约旦学者：期待约中进一步全面务实合作",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685045.shtml",
+      "published": "Thu, 27 Aug 2026 10:46:22 +0800"
     },
     {
-      "title": "中方呼吁推动停火止战以保障粮食生产安全",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
-      "published": "Wed, 26 Aug 2026 05:54:15 +0800"
+      "title": "日媒：因多器官功能衰竭 日本艺术家草间弥生去世",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-27/10685014.shtml",
+      "published": "Thu, 27 Aug 2026 10:14:52 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Very sad to report that Dolly Parton, one of the greatest Country singers, and far beyond, EVER, has just passed away. This is a true loss for millions of people. There has never been anyone like her, and never will. In her honor, I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM. Rest in Peace, Dolly! The World loves you. President DONALD J. TRUMP",
-      "translated": "非常悲伤地报告，最伟大的乡村歌手之一多莉·帕顿（ Dolly Parton ）刚刚去世。这对数百万人来说是一个真正的损失。从来没有像她这样的人，也永远不会有。为了向她致敬，我将从今晚6点开始在全美降下美国国旗，为期一周。安息吧，多莉！全世界都爱你。唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/41213",
-      "published": "Tue, 25 Aug 2026 18:32:56 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
+      "translated": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117165035124737967",
+      "link": "https://trumpstruth.org/statuses/41265",
+      "published": "Thu, 27 Aug 2026 02:09:26 +0000"
     },
     {
-      "original": "[No Title] - Post from August 25, 2026",
-      "translated": "[No Title] - 2026年8月25日的帖子",
-      "link": "https://trumpstruth.org/statuses/41211",
-      "published": "Tue, 25 Aug 2026 18:19:49 +0000"
+      "original": "[No Title] - Post from August 27, 2026",
+      "translated": "[No Title] - Post from August 27, 2026",
+      "link": "https://trumpstruth.org/statuses/41266",
+      "published": "Thu, 27 Aug 2026 02:09:16 +0000"
     },
     {
-      "original": "[No Title] - Post from August 25, 2026",
-      "translated": "[No Title] - 2026年8月25日的帖子",
-      "link": "https://trumpstruth.org/statuses/41212",
-      "published": "Tue, 25 Aug 2026 18:19:39 +0000"
+      "original": "USAID report finds more than 100 UNRWA employees participated in Hamas atrocities on Oct. 7: https:// justthenews.com/world/usaid-re port-finds-more-100-unrwa-employees-participated-hamas-atrocities-oct-7",
+      "translated": "USAID report finds more than 100 UNRWA employees participated in Hamas atrocities on Oct. 7: https:// justthenews.com/world/usaid-re port-finds-more-100-unrwa-employees-participated-hamas-atrocities-oct-7",
+      "link": "https://trumpstruth.org/statuses/41264",
+      "published": "Thu, 27 Aug 2026 01:30:58 +0000"
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117156925333799291",
-      "link": "https://trumpstruth.org/statuses/41209",
-      "published": "Tue, 25 Aug 2026 15:47:02 +0000"
+      "original": "Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge. During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP",
+      "translated": "Today, we honor the 13 brave American HEROES who were tragically killed five years ago by evil Jihadi terrorists in Kabul, Afghanistan. This catastrophe was a result of Sleepy Joe Biden’s totally botched Withdrawal from the Country, which left our wonderful Servicemen and women defenseless, and allowed the Taliban to free thousands of bloodthirsty terrorists and criminals held at Bagram Prison. This was one of the greatest atrocities in the History of our Nation, and we can never forget that it was the result of the sheer incompetence of Joe Biden and the Democrats who were in charge. During my 2024 Campaign, I met with the Abbey Gate Gold Star Families, wonderful people and Great Patriots, who were totally ignored and disrespected by the Democrat Party. I promised them we would deliver Justice when I returned to the White House — and we have! We quickly apprehended the evil mastermind responsible for the deaths of our Service members, and it has been one of my Greatest Honors as Commander in Chief. May God Bless America, and may God Bless the Abbey Gate Gold Star Families. You will NEVER be forgotten! President DONALD J. TRUMP",
+      "link": "https://trumpstruth.org/statuses/41263",
+      "published": "Wed, 26 Aug 2026 19:07:41 +0000"
     },
     {
-      "original": "[No Title] - Post from August 25, 2026",
-      "translated": "[No Title] - 2026年8月25日的帖子",
-      "link": "https://trumpstruth.org/statuses/41210",
-      "published": "Tue, 25 Aug 2026 15:46:50 +0000"
+      "original": "RT @ megforflorida President Donald J. Trump International Airport shining bright at night. A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+      "translated": "RT @ megforflorida President Donald J. Trump International Airport shining bright at night. A beautiful sign welcoming travelers as they approach the terminal! ✈️🇺🇸",
+      "link": "https://trumpstruth.org/statuses/41261",
+      "published": "Wed, 26 Aug 2026 16:42:55 +0000"
     }
   ]
 }
