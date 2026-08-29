@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-08-28 06:26",
+  "updated_at": "2026-08-29 03:58",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 29.4,
-      "feels_like": 37.1,
-      "code": 95,
-      "max": 30.9,
-      "min": 25.6,
-      "rain_probability": 92
-    },
-    {
-      "name": "桂林",
       "temperature": 30.0,
-      "feels_like": 37.2,
-      "code": 95,
-      "max": 32.8,
-      "min": 25.5,
+      "feels_like": 35.7,
+      "code": 3,
+      "max": 34.1,
+      "min": 25.0,
       "rain_probability": 100
     },
     {
+      "name": "桂林",
+      "temperature": 33.5,
+      "feels_like": 38.6,
+      "code": 2,
+      "max": 35.7,
+      "min": 25.2,
+      "rain_probability": 49
+    },
+    {
       "name": "广州",
-      "temperature": 32.1,
-      "feels_like": 39.1,
-      "code": 3,
-      "max": 32.5,
-      "min": 25.4,
-      "rain_probability": 92
+      "temperature": 33.2,
+      "feels_like": 42.3,
+      "code": 2,
+      "max": 33.9,
+      "min": 26.1,
+      "rain_probability": 84
     },
     {
       "name": "深圳",
-      "temperature": 30.2,
-      "feels_like": 36.3,
-      "code": 96,
-      "max": 31.2,
-      "min": 26.1,
-      "rain_probability": 84
+      "temperature": 30.6,
+      "feels_like": 38.8,
+      "code": 95,
+      "max": 30.8,
+      "min": 26.0,
+      "rain_probability": 97
     }
   ],
   "oil": [
@@ -44,85 +44,85 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 83.53,
-      "current_price": 83.03,
+      "current_price": 83.44,
       "previous_close": 83.53,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-28 06:15"
+      "market_time": "08-28 20:59"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 88.52,
-      "current_price": 88.16,
+      "current_price": 88.29,
       "previous_close": 89.7,
       "change": -1.1800000000000068,
       "change_pct": -1.3154960981048014,
-      "market_time": "08-28 06:14"
+      "market_time": "08-28 20:59"
     }
   ],
   "news": [
     {
-      "title": "伊朗官员称已与阿曼就在霍尔木兹海峡开辟临时航道达成协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685797.shtml",
-      "published": "Fri, 28 Aug 2026 14:03:35 +0800"
+      "title": "第十届中欧健康研讨会在布鲁塞尔举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686313.shtml",
+      "published": "Sat, 29 Aug 2026 11:26:22 +0800"
     },
     {
-      "title": "韩国一工厂发生火灾 已致1死2失踪",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685754.shtml",
-      "published": "Fri, 28 Aug 2026 12:53:03 +0800"
+      "title": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686297.shtml",
+      "published": "Sat, 29 Aug 2026 11:25:38 +0800"
     },
     {
-      "title": "毛里塔尼亚拦截一艘载有161人的移民船",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685719.shtml",
-      "published": "Fri, 28 Aug 2026 12:35:00 +0800"
+      "title": "被曝考虑2028年竞选美国总统 美防长回应",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686292.shtml",
+      "published": "Sat, 29 Aug 2026 09:48:32 +0800"
     },
     {
-      "title": "日本东京都23区8月核心CPI同比上涨1.8%",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685716.shtml",
-      "published": "Fri, 28 Aug 2026 11:20:03 +0800"
+      "title": "特朗普签署行政令 启动筹建“美国太空学院”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686282.shtml",
+      "published": "Sat, 29 Aug 2026 09:30:21 +0800"
     },
     {
-      "title": "尼日利亚绑匪过去一年收取赎金580万美元",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685677.shtml",
-      "published": "Fri, 28 Aug 2026 11:17:39 +0800"
+      "title": "特朗普宣布：美委达成\"世界史上最大石油协议\"",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686272.shtml",
+      "published": "Sat, 29 Aug 2026 08:58:34 +0800"
     },
     {
-      "title": "德国一学校发生暴力事件致两人死亡 嫌疑人已被捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-28/10685676.shtml",
-      "published": "Fri, 28 Aug 2026 11:16:59 +0800"
+      "title": "伊朗最高领袖发声：禁止任何有损社会凝聚力的行为",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686265.shtml",
+      "published": "Sat, 29 Aug 2026 08:30:15 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from August 28, 2026",
-      "translated": "[No Title] - 2026年8月28日的帖子",
-      "link": "https://trumpstruth.org/statuses/41302",
-      "published": "Fri, 28 Aug 2026 02:17:04 +0000"
+      "original": "Governor Kathy Hochul is for Canada, a Country that has been ripping off New York State for years, especially under her Administration, instead of the good ‘ol U.S.A. Can you imagine her saying that she won’t respect or acknowledge LAKE AMERICA. That’s why the Dumocrats are so bad for our Country. Vote for Bruce Blakeman for Governor of New York. He has my Complete and Total Endorsement, and will never let you down! President DJT",
+      "translated": "州长凯西·霍丘尔（ Kathy Hochul ）支持加拿大，这个国家多年来一直在剥夺纽约州的利益，特别是在她的领导下，而不是美好的美国。你能想象她说她不会尊重或承认美国湖吗？这就是为什么Dumocrats对我们的国家如此糟糕。为纽约州州长布鲁斯·布莱克曼投票。他有我的完全和全面的支持，永远不会让你失望！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/41359",
+      "published": "Sat, 29 Aug 2026 02:22:03 +0000"
     },
     {
-      "original": "[No Title] - Post from August 28, 2026",
-      "translated": "[No Title] - 2026年8月28日的帖子",
-      "link": "https://trumpstruth.org/statuses/41300",
-      "published": "Fri, 28 Aug 2026 01:24:52 +0000"
+      "original": "Very sad to hear about the passing of King Harald of Norway — A strong, proud, and greatly respected man. He loved his Country, and was truly loved and respected by his people. Our hearts are with the Royal Family, and all of Norway, during this difficult time. A truly BIG loss! President DONALD J. TRUMP",
+      "translated": "听到挪威国王哈拉尔德逝世的消息，我感到非常难过。哈拉尔德是一位坚强、自豪和备受尊敬的人。他热爱自己的国家，真正受到人民的爱戴和尊重。在这个艰难的时刻，我们与王室和整个挪威同在。真是一大损失！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/41358",
+      "published": "Sat, 29 Aug 2026 01:45:49 +0000"
     },
     {
-      "original": "[No Title] - Post from August 28, 2026",
-      "translated": "[No Title] - 2026年8月28日的帖子",
-      "link": "https://trumpstruth.org/statuses/41301",
-      "published": "Fri, 28 Aug 2026 01:24:42 +0000"
+      "original": "Our deal with Venezuela is the biggest oil deal, by far, in World history! President DJT",
+      "translated": "我们与委内瑞拉的交易是迄今为止世界历史上最大的石油交易！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/41357",
+      "published": "Sat, 29 Aug 2026 00:21:20 +0000"
     },
     {
-      "original": "Gregg Jarrett was GREAT on Sean Hannity tonight. He really gets it — A total pro! President DJT",
-      "translated": "格雷格·贾勒特（ Gregg Jarrett ）今晚在肖恩·汉尼提（ Se他真的明白了—绝对是专业人士！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/41299",
-      "published": "Fri, 28 Aug 2026 01:16:24 +0000"
+      "original": "BREAKING NEWS: The United States of America has just entered into an Agreement with the Country of Venezuela on, THE BIGGEST OIL DEAL IN WORLD HISTORY! At my direction, Secretary of State Marco Rubio, and Secretary of War Pete Hegseth, working closely with Highly Respected Interim President of Venezuela, Delcy Rodriguez, and, through a partnership with private business, have secured majority U.S. control of more than 65 BILLION BARRELS of proven Oil Reserves in Venezuela, at no cost to the American Taxpayer. This Historic Transaction MORE THAN DOUBLES American Oil Reserves, greatly increases our Oil Supply, and will substantially lower Gas Prices for all Americans, long into the future, while helping to continue to set Venezuela on a course toward Tremendous Success and Great Prosperity. This Transaction will greatly strengthen the already growing relationship between Venezuela and the United States! Thank you for your attention to this groundbreaking matter. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "translated": "突发新闻：美利坚合众国刚刚与委内瑞拉达成协议，这是世界历史上最大的石油交易！在我的指导下，国务卿马可·卢比奥和战争部长皮特·黑格塞斯与委内瑞拉备受尊敬的临时总统德尔西·罗德里格斯密切合作，并通过与私营企业的合作，确保了美国对超过650亿桶已证实的",
+      "link": "https://trumpstruth.org/statuses/41356",
+      "published": "Fri, 28 Aug 2026 22:47:42 +0000"
     },
     {
-      "original": "[No Title] - Post from August 27, 2026",
-      "translated": "[No Title] - 2026年8月27日的帖子",
-      "link": "https://trumpstruth.org/statuses/41297",
-      "published": "Thu, 27 Aug 2026 22:38:48 +0000"
+      "original": "Stupid Governor Kathy Hochul, who doesn’t care about New York State, has announced that she is on the side of Canada, which has been ripping us off for decades on Trade and Tariffs, with a specific target of Hochul and her State. They’re aiming at her because they consider her Weak and Ineffective — Not nice! She doesn’t want us to use the name, “Lake America,” she’d rather have Canada get a win. That’s the problem with Governor Hochul, and many other Dumocrats. She allows other Countries and States to take advantage of New York, which gets treated like “garbage.” They laugh at us up and down what was once called, “Lake Ontario,” what is now called “Lake America.” That is why Bruce Blakeman is going to be your next Governor. He’s an “animal,” he fights like hell, he doesn’t let anyone else win. He’s for the people. He’s smart and cunning, and will Lower your Taxes, and Stop Crime. VOTE FOR BRUCE BLAKEMAN! President DONALD J. TRUMP",
+      "translated": "不关心纽约州的愚蠢州长凯西·霍丘尔（ Kathy Hochul ）宣布，她站在加拿大一边，加拿大几十年来一直在贸易和关税问题上剥夺我们的权利，其具体目标是霍丘尔和她的州。他们之所以瞄准她，是因为他们认为她软弱无能--不好！她不希望我们使用“美国湖”这个名字，她宁愿让加拿大获胜。这就是Hochul州长的问题，许多人",
+      "link": "https://trumpstruth.org/statuses/41355",
+      "published": "Fri, 28 Aug 2026 21:17:20 +0000"
     }
   ]
 }
