@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-30 00:55",
+  "updated_at": "2026-08-31 01:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 28.9,
-      "feels_like": 32.5,
+      "temperature": 27.0,
+      "feels_like": 31.3,
       "code": 3,
-      "max": 31.1,
-      "min": 25.8,
-      "rain_probability": 82
+      "max": 31.7,
+      "min": 24.1,
+      "rain_probability": 90
     },
     {
       "name": "桂林",
-      "temperature": 25.2,
-      "feels_like": 29.6,
-      "code": 51,
-      "max": 30.0,
-      "min": 24.9,
-      "rain_probability": 100
+      "temperature": 27.5,
+      "feels_like": 30.3,
+      "code": 1,
+      "max": 29.8,
+      "min": 25.0,
+      "rain_probability": 26
     },
     {
       "name": "广州",
-      "temperature": 27.4,
-      "feels_like": 34.9,
-      "code": 95,
-      "max": 29.5,
-      "min": 25.2,
-      "rain_probability": 87
+      "temperature": 27.8,
+      "feels_like": 33.3,
+      "code": 3,
+      "max": 29.3,
+      "min": 25.3,
+      "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 26.2,
-      "feels_like": 31.6,
+      "temperature": 27.0,
+      "feels_like": 32.7,
       "code": 3,
-      "max": 28.9,
-      "min": 25.5,
-      "rain_probability": 80
+      "max": 29.7,
+      "min": 25.1,
+      "rain_probability": 99
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 83.53,
-      "current_price": 83.4,
-      "previous_close": 83.53,
+      "price": 83.4,
+      "current_price": 84.31,
+      "previous_close": 83.4,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-28 20:59"
+      "market_time": "08-31 00:50"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 88.52,
-      "current_price": 88.1,
-      "previous_close": 89.7,
-      "change": -1.1800000000000068,
-      "change_pct": -1.3154960981048014,
-      "market_time": "08-28 20:59"
+      "price": 88.1,
+      "current_price": 89.22,
+      "previous_close": 89.31,
+      "change": -1.210000000000008,
+      "change_pct": -1.3548314858358617,
+      "market_time": "08-31 00:50"
     }
   ],
   "news": [
     {
-      "title": "尼日尔军方称逮捕多名企图发动兵变的士兵",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686613.shtml",
-      "published": "Sun, 30 Aug 2026 06:46:05 +0800"
+      "title": "美大峡谷国家公园突发山洪，至少15人失联",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686995.shtml",
+      "published": "Mon, 31 Aug 2026 08:01:13 +0800"
     },
     {
-      "title": "美称与委内瑞拉达成石油协议 被批“公然盗窃”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686612.shtml",
-      "published": "Sun, 30 Aug 2026 06:43:37 +0800"
+      "title": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686991.shtml",
+      "published": "Mon, 31 Aug 2026 07:52:10 +0800"
     },
     {
-      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-30/10686611.shtml",
-      "published": "Sun, 30 Aug 2026 06:16:53 +0800"
+      "title": "塞浦路斯渡轮倾覆事件已致8人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686976.shtml",
+      "published": "Mon, 31 Aug 2026 07:21:36 +0800"
     },
     {
-      "title": "记者手记：在尼泊尔灾区，我带5名获救同胞回“加”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686602.shtml",
-      "published": "Sat, 29 Aug 2026 23:07:06 +0800"
+      "title": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686974.shtml",
+      "published": "Mon, 31 Aug 2026 07:15:00 +0800"
     },
     {
-      "title": "中国新能源公交车驶入比什凯克市民日常",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686579.shtml",
-      "published": "Sat, 29 Aug 2026 21:56:46 +0800"
+      "title": "美国大峡谷国家公园突发山洪 超20人失联",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686971.shtml",
+      "published": "Mon, 31 Aug 2026 06:42:43 +0800"
     },
     {
-      "title": "普京试驾新款汽车，称赞“驾驶体验非常好”、当场签名（图）",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-29/10686544.shtml",
-      "published": "Sat, 29 Aug 2026 20:28:04 +0800"
+      "title": "塞浦路斯渡轮倾覆事故已致7人死亡23人失踪",
+      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686970.shtml",
+      "published": "Mon, 31 Aug 2026 06:39:33 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from August 29, 2026",
-      "translated": "[No Title] - 2026年8月29日的帖子",
-      "link": "https://trumpstruth.org/statuses/41374",
-      "published": "Sat, 29 Aug 2026 21:36:35 +0000"
+      "original": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
+      "translated": "多年来，美国与加拿大每年损失超过600亿美元。为什么？ ？ ？我们很久以前被盗的业务现在回到美国，以避免支付关税。他们正在排队，就像世界其他地方一样！ ！ ！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/41405",
+      "published": "Mon, 31 Aug 2026 00:26:05 +0000"
     },
     {
-      "original": "NASA Administrator Jared Isaacman, Secretary of Education Linda McMahon, Stephanie McMahon, and Triple H, at Kennedy Space Center! President DONALD J. TRUMP",
-      "translated": "美国宇航局局长贾里德·艾萨克曼（ Jared Isaacman ）、教育部长琳达·麦克马洪（ Linda McMahon ）、斯蒂芬妮·麦克马洪（ Stephanie McMahon ）和唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/41373",
-      "published": "Sat, 29 Aug 2026 18:43:49 +0000"
+      "original": "Governor Kathy Hochul just released 7000 hard core criminals onto the streets on New York. What is wrong with her? She is grossly incompetent and must be voted out of office! President DJT",
+      "translated": "州长凯西·霍丘尔（ Kathy Hochul ）刚刚在纽约街头释放了7000名核心罪犯。她怎么了？她严重不称职，必须被投票淘汰！ DJT总裁",
+      "link": "https://trumpstruth.org/statuses/41404",
+      "published": "Mon, 31 Aug 2026 00:18:14 +0000"
     },
     {
-      "original": "At the request of the PGA Tour, and its Great new Commissioner, Brian Rolapp, it is my Honor to accept being the Honorary Chairman of the upcoming Presidents Cup, which will take place at the Medinah Country Club in Chicago. This will be a particularly exciting event. Both teams are “loaded” with Talent. I look forward to being there, and greeting all of these fantastic athletes, on both teams! Thank you for your attention to this matter. See you in Chicago! President DONALD J. TRUMP",
-      "translated": "应PGA巡回赛及其伟大的新任专员Brian Rolapp的要求，我荣幸地接受担任即将在芝加哥麦地那乡村俱乐部举行的总统杯名誉主席。这将是一次特别令人兴奋的活动。两支球队都“充满”人才。我期待着到场，并欢迎两支球队所有这些出色的运动员！感谢您对此事的关注。再见",
-      "link": "https://trumpstruth.org/statuses/41372",
-      "published": "Sat, 29 Aug 2026 18:10:12 +0000"
+      "original": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: https://www. amazon.com/dp/B0GXNLZ6W8?lv=sh uf&channelId=500&plpRedirect=mhFallback",
+      "translated": "泰德·克鲁兹（ Ted Cruz ）的一本精彩的新书，讲述了一位伟大的最高法院大法官克拉伦斯·托马斯（ Clarence Thomas ）的故事，这本书刚刚出版！它讲述了托马斯大法官崛起的真实故事，以及他为美国所做的所有美好事情。必读！立即获取副本： https://amazon.com/dp/B0GXNLZ6W8?lv=sh uf&channelId = 500 & plpRedirect = mhFallback",
+      "link": "https://trumpstruth.org/statuses/41403",
+      "published": "Sun, 30 Aug 2026 23:56:46 +0000"
     },
     {
-      "original": "Jared Isaacman, the Head of NASA, yesterday, at NASA Mission Control! President DONALD J. TRUMP",
-      "translated": "昨天， NASA任务控制中心的NASA负责人Jared Isaacman ！唐纳德· J ·特朗普总统",
-      "link": "https://trumpstruth.org/statuses/41367",
-      "published": "Sat, 29 Aug 2026 15:17:24 +0000"
+      "original": "Kennedy Center is an old and decrepit building that is badly in need of a major construction and public relations fix before it can attain greatness and prestige, perhaps far greater than ever before. It has been losing a fortune for many years, and will continue to do so if the highly conflicted judge on the case doesn’t allow us to do what has to be done!",
+      "translated": "肯尼迪中心是一座古老而破旧的建筑，在获得伟大和声望之前，迫切需要进行重大的建筑和公共关系修复，也许比以往任何时候都要高得多。它已经失去了很多年的财富，如果案件中高度冲突的法官不允许我们做必须做的事情，它将继续这样做！",
+      "link": "https://trumpstruth.org/statuses/41402",
+      "published": "Sun, 30 Aug 2026 23:03:57 +0000"
     },
     {
-      "original": "[No Title] - Post from August 29, 2026",
-      "translated": "[No Title] - 2026年8月29日的帖子",
-      "link": "https://trumpstruth.org/statuses/41368",
-      "published": "Sat, 29 Aug 2026 15:17:15 +0000"
+      "original": "Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP",
+      "translated": "看看破坏者对连接被破坏的第二次世界大战纪念碑和被破坏的反射池的草地做了什么，这个池子很快就会再次开放，而且比以往任何时候都要好。任何认为反射池没有被破坏的人都应该回到法学院！草地即将更换，反射池几乎完全固定，包括我们在年底节省的各种流入和流出管道，",
+      "link": "https://trumpstruth.org/statuses/41401",
+      "published": "Sun, 30 Aug 2026 22:48:48 +0000"
     }
   ]
 }
