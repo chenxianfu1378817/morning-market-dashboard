@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-08-31 01:00",
+  "updated_at": "2026-09-01 01:31",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.0,
-      "feels_like": 31.3,
+      "temperature": 27.4,
+      "feels_like": 29.7,
       "code": 3,
-      "max": 31.7,
-      "min": 24.1,
-      "rain_probability": 90
+      "max": 31.6,
+      "min": 23.6,
+      "rain_probability": 13
     },
     {
       "name": "桂林",
-      "temperature": 27.5,
-      "feels_like": 30.3,
+      "temperature": 26.3,
+      "feels_like": 26.6,
       "code": 1,
-      "max": 29.8,
-      "min": 25.0,
-      "rain_probability": 26
+      "max": 27.9,
+      "min": 24.1,
+      "rain_probability": 8
     },
     {
       "name": "广州",
-      "temperature": 27.8,
-      "feels_like": 33.3,
-      "code": 3,
-      "max": 29.3,
-      "min": 25.3,
-      "rain_probability": 100
+      "temperature": 28.2,
+      "feels_like": 30.8,
+      "code": 1,
+      "max": 31.1,
+      "min": 24.6,
+      "rain_probability": 96
     },
     {
       "name": "深圳",
-      "temperature": 27.0,
-      "feels_like": 32.7,
-      "code": 3,
-      "max": 29.7,
-      "min": 25.1,
-      "rain_probability": 99
+      "temperature": 25.9,
+      "feels_like": 29.9,
+      "code": 53,
+      "max": 27.8,
+      "min": 24.9,
+      "rain_probability": 95
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 83.4,
-      "current_price": 84.31,
-      "previous_close": 83.4,
+      "price": 85.76,
+      "current_price": 86.59,
+      "previous_close": 85.76,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "08-31 00:50"
+      "market_time": "09-01 01:21"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 88.1,
-      "current_price": 89.22,
-      "previous_close": 89.31,
-      "change": -1.210000000000008,
-      "change_pct": -1.3548314858358617,
-      "market_time": "08-31 00:50"
+      "price": 88.37,
+      "current_price": 88.88,
+      "previous_close": 88.37,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "09-01 01:18"
     }
   ],
   "news": [
     {
-      "title": "美大峡谷国家公园突发山洪，至少15人失联",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686995.shtml",
-      "published": "Mon, 31 Aug 2026 08:01:13 +0800"
+      "title": "特朗普判“伊朗已死”，内塔尼亚胡自曝：为让美伊对抗，我在美国电视出镜近1000小时，阿拉格奇痛斥“双面人”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687609.shtml",
+      "published": "Tue, 1 Sep 2026 07:58:27 +0800"
     },
     {
-      "title": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686991.shtml",
-      "published": "Mon, 31 Aug 2026 07:52:10 +0800"
+      "title": "巴西金融市场下调今年通胀和经济增长预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687590.shtml",
+      "published": "Tue, 1 Sep 2026 07:52:44 +0800"
     },
     {
-      "title": "塞浦路斯渡轮倾覆事件已致8人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686976.shtml",
-      "published": "Mon, 31 Aug 2026 07:21:36 +0800"
+      "title": "德国8月通胀率升至2.9%",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687589.shtml",
+      "published": "Tue, 1 Sep 2026 07:51:24 +0800"
     },
     {
-      "title": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686974.shtml",
-      "published": "Mon, 31 Aug 2026 07:15:00 +0800"
+      "title": "一女子在纽约时报广场持刀刺伤两人，致一人死亡，后被警方击毙",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687592.shtml",
+      "published": "Tue, 1 Sep 2026 07:26:13 +0800"
     },
     {
-      "title": "美国大峡谷国家公园突发山洪 超20人失联",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686971.shtml",
-      "published": "Mon, 31 Aug 2026 06:42:43 +0800"
+      "title": "美国大峡谷国家公园山洪已致2人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687588.shtml",
+      "published": "Tue, 1 Sep 2026 06:58:09 +0800"
     },
     {
-      "title": "塞浦路斯渡轮倾覆事故已致7人死亡23人失踪",
-      "link": "https://www.chinanews.com.cn/gj/2026/08-31/10686970.shtml",
-      "published": "Mon, 31 Aug 2026 06:39:33 +0800"
+      "title": "美防长被爆考虑参加2028年总统竞选 特朗普最新回应",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687586.shtml",
+      "published": "Tue, 1 Sep 2026 06:45:46 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the World!!! President DJT",
-      "translated": "多年来，美国与加拿大每年损失超过600亿美元。为什么？ ？ ？我们很久以前被盗的业务现在回到美国，以避免支付关税。他们正在排队，就像世界其他地方一样！ ！ ！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/41405",
-      "published": "Mon, 31 Aug 2026 00:26:05 +0000"
+      "original": "I just had a GREAT and very interesting meeting with my Hollywood Ambassador and Movie Legend, Jon Voight! He is a fantastic man who loves our Country, and feels strongly about the Motion Picture and Television Industry. He hates what’s happened to it! It is being dissipated in its entirety. It has moved to Canada, and other Countries, with very little work being done anymore in the United States. Hollywood is a Complete and Total Disaster! Despite the name, it is getting very little work. There is no incentive to be there, and it is hurting California very badly. Jon, and many others in the Industry, are suggesting we do Federal Tax Incentives in order to Make our Movie and Television Production Business GREAT AGAIN, perhaps GREATER THAN EVER BEFORE! The amount of money spent on Tax Incentives will be made up tenfold by the money pouring into the Treasury’s coffers. Meetings are being set up with the Leaders of both Parties in order to get this done. It should be Bipartisan, especially since so much money is being lost in California, and other largely Blue States. I am going to suggest that Republicans and Democrats get together, and immediately craft Legislation to save the Movie, Television, and Entertainment Business in America. Congress should approve, immediately, a Federal Production Incentive to create Entertainment Jobs in America. It can be done quickly, accurately, efficiently and, importantly, will benefit ALL of America. What we watch on the Silver Screen should be made in what was once the Movie and Motion Picture Capital of the World. Let’s get this done! President DONALD J. TRUMP",
+      "translated": "我刚刚与我的好莱坞大使和电影传奇人物Jon Voight进行了一次非常有趣的会面！他是一个非常棒的人，热爱我们的国家，对电影和电视行业有着强烈的感情。他讨厌它发生了什么事！它正在被完全消散。它已经转移到加拿大和其他国家，在美国的工作已经很少了。好莱坞是一场彻头彻尾的灾难！德斯皮",
+      "link": "https://trumpstruth.org/statuses/41438",
+      "published": "Mon, 31 Aug 2026 22:10:13 +0000"
     },
     {
-      "original": "Governor Kathy Hochul just released 7000 hard core criminals onto the streets on New York. What is wrong with her? She is grossly incompetent and must be voted out of office! President DJT",
-      "translated": "州长凯西·霍丘尔（ Kathy Hochul ）刚刚在纽约街头释放了7000名核心罪犯。她怎么了？她严重不称职，必须被投票淘汰！ DJT总裁",
-      "link": "https://trumpstruth.org/statuses/41404",
-      "published": "Mon, 31 Aug 2026 00:18:14 +0000"
+      "original": "I am pleased to report that the United States Supreme Court has just ruled in favor of the Ballroom/Military Complex being built without any further contingency, doubt, or threat. We are living in the Golden Age of America, and this Building will be one of the Greatest ever constructed in Washington, D.C. When completed in the Summer of 2028, the magnificent Ballroom and Military Complex will be something that the entire Country is very proud of. The Project, despite the baseless lawsuit brought by the so-called National Trust for Historic Preservation of the United States, which is not in any way affiliated with the United States Government, is under budget and ahead of schedule. The Ballroom is totally funded by Great Patriots and Corporations and, therefore, is a Gift — At no cost to the American Taxpayer. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "我很高兴地报告，美国最高法院刚刚裁定赞成在没有任何进一步的意外、怀疑或威胁的情况下建造宴会厅/军事综合体。我们生活在美国的黄金时代，这座建筑将是华盛顿特区有史以来最伟大的建筑之一。2028年夏季完工后，宏伟的宴会厅和军事综合体将成为整个国家非常自豪的东西。",
+      "link": "https://trumpstruth.org/statuses/41437",
+      "published": "Mon, 31 Aug 2026 21:24:33 +0000"
     },
     {
-      "original": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy now: https://www. amazon.com/dp/B0GXNLZ6W8?lv=sh uf&channelId=500&plpRedirect=mhFallback",
-      "translated": "泰德·克鲁兹（ Ted Cruz ）的一本精彩的新书，讲述了一位伟大的最高法院大法官克拉伦斯·托马斯（ Clarence Thomas ）的故事，这本书刚刚出版！它讲述了托马斯大法官崛起的真实故事，以及他为美国所做的所有美好事情。必读！立即获取副本： https://amazon.com/dp/B0GXNLZ6W8?lv=sh uf&channelId = 500 & plpRedirect = mhFallback",
-      "link": "https://trumpstruth.org/statuses/41403",
-      "published": "Sun, 30 Aug 2026 23:56:46 +0000"
+      "original": "RT @ realDonaldTrump The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT",
+      "translated": "RT @ realDonaldTrump美国各地的社区不应该想要数据中心的唯一原因是他们最终想要落后和贫穷。如果他们想要成功和富裕，税收和工作机会都要低得多，那就让数据统治吧。好消息是，还有很多其他地方需要它们。如果我们杀了金鹅，你们就只能怪自己了。中国对这种反数据非常满意",
+      "link": "https://trumpstruth.org/statuses/41430",
+      "published": "Mon, 31 Aug 2026 15:36:12 +0000"
     },
     {
-      "original": "Kennedy Center is an old and decrepit building that is badly in need of a major construction and public relations fix before it can attain greatness and prestige, perhaps far greater than ever before. It has been losing a fortune for many years, and will continue to do so if the highly conflicted judge on the case doesn’t allow us to do what has to be done!",
-      "translated": "肯尼迪中心是一座古老而破旧的建筑，在获得伟大和声望之前，迫切需要进行重大的建筑和公共关系修复，也许比以往任何时候都要高得多。它已经失去了很多年的财富，如果案件中高度冲突的法官不允许我们做必须做的事情，它将继续这样做！",
-      "link": "https://trumpstruth.org/statuses/41402",
-      "published": "Sun, 30 Aug 2026 23:03:57 +0000"
+      "original": "RT @ realDonaldTrump Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP",
+      "translated": "RT @ realDonaldTrump伊朗正式成为一个失败的国家。它死了！他们没有海军，他们没有空军，他们没有货币，他们没有支付士兵或警察，通货膨胀率达到300 ％ ，他们的领导力完全混乱，无法代表国家。他们唯一拥有的是来自美国的假新闻，他们愿意杀死他们的抗议者（现在超过10万人死亡）。他们必须因战争罪受审",
+      "link": "https://trumpstruth.org/statuses/41431",
+      "published": "Mon, 31 Aug 2026 15:36:09 +0000"
     },
     {
-      "original": "Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool, which will be opened again, and better than ever, shortly. Anybody who thinks the Reflecting Pool wasn’t vandalized should go back to Law School! The grass is being replaced shortly, and the Reflecting Pool is almost completely fixed, including the various inflow and outflow pipes, which we were saving for the end of the year, but will do now. President DONALD J. TRUMP",
-      "translated": "看看破坏者对连接被破坏的第二次世界大战纪念碑和被破坏的反射池的草地做了什么，这个池子很快就会再次开放，而且比以往任何时候都要好。任何认为反射池没有被破坏的人都应该回到法学院！草地即将更换，反射池几乎完全固定，包括我们在年底节省的各种流入和流出管道，",
-      "link": "https://trumpstruth.org/statuses/41401",
-      "published": "Sun, 30 Aug 2026 22:48:48 +0000"
+      "original": "[No Title] - Post from August 31, 2026",
+      "translated": "[No Title] - 2026年8月31日的帖子",
+      "link": "https://trumpstruth.org/statuses/41432",
+      "published": "Mon, 31 Aug 2026 15:35:39 +0000"
     }
   ]
 }
