@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-01 01:31",
+  "updated_at": "2026-09-02 00:41",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.4,
-      "feels_like": 29.7,
-      "code": 3,
-      "max": 31.6,
-      "min": 23.6,
-      "rain_probability": 13
+      "temperature": 24.2,
+      "feels_like": 25.4,
+      "code": 2,
+      "max": 31.5,
+      "min": 22.6,
+      "rain_probability": 2
     },
     {
       "name": "桂林",
-      "temperature": 26.3,
-      "feels_like": 26.6,
-      "code": 1,
-      "max": 27.9,
-      "min": 24.1,
-      "rain_probability": 8
+      "temperature": 23.8,
+      "feels_like": 24.3,
+      "code": 0,
+      "max": 28.7,
+      "min": 20.8,
+      "rain_probability": 10
     },
     {
       "name": "广州",
-      "temperature": 28.2,
-      "feels_like": 30.8,
-      "code": 1,
-      "max": 31.1,
-      "min": 24.6,
-      "rain_probability": 96
+      "temperature": 23.6,
+      "feels_like": 26.3,
+      "code": 51,
+      "max": 30.1,
+      "min": 22.2,
+      "rain_probability": 70
     },
     {
       "name": "深圳",
-      "temperature": 25.9,
-      "feels_like": 29.9,
-      "code": 53,
-      "max": 27.8,
-      "min": 24.9,
-      "rain_probability": 95
+      "temperature": 24.3,
+      "feels_like": 27.5,
+      "code": 3,
+      "max": 29.3,
+      "min": 23.1,
+      "rain_probability": 71
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 85.76,
-      "current_price": 86.59,
+      "price": 90.22,
+      "current_price": 91.28,
       "previous_close": 85.76,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "09-01 01:21"
+      "change": 4.459999999999994,
+      "change_pct": 5.20055970149253,
+      "market_time": "09-02 00:31"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 88.37,
-      "current_price": 88.88,
-      "previous_close": 88.37,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "09-01 01:18"
+      "price": 94.65,
+      "current_price": 95.78,
+      "previous_close": 90.49,
+      "change": 4.160000000000011,
+      "change_pct": 4.597193060006643,
+      "market_time": "09-02 00:31"
     }
   ],
   "news": [
     {
-      "title": "特朗普判“伊朗已死”，内塔尼亚胡自曝：为让美伊对抗，我在美国电视出镜近1000小时，阿拉格奇痛斥“双面人”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687609.shtml",
-      "published": "Tue, 1 Sep 2026 07:58:27 +0800"
+      "title": "美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
+      "published": "Wed, 2 Sep 2026 07:38:56 +0800"
     },
     {
-      "title": "巴西金融市场下调今年通胀和经济增长预期",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687590.shtml",
-      "published": "Tue, 1 Sep 2026 07:52:44 +0800"
+      "title": "希奇莱马宣誓就任赞比亚总统 开启第二个五年任期",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
+      "published": "Wed, 2 Sep 2026 07:36:36 +0800"
     },
     {
-      "title": "德国8月通胀率升至2.9%",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687589.shtml",
-      "published": "Tue, 1 Sep 2026 07:51:24 +0800"
+      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
+      "published": "Wed, 2 Sep 2026 07:33:40 +0800"
     },
     {
-      "title": "一女子在纽约时报广场持刀刺伤两人，致一人死亡，后被警方击毙",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687592.shtml",
-      "published": "Tue, 1 Sep 2026 07:26:13 +0800"
+      "title": "英国首相伯纳姆在议会发表声明 阐述施政方向",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
+      "published": "Wed, 2 Sep 2026 07:33:16 +0800"
     },
     {
-      "title": "美国大峡谷国家公园山洪已致2人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687588.shtml",
-      "published": "Tue, 1 Sep 2026 06:58:09 +0800"
+      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
+      "published": "Wed, 2 Sep 2026 07:32:52 +0800"
     },
     {
-      "title": "美防长被爆考虑参加2028年总统竞选 特朗普最新回应",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-01/10687586.shtml",
-      "published": "Tue, 1 Sep 2026 06:45:46 +0800"
+      "title": "中国第二批援尼紧急援助物资雨中运抵加德满都",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
+      "published": "Wed, 2 Sep 2026 07:32:28 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "I just had a GREAT and very interesting meeting with my Hollywood Ambassador and Movie Legend, Jon Voight! He is a fantastic man who loves our Country, and feels strongly about the Motion Picture and Television Industry. He hates what’s happened to it! It is being dissipated in its entirety. It has moved to Canada, and other Countries, with very little work being done anymore in the United States. Hollywood is a Complete and Total Disaster! Despite the name, it is getting very little work. There is no incentive to be there, and it is hurting California very badly. Jon, and many others in the Industry, are suggesting we do Federal Tax Incentives in order to Make our Movie and Television Production Business GREAT AGAIN, perhaps GREATER THAN EVER BEFORE! The amount of money spent on Tax Incentives will be made up tenfold by the money pouring into the Treasury’s coffers. Meetings are being set up with the Leaders of both Parties in order to get this done. It should be Bipartisan, especially since so much money is being lost in California, and other largely Blue States. I am going to suggest that Republicans and Democrats get together, and immediately craft Legislation to save the Movie, Television, and Entertainment Business in America. Congress should approve, immediately, a Federal Production Incentive to create Entertainment Jobs in America. It can be done quickly, accurately, efficiently and, importantly, will benefit ALL of America. What we watch on the Silver Screen should be made in what was once the Movie and Motion Picture Capital of the World. Let’s get this done! President DONALD J. TRUMP",
-      "translated": "我刚刚与我的好莱坞大使和电影传奇人物Jon Voight进行了一次非常有趣的会面！他是一个非常棒的人，热爱我们的国家，对电影和电视行业有着强烈的感情。他讨厌它发生了什么事！它正在被完全消散。它已经转移到加拿大和其他国家，在美国的工作已经很少了。好莱坞是一场彻头彻尾的灾难！德斯皮",
-      "link": "https://trumpstruth.org/statuses/41438",
-      "published": "Mon, 31 Aug 2026 22:10:13 +0000"
+      "original": "I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5 Million Dollars to assist recovery efforts from the severe storms, winds, tornadoes, and flooding that hit them hard. Texas is a special place, and I will be back soon to support Governor Abbott, Lieutenant Governor Dan Patrick, Ken Paxton for U.S. Senate, and the entire ticket of Republican Candidates, who have my Complete and Total Endorsement. See you soon! President DONALD J. TRUMP",
+      "translated": "我刚刚通知了伟大的德克萨斯州州长格雷格·阿博特（ Greg Abbott ） （他得到了我对连任的完全和全面支持！ ） ，我将捐赠5050万美元，以帮助他们从严重的风暴、风暴、龙卷风和洪水中恢复过来。德克萨斯州是一个特殊的地方，我很快就会回来支持州长阿博特，副州长丹·帕特里克，肯·帕克斯顿为美国参议院，以及共和党坦率",
+      "link": "https://www.trumpstruth.org/statuses/41474",
+      "published": "Tue, 01 Sep 2026 22:42:32 +0000"
     },
     {
-      "original": "I am pleased to report that the United States Supreme Court has just ruled in favor of the Ballroom/Military Complex being built without any further contingency, doubt, or threat. We are living in the Golden Age of America, and this Building will be one of the Greatest ever constructed in Washington, D.C. When completed in the Summer of 2028, the magnificent Ballroom and Military Complex will be something that the entire Country is very proud of. The Project, despite the baseless lawsuit brought by the so-called National Trust for Historic Preservation of the United States, which is not in any way affiliated with the United States Government, is under budget and ahead of schedule. The Ballroom is totally funded by Great Patriots and Corporations and, therefore, is a Gift — At no cost to the American Taxpayer. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "我很高兴地报告，美国最高法院刚刚裁定赞成在没有任何进一步的意外、怀疑或威胁的情况下建造宴会厅/军事综合体。我们生活在美国的黄金时代，这座建筑将是华盛顿特区有史以来最伟大的建筑之一。2028年夏季完工后，宏伟的宴会厅和军事综合体将成为整个国家非常自豪的东西。",
-      "link": "https://trumpstruth.org/statuses/41437",
-      "published": "Mon, 31 Aug 2026 21:24:33 +0000"
+      "original": "I just spoke with Governor Kelly Armstrong, of the beautiful State of North Dakota, and told him I am approving 3.4 Million Dollars for the severe storms, winds, and tornadoes they recently experienced. I love the people of North Dakota, which I won BIG all three times. MAGA! President DONALD J. TRUMP",
+      "translated": "我刚刚与美丽的北达科他州州长凯利·阿姆斯特朗（ Kelly Armstrong ）进行了交谈，并告诉他，我将为他们最近经历的严重风暴、风和龙卷风批准340万美元。我爱北达科他州的人民，我三次都赢得了大奖。MAGA ！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41473",
+      "published": "Tue, 01 Sep 2026 22:34:44 +0000"
     },
     {
-      "original": "RT @ realDonaldTrump The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign. The good news is that there are plenty of other places that want them. If we kill the Golden Goose, you will only have yourselves to blame. China could not be happier with this anti Data Center movement. Actually, they can’t believe it is happening! President DJT",
-      "translated": "RT @ realDonaldTrump美国各地的社区不应该想要数据中心的唯一原因是他们最终想要落后和贫穷。如果他们想要成功和富裕，税收和工作机会都要低得多，那就让数据统治吧。好消息是，还有很多其他地方需要它们。如果我们杀了金鹅，你们就只能怪自己了。中国对这种反数据非常满意",
-      "link": "https://trumpstruth.org/statuses/41430",
-      "published": "Mon, 31 Aug 2026 15:36:12 +0000"
+      "original": "I just informed Senator Roger Marshall, who has my Complete and Total Endorsement, that I am granting 13.2 Million Dollars and, separately, 7.3 Million Dollars, to help the wonderful people of Kansas recover from the TWO storms that hit their State this summer, causing severe winds, tornadoes, and flooding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "我刚刚通知参议员罗杰·马歇尔（ Roger Marshall ） ，他得到了我的完全和全面支持，我将捐赠1320万美元，并分别捐赠730万美元，以帮助堪萨斯州的优秀人民从今年夏天袭击他们州的两场风暴中恢复过来，这两场风暴造成了强风、龙卷风和洪水。感谢您关注此事！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41472",
+      "published": "Tue, 01 Sep 2026 22:29:08 +0000"
     },
     {
-      "original": "RT @ realDonaldTrump Iran is officially a Failed Nation. IT IS DEAD! They have no Navy, they have no Air Force, they have no currency, they are not paying their soldiers or police, Inflation is at 300%, and their leadership is in total disarray and incapable of properly representing the country. The only thing they have is FAKE NEWS from the USA, a willingness to kill their protesters (now over 100,000 people dead. They must be tried for war crimes against humanity!), and a good line of “BULLSHIT.” Thank you for your attention to this matter! President DONALD J.TRUMP",
-      "translated": "RT @ realDonaldTrump伊朗正式成为一个失败的国家。它死了！他们没有海军，他们没有空军，他们没有货币，他们没有支付士兵或警察，通货膨胀率达到300 ％ ，他们的领导力完全混乱，无法代表国家。他们唯一拥有的是来自美国的假新闻，他们愿意杀死他们的抗议者（现在超过10万人死亡）。他们必须因战争罪受审",
-      "link": "https://trumpstruth.org/statuses/41431",
-      "published": "Mon, 31 Aug 2026 15:36:09 +0000"
+      "original": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
+      "translated": "我刚刚通知州长Mike Kehoe ，我正在批准为密苏里州拨款190万美元，以帮助他们在最近经历的严重风暴、风暴和洪水后的恢复工作。密苏里州人民坚强、聪明、真正伟大的爱国者--我永远不会让你失望！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41471",
+      "published": "Tue, 01 Sep 2026 22:23:20 +0000"
     },
     {
-      "original": "[No Title] - Post from August 31, 2026",
-      "translated": "[No Title] - 2026年8月31日的帖子",
-      "link": "https://trumpstruth.org/statuses/41432",
-      "published": "Mon, 31 Aug 2026 15:35:39 +0000"
+      "original": "I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storms, winds, tornadoes, and flooding. I am also granting 1.7 Million Dollars to the Oglala Sioux Tribe for severe storms, tornadoes, and flooding — I have asked the Governor to so inform the Tribe. South Dakota is a special place, which I won by Historic Margins, three times, and I will always deliver BIG for them! President DONALD J. TRUMP",
+      "translated": "我刚刚与南达科他州州长拉里·罗登（ Larry Rhoden ）进行了交谈，并告诉他，我将批准340万美元用于应对严重的风暴、风暴、龙卷风和洪水。我还向Oglala Sioux部落拨款170万美元，用于严重的风暴，龙卷风和洪水—我已经要求总督通知部落。南达科他州是一个特别的地方，我三次赢得Historic Margins ，我将始终提供",
+      "link": "https://www.trumpstruth.org/statuses/41470",
+      "published": "Tue, 01 Sep 2026 22:18:07 +0000"
     }
   ]
 }
