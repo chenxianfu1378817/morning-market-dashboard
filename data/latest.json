@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-02 00:41",
+  "updated_at": "2026-09-03 00:52",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.2,
-      "feels_like": 25.4,
-      "code": 2,
-      "max": 31.5,
-      "min": 22.6,
-      "rain_probability": 2
+      "temperature": 24.8,
+      "feels_like": 26.5,
+      "code": 0,
+      "max": 31.3,
+      "min": 22.4,
+      "rain_probability": 4
     },
     {
       "name": "桂林",
-      "temperature": 23.8,
-      "feels_like": 24.3,
-      "code": 0,
-      "max": 28.7,
-      "min": 20.8,
-      "rain_probability": 10
+      "temperature": 22.2,
+      "feels_like": 24.4,
+      "code": 3,
+      "max": 26.0,
+      "min": 20.3,
+      "rain_probability": 61
     },
     {
       "name": "广州",
-      "temperature": 23.6,
-      "feels_like": 26.3,
-      "code": 51,
-      "max": 30.1,
-      "min": 22.2,
-      "rain_probability": 70
+      "temperature": 26.0,
+      "feels_like": 27.9,
+      "code": 3,
+      "max": 30.4,
+      "min": 23.8,
+      "rain_probability": 18
     },
     {
       "name": "深圳",
-      "temperature": 24.3,
-      "feels_like": 27.5,
+      "temperature": 25.5,
+      "feels_like": 28.2,
       "code": 3,
-      "max": 29.3,
-      "min": 23.1,
-      "rain_probability": 71
+      "max": 30.3,
+      "min": 23.3,
+      "rain_probability": 4
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.22,
-      "current_price": 91.28,
-      "previous_close": 85.76,
-      "change": 4.459999999999994,
-      "change_pct": 5.20055970149253,
-      "market_time": "09-02 00:31"
+      "price": 91.01,
+      "current_price": 90.8,
+      "previous_close": 90.22,
+      "change": 0.7900000000000063,
+      "change_pct": 0.8756373309687501,
+      "market_time": "09-03 00:42"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 94.65,
-      "current_price": 95.78,
-      "previous_close": 90.49,
-      "change": 4.160000000000011,
-      "change_pct": 4.597193060006643,
-      "market_time": "09-02 00:31"
+      "price": 95.63,
+      "current_price": 95.27,
+      "previous_close": 94.65,
+      "change": 0.9799999999999898,
+      "change_pct": 1.03539355520337,
+      "market_time": "09-03 00:40"
     }
   ],
   "news": [
     {
-      "title": "美众议院通过临时拨款法案，以避免政府在中期选举前“停摆”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688381.shtml",
-      "published": "Wed, 2 Sep 2026 07:38:56 +0800"
+      "title": "世界粮食计划署证实援助卡车在苏丹遭空袭",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689197.shtml",
+      "published": "Thu, 3 Sep 2026 08:28:36 +0800"
     },
     {
-      "title": "希奇莱马宣誓就任赞比亚总统 开启第二个五年任期",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688379.shtml",
-      "published": "Wed, 2 Sep 2026 07:36:36 +0800"
+      "title": "刚果（金）埃博拉疫情死亡病例超3000例 “红区”学校复课",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689188.shtml",
+      "published": "Thu, 3 Sep 2026 08:26:22 +0800"
     },
     {
-      "title": "德国指认俄涉莱比锡机场袭击并宣布反制措施",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688374.shtml",
-      "published": "Wed, 2 Sep 2026 07:33:40 +0800"
+      "title": "柬埔寨发布《2026—2035年国家地雷行动政策》",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689178.shtml",
+      "published": "Thu, 3 Sep 2026 08:26:00 +0800"
     },
     {
-      "title": "英国首相伯纳姆在议会发表声明 阐述施政方向",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688373.shtml",
-      "published": "Wed, 2 Sep 2026 07:33:16 +0800"
+      "title": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689206.shtml",
+      "published": "Thu, 3 Sep 2026 08:14:47 +0800"
     },
     {
-      "title": "“开学第一课”：俄宇航员与学生定下五年中文之约",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688372.shtml",
-      "published": "Wed, 2 Sep 2026 07:32:52 +0800"
+      "title": "突发：美国土安全部长所乘飞机因故障紧急降落",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689182.shtml",
+      "published": "Thu, 3 Sep 2026 07:20:38 +0800"
     },
     {
-      "title": "中国第二批援尼紧急援助物资雨中运抵加德满都",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-02/10688371.shtml",
-      "published": "Wed, 2 Sep 2026 07:32:28 +0800"
+      "title": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689175.shtml",
+      "published": "Thu, 3 Sep 2026 07:00:39 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "I just informed Governor Greg Abbott, of the GREAT State of Texas (who has my Complete and Total Endorsement for Re-Election!), that I am sending 50.5 Million Dollars to assist recovery efforts from the severe storms, winds, tornadoes, and flooding that hit them hard. Texas is a special place, and I will be back soon to support Governor Abbott, Lieutenant Governor Dan Patrick, Ken Paxton for U.S. Senate, and the entire ticket of Republican Candidates, who have my Complete and Total Endorsement. See you soon! President DONALD J. TRUMP",
-      "translated": "我刚刚通知了伟大的德克萨斯州州长格雷格·阿博特（ Greg Abbott ） （他得到了我对连任的完全和全面支持！ ） ，我将捐赠5050万美元，以帮助他们从严重的风暴、风暴、龙卷风和洪水中恢复过来。德克萨斯州是一个特殊的地方，我很快就会回来支持州长阿博特，副州长丹·帕特里克，肯·帕克斯顿为美国参议院，以及共和党坦率",
-      "link": "https://www.trumpstruth.org/statuses/41474",
-      "published": "Tue, 01 Sep 2026 22:42:32 +0000"
+      "original": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "Apple Maps刚刚宣布将安大略湖的名称改为美国湖，因此现在Google Maps和Apple Maps之间非常重要的名称变更已经完成、批准并具有约束力。感谢您关注此事！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41487",
+      "published": "Wed, 02 Sep 2026 20:09:30 +0000"
     },
     {
-      "original": "I just spoke with Governor Kelly Armstrong, of the beautiful State of North Dakota, and told him I am approving 3.4 Million Dollars for the severe storms, winds, and tornadoes they recently experienced. I love the people of North Dakota, which I won BIG all three times. MAGA! President DONALD J. TRUMP",
-      "translated": "我刚刚与美丽的北达科他州州长凯利·阿姆斯特朗（ Kelly Armstrong ）进行了交谈，并告诉他，我将为他们最近经历的严重风暴、风和龙卷风批准340万美元。我爱北达科他州的人民，我三次都赢得了大奖。MAGA ！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41473",
-      "published": "Tue, 01 Sep 2026 22:34:44 +0000"
+      "original": "Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ever before! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "现在我们在美国控制之下，我们是否应该将霍尔木兹海峡改名为特朗普海峡？ ？ ？就像美国本身一样，它将比以往任何时候都“更热” ！感谢您关注此事。唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41486",
+      "published": "Wed, 02 Sep 2026 15:23:35 +0000"
     },
     {
-      "original": "I just informed Senator Roger Marshall, who has my Complete and Total Endorsement, that I am granting 13.2 Million Dollars and, separately, 7.3 Million Dollars, to help the wonderful people of Kansas recover from the TWO storms that hit their State this summer, causing severe winds, tornadoes, and flooding. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "我刚刚通知参议员罗杰·马歇尔（ Roger Marshall ） ，他得到了我的完全和全面支持，我将捐赠1320万美元，并分别捐赠730万美元，以帮助堪萨斯州的优秀人民从今年夏天袭击他们州的两场风暴中恢复过来，这两场风暴造成了强风、龙卷风和洪水。感谢您关注此事！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41472",
-      "published": "Tue, 01 Sep 2026 22:29:08 +0000"
+      "original": "We have hundreds of happy construction workers in D.C. busily doing their job building the finest Ballroom/Military complex anywhere in the World. There is nothing like it, and never will be! It was a long, hard, fight in the Court System, but the winner is, as always under “TRUMP,” the U.S.A. Also, it is important to remember, the Ballroom is a 400 Million Dollar gift the America! President DJT",
+      "translated": "我们在华盛顿特区有数百名快乐的建筑工人，他们正忙于建造世界上最好的宴会厅/军事综合体。没有什么比得上它，永远都不会！在法院系统中，这是一场漫长而艰苦的斗争，但胜利者一如既往地在“特朗普”统治下是美国。此外，重要的是要记住，宴会厅是美国4亿美元的礼物！",
+      "link": "https://www.trumpstruth.org/statuses/41485",
+      "published": "Wed, 02 Sep 2026 14:36:22 +0000"
     },
     {
-      "original": "I just informed Governor Mike Kehoe that I am approving 19.9 Million Dollars for the Great State of Missouri, in order to assist recovery efforts after the severe storms, winds, and flooding they have recently experienced. The people of Missouri are tough, smart, and truly Great Patriots — I will never let you down! President DONALD J. TRUMP",
-      "translated": "我刚刚通知州长Mike Kehoe ，我正在批准为密苏里州拨款190万美元，以帮助他们在最近经历的严重风暴、风暴和洪水后的恢复工作。密苏里州人民坚强、聪明、真正伟大的爱国者--我永远不会让你失望！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41471",
-      "published": "Tue, 01 Sep 2026 22:23:20 +0000"
+      "original": "Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: https:// justthenews.com/government/whi te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing",
+      "translated": "基督教领袖敦促特朗普为面临反犹太主义的犹太加拿大人创造法律途径： https://justthenews.com/government/whi te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing",
+      "link": "https://www.trumpstruth.org/statuses/41482",
+      "published": "Wed, 02 Sep 2026 11:59:15 +0000"
     },
     {
-      "original": "I just spoke with Governor Larry Rhoden, of the Great State of South Dakota, and informed him that I am approving 3.4 Million Dollars for severe storms, winds, tornadoes, and flooding. I am also granting 1.7 Million Dollars to the Oglala Sioux Tribe for severe storms, tornadoes, and flooding — I have asked the Governor to so inform the Tribe. South Dakota is a special place, which I won by Historic Margins, three times, and I will always deliver BIG for them! President DONALD J. TRUMP",
-      "translated": "我刚刚与南达科他州州长拉里·罗登（ Larry Rhoden ）进行了交谈，并告诉他，我将批准340万美元用于应对严重的风暴、风暴、龙卷风和洪水。我还向Oglala Sioux部落拨款170万美元，用于严重的风暴，龙卷风和洪水—我已经要求总督通知部落。南达科他州是一个特别的地方，我三次赢得Historic Margins ，我将始终提供",
-      "link": "https://www.trumpstruth.org/statuses/41470",
-      "published": "Tue, 01 Sep 2026 22:18:07 +0000"
+      "original": "Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: https:// justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
+      "translated": "更便宜的药物，更便宜的牛肉，更便宜的汽油。特朗普在劳动节前排队购买力下降： https://justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
+      "link": "https://www.trumpstruth.org/statuses/41483",
+      "published": "Wed, 02 Sep 2026 11:58:57 +0000"
     }
   ]
 }
