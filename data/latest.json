@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-03 00:52",
+  "updated_at": "2026-09-04 00:32",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.8,
-      "feels_like": 26.5,
-      "code": 0,
-      "max": 31.3,
-      "min": 22.4,
-      "rain_probability": 4
+      "temperature": 24.6,
+      "feels_like": 27.0,
+      "code": 2,
+      "max": 27.8,
+      "min": 22.9,
+      "rain_probability": 20
     },
     {
       "name": "桂林",
-      "temperature": 22.2,
-      "feels_like": 24.4,
-      "code": 3,
-      "max": 26.0,
-      "min": 20.3,
-      "rain_probability": 61
+      "temperature": 21.5,
+      "feels_like": 24.7,
+      "code": 53,
+      "max": 26.1,
+      "min": 20.4,
+      "rain_probability": 90
     },
     {
       "name": "广州",
-      "temperature": 26.0,
-      "feels_like": 27.9,
+      "temperature": 24.7,
+      "feels_like": 27.8,
       "code": 3,
-      "max": 30.4,
-      "min": 23.8,
-      "rain_probability": 18
+      "max": 28.9,
+      "min": 23.7,
+      "rain_probability": 29
     },
     {
       "name": "深圳",
-      "temperature": 25.5,
-      "feels_like": 28.2,
+      "temperature": 26.0,
+      "feels_like": 29.4,
       "code": 3,
-      "max": 30.3,
-      "min": 23.3,
-      "rain_probability": 4
+      "max": 29.5,
+      "min": 24.2,
+      "rain_probability": 2
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 91.01,
-      "current_price": 90.8,
-      "previous_close": 90.22,
-      "change": 0.7900000000000063,
-      "change_pct": 0.8756373309687501,
-      "market_time": "09-03 00:42"
+      "price": 91.3,
+      "current_price": 91.57,
+      "previous_close": 91.01,
+      "change": 0.28999999999999204,
+      "change_pct": 0.31864630260410065,
+      "market_time": "09-04 00:22"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 95.63,
-      "current_price": 95.27,
-      "previous_close": 94.65,
-      "change": 0.9799999999999898,
-      "change_pct": 1.03539355520337,
-      "market_time": "09-03 00:40"
+      "price": 95.52,
+      "current_price": 95.74,
+      "previous_close": 95.63,
+      "change": -0.10999999999999943,
+      "change_pct": -0.11502666527240346,
+      "market_time": "09-04 00:22"
     }
   ],
   "news": [
     {
-      "title": "世界粮食计划署证实援助卡车在苏丹遭空袭",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689197.shtml",
-      "published": "Thu, 3 Sep 2026 08:28:36 +0800"
+      "title": "尼日利亚发生非法装卸石油制品事件至少43人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690020.shtml",
+      "published": "Fri, 4 Sep 2026 08:26:28 +0800"
     },
     {
-      "title": "刚果（金）埃博拉疫情死亡病例超3000例 “红区”学校复课",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689188.shtml",
-      "published": "Thu, 3 Sep 2026 08:26:22 +0800"
+      "title": "河南文旅推介会亮相印尼　爪哇岛劲吹“河洛风”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689990.shtml",
+      "published": "Fri, 4 Sep 2026 08:26:04 +0800"
     },
     {
-      "title": "柬埔寨发布《2026—2035年国家地雷行动政策》",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689178.shtml",
-      "published": "Thu, 3 Sep 2026 08:26:00 +0800"
+      "title": "德国多家机构上调2026年本国经济增长预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689989.shtml",
+      "published": "Fri, 4 Sep 2026 08:25:40 +0800"
     },
     {
-      "title": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689206.shtml",
-      "published": "Thu, 3 Sep 2026 08:14:47 +0800"
+      "title": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689988.shtml",
+      "published": "Fri, 4 Sep 2026 08:25:02 +0800"
     },
     {
-      "title": "突发：美国土安全部长所乘飞机因故障紧急降落",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689182.shtml",
-      "published": "Thu, 3 Sep 2026 07:20:38 +0800"
+      "title": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690013.shtml",
+      "published": "Fri, 4 Sep 2026 07:54:24 +0800"
     },
     {
-      "title": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689175.shtml",
-      "published": "Thu, 3 Sep 2026 07:00:39 +0800"
+      "title": "特朗普任命美代理陆军部长",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690000.shtml",
+      "published": "Fri, 4 Sep 2026 07:32:57 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "Apple Maps刚刚宣布将安大略湖的名称改为美国湖，因此现在Google Maps和Apple Maps之间非常重要的名称变更已经完成、批准并具有约束力。感谢您关注此事！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41487",
-      "published": "Wed, 02 Sep 2026 20:09:30 +0000"
+      "original": "I am pleased to announce that Adam Telle, the current Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army, effective immediately. He is a Great Patriot, who is respected by all. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "我很高兴地宣布，现任陆军土木工程助理部长Adam Telle将担任陆军代理部长，立即生效。他是一位伟大的爱国者，受到所有人的尊重。感谢您关注此事！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41497",
+      "published": "Thu, 03 Sep 2026 22:37:01 +0000"
     },
     {
-      "original": "Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be “hotter” than ever before! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "现在我们在美国控制之下，我们是否应该将霍尔木兹海峡改名为特朗普海峡？ ？ ？就像美国本身一样，它将比以往任何时候都“更热” ！感谢您关注此事。唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41486",
-      "published": "Wed, 02 Sep 2026 15:23:35 +0000"
+      "original": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
+      "translated": "对于像卡尼总理这样的加拿大政治家来说，让唐纳德· J ·特朗普总统成为“敌人”是非常好的，直到他们的经济崩溃，然后它将被证明对政治非常不利—比加拿大政治家曾经发生过的任何事情都要糟糕。观看！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41496",
+      "published": "Thu, 03 Sep 2026 15:14:24 +0000"
     },
     {
-      "original": "We have hundreds of happy construction workers in D.C. busily doing their job building the finest Ballroom/Military complex anywhere in the World. There is nothing like it, and never will be! It was a long, hard, fight in the Court System, but the winner is, as always under “TRUMP,” the U.S.A. Also, it is important to remember, the Ballroom is a 400 Million Dollar gift the America! President DJT",
-      "translated": "我们在华盛顿特区有数百名快乐的建筑工人，他们正忙于建造世界上最好的宴会厅/军事综合体。没有什么比得上它，永远都不会！在法院系统中，这是一场漫长而艰苦的斗争，但胜利者一如既往地在“特朗普”统治下是美国。此外，重要的是要记住，宴会厅是美国4亿美元的礼物！",
-      "link": "https://www.trumpstruth.org/statuses/41485",
-      "published": "Wed, 02 Sep 2026 14:36:22 +0000"
+      "original": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for — If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "对于拒绝准确报告我们在伊朗的军事行动的叛国败类，我们拥有几乎无限数量的中高等级弹药，远远超过我们对此或任何其他战争（这是极不可能的！ ）所能使用的数量。此外，我们正在以前所未有的水平生产弹药。我们正在储备并准备应对可能发生的任何突发事件。我们带他们去",
+      "link": "https://www.trumpstruth.org/statuses/41494",
+      "published": "Thu, 03 Sep 2026 14:56:21 +0000"
     },
     {
-      "original": "Christian leaders urge Trump to create legal pathway for Jewish Canadians facing antisemitism: https:// justthenews.com/government/whi te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing",
-      "translated": "基督教领袖敦促特朗普为面临反犹太主义的犹太加拿大人创造法律途径： https://justthenews.com/government/whi te-house/christian-leaders-urge-trump-create-legal-pathway-jewish-canadians-facing",
-      "link": "https://www.trumpstruth.org/statuses/41482",
-      "published": "Wed, 02 Sep 2026 11:59:15 +0000"
+      "original": "The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it because they would rather see the United States LOSE a War that we’re easily WINNING, than see me WIN! President DONALD J. TRUMP",
+      "translated": "人们和媒体不断抨击我们没有弹药的事实（他们100%错了！ ） ，实际上是叛国。他们这样做是因为他们宁愿看到美国输掉一场我们很容易赢的战争，也不愿看到我赢！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41495",
+      "published": "Thu, 03 Sep 2026 14:55:53 +0000"
     },
     {
-      "original": "Cheaper drugs, cheaper beef, cheaper gas. Trump lines up fall affordability before Labor Day: https:// justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
-      "translated": "更便宜的药物，更便宜的牛肉，更便宜的汽油。特朗普在劳动节前排队购买力下降： https://justthenews.com/government/whi te-house/cheaper-drugs-cheaper-beef-cheaper-gas-trump-lines-his-fall-affordability",
-      "link": "https://www.trumpstruth.org/statuses/41483",
-      "published": "Wed, 02 Sep 2026 11:58:57 +0000"
+      "original": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
+      "translated": "当Lutnick说没有人被杀时，他想到了委内瑞拉。伊朗有18人被杀！",
+      "link": "https://www.trumpstruth.org/statuses/41493",
+      "published": "Thu, 03 Sep 2026 11:31:17 +0000"
     }
   ]
 }
