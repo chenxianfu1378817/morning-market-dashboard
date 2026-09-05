@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-04 00:32",
+  "updated_at": "2026-09-05 00:29",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.6,
-      "feels_like": 27.0,
-      "code": 2,
-      "max": 27.8,
-      "min": 22.9,
-      "rain_probability": 20
+      "temperature": 23.2,
+      "feels_like": 27.1,
+      "code": 53,
+      "max": 27.6,
+      "min": 22.8,
+      "rain_probability": 91
     },
     {
       "name": "桂林",
-      "temperature": 21.5,
-      "feels_like": 24.7,
-      "code": 53,
-      "max": 26.1,
-      "min": 20.4,
-      "rain_probability": 90
+      "temperature": 22.9,
+      "feels_like": 24.5,
+      "code": 1,
+      "max": 27.7,
+      "min": 20.8,
+      "rain_probability": 99
     },
     {
       "name": "广州",
-      "temperature": 24.7,
-      "feels_like": 27.8,
-      "code": 3,
-      "max": 28.9,
-      "min": 23.7,
-      "rain_probability": 29
+      "temperature": 26.2,
+      "feels_like": 31.6,
+      "code": 1,
+      "max": 31.8,
+      "min": 23.4,
+      "rain_probability": 79
     },
     {
       "name": "深圳",
-      "temperature": 26.0,
-      "feels_like": 29.4,
+      "temperature": 26.5,
+      "feels_like": 32.2,
       "code": 3,
-      "max": 29.5,
-      "min": 24.2,
-      "rain_probability": 2
+      "max": 31.0,
+      "min": 23.8,
+      "rain_probability": 94
     }
   ],
   "oil": [
@@ -44,85 +44,85 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 91.3,
-      "current_price": 91.57,
-      "previous_close": 91.01,
-      "change": 0.28999999999999204,
-      "change_pct": 0.31864630260410065,
-      "market_time": "09-04 00:22"
+      "current_price": 91.22,
+      "previous_close": 91.3,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "09-04 20:59"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 95.52,
-      "current_price": 95.74,
-      "previous_close": 95.63,
-      "change": -0.10999999999999943,
-      "change_pct": -0.11502666527240346,
-      "market_time": "09-04 00:22"
+      "current_price": 95.83,
+      "previous_close": 95.52,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "09-04 20:59"
     }
   ],
   "news": [
     {
-      "title": "尼日利亚发生非法装卸石油制品事件至少43人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690020.shtml",
-      "published": "Fri, 4 Sep 2026 08:26:28 +0800"
+      "title": "美国8月非农就业增加16.2万 失业率4.1%",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+      "published": "Sat, 5 Sep 2026 07:28:17 +0800"
     },
     {
-      "title": "河南文旅推介会亮相印尼　爪哇岛劲吹“河洛风”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689990.shtml",
-      "published": "Fri, 4 Sep 2026 08:26:04 +0800"
+      "title": "英国建筑业持续收缩拖累经济复苏",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
+      "published": "Sat, 5 Sep 2026 07:27:55 +0800"
     },
     {
-      "title": "德国多家机构上调2026年本国经济增长预期",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689989.shtml",
-      "published": "Fri, 4 Sep 2026 08:25:40 +0800"
+      "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+      "published": "Sat, 5 Sep 2026 07:27:05 +0800"
     },
     {
-      "title": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10689988.shtml",
-      "published": "Fri, 4 Sep 2026 08:25:02 +0800"
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+      "published": "Sat, 5 Sep 2026 06:45:20 +0800"
     },
     {
-      "title": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690013.shtml",
-      "published": "Fri, 4 Sep 2026 07:54:24 +0800"
+      "title": "美总统称可能很快会打击伊朗“镐山”核设施",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
+      "published": "Sat, 5 Sep 2026 06:42:04 +0800"
     },
     {
-      "title": "特朗普任命美代理陆军部长",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690000.shtml",
-      "published": "Fri, 4 Sep 2026 07:32:57 +0800"
+      "title": "英国改革党高层人员陷政治献金丑闻",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
+      "published": "Sat, 5 Sep 2026 06:34:44 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "I am pleased to announce that Adam Telle, the current Assistant Secretary of the Army for Civil Works, will become Acting Secretary of the Army, effective immediately. He is a Great Patriot, who is respected by all. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "我很高兴地宣布，现任陆军土木工程助理部长Adam Telle将担任陆军代理部长，立即生效。他是一位伟大的爱国者，受到所有人的尊重。感谢您关注此事！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41497",
-      "published": "Thu, 03 Sep 2026 22:37:01 +0000"
+      "original": "What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLIONS took to the skies. The FIFA World Cup alone generated more than 18 BILLION DOLLARS for our Economy, and supported more than 160,000 JOBS! Travel and Tourism mean JOBS, INVESTMENT, and BILLIONS OF DOLLARS flowing into American Businesses and Communities. We are cutting red tape, modernizing Air Travel, and making it easier to visit, and do business, in the United States. AMERICA IS OPEN FOR BUSINESS — AND THE BEST IS YET TO COME! President DONALD J. TRUMP",
+      "translated": "对于美国旅行来说，这是一个多么令人难以置信的夏天！美国人旅行了近3000亿英里，我们的国家公园接待了7800万游客，数百万人登上了天空。仅FIFA世界杯就为我们的经济创造了超过180亿美元的收入，并支持了超过16万个工作岗位！旅行和旅游意味着就业、投资和数十亿美元流入美国企业和社区。我们正在削减繁文缛节，使Air T现代化",
+      "link": "https://trumpstruth.org/statuses/41519",
+      "published": "Fri, 04 Sep 2026 22:27:47 +0000"
     },
     {
-      "original": "It is very good for Canadian Politicians like Prime Minister Carney to make President Donald J. Trump “the enemy,” until their Economy collapses, then it will prove to be very bad for Politics — Worse than anything that has ever happened to a Canadian Politician. Just watch! President DONALD J. TRUMP",
-      "translated": "对于像卡尼总理这样的加拿大政治家来说，让唐纳德· J ·特朗普总统成为“敌人”是非常好的，直到他们的经济崩溃，然后它将被证明对政治非常不利—比加拿大政治家曾经发生过的任何事情都要糟糕。观看！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41496",
-      "published": "Thu, 03 Sep 2026 15:14:24 +0000"
+      "original": "WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report: https://www. whitehouse.gov/releases/2026/0 9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+      "translated": "白宫新闻稿—美国制造：制造业、私人雇佣动力爆炸性8月就业报告： https://whitehouse.gov/releases/2026/0 9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
+      "link": "https://trumpstruth.org/statuses/41520",
+      "published": "Fri, 04 Sep 2026 22:27:05 +0000"
     },
     {
-      "original": "For the treasonous SCUM that refuses to accurately report on our Military Operation in Iran, we have virtually unlimited amounts of Mid to High Grade Ammunition, far more than we could ever use for this, or for any other War (which is highly unlikely!), that could improbably take place. In addition, we are producing Munitions at levels never seen before. We are stockpiling and preparing for any contingency that could happen. We are taking them for ourselves, the U.S.A., rather than selling them to others, but the sales to Allies will soon again, begin. Also, please let it be known, that the Biden Administration gave far more Munitions away to Ukraine, at no cost to them, whatsoever, than we have used in Iran. Hundreds of Billions of Dollars was given to Ukraine and NATO, free of charge, that Europe would have paid for — If they were only asked, but we will be asking for that money, though somewhat belatedly! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "对于拒绝准确报告我们在伊朗的军事行动的叛国败类，我们拥有几乎无限数量的中高等级弹药，远远超过我们对此或任何其他战争（这是极不可能的！ ）所能使用的数量。此外，我们正在以前所未有的水平生产弹药。我们正在储备并准备应对可能发生的任何突发事件。我们带他们去",
-      "link": "https://www.trumpstruth.org/statuses/41494",
-      "published": "Thu, 03 Sep 2026 14:56:21 +0000"
+      "original": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries. My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING — One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
+      "translated": "好消息！我们蓬勃发展的经济在8月增加了162,000个工作岗位，以纪念我们的伟大美国工人，我们庆祝这一点（以及每一个！ ）劳动节，这个强劲的数字几乎是彭博调查所谓的“经济学家”预测的三倍，他们继续患有特朗普精神错乱综合症。特朗普繁荣的影响可以在许多行业中看到。我的政府的公平贸易政策，使用一个名为“T",
+      "link": "https://trumpstruth.org/statuses/41521",
+      "published": "Fri, 04 Sep 2026 22:26:40 +0000"
     },
     {
-      "original": "The people and Media Outlets that keep harping on the fact that we have no ammunition (And they are 100% wrong!), are actually treasonous. They do it because they would rather see the United States LOSE a War that we’re easily WINNING, than see me WIN! President DONALD J. TRUMP",
-      "translated": "人们和媒体不断抨击我们没有弹药的事实（他们100%错了！ ） ，实际上是叛国。他们这样做是因为他们宁愿看到美国输掉一场我们很容易赢的战争，也不愿看到我赢！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41495",
-      "published": "Thu, 03 Sep 2026 14:55:53 +0000"
+      "original": "The Extreme Liberal Dumocrats are OUT OF THEIR MINDS! They continue to put their dangerous agenda ahead of the American People by voting AGAINST denouncing Socialism and the Radical Dumocrat Socialists of America platform. Remember they opposed the Largest Tax Cut in American History, which Republicans were able to get done, anyway. They are truly the Enemy of the People! President DONALD J. TRUMP Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People: https://www. whitehouse.gov/fact-sheets/202 6/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
+      "translated": "极端自由主义者疯了！他们继续将其危险的议程置于美国人民之前，投票反对谴责社会主义和激进的美国民主社会主义者平台。请记住，他们反对美国历史上最大规模的减税，无论如何，共和党人能够做到这一点。他们真的是人民的敌人！唐纳德· J ·特朗普总统十次极端自由民主党在国会",
+      "link": "https://trumpstruth.org/statuses/41522",
+      "published": "Fri, 04 Sep 2026 22:26:03 +0000"
     },
     {
-      "original": "Sec. Lutnick had Venezuela on his mind when he said nobody was killed. 18 people were killed in Iran!",
-      "translated": "当Lutnick说没有人被杀时，他想到了委内瑞拉。伊朗有18人被杀！",
-      "link": "https://www.trumpstruth.org/statuses/41493",
-      "published": "Thu, 03 Sep 2026 11:31:17 +0000"
+      "original": "Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Triangle, World Class Universities, and some of the smartest, hardest working people anywhere in the World. INNOVATION is BACK at the G20! Countries from all over the World now understand that Innovation means GROWTH, and Growth means Prosperity. Secretary of Commerce Howard Lutnick, and Office of Science and Technology Policy (OSTP) Director Michael Kratsios, led a tremendously successful meeting of Business and Technology Ministers. They got the group to A STRONG CONSENSUS, which is NOT an easy thing to do. Everyone agreed on the Carolina Principles: INVEST, BUILD, COMMERCIALIZE, and DEPLOY Emerging Technologies. SMART Rules and Standards, NOT more Regulation. We are NUMBER ONE in Tech, and NUMBER ONE in A.I. — BY A LOT! The World is learning from the BEST. Other Countries should follow our lead! President DONALD J. TRUMP",
+      "translated": "在北卡罗来纳州教堂山举行的G20创新部长级会议为期两天，非常富有成效且具有历史意义--这是一个真正伟大的州--研究三角、世界一流大学和世界上一些最聪明、最勤劳的人的家园。创新又回到了G20 ！来自世界各地的国家现在都明白，创新意味着增长，增长意味着繁荣。商务部长Howard Lutnick和科学办公室",
+      "link": "https://trumpstruth.org/statuses/41517",
+      "published": "Fri, 04 Sep 2026 22:25:25 +0000"
     }
   ]
 }
