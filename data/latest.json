@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-05 00:29",
+  "updated_at": "2026-09-06 00:24",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
       "temperature": 23.2,
-      "feels_like": 27.1,
-      "code": 53,
-      "max": 27.6,
-      "min": 22.8,
-      "rain_probability": 91
+      "feels_like": 27.0,
+      "code": 2,
+      "max": 30.6,
+      "min": 21.4,
+      "rain_probability": 29
     },
     {
       "name": "桂林",
-      "temperature": 22.9,
-      "feels_like": 24.5,
-      "code": 1,
-      "max": 27.7,
-      "min": 20.8,
-      "rain_probability": 99
+      "temperature": 23.4,
+      "feels_like": 24.9,
+      "code": 2,
+      "max": 30.9,
+      "min": 20.9,
+      "rain_probability": 8
     },
     {
       "name": "广州",
-      "temperature": 26.2,
-      "feels_like": 31.6,
-      "code": 1,
-      "max": 31.8,
-      "min": 23.4,
-      "rain_probability": 79
+      "temperature": 25.0,
+      "feels_like": 30.7,
+      "code": 55,
+      "max": 29.1,
+      "min": 24.6,
+      "rain_probability": 88
     },
     {
       "name": "深圳",
-      "temperature": 26.5,
-      "feels_like": 32.2,
-      "code": 3,
-      "max": 31.0,
-      "min": 23.8,
-      "rain_probability": 94
+      "temperature": 25.6,
+      "feels_like": 31.5,
+      "code": 51,
+      "max": 29.2,
+      "min": 24.5,
+      "rain_probability": 88
     }
   ],
   "oil": [
@@ -44,7 +44,7 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 91.3,
-      "current_price": 91.22,
+      "current_price": 91.48,
       "previous_close": 91.3,
       "change": 0.0,
       "change_pct": 0.0,
@@ -54,7 +54,7 @@
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 95.52,
-      "current_price": 95.83,
+      "current_price": 96.28,
       "previous_close": 95.52,
       "change": 0.0,
       "change_pct": 0.0,
@@ -63,66 +63,66 @@
   ],
   "news": [
     {
-      "title": "美国8月非农就业增加16.2万 失业率4.1%",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
-      "published": "Sat, 5 Sep 2026 07:28:17 +0800"
+      "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691228.shtml",
+      "published": "Sun, 6 Sep 2026 06:46:37 +0800"
     },
     {
-      "title": "英国建筑业持续收缩拖累经济复苏",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690753.shtml",
-      "published": "Sat, 5 Sep 2026 07:27:55 +0800"
+      "title": "普京会见美国总统特使威特科夫",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691227.shtml",
+      "published": "Sun, 6 Sep 2026 06:41:45 +0800"
     },
     {
-      "title": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
-      "published": "Sat, 5 Sep 2026 07:27:05 +0800"
+      "title": "美军称打击伊朗三艘油轮",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
+      "published": "Sat, 5 Sep 2026 23:33:34 +0800"
     },
     {
-      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
-      "published": "Sat, 5 Sep 2026 06:45:20 +0800"
+      "title": "泽连斯基宣布停止打击莫斯科",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691190.shtml",
+      "published": "Sat, 5 Sep 2026 23:25:48 +0800"
     },
     {
-      "title": "美总统称可能很快会打击伊朗“镐山”核设施",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
-      "published": "Sat, 5 Sep 2026 06:42:04 +0800"
+      "title": "2026中马智库论坛在吉隆坡举办",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691178.shtml",
+      "published": "Sat, 5 Sep 2026 23:22:19 +0800"
     },
     {
-      "title": "英国改革党高层人员陷政治献金丑闻",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690742.shtml",
-      "published": "Sat, 5 Sep 2026 06:34:44 +0800"
+      "title": "马来西亚派特别搜救队赴尼泊尔搜救",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691160.shtml",
+      "published": "Sat, 5 Sep 2026 22:52:55 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "What an incredible summer for AMERICAN TRAVEL! Americans traveled nearly 300 BILLION MILES, our National Parks welcomed 78 MILLION VISITORS, and MILLIONS took to the skies. The FIFA World Cup alone generated more than 18 BILLION DOLLARS for our Economy, and supported more than 160,000 JOBS! Travel and Tourism mean JOBS, INVESTMENT, and BILLIONS OF DOLLARS flowing into American Businesses and Communities. We are cutting red tape, modernizing Air Travel, and making it easier to visit, and do business, in the United States. AMERICA IS OPEN FOR BUSINESS — AND THE BEST IS YET TO COME! President DONALD J. TRUMP",
-      "translated": "对于美国旅行来说，这是一个多么令人难以置信的夏天！美国人旅行了近3000亿英里，我们的国家公园接待了7800万游客，数百万人登上了天空。仅FIFA世界杯就为我们的经济创造了超过180亿美元的收入，并支持了超过16万个工作岗位！旅行和旅游意味着就业、投资和数十亿美元流入美国企业和社区。我们正在削减繁文缛节，使Air T现代化",
-      "link": "https://trumpstruth.org/statuses/41519",
-      "published": "Fri, 04 Sep 2026 22:27:47 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
+      "link": "https://www.trumpstruth.org/statuses/41528",
+      "published": "Sat, 05 Sep 2026 02:56:04 +0000"
     },
     {
-      "original": "WHITE HOUSE PRESS RELEASE — Made in America: Manufacturing, Private Hiring Power Explosive August Jobs Report: https://www. whitehouse.gov/releases/2026/0 9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
-      "translated": "白宫新闻稿—美国制造：制造业、私人雇佣动力爆炸性8月就业报告： https://whitehouse.gov/releases/2026/0 9/made-in-america-manufacturing-private-hiring-power-explosive-august-jobs-report/",
-      "link": "https://trumpstruth.org/statuses/41520",
-      "published": "Fri, 04 Sep 2026 22:27:05 +0000"
+      "original": "[No Title] - Post from September 5, 2026",
+      "translated": "[No Title] - 2026年9月5日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41529",
+      "published": "Sat, 05 Sep 2026 02:55:48 +0000"
     },
     {
-      "original": "GREAT NEWS! Our THRIVING Economy added 162 THOUSAND Jobs in August, in honor of our Great American Workers who we celebrate this (and every!) Labor Day. This strong number is nearly TRIPLE the predictions of the Bloomberg survey's so-called \"Economists,\" who continue to suffer from Trump Derangement Syndrome. The effects of the Trump Boom can be seen across many Industries. My Administration's Fair Trade Policies, using a wonderful tool called \"TARIFFS,\" have reset the Global Economy, bringing Manufacturing Jobs BACK to America, like never before. Factory Construction is BOOMING as Companies take advantage of FULL EXPENSING — One year deduction. Before long, these Factories will be teeming with red, white, and blue-blooded AMERICAN Workers! President DONALD J. TRUMP",
-      "translated": "好消息！我们蓬勃发展的经济在8月增加了162,000个工作岗位，以纪念我们的伟大美国工人，我们庆祝这一点（以及每一个！ ）劳动节，这个强劲的数字几乎是彭博调查所谓的“经济学家”预测的三倍，他们继续患有特朗普精神错乱综合症。特朗普繁荣的影响可以在许多行业中看到。我的政府的公平贸易政策，使用一个名为“T",
-      "link": "https://trumpstruth.org/statuses/41521",
-      "published": "Fri, 04 Sep 2026 22:26:40 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216175754371111",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216175754371111",
+      "link": "https://www.trumpstruth.org/statuses/41524",
+      "published": "Sat, 05 Sep 2026 02:55:12 +0000"
     },
     {
-      "original": "The Extreme Liberal Dumocrats are OUT OF THEIR MINDS! They continue to put their dangerous agenda ahead of the American People by voting AGAINST denouncing Socialism and the Radical Dumocrat Socialists of America platform. Remember they opposed the Largest Tax Cut in American History, which Republicans were able to get done, anyway. They are truly the Enemy of the People! President DONALD J. TRUMP Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People: https://www. whitehouse.gov/fact-sheets/202 6/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/",
-      "translated": "极端自由主义者疯了！他们继续将其危险的议程置于美国人民之前，投票反对谴责社会主义和激进的美国民主社会主义者平台。请记住，他们反对美国历史上最大规模的减税，无论如何，共和党人能够做到这一点。他们真的是人民的敌人！唐纳德· J ·特朗普总统十次极端自由民主党在国会",
-      "link": "https://trumpstruth.org/statuses/41522",
-      "published": "Fri, 04 Sep 2026 22:26:03 +0000"
+      "original": "[No Title] - Post from September 5, 2026",
+      "translated": "[No Title] - 2026年9月5日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41525",
+      "published": "Sat, 05 Sep 2026 02:55:00 +0000"
     },
     {
-      "original": "Very productive and historic two days at the G20 Innovation Ministerial in Chapel Hill, North Carolina — A truly GREAT State — Home of the Research Triangle, World Class Universities, and some of the smartest, hardest working people anywhere in the World. INNOVATION is BACK at the G20! Countries from all over the World now understand that Innovation means GROWTH, and Growth means Prosperity. Secretary of Commerce Howard Lutnick, and Office of Science and Technology Policy (OSTP) Director Michael Kratsios, led a tremendously successful meeting of Business and Technology Ministers. They got the group to A STRONG CONSENSUS, which is NOT an easy thing to do. Everyone agreed on the Carolina Principles: INVEST, BUILD, COMMERCIALIZE, and DEPLOY Emerging Technologies. SMART Rules and Standards, NOT more Regulation. We are NUMBER ONE in Tech, and NUMBER ONE in A.I. — BY A LOT! The World is learning from the BEST. Other Countries should follow our lead! President DONALD J. TRUMP",
-      "translated": "在北卡罗来纳州教堂山举行的G20创新部长级会议为期两天，非常富有成效且具有历史意义--这是一个真正伟大的州--研究三角、世界一流大学和世界上一些最聪明、最勤劳的人的家园。创新又回到了G20 ！来自世界各地的国家现在都明白，创新意味着增长，增长意味着繁荣。商务部长Howard Lutnick和科学办公室",
-      "link": "https://trumpstruth.org/statuses/41517",
-      "published": "Fri, 04 Sep 2026 22:25:25 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
+      "link": "https://www.trumpstruth.org/statuses/41526",
+      "published": "Sat, 05 Sep 2026 02:54:46 +0000"
     }
   ]
 }
