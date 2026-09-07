@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-06 00:24",
+  "updated_at": "2026-09-07 00:31",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 23.2,
-      "feels_like": 27.0,
-      "code": 2,
-      "max": 30.6,
-      "min": 21.4,
+      "temperature": 25.9,
+      "feels_like": 30.9,
+      "code": 0,
+      "max": 32.2,
+      "min": 23.1,
       "rain_probability": 29
     },
     {
       "name": "桂林",
-      "temperature": 23.4,
-      "feels_like": 24.9,
-      "code": 2,
-      "max": 30.9,
-      "min": 20.9,
-      "rain_probability": 8
+      "temperature": 24.8,
+      "feels_like": 29.1,
+      "code": 0,
+      "max": 32.7,
+      "min": 22.0,
+      "rain_probability": 2
     },
     {
       "name": "广州",
-      "temperature": 25.0,
-      "feels_like": 30.7,
-      "code": 55,
-      "max": 29.1,
-      "min": 24.6,
-      "rain_probability": 88
+      "temperature": 27.0,
+      "feels_like": 32.0,
+      "code": 53,
+      "max": 32.7,
+      "min": 24.7,
+      "rain_probability": 64
     },
     {
       "name": "深圳",
-      "temperature": 25.6,
-      "feels_like": 31.5,
-      "code": 51,
-      "max": 29.2,
-      "min": 24.5,
-      "rain_probability": 88
+      "temperature": 27.4,
+      "feels_like": 32.8,
+      "code": 0,
+      "max": 30.8,
+      "min": 24.9,
+      "rain_probability": 81
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 91.3,
+      "price": 91.48,
       "current_price": 91.48,
-      "previous_close": 91.3,
+      "previous_close": 91.48,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "09-04 20:59"
+      "market_time": "09-07 00:21"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 95.52,
+      "price": 96.28,
       "current_price": 96.28,
-      "previous_close": 95.52,
+      "previous_close": 96.28,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "09-04 20:59"
+      "market_time": "09-07 00:21"
     }
   ],
   "news": [
     {
-      "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691228.shtml",
-      "published": "Sun, 6 Sep 2026 06:46:37 +0800"
+      "title": "乌总统泽连斯基会见美特使 谈了啥？有何进展？",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691641.shtml",
+      "published": "Mon, 7 Sep 2026 07:15:12 +0800"
     },
     {
-      "title": "普京会见美国总统特使威特科夫",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691227.shtml",
-      "published": "Sun, 6 Sep 2026 06:41:45 +0800"
+      "title": "美重启穿梭外交 俄乌短暂停火 和平进程仍漫漫",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691639.shtml",
+      "published": "Mon, 7 Sep 2026 06:58:33 +0800"
     },
     {
-      "title": "美军称打击伊朗三艘油轮",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
-      "published": "Sat, 5 Sep 2026 23:33:34 +0800"
+      "title": "亚马逊一货机降落时冲出跑道撞上车辆并起火 致5人死",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691638.shtml",
+      "published": "Mon, 7 Sep 2026 06:42:38 +0800"
     },
     {
-      "title": "泽连斯基宣布停止打击莫斯科",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691190.shtml",
-      "published": "Sat, 5 Sep 2026 23:25:48 +0800"
+      "title": "泽连斯基结束与美方代表首轮会谈",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691636.shtml",
+      "published": "Mon, 7 Sep 2026 06:31:05 +0800"
     },
     {
-      "title": "2026中马智库论坛在吉隆坡举办",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691178.shtml",
-      "published": "Sat, 5 Sep 2026 23:22:19 +0800"
+      "title": "德国选择党赢得德国东部萨安州议会选举",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691634.shtml",
+      "published": "Mon, 7 Sep 2026 06:30:25 +0800"
     },
     {
-      "title": "马来西亚派特别搜救队赴尼泊尔搜救",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-05/10691160.shtml",
-      "published": "Sat, 5 Sep 2026 22:52:55 +0800"
+      "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-07/10691635.shtml",
+      "published": "Mon, 7 Sep 2026 06:28:49 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216178911963514",
-      "link": "https://www.trumpstruth.org/statuses/41528",
-      "published": "Sat, 05 Sep 2026 02:56:04 +0000"
+      "original": "Many people suggested changing the name of New Mexico, one of the great vote cheating states of all time, to NEW AMERICA. So much more prestigious and beautiful for the people of that potentially incredible State. Wow, I Love It!!! President DONALD J. TRUMP",
+      "translated": "许多人建议将新墨西哥州这个有史以来最伟大的选票作弊州之一改名为新美国。对于这个潜在的令人难以置信的国家的人民来说，更加有声望和美丽。哇，我喜欢！ ！ ！唐纳德· J ·特朗普总统",
+      "link": "https://trumpstruth.org/statuses/41579",
+      "published": "Sun, 06 Sep 2026 23:36:34 +0000"
     },
     {
-      "original": "[No Title] - Post from September 5, 2026",
-      "translated": "[No Title] - 2026年9月5日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41529",
-      "published": "Sat, 05 Sep 2026 02:55:48 +0000"
+      "original": "[No Title] - Post from September 6, 2026",
+      "translated": "[No Title] - 2026年9月6日的帖子",
+      "link": "https://trumpstruth.org/statuses/41571",
+      "published": "Sun, 06 Sep 2026 23:09:34 +0000"
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216175754371111",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216175754371111",
-      "link": "https://www.trumpstruth.org/statuses/41524",
-      "published": "Sat, 05 Sep 2026 02:55:12 +0000"
+      "original": "[No Title] - Post from September 6, 2026",
+      "translated": "[No Title] - 2026年9月6日的帖子",
+      "link": "https://trumpstruth.org/statuses/41572",
+      "published": "Sun, 06 Sep 2026 23:09:27 +0000"
     },
     {
-      "original": "[No Title] - Post from September 5, 2026",
-      "translated": "[No Title] - 2026年9月5日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41525",
-      "published": "Sat, 05 Sep 2026 02:55:00 +0000"
+      "original": "[No Title] - Post from September 6, 2026",
+      "translated": "[No Title] - 2026年9月6日的帖子",
+      "link": "https://trumpstruth.org/statuses/41573",
+      "published": "Sun, 06 Sep 2026 23:09:17 +0000"
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117216174109345764",
-      "link": "https://www.trumpstruth.org/statuses/41526",
-      "published": "Sat, 05 Sep 2026 02:54:46 +0000"
+      "original": "[No Title] - Post from September 6, 2026",
+      "translated": "[No Title] - 2026年9月6日的帖子",
+      "link": "https://trumpstruth.org/statuses/41574",
+      "published": "Sun, 06 Sep 2026 23:09:08 +0000"
     }
   ]
 }
