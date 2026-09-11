@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-10 00:43",
+  "updated_at": "2026-09-11 00:41",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.8,
-      "feels_like": 29.2,
+      "temperature": 23.2,
+      "feels_like": 23.8,
       "code": 1,
-      "max": 29.6,
-      "min": 22.4,
-      "rain_probability": 88
+      "max": 29.2,
+      "min": 21.9,
+      "rain_probability": 0
     },
     {
       "name": "桂林",
-      "temperature": 22.5,
-      "feels_like": 22.3,
-      "code": 1,
-      "max": 26.6,
-      "min": 21.5,
+      "temperature": 20.6,
+      "feels_like": 19.7,
+      "code": 0,
+      "max": 27.0,
+      "min": 18.6,
       "rain_probability": 0
     },
     {
       "name": "广州",
-      "temperature": 23.6,
-      "feels_like": 27.8,
-      "code": 3,
-      "max": 30.3,
-      "min": 22.2,
-      "rain_probability": 75
+      "temperature": 24.6,
+      "feels_like": 25.1,
+      "code": 0,
+      "max": 30.1,
+      "min": 23.2,
+      "rain_probability": 25
     },
     {
       "name": "深圳",
-      "temperature": 24.5,
-      "feels_like": 28.5,
-      "code": 1,
-      "max": 29.6,
-      "min": 22.0,
-      "rain_probability": 94
+      "temperature": 25.1,
+      "feels_like": 26.7,
+      "code": 0,
+      "max": 30.3,
+      "min": 23.2,
+      "rain_probability": 11
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 96.05,
-      "current_price": 96.62,
-      "previous_close": 93.03,
-      "change": 3.019999999999996,
-      "change_pct": 3.2462646458131745,
-      "market_time": "09-10 00:33"
+      "price": 102.48,
+      "current_price": 103.06,
+      "previous_close": 96.05,
+      "change": 6.430000000000007,
+      "change_pct": 6.694429984383141,
+      "market_time": "09-11 00:31"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 101.21,
-      "current_price": 101.34,
-      "previous_close": 97.92,
-      "change": 3.289999999999992,
-      "change_pct": 3.359885620915024,
-      "market_time": "09-10 00:32"
+      "price": 107.63,
+      "current_price": 108.23,
+      "previous_close": 101.21,
+      "change": 6.420000000000002,
+      "change_pct": 6.343246714751509,
+      "market_time": "09-11 00:31"
     }
   ],
   "news": [
     {
-      "title": "美国共和党举行中期选举大会 特朗普将发表演讲",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693693.shtml",
-      "published": "Thu, 10 Sep 2026 08:19:08 +0800"
+      "title": "也门打起来了！全球两大航运“油管”同时动荡",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
+      "published": "Fri, 11 Sep 2026 07:53:44 +0800"
     },
     {
-      "title": "特朗普专机应急滑梯因误操作弹出",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693680.shtml",
-      "published": "Thu, 10 Sep 2026 07:29:59 +0800"
+      "title": "以军：使用1100吨炸药 摧毁黎南部真主党地下设施　",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694375.shtml",
+      "published": "Fri, 11 Sep 2026 07:28:27 +0800"
     },
     {
-      "title": "美媒：特朗普专机突发状况 应急滑梯因误操作意外弹出",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693679.shtml",
-      "published": "Thu, 10 Sep 2026 07:29:38 +0800"
+      "title": "外媒：也门胡塞武装占领红海战略要地哈尼什群岛",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694372.shtml",
+      "published": "Fri, 11 Sep 2026 06:58:39 +0800"
     },
     {
-      "title": "俄外交部发言人：“花朵本身无罪，罪在日本军国主义分子”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693668.shtml",
-      "published": "Thu, 10 Sep 2026 07:19:24 +0800"
+      "title": "美最高法院裁定密苏里州不得使用新版选区划分图",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694371.shtml",
+      "published": "Fri, 11 Sep 2026 06:58:21 +0800"
     },
     {
-      "title": "中国代表：政治外交解决才是伊朗核问题出路",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693670.shtml",
-      "published": "Thu, 10 Sep 2026 06:56:02 +0800"
+      "title": "欧盟上半年收到逾33万份庇护申请 创近五年同期最低",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694370.shtml",
+      "published": "Fri, 11 Sep 2026 06:57:49 +0800"
     },
     {
-      "title": "外媒：伊朗多地传出爆炸声",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693671.shtml",
-      "published": "Thu, 10 Sep 2026 06:52:56 +0800"
+      "title": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
+      "published": "Fri, 11 Sep 2026 06:48:04 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from September 9, 2026",
-      "translated": "[No Title] - 2026年9月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/41662",
-      "published": "Wed, 09 Sep 2026 20:53:19 +0000"
+      "original": "Last night at the Convention — A packed house! President DONALD J. TRUMP",
+      "translated": "昨晚在大会上—一栋拥挤的房子！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41686",
+      "published": "Thu, 10 Sep 2026 15:48:08 +0000"
     },
     {
-      "original": "[No Title] - Post from September 9, 2026",
-      "translated": "[No Title] - 2026年9月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/41660",
-      "published": "Wed, 09 Sep 2026 20:29:08 +0000"
+      "original": "https://www. instagram.com/reel/Dcl4n1RPUVn /",
+      "translated": "https://instagram.com/reel/Dcl4n1RPUVn/",
+      "link": "https://www.trumpstruth.org/statuses/41685",
+      "published": "Thu, 10 Sep 2026 15:23:07 +0000"
     },
     {
-      "original": "[No Title] - Post from September 9, 2026",
-      "translated": "[No Title] - 2026年9月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/41661",
-      "published": "Wed, 09 Sep 2026 20:26:38 +0000"
+      "original": "[No Title] - Post from September 10, 2026",
+      "translated": "[No Title] - 2026年9月10日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41677",
+      "published": "Thu, 10 Sep 2026 12:52:42 +0000"
     },
     {
-      "original": "[No Title] - Post from September 9, 2026",
-      "translated": "[No Title] - 2026年9月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/41659",
-      "published": "Wed, 09 Sep 2026 20:24:50 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117246836238536386",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117246836238536386",
+      "link": "https://www.trumpstruth.org/statuses/41678",
+      "published": "Thu, 10 Sep 2026 12:52:34 +0000"
     },
     {
-      "original": "[No Title] - Post from September 9, 2026",
-      "translated": "[No Title] - 2026年9月9日的帖子",
-      "link": "https://trumpstruth.org/statuses/41658",
-      "published": "Wed, 09 Sep 2026 18:29:31 +0000"
+      "original": "[No Title] - Post from September 10, 2026",
+      "translated": "[No Title] - 2026年9月10日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41679",
+      "published": "Thu, 10 Sep 2026 12:52:22 +0000"
     }
   ]
 }
