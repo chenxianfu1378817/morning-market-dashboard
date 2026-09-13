@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-09-12 00:48",
+  "updated_at": "2026-09-13 00:30",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 23.7,
-      "feels_like": 25.1,
-      "code": 0,
-      "max": 29.8,
-      "min": 21.4,
-      "rain_probability": 4
+      "temperature": 25.4,
+      "feels_like": 26.6,
+      "code": 3,
+      "max": 29.4,
+      "min": 24.0,
+      "rain_probability": 94
     },
     {
       "name": "桂林",
-      "temperature": 22.3,
-      "feels_like": 22.4,
+      "temperature": 24.6,
+      "feels_like": 25.1,
       "code": 0,
-      "max": 29.8,
-      "min": 19.4,
-      "rain_probability": 0
+      "max": 31.8,
+      "min": 22.2,
+      "rain_probability": 4
     },
     {
       "name": "广州",
-      "temperature": 25.7,
-      "feels_like": 27.0,
-      "code": 0,
-      "max": 31.3,
-      "min": 23.3,
-      "rain_probability": 16
+      "temperature": 27.3,
+      "feels_like": 30.8,
+      "code": 1,
+      "max": 32.1,
+      "min": 24.0,
+      "rain_probability": 100
     },
     {
       "name": "深圳",
-      "temperature": 26.4,
-      "feels_like": 28.6,
-      "code": 0,
-      "max": 31.1,
-      "min": 23.9,
-      "rain_probability": 88
+      "temperature": 26.0,
+      "feels_like": 30.0,
+      "code": 55,
+      "max": 29.3,
+      "min": 24.2,
+      "rain_probability": 100
     }
   ],
   "oil": [
@@ -44,7 +44,7 @@
       "name": "WTI 原油",
       "symbol": "CL=F",
       "price": 102.48,
-      "current_price": 99.99,
+      "current_price": 100.05,
       "previous_close": 102.48,
       "change": 0.0,
       "change_pct": 0.0,
@@ -54,7 +54,7 @@
       "name": "Brent 原油",
       "symbol": "BZ=F",
       "price": 107.63,
-      "current_price": 104.42,
+      "current_price": 104.61,
       "previous_close": 107.63,
       "change": 0.0,
       "change_pct": 0.0,
@@ -63,66 +63,66 @@
   ],
   "news": [
     {
-      "title": "法国2026年经济增长预期下调至0.5%",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695106.shtml",
-      "published": "Sat, 12 Sep 2026 08:03:10 +0800"
+      "title": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695508.shtml",
+      "published": "Sun, 13 Sep 2026 06:51:20 +0800"
     },
     {
-      "title": "中国代表团参加联合国粮农组织渔业委员会第37届会议",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695100.shtml",
-      "published": "Sat, 12 Sep 2026 07:09:29 +0800"
+      "title": "英国朴茨茅斯现两阵营对峙示威",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695504.shtml",
+      "published": "Sun, 13 Sep 2026 06:47:17 +0800"
     },
     {
-      "title": "特朗普在五角大楼纪念“9·11”事件25周年",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695101.shtml",
-      "published": "Sat, 12 Sep 2026 07:09:05 +0800"
+      "title": "中国园林“多景园”建成25周年庆祝活动在德国曼海姆举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695505.shtml",
+      "published": "Sun, 13 Sep 2026 06:46:17 +0800"
     },
     {
-      "title": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695097.shtml",
-      "published": "Sat, 12 Sep 2026 06:45:01 +0800"
+      "title": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695506.shtml",
+      "published": "Sun, 13 Sep 2026 06:45:11 +0800"
     },
     {
-      "title": "纽约纪念“9·11”事件25周年",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695091.shtml",
-      "published": "Sat, 12 Sep 2026 06:42:49 +0800"
+      "title": "菲律宾客船起火事故死亡人数升至76人",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-13/10695501.shtml",
+      "published": "Sun, 13 Sep 2026 01:05:20 +0800"
     },
     {
-      "title": "美国8月CPI同比上涨3.4%",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695092.shtml",
-      "published": "Sat, 12 Sep 2026 06:42:05 +0800"
+      "title": "菲律宾客船起火事故已致76人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695466.shtml",
+      "published": "Sat, 12 Sep 2026 21:08:45 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing: https://www. breitbart.com/politics/2026/09 /10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/",
-      "translated": "Capacity Crowd Goes Wild for Trump, Vance at Midterm Convention Closing: https://breitbart.com/politics/2026/09/10/capacity-crowd-wild-trump-vance-midterm-convention-closing/amp/",
-      "link": "https://www.trumpstruth.org/statuses/41694",
-      "published": "Fri, 11 Sep 2026 20:40:32 +0000"
+      "original": "Such a great golfer. Too bad I have very little time to play!!!",
+      "translated": "如此伟大的高尔夫球手。可惜我玩的时间太少了！ ！ ！",
+      "link": "https://www.trumpstruth.org/statuses/41699",
+      "published": "Sat, 12 Sep 2026 09:06:42 +0000"
     },
     {
-      "original": "‘Sold-out crowd’ in Dallas energized for midterms as Vance, Trump speak at Republican convention: https:// heartlandernews.com/sold-out-c rowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/",
-      "translated": "特朗普在共和党大会上发表演讲： https://heartlandernews.com/sold-out-c rowd-in-dallas-energized-for-midterms-as-vance-trump-speak-at-republican-convention/",
-      "link": "https://www.trumpstruth.org/statuses/41693",
-      "published": "Fri, 11 Sep 2026 20:13:18 +0000"
+      "original": "[No Title] - Post from September 12, 2026",
+      "translated": "[No Title] - 2026年9月12日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41698",
+      "published": "Sat, 12 Sep 2026 03:53:25 +0000"
     },
     {
-      "original": "[No Title] - Post from September 11, 2026",
-      "translated": "[无标题] - 2026年9月11日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41691",
-      "published": "Fri, 11 Sep 2026 19:09:11 +0000"
+      "original": "[No Title] - Post from September 12, 2026",
+      "translated": "[No Title] - 2026年9月12日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41697",
+      "published": "Sat, 12 Sep 2026 03:21:32 +0000"
     },
     {
-      "original": "The $5,000 Trump Dividend, given to all Adults in the United States due to the fact that our Country is taking in Trillions of Dollars of Economic Development, Investment, and Pure SUCCESS, is being criticized by “Dumocrats” who are hoping that it never happens — But it will! As an example, the Dumocrats said THE GREAT BIG BEAUTIFUL BILL, one of the largest ever approved by Congress, or signed into Law by a President happened, despite the Dumocrats saying it would be impossible to get approved — Or the Gift of $1776 that I gave last year to our Military, was an almost guaranteed Non Starter, everyone said it could not be done, but it was, our Military Patriots got the money, and loved it. When I say something, I mean it! The $5,000 Dividend will happen because the People of our Country deserve it. VOTE REPUBLICAN — MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-      "translated": "由于我们国家正在获得数万亿美元的经济发展、投资和纯粹的成功，向美国所有成年人发放的5,000 $特朗普红利受到了“邓莫克拉特”的批评，他们希望这种情况永远不会发生—但它确实会发生！例如， Dumocrats说，尽管有Dumocra法案，但国会有史以来批准的最大法案之一，或由总统签署成为法律的伟大而美丽的法案还是发生了。",
-      "link": "https://www.trumpstruth.org/statuses/41692",
-      "published": "Fri, 11 Sep 2026 19:08:41 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117255718355537976 I am calling on the Smithsonian Institution to honor the Life and Legacy of George Washington, America’s Greatest Hero, with a five-year exhibition at the National Museum of American History, beginning now, and continuing through, February 22, 2032, the 300th anniversary of Washington’s birth. I am also calling on the Smithsonian to erect a 30-foot “Colossus statue” of the Father of Our Country outside the Museum, to replace the so-called “Infinity” sculpture that stands there today. That strange modernist sculpture tells visitors nothing about America, inspires no one, and honors none of our Great American Heroes. George Washington does. He is easily America’s Greatest Hero. Without him, our Country and our Freedoms wouldn’t exist. And yet, during our Nation’s 250th Anniversary Year, the Museum has failed to give George Washington and our other Founding Fathers the celebration they deserve. Washington’s Heroic Crossing of the Delaware on December 25, 1776—One of the greatest moments and turning points of the Revolution—is not even mentioned in the Museum. His Victory at Trenton, and the stories of the Americans who fought and died for our Independence, deserve far more attention. Under recently ended leadership, the Smithsonian created a “Center for Restorative History,” and commissioned a “Decolonization Plan,” to focus attention overwhelmingly on those who have been oppressed, but there is almost no attention paid to those who triumphed over great oppression, and against great odds. One current exhibit describes the period of 1492 to 1776, including Christopher Columbus’s discovery of the New World, and the European settlement of America, as the “Great Unsettling” of the Continent. That tells you all you need to know about how twisted the thinking is today at the Smithsonian. Instead of a Center for Restorative History, America’s National History Museum should have a Center for American Heroes. Tell the stories of Americans who faced great challenges, overcame them, built great things, defended our Country, made America better, and helped our Nation more fully live up to our Founding Ideals. That is a History worth teaching, because it is America’s story. Instead of focusing on ideological activism, the leaders of America’s taxpayer-funded, National History Museum should be focused on telling America’s story—fairly, accurately, and coherently—and there is no better person to start with than George Washington.",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117255718355537976我呼吁史密森学会向美国最伟大的英雄乔治·华盛顿的生活和遗产致敬，从现在开始，在美国国家历史博物馆举办为期五年的展览，一直持续到2032年2月22日，华盛顿诞辰300周年。我还呼吁史密森尼学会竖立一座30英尺长的“巨像” ，",
+      "link": "https://www.trumpstruth.org/statuses/41695",
+      "published": "Sat, 12 Sep 2026 02:31:42 +0000"
     },
     {
-      "original": "[No Title] - Post from September 11, 2026",
-      "translated": "[无标题] - 2026年9月11日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41690",
-      "published": "Fri, 11 Sep 2026 18:51:49 +0000"
+      "original": "So, I’m asking for the Smithsonian to install the 11-foot Washington statue that was featured at the recent Freedom 250 Grand Prix Race in the Museum’s Flag Hall, and dedicate it this Constitution Day, September 17, 2026. Immediately design and display a five-year exhibition worthy of the Life, Sacrifice, and Contributions of George Washington. Then, as soon as it is ready, install a 30-foot Washington Colossus where “Infinity” stands today. Replace a sculpture that says nothing about America with the man who, more than anyone else, says everything about America. This is how we should begin to honor George Washington in the lead-up to his 300th birthday in 2032. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "因此，我要求史密森尼学会安装最近在博物馆旗厅举行的自由250大奖赛上展出的11英尺高的华盛顿雕像，并将其奉献给2026年9月17日的宪法日。立即设计和展示一个值得乔治·华盛顿的生命、牺牲和贡献的五年展览。然后，准备就绪后，立即安装一个30英尺的华盛顿巨像，今天的“无限”站在那里。Repl",
+      "link": "https://www.trumpstruth.org/statuses/41696",
+      "published": "Sat, 12 Sep 2026 02:31:12 +0000"
     }
   ]
 }
