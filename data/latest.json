@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-14 00:32",
+  "updated_at": "2026-09-15 01:04",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.6,
-      "feels_like": 28.6,
-      "code": 1,
-      "max": 28.9,
-      "min": 23.4,
-      "rain_probability": 99
+      "temperature": 25.1,
+      "feels_like": 30.6,
+      "code": 3,
+      "max": 29.8,
+      "min": 23.9,
+      "rain_probability": 86
     },
     {
       "name": "桂林",
-      "temperature": 26.1,
-      "feels_like": 27.1,
-      "code": 0,
-      "max": 32.0,
-      "min": 24.2,
-      "rain_probability": 0
+      "temperature": 26.9,
+      "feels_like": 28.0,
+      "code": 2,
+      "max": 33.4,
+      "min": 23.6,
+      "rain_probability": 16
     },
     {
       "name": "广州",
-      "temperature": 27.3,
+      "temperature": 27.8,
       "feels_like": 32.9,
       "code": 0,
-      "max": 32.0,
-      "min": 23.9,
-      "rain_probability": 89
+      "max": 32.3,
+      "min": 24.3,
+      "rain_probability": 90
     },
     {
       "name": "深圳",
-      "temperature": 26.9,
+      "temperature": 27.1,
       "feels_like": 32.2,
       "code": 0,
-      "max": 31.6,
-      "min": 23.7,
+      "max": 30.9,
+      "min": 23.0,
       "rain_probability": 100
     }
   ],
@@ -43,86 +43,86 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 100.05,
-      "current_price": 102.59,
-      "previous_close": 100.05,
+      "price": 101.39,
+      "current_price": 102.6,
+      "previous_close": 101.39,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "09-14 00:22"
+      "market_time": "09-15 00:54"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 104.61,
-      "current_price": 107.49,
-      "previous_close": 104.61,
+      "price": 105.68,
+      "current_price": 106.91,
+      "previous_close": 105.68,
       "change": 0.0,
       "change_pct": 0.0,
-      "market_time": "09-14 00:21"
+      "market_time": "09-15 00:53"
     }
   ],
   "news": [
     {
-      "title": "特朗普暗示要复制“委内瑞拉剧本”：“留在伊朗、掌控石油”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695895.shtml",
-      "published": "Mon, 14 Sep 2026 08:12:24 +0800"
+      "title": "威尔士、苏格兰和北爱尔兰三地政党罕见“抱团”，向伦敦发出什么信号？",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696513.shtml",
+      "published": "Tue, 15 Sep 2026 08:19:53 +0800"
     },
     {
-      "title": "伊拉克一化肥厂发生氨气泄漏事故 已致2死90人呼吸困难",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695886.shtml",
-      "published": "Mon, 14 Sep 2026 07:42:16 +0800"
+      "title": "特朗普说伊朗“急着谈判”，伊朗却与阿曼敲定了海峡航线共识！带来这些连锁反应",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696504.shtml",
+      "published": "Tue, 15 Sep 2026 07:52:01 +0800"
     },
     {
-      "title": "特朗普再挺“爱尔兰统一” 引发英国政界反对 ",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695879.shtml",
-      "published": "Mon, 14 Sep 2026 07:24:19 +0800"
+      "title": "美媒：美国首次承认已在太空部署“在轨”控制武器",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696496.shtml",
+      "published": "Tue, 15 Sep 2026 07:24:11 +0800"
     },
     {
-      "title": "突发：伊朗锡里克地区传出数声爆炸巨响",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695878.shtml",
-      "published": "Mon, 14 Sep 2026 07:10:12 +0800"
+      "title": "日本首相高市早苗将于17日改组内阁",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696492.shtml",
+      "published": "Tue, 15 Sep 2026 07:13:37 +0800"
     },
     {
-      "title": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695877.shtml",
-      "published": "Mon, 14 Sep 2026 06:52:31 +0800"
+      "title": "特朗普连发多帖为对伊朗政策辩护：称伊朗“迫切”希望达成协议",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
+      "published": "Tue, 15 Sep 2026 07:01:14 +0800"
     },
     {
-      "title": "日本自民党支持的候选人当选冲绳县知事",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695872.shtml",
-      "published": "Mon, 14 Sep 2026 06:00:04 +0800"
+      "title": "武契奇宣布：将于9月27日辞去塞尔维亚总统职务",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696489.shtml",
+      "published": "Tue, 15 Sep 2026 06:33:04 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from September 13, 2026",
-      "translated": "[No Title] - 2026年9月13日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41708",
-      "published": "Sun, 13 Sep 2026 23:56:01 +0000"
+      "original": "Just like I delivered on the Great Big Beautiful Bill, which everyone said was impossible to pass, and the $1,776 to our great Military Warriors, I will get the $5000 for adult citizens if the Republicans win the House and Senate. JUST GET OUT AND VOTE!!! President DJT",
+      "translated": "就像每个人都说不可能通过的伟大而美丽的法案，以及给我们伟大的军事战士的1,776 $一样，如果共和党赢得众议院和参议院，我将为成年公民获得5000 $。走出去投票吧！ ！ ！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/41728",
+      "published": "Tue, 15 Sep 2026 00:02:33 +0000"
     },
     {
-      "original": "First interior renderings of the magnificent new Ballroom at the White House. Massively expensive, but free of charge to the American Taxpayer — On budget, and ahead of schedule! President DONALD J. TRUMP",
-      "translated": "白宫宏伟的新宴会厅的首次室内效果图。价格昂贵，但对美国纳税人免费—在预算之内，提前完成！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41707",
-      "published": "Sun, 13 Sep 2026 23:52:48 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117272110542335708",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117272110542335708",
+      "link": "https://www.trumpstruth.org/statuses/41729",
+      "published": "Tue, 15 Sep 2026 00:01:02 +0000"
     },
     {
-      "original": "[No Title] - Post from September 13, 2026",
-      "translated": "[No Title] - 2026年9月13日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41705",
-      "published": "Sun, 13 Sep 2026 22:49:29 +0000"
+      "original": "[No Title] - Post from September 14, 2026",
+      "translated": "[No Title] - 2026年9月14日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41730",
+      "published": "Mon, 14 Sep 2026 23:59:57 +0000"
     },
     {
-      "original": "[No Title] - Post from September 13, 2026",
-      "translated": "[No Title] - 2026年9月13日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41706",
-      "published": "Sun, 13 Sep 2026 22:48:18 +0000"
+      "original": "The AI Hoax being perpetrated by the Radical Left Dumocrats is reminiscent of their Global Warming Scam of not so long ago, where everyone was going to die from extreme heat. What happened? MAKE AMERICA GREAT AGAIN!!! President DJT",
+      "translated": "由激进的左翼民主党人实施的人工智能骗局让人想起不久前他们的全球变暖骗局，当时每个人都将死于极端高温。发生了什么？让美国再次伟大！ ！ ！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/41727",
+      "published": "Mon, 14 Sep 2026 23:55:09 +0000"
     },
     {
-      "original": "Iranians Are Running Out of Gas as Economic Squeeze Takes Hold: https://www. wsj.com/world/middle-east/iran ians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b",
-      "translated": "随着经济挤压的持续，伊朗人正在耗尽天然气： https://wsj.com/world/middle-east/iran ians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b",
-      "link": "https://www.trumpstruth.org/statuses/41704",
-      "published": "Sun, 13 Sep 2026 22:43:20 +0000"
+      "original": "The Republican Midterm Convention in Dallas was a solidly sold out winner for Republicans. Also, great Views and Ratings. Should have a big impact on November 3rd. President DJT",
+      "translated": "达拉斯共和党中期大会对共和党人来说是一个坚实的胜利者。此外，还有很棒的浏览量和评分。应该会在11月3日产生很大的影响。DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/41726",
+      "published": "Mon, 14 Sep 2026 23:48:17 +0000"
     }
   ]
 }
