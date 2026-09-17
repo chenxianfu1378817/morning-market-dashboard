@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-16 00:54",
+  "updated_at": "2026-09-17 00:58",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.1,
-      "feels_like": 31.0,
-      "code": 3,
-      "max": 29.6,
-      "min": 24.5,
-      "rain_probability": 61
+      "temperature": 26.1,
+      "feels_like": 31.2,
+      "code": 0,
+      "max": 30.5,
+      "min": 23.9,
+      "rain_probability": 96
     },
     {
       "name": "桂林",
-      "temperature": 27.1,
-      "feels_like": 30.1,
-      "code": 2,
+      "temperature": 24.6,
+      "feels_like": 29.6,
+      "code": 51,
       "max": 30.5,
-      "min": 24.2,
-      "rain_probability": 80
+      "min": 23.4,
+      "rain_probability": 84
     },
     {
       "name": "广州",
-      "temperature": 27.8,
-      "feels_like": 33.3,
-      "code": 0,
-      "max": 30.7,
-      "min": 24.8,
-      "rain_probability": 84
+      "temperature": 27.1,
+      "feels_like": 32.2,
+      "code": 2,
+      "max": 32.0,
+      "min": 25.0,
+      "rain_probability": 78
     },
     {
       "name": "深圳",
       "temperature": 27.4,
-      "feels_like": 30.8,
+      "feels_like": 31.3,
       "code": 0,
-      "max": 30.9,
-      "min": 24.6,
-      "rain_probability": 17
+      "max": 30.6,
+      "min": 24.2,
+      "rain_probability": 18
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 105.83,
-      "current_price": 104.94,
-      "previous_close": 101.39,
-      "change": 4.439999999999998,
-      "change_pct": 4.3791300917250195,
-      "market_time": "09-16 00:43"
+      "price": 102.43,
+      "current_price": 101.28,
+      "previous_close": 105.83,
+      "change": -3.3999999999999915,
+      "change_pct": -3.2126996125862153,
+      "market_time": "09-17 00:48"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 108.75,
-      "current_price": 107.89,
-      "previous_close": 105.68,
-      "change": 3.069999999999993,
-      "change_pct": 2.904996214988638,
-      "market_time": "09-16 00:42"
+      "price": 105.83,
+      "current_price": 104.67,
+      "previous_close": 108.75,
+      "change": -2.9200000000000017,
+      "change_pct": -2.6850574712643693,
+      "market_time": "09-17 00:47"
     }
   ],
   "news": [
     {
-      "title": "肯尼迪中心董事会决定立即关闭该中心 特朗普发声",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697160.shtml",
-      "published": "Wed, 16 Sep 2026 08:01:07 +0800"
+      "title": "美联储时隔三年多重启加息",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697967.shtml",
+      "published": "Thu, 17 Sep 2026 08:11:34 +0800"
     },
     {
-      "title": "特朗普高调宣布俄乌“能源停火”， 不到24小时双方“互炸”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697159.shtml",
-      "published": "Wed, 16 Sep 2026 07:58:50 +0800"
+      "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml",
+      "published": "Thu, 17 Sep 2026 08:06:24 +0800"
     },
     {
-      "title": "南非确定首批绿色氢能项目 明年启动建设",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697157.shtml",
-      "published": "Wed, 16 Sep 2026 07:54:34 +0800"
+      "title": "美国众议院投票认定爱泼斯坦商业伙伴布莱克藐视国会",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697966.shtml",
+      "published": "Thu, 17 Sep 2026 07:41:50 +0800"
     },
     {
-      "title": "俄外交部：日本应铭记九一八历史  “再军事化”必蹈覆辙",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697156.shtml",
-      "published": "Wed, 16 Sep 2026 07:54:14 +0800"
+      "title": "特朗普签署备忘录要求将加拿大产品排除出美政府采购计划",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697959.shtml",
+      "published": "Thu, 17 Sep 2026 07:07:20 +0800"
     },
     {
-      "title": "以军称在加沙地带打死一名哈马斯指挥官",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697147.shtml",
-      "published": "Wed, 16 Sep 2026 07:17:14 +0800"
+      "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
+      "published": "Thu, 17 Sep 2026 06:39:14 +0800"
     },
     {
-      "title": "美媒：美国对伊朗战争耗资已超420亿美元",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697145.shtml",
-      "published": "Wed, 16 Sep 2026 06:45:40 +0800"
+      "title": "特朗普：美国利率应当降至1%或更低",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
+      "published": "Thu, 17 Sep 2026 06:06:52 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "“Undeniable Windfalls: How One Stock Can Change Your Life” by the Great Charles Payne, of FoxNews, is a fantastic new book. Charles is a true professional, understands what it takes to be successful, and unleash the American Dream. Much less importantly, he is also a great guy! Get your copy today: https://www. undeniablewindfalls.com",
-      "translated": "福克斯新闻（ FoxNews ）伟大的查尔斯·佩恩（ Charles Payne ）的《不可否认的暴风雨：一只股票如何改变你的生活》（ Undeniable Windfalls: How One Stock Can Change Your Life ） Charles是一位真正的专业人士，了解取得成功所需的条件，并实现美国梦。更不重要的是，他也是个好人！立即获取您的副本： https://www. undeniablewindfalls.com",
-      "link": "https://www.trumpstruth.org/statuses/41745",
-      "published": "Tue, 15 Sep 2026 19:11:57 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794",
+      "link": "https://www.trumpstruth.org/statuses/41753",
+      "published": "Wed, 16 Sep 2026 22:49:03 +0000"
     },
     {
-      "original": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like few others, the Wisdom, Courage, and TARIFFS required to, MAKE AMERICA GREAT AGAIN. It is Great Patriots like Brian who helped us secure Historic Victories in three Presidential Campaigns, and are working tirelessly to save American Industry, and champion MADE IN THE U.S.A. “Forgotten” America is forgotten no longer — Get your copy today: https://www. amazon.com/Blue-Collar-Conserv ative-Reagan-Trump/dp/1960452258",
-      "translated": "我很荣幸为布赖恩·潘纳贝克（ Brian Pannebecker ）令人难以置信的新书《蓝领保守派：从里根到特朗普》（ Blue Collar Conservative: From Reagan to Trump. “作为特朗普汽车工人的负责人，布莱恩从一开始就与我们在一起，他和其他人一样，了解使美国再次伟大所需的智慧、勇气和关税。正是像Brian这样的伟大爱国者帮助我们在三次总统竞选中取得了历史性胜利，并且正在努力",
-      "link": "https://www.trumpstruth.org/statuses/41746",
-      "published": "Tue, 15 Sep 2026 19:11:50 +0000"
+      "original": "First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: https://www. breitbart.com/politics/2026/09 /16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/",
+      "translated": "有史以来第一个中期RNC获得了超过1亿次实时流媒体观看： https://breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-1亿次实时流媒体观看/",
+      "link": "https://www.trumpstruth.org/statuses/41752",
+      "published": "Wed, 16 Sep 2026 22:02:18 +0000"
     },
     {
-      "original": "The Board of The Kennedy Center today agreed, almost unanimously, to close the Building for Safety reasons, and so that it can begin the process of Reconstruction. The closing will take place immediately, however, the Renovation and Reconstruction, which is a very large and complex job, cannot begin until such time as the D.C. Circuit rules on the Board’s approved name. If the ruling is a negative one, which it should not be, and is not overturned by the U.S. Supreme Court, the Reconstruction and the Renovation of The Kennedy Center will not take place. The attorneys from the DOJ will ask for an expedited appeal. In the meantime, 17 Million Dollars, raised by President Trump, has been put into The Kennedy Center account to keep it afloat. Thank you for your attention to this matter! President DONALD J. TRUMP",
-      "translated": "肯尼迪中心董事会今天几乎一致同意出于安全原因关闭大楼，以便开始重建过程。关闭将立即进行，但是，装修和重建是一项非常庞大和复杂的工作，只有在华盛顿特区巡回法院对董事会批准的名称作出裁决后才能开始。如果裁定是否定的，则不应该是否定的，并且不会被推翻",
-      "link": "https://www.trumpstruth.org/statuses/41744",
-      "published": "Tue, 15 Sep 2026 18:54:52 +0000"
+      "original": "https://www. reuters.com/world/us-poverty-r ate-102-2025-census-bureau-says-2026-09-15/",
+      "translated": "https://reuters.com/world/us-poverty-r ate-102-2025-census-bureau-says-2026-09-15/",
+      "link": "https://www.trumpstruth.org/statuses/41751",
+      "published": "Wed, 16 Sep 2026 21:10:28 +0000"
     },
     {
-      "original": "[No Title] - Post from September 15, 2026",
-      "translated": "[No Title] - 2026年9月15日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41743",
-      "published": "Tue, 15 Sep 2026 17:11:14 +0000"
+      "original": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
+      "translated": "美国的利率应为1%或更低，因为我们是迄今为止世界上最好的信贷。我们的国家正以新的投资蓬勃发展！如果我们停止与我们有赤字的每个国家（其中大多数国家）进行交易，我们每年至少可以赚取1.5万亿美元。“赤字”这个词只不过是一个关于损失的花哨词汇。我们“背负”着世界上几乎所有国家，这种情况不会持续太久",
+      "link": "https://www.trumpstruth.org/statuses/41750",
+      "published": "Wed, 16 Sep 2026 20:38:35 +0000"
     },
     {
-      "original": "The Kennedy Center is in a virtual state of collapse, and has been for many years. A large piece of concrete and steel just dropped down, in a thud, from the ceiling of a heavily trafficked main hallway. If the Building were open, innocent people would have been killed. A security guard had just passed the area, one minute prior to this ceiling collapse. He was, therefore, 60 seconds away from certain death. The Judge has made us keep it open even though there are no performances, and no people that would have the Courage to even go in. The Board of The Kennedy Center has strongly voted to save it, and they know I’m the only one who can do so, because I have the ability to raise the money, and the ability to construct — that few others have. I also have the strength and power of the Presidency, which will be needed do what must be done, and give it a strong shot at Greatness again! Remember, The Kennedy Center was losing Hundreds of Millions of Dollars when I took over. It was failing badly! It had nothing to do with me, I am only there to help. I just got there to reveal the facts, but especially those concerning Building Safety. A very hostile and conflicted Judge (What else is new?) seems like he won’t let that happen, in which case, unfortunately, the Building is destined to doom. Isn’t that too bad? We have already wasted more than 6 months “playing around” in Court. Time is our Enemy! The Board, comprised of some of the most prominent and respected people in our Nation, is meeting again today. It will be interesting to see what happens! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "肯尼迪中心多年来一直处于虚拟崩溃状态。一大块混凝土和钢铁砰的一声从人满为患的主走廊的天花板上掉了下来。如果大楼是开放的，无辜的人就会被杀害。天花板倒塌前一分钟，一名保安刚刚经过该地区。因此，他距离某些死亡还有60秒。法官让我们保持开放前夜",
-      "link": "https://www.trumpstruth.org/statuses/41742",
-      "published": "Tue, 15 Sep 2026 15:49:11 +0000"
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
+      "link": "https://www.trumpstruth.org/statuses/41749",
+      "published": "Wed, 16 Sep 2026 20:31:59 +0000"
     }
   ]
 }
