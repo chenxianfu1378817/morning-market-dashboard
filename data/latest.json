@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-17 00:58",
+  "updated_at": "2026-09-18 00:54",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.1,
-      "feels_like": 31.2,
+      "temperature": 26.4,
+      "feels_like": 32.0,
       "code": 0,
-      "max": 30.5,
-      "min": 23.9,
-      "rain_probability": 96
+      "max": 31.4,
+      "min": 23.7,
+      "rain_probability": 12
     },
     {
       "name": "桂林",
-      "temperature": 24.6,
-      "feels_like": 29.6,
-      "code": 51,
-      "max": 30.5,
-      "min": 23.4,
-      "rain_probability": 84
+      "temperature": 27.1,
+      "feels_like": 31.1,
+      "code": 0,
+      "max": 34.1,
+      "min": 24.0,
+      "rain_probability": 59
     },
     {
       "name": "广州",
-      "temperature": 27.1,
-      "feels_like": 32.2,
-      "code": 2,
-      "max": 32.0,
-      "min": 25.0,
-      "rain_probability": 78
+      "temperature": 27.8,
+      "feels_like": 33.7,
+      "code": 0,
+      "max": 33.1,
+      "min": 25.2,
+      "rain_probability": 49
     },
     {
       "name": "深圳",
-      "temperature": 27.4,
-      "feels_like": 31.3,
+      "temperature": 27.5,
+      "feels_like": 31.9,
       "code": 0,
-      "max": 30.6,
-      "min": 24.2,
-      "rain_probability": 18
+      "max": 32.0,
+      "min": 24.0,
+      "rain_probability": 0
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 102.43,
-      "current_price": 101.28,
-      "previous_close": 105.83,
-      "change": -3.3999999999999915,
-      "change_pct": -3.2126996125862153,
-      "market_time": "09-17 00:48"
+      "price": 101.91,
+      "current_price": 100.86,
+      "previous_close": 102.43,
+      "change": -0.5200000000000102,
+      "change_pct": -0.5076637703797815,
+      "market_time": "09-18 00:43"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 105.83,
-      "current_price": 104.67,
-      "previous_close": 108.75,
-      "change": -2.9200000000000017,
-      "change_pct": -2.6850574712643693,
-      "market_time": "09-17 00:47"
+      "price": 104.82,
+      "current_price": 103.78,
+      "previous_close": 105.83,
+      "change": -1.0100000000000051,
+      "change_pct": -0.9543607672682654,
+      "market_time": "09-18 00:43"
     }
   ],
   "news": [
     {
-      "title": "美联储时隔三年多重启加息",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697967.shtml",
-      "published": "Thu, 17 Sep 2026 08:11:34 +0800"
+      "title": "人类数学遭遇至暗时刻？",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698641.shtml",
+      "published": "Fri, 18 Sep 2026 08:02:48 +0800"
     },
     {
-      "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml",
-      "published": "Thu, 17 Sep 2026 08:06:24 +0800"
+      "title": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手 ",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698637.shtml",
+      "published": "Fri, 18 Sep 2026 07:46:55 +0800"
     },
     {
-      "title": "美国众议院投票认定爱泼斯坦商业伙伴布莱克藐视国会",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697966.shtml",
-      "published": "Thu, 17 Sep 2026 07:41:50 +0800"
+      "title": "高市内阁人事“洗牌”，政治加速右转，日本民众开始担忧“发动战争的可能性增加”",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698636.shtml",
+      "published": "Fri, 18 Sep 2026 07:39:40 +0800"
     },
     {
-      "title": "特朗普签署备忘录要求将加拿大产品排除出美政府采购计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697959.shtml",
-      "published": "Thu, 17 Sep 2026 07:07:20 +0800"
+      "title": "沙特称拦截一架胡塞武装发射的无人机 碎片坠落致1死2伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698633.shtml",
+      "published": "Fri, 18 Sep 2026 07:23:34 +0800"
     },
     {
-      "title": "外媒：美联储三年多来首次加息，特朗普强烈反对",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697957.shtml",
-      "published": "Thu, 17 Sep 2026 06:39:14 +0800"
+      "title": "美国一架F-16战斗机在密歇根州坠毁 飞行员弹射逃生 ",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698631.shtml",
+      "published": "Fri, 18 Sep 2026 07:08:49 +0800"
     },
     {
-      "title": "特朗普：美国利率应当降至1%或更低",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697954.shtml",
-      "published": "Thu, 17 Sep 2026 06:06:52 +0800"
+      "title": "美国30年期贷款利率升至6.95% 创19个月来最高值",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698628.shtml",
+      "published": "Fri, 18 Sep 2026 06:53:33 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117227242849038794",
-      "link": "https://www.trumpstruth.org/statuses/41753",
-      "published": "Wed, 16 Sep 2026 22:49:03 +0000"
+      "original": "Congressman John McGuire is an America First Warrior for Virginia’s 5th Congressional District. John bravely served our Great Country as a U.S. Navy SEAL, and is doing an incredible job fighting for the people of Rural Virginia. He is working hard to Grow our Economy, Create GREAT Jobs, Champion American Energy DOMINANCE, Secure our Border, Strengthen our Military/Veterans, Defend our always under siege Second Amendment, and Restore PEACE THROUGH STRENGTH. John is MAGA all the way, and has been with us from the very beginning. John McGuire has my Complete and Total Endorsement — He will never let you down!",
+      "translated": "国会议员约翰·麦圭尔（ John McGuire ）是弗吉尼亚州第五国会选区的美国第一勇士。约翰作为美国海豹突击队员勇敢地为我们的伟大国家服务，并为弗吉尼亚州农村人民做了令人难以置信的工作。他正在努力发展我们的经济，创造伟大的就业机会，捍卫美国能源统治地位，确保我们的边境安全，加强我们的军队/退伍军人，捍卫我们一直被围困的第二修正案，并通过",
+      "link": "https://www.trumpstruth.org/statuses/41771",
+      "published": "Fri, 18 Sep 2026 00:20:02 +0000"
     },
     {
-      "original": "First-Ever Midterm RNC Garnered Over 100 Million Live Stream Views: https://www. breitbart.com/politics/2026/09 /16/first-ever-midterm-rnc-garnered-over-100-million-live-stream-views/",
-      "translated": "有史以来第一个中期RNC获得了超过1亿次实时流媒体观看： https://breitbart.com/politics/2026/09/16/first-ever-midterm-rnc-garnered-over-1亿次实时流媒体观看/",
-      "link": "https://www.trumpstruth.org/statuses/41752",
-      "published": "Wed, 16 Sep 2026 22:02:18 +0000"
+      "original": "Congresswoman Jen Kiggans is a Tremendous Advocate for the Great People of Virginia’s 2nd Congressional District! A former Navy helicopter pilot, Jen knows how to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Jen is working hard to Secure the Border, Grow the Economy, Restore American Energy Independence, and Protect our always under siege Second Amendment. Jen Kiggans has my Complete and Total Endorsement — SHE WILL NOT LET YOU DOWN!",
+      "translated": "国会女议员Jen Kiggans是弗吉尼亚州第二国会选区伟大人民的伟大倡导者！作为一名前海军直升机飞行员， Jen知道如何保卫我们的国家，支持我们勇敢的军队/退伍军人，并通过力量确保和平。在国会， Jen正在努力保护边境，发展经济，恢复美国的能源独立，并保护我们始终处于围困状态的第二修正案。Jen Kiggans有我的完整和",
+      "link": "https://www.trumpstruth.org/statuses/41772",
+      "published": "Fri, 18 Sep 2026 00:19:12 +0000"
     },
     {
-      "original": "https://www. reuters.com/world/us-poverty-r ate-102-2025-census-bureau-says-2026-09-15/",
-      "translated": "https://reuters.com/world/us-poverty-r ate-102-2025-census-bureau-says-2026-09-15/",
-      "link": "https://www.trumpstruth.org/statuses/41751",
-      "published": "Wed, 16 Sep 2026 21:10:28 +0000"
+      "original": "Congressman Rob Wittman is doing a truly fantastic job representing the wonderful people of Virginia’s 1st Congressional District! As the Vice Chairman of the House Armed Services Committee, Rob is working tirelessly to advance our America First Agenda. He understands the Wisdom and Courage required to Defend our Country, Support our Brave Military/Veterans, and Ensure PEACE THROUGH STRENGTH. In Congress, Rob is fighting tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Stop Migrant Crime, and Protect our always under siege Second Amendment. Rob Wittman has my Complete and Total Endorsement for Re-Election — HE WILL NEVER LET YOU DOWN!",
+      "translated": "国会议员罗布·维特曼（ Rob Wittman ）代表弗吉尼亚州第一国会选区的优秀人民做了非常出色的工作！作为众议院军事委员会副主席， Rob正在不知疲倦地努力推进我们的美国优先议程。他理解保卫我们国家所需的智慧和勇气，支持我们勇敢的军队/退伍军人，并通过力量确保和平。在国会， Rob正在不知疲倦地努力发展我们的Ec",
+      "link": "https://www.trumpstruth.org/statuses/41770",
+      "published": "Fri, 18 Sep 2026 00:13:38 +0000"
     },
     {
-      "original": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year. The word “Deficit” is nothing more than a fancy word for LOSS. We are “carrying” almost every country in the World, and that cannot go on any longer. LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST! President DONALD J. TRUMP",
-      "translated": "美国的利率应为1%或更低，因为我们是迄今为止世界上最好的信贷。我们的国家正以新的投资蓬勃发展！如果我们停止与我们有赤字的每个国家（其中大多数国家）进行交易，我们每年至少可以赚取1.5万亿美元。“赤字”这个词只不过是一个关于损失的花哨词汇。我们“背负”着世界上几乎所有国家，这种情况不会持续太久",
-      "link": "https://www.trumpstruth.org/statuses/41750",
-      "published": "Wed, 16 Sep 2026 20:38:35 +0000"
+      "original": "[No Title] - Post from September 17, 2026",
+      "translated": "[No Title] - 2026年9月17日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41769",
+      "published": "Thu, 17 Sep 2026 22:51:51 +0000"
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117282599441012397",
-      "link": "https://www.trumpstruth.org/statuses/41749",
-      "published": "Wed, 16 Sep 2026 20:31:59 +0000"
+      "original": "[No Title] - Post from September 17, 2026",
+      "translated": "[No Title] - 2026年9月17日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41766",
+      "published": "Thu, 17 Sep 2026 22:14:32 +0000"
     }
   ]
 }
