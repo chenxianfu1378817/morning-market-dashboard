@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-20 00:30",
+  "updated_at": "2026-09-21 00:40",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.0,
-      "feels_like": 32.8,
+      "temperature": 27.5,
+      "feels_like": 32.9,
       "code": 0,
-      "max": 33.0,
-      "min": 24.8,
-      "rain_probability": 37
+      "max": 33.3,
+      "min": 25.2,
+      "rain_probability": 34
     },
     {
       "name": "桂林",
-      "temperature": 26.0,
-      "feels_like": 29.7,
+      "temperature": 27.3,
+      "feels_like": 31.7,
       "code": 0,
-      "max": 35.3,
-      "min": 23.6,
-      "rain_probability": 6
+      "max": 35.2,
+      "min": 24.5,
+      "rain_probability": 37
     },
     {
       "name": "广州",
-      "temperature": 28.1,
-      "feels_like": 33.9,
+      "temperature": 28.3,
+      "feels_like": 34.6,
       "code": 0,
-      "max": 33.9,
-      "min": 25.6,
-      "rain_probability": 25
+      "max": 33.1,
+      "min": 26.4,
+      "rain_probability": 76
     },
     {
       "name": "深圳",
-      "temperature": 28.3,
-      "feels_like": 33.1,
+      "temperature": 28.1,
+      "feels_like": 33.5,
       "code": 0,
-      "max": 33.1,
-      "min": 24.2,
-      "rain_probability": 100
+      "max": 31.9,
+      "min": 24.8,
+      "rain_probability": 96
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 97.23,
-      "current_price": 96.08,
-      "previous_close": 101.91,
-      "change": -4.679999999999993,
-      "change_pct": -4.592287312334405,
-      "market_time": "09-18 20:59"
+      "price": 96.08,
+      "current_price": 95.27,
+      "previous_close": 100.3,
+      "change": -4.219999999999999,
+      "change_pct": -4.207377866400797,
+      "market_time": "09-21 00:30"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 99.93,
-      "current_price": 99.29,
-      "previous_close": 104.82,
-      "change": -4.889999999999986,
-      "change_pct": -4.665140240412122,
-      "market_time": "09-18 20:58"
+      "price": 99.29,
+      "current_price": 98.83,
+      "previous_close": 103.87,
+      "change": -4.579999999999998,
+      "change_pct": -4.409357851160102,
+      "market_time": "09-21 00:30"
     }
   ],
   "news": [
     {
-      "title": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
-      "published": "Sun, 20 Sep 2026 06:33:03 +0800"
+      "title": "德国两州举行州议会选举 现有执政联盟预计均失去多数",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700526.shtml",
+      "published": "Mon, 21 Sep 2026 08:34:56 +0800"
     },
     {
-      "title": "伊朗称已向美政府传达7项谈判条件",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
-      "published": "Sun, 20 Sep 2026 06:00:12 +0800"
+      "title": "“沉重打击” 德国基民盟首次无缘州一级议会",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700521.shtml",
+      "published": "Mon, 21 Sep 2026 08:10:12 +0800"
     },
     {
-      "title": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
-      "published": "Sat, 19 Sep 2026 23:59:36 +0800"
+      "title": "卡塔尔：正与美伊保持沟通 美国希望与伊朗达成协议",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700510.shtml",
+      "published": "Mon, 21 Sep 2026 07:16:17 +0800"
     },
     {
-      "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699738.shtml",
-      "published": "Sat, 19 Sep 2026 23:23:24 +0800"
+      "title": "俄罗斯国家杜马选举投票结束 投票率高于上届",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700507.shtml",
+      "published": "Mon, 21 Sep 2026 07:08:08 +0800"
     },
     {
-      "title": "突发：沙特首都主要机场附近出现大量黑烟",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
-      "published": "Sat, 19 Sep 2026 21:54:56 +0800"
+      "title": "伊媒：伊朗外长已离开德黑兰 将前往纽约参加联合国大会",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700506.shtml",
+      "published": "Mon, 21 Sep 2026 07:05:02 +0800"
     },
     {
-      "title": "认知·锐见｜警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
-      "published": "Sat, 19 Sep 2026 21:18:30 +0800"
+      "title": "马克龙：支持加拿大和欧盟相互靠拢",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700504.shtml",
+      "published": "Mon, 21 Sep 2026 06:48:45 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from September 19, 2026",
-      "translated": "[No Title] - 2026年9月19日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41809",
-      "published": "Sat, 19 Sep 2026 17:27:35 +0000"
+      "original": "[No Title] - Post from September 20, 2026",
+      "translated": "[No Title] - 2026年9月20日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41818",
+      "published": "Sun, 20 Sep 2026 21:37:59 +0000"
     },
     {
-      "original": "Over the years, there have been many Hoaxes, all generated by the Radical Left Dumocrats, for purposes of destroying our Country. RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAINE, UKRAINE, Global Warming, Impeachment Hoax # 1 , Impeachment Hoax # 2 , Men in Women’s Sports, Transgender for Everyone, and now, the decimation, or destruction, of AI, commonly known as Artificial Intelligence — And I, as President of the United States, will not stand by and let this happen. It all began with an attack on our Data Centers, until people realized how wealthy and prestigious they were for the Communities in which they were built. Higher Salaries, Lower Taxes, and Safer Streets, was the result, and the crazed Data Center attack has largely failed, so now, in much the same way as they changed the term “Global Warming” to “Climate Change,” in that it covers a much larger “territory” of doubt, they are going straight at AI. We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System. For this purpose, I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS, in my First Term. To that end, I will be announcing, in the near future, the AI “Czar” — Only High I.Q. individuals need apply! AI is the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country’s GDP. We are leading China, and the rest of the World, and I intend to keep it that way! President DONALD J. TRUMP",
-      "translated": "多年来，为了摧毁我们的国家，出现了许多恶作剧，所有这些都是由激进的左翼民主党人制造的。俄罗斯，俄罗斯，俄罗斯，乌克兰，乌克兰，乌克兰，全球变暖，弹劾骗局＃ 1 ，弹劾骗局＃ 2 ，女性体育运动中的男性，变性人，现在，人工智能（通常称为人工智能）的屠杀或破坏—而我，作为美国总统，不会袖手旁观",
-      "link": "https://www.trumpstruth.org/statuses/41808",
-      "published": "Sat, 19 Sep 2026 17:12:55 +0000"
+      "original": "[No Title] - Post from September 20, 2026",
+      "translated": "[No Title] - 2026年9月20日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41815",
+      "published": "Sun, 20 Sep 2026 19:52:22 +0000"
     },
     {
-      "original": "Unfortunately, the United States Supreme Court has lacked the Courage to MAKE AMERICA GREAT AGAIN. Over the last 6 months, with their faulty, political, and ridiculous decisions on TARIFFS and Birthright Citizenship, they have cost the United States of America Trillions of Dollars, and forever damaged the way people become Citizens of our great Country. It has been a sad chapter in the life and times of America, but we will prevail! President DONALD J. TRUMP",
-      "translated": "不幸的是，美国最高法院缺乏让美国再次伟大的勇气。在过去的6个月里，他们在关税和出生公民权方面做出了错误、政治和荒谬的决定，使美利坚合众国损失了数万亿美元，并永远破坏了人们成为我们伟大国家公民的方式。这是美国生活和时代的一个悲伤篇章，但我们会获胜！",
-      "link": "https://www.trumpstruth.org/statuses/41807",
-      "published": "Sat, 19 Sep 2026 16:52:40 +0000"
+      "original": "[No Title] - Post from September 20, 2026",
+      "translated": "[No Title] - 2026年9月20日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41816",
+      "published": "Sun, 20 Sep 2026 19:52:11 +0000"
     },
     {
-      "original": "Many people think that the words “Artificial Intelligence” are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomena would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI). This is a Poll, and I would appreciate everybody voting! Which is the best name for this ever growing “Revolution?” President DONALD J. TRUMP",
-      "translated": "许多人认为，相对于人工智能或人工智能， “人工智能”这个词是不准确的，也是非常不清晰的。对这种新现象的更优雅和准确的描述是卓越智能（ SI ）或极端智能（ EI ）或最高智能（ SI ）。这是一项民意调查，我希望每个人都能投票！对于这场不断发展的“革命” ，哪个是最好的名字？ ”唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41806",
-      "published": "Sat, 19 Sep 2026 15:29:14 +0000"
+      "original": "[No Title] - Post from September 20, 2026",
+      "translated": "[No Title] - 2026年9月20日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41817",
+      "published": "Sun, 20 Sep 2026 19:51:58 +0000"
     },
     {
-      "original": "[No Title] - Post from September 19, 2026",
-      "translated": "[No Title] - 2026年9月19日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41805",
-      "published": "Sat, 19 Sep 2026 05:06:05 +0000"
+      "original": "[No Title] - Post from September 20, 2026",
+      "translated": "[No Title] - 2026年9月20日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41814",
+      "published": "Sun, 20 Sep 2026 16:22:12 +0000"
     }
   ]
 }
