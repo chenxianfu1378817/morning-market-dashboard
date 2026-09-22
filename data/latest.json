@@ -1,128 +1,128 @@
 {
-  "updated_at": "2026-09-21 00:40",
+  "updated_at": "2026-09-22 01:21",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.5,
-      "feels_like": 32.9,
-      "code": 0,
-      "max": 33.3,
+      "temperature": 25.9,
+      "feels_like": 30.6,
+      "code": 51,
+      "max": 31.8,
       "min": 25.2,
-      "rain_probability": 34
+      "rain_probability": 73
     },
     {
       "name": "桂林",
-      "temperature": 27.3,
-      "feels_like": 31.7,
-      "code": 0,
-      "max": 35.2,
-      "min": 24.5,
-      "rain_probability": 37
+      "temperature": 28.1,
+      "feels_like": 32.9,
+      "code": 2,
+      "max": 33.9,
+      "min": 24.3,
+      "rain_probability": 73
     },
     {
       "name": "广州",
-      "temperature": 28.3,
-      "feels_like": 34.6,
+      "temperature": 29.5,
+      "feels_like": 35.3,
       "code": 0,
-      "max": 33.1,
-      "min": 26.4,
-      "rain_probability": 76
+      "max": 32.5,
+      "min": 25.7,
+      "rain_probability": 94
     },
     {
       "name": "深圳",
       "temperature": 28.1,
-      "feels_like": 33.5,
-      "code": 0,
-      "max": 31.9,
-      "min": 24.8,
-      "rain_probability": 96
+      "feels_like": 32.7,
+      "code": 1,
+      "max": 31.6,
+      "min": 24.4,
+      "rain_probability": 100
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 96.08,
-      "current_price": 95.27,
-      "previous_close": 100.3,
-      "change": -4.219999999999999,
-      "change_pct": -4.207377866400797,
-      "market_time": "09-21 00:30"
+      "price": 92.37,
+      "current_price": 92.84,
+      "previous_close": 92.37,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "09-22 01:11"
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 99.29,
-      "current_price": 98.83,
-      "previous_close": 103.87,
-      "change": -4.579999999999998,
-      "change_pct": -4.409357851160102,
-      "market_time": "09-21 00:30"
+      "price": 96.24,
+      "current_price": 96.78,
+      "previous_close": 96.24,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "market_time": "09-22 01:09"
     }
   ],
   "news": [
     {
-      "title": "德国两州举行州议会选举 现有执政联盟预计均失去多数",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700526.shtml",
-      "published": "Mon, 21 Sep 2026 08:34:56 +0800"
+      "title": "英国将向沙特提供“防御性”军事支持 英首相表态",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701214.shtml",
+      "published": "Tue, 22 Sep 2026 07:58:44 +0800"
     },
     {
-      "title": "“沉重打击” 德国基民盟首次无缘州一级议会",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700521.shtml",
-      "published": "Mon, 21 Sep 2026 08:10:12 +0800"
+      "title": "谷歌因违反欧盟数据保护条例被罚逾4亿欧元",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701208.shtml",
+      "published": "Tue, 22 Sep 2026 07:39:35 +0800"
     },
     {
-      "title": "卡塔尔：正与美伊保持沟通 美国希望与伊朗达成协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700510.shtml",
-      "published": "Mon, 21 Sep 2026 07:16:17 +0800"
+      "title": "朝中社：朝鲜进行新型武器试验 金正恩观摩（图）",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701205.shtml",
+      "published": "Tue, 22 Sep 2026 07:19:36 +0800"
     },
     {
-      "title": "俄罗斯国家杜马选举投票结束 投票率高于上届",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700507.shtml",
-      "published": "Mon, 21 Sep 2026 07:08:08 +0800"
+      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701203.shtml",
+      "published": "Tue, 22 Sep 2026 06:57:32 +0800"
     },
     {
-      "title": "伊媒：伊朗外长已离开德黑兰 将前往纽约参加联合国大会",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700506.shtml",
-      "published": "Mon, 21 Sep 2026 07:05:02 +0800"
+      "title": "巴西工业活动放缓 市场预期年内仍有降息空间",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701201.shtml",
+      "published": "Tue, 22 Sep 2026 06:41:13 +0800"
     },
     {
-      "title": "马克龙：支持加拿大和欧盟相互靠拢",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700504.shtml",
-      "published": "Mon, 21 Sep 2026 06:48:45 +0800"
+      "title": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701198.shtml",
+      "published": "Tue, 22 Sep 2026 06:28:38 +0800"
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from September 20, 2026",
-      "translated": "[No Title] - 2026年9月20日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41818",
-      "published": "Sun, 20 Sep 2026 21:37:59 +0000"
+      "original": "While in New York City, I’m on the way to one of my favorite places in the World, Gracie Mansion. I spent lots of hours there over the years, with some great Mayors, some average Mayors, and some bad Mayors. It will be interesting to see how it looks now, invited by Mayor Mamdani. Look forward to it. MAKE NEW YORK CITY GREAT AGAIN! President DONALD J. TRUMP",
+      "translated": "在纽约市期间，我正在前往世界上我最喜欢的地方之一格雷西大厦（ Gracie Mansion ）的路上。这些年来，我花了很多时间在那里，和一些伟大的市长、一些普通的市长和一些糟糕的市长在一起。在Mamdani市长的邀请下，看看它现在的样子会很有趣。期待您的到来。让纽约市再次变得美好！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41837",
+      "published": "Mon, 21 Sep 2026 19:53:03 +0000"
     },
     {
-      "original": "[No Title] - Post from September 20, 2026",
-      "translated": "[No Title] - 2026年9月20日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41815",
-      "published": "Sun, 20 Sep 2026 19:52:22 +0000"
+      "original": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, for them, a man who ruled in favor of Jim Acosta, who now seems to have disappeared from the Planet. The Judge’s name is Tim Kelly, and he was, sadly, appointed by “TRUMP.” In other words, almost without question and, as usual, we’ll go for appeal because Fake News people and publications that only write negatively, and who violate our National Security by writing false and defamatory stories with unknown “sources,” shouldn’t be allowed access to the most important Office anywhere in the World. It is called the Oval Office, and it should be treated with Decorum, Respect, and Dignity, not defiled by Third Rate Clowns, who purposefully distort, twist, and degrade with everything they write or publish. Virtually every story about me, or anything having to do with me, is negative, wrong and, in many cases, DANGEROUS for our Country! No matter how GREAT my Achievements, they trivialize and demean. The fact is, I won all seven Swing States, the Popular Vote, the Electoral College (312 to 226), and the Counties throughout America by 86%, and yet it is reported that I get 94% bad publicity. With such a Crooked and Corrupt Press, how did I win in such a LANDSLIDE? It is because the Media has NO credibility, and that is a very bad thing for our Nation! Why should I have to give “access” to such people? Perhaps Judge Kelly could explain that! In any event, I have an obligation to fight for the Success and Safety of our Country. FAKE NEWS IS A THREAT TO DEMOCRACY, and I will do whatever is necessary to make sure that the U.S.A. thrives. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "translated": "不出所料，假新闻CNN、POLITICO （偿还美国政府为维持生计所做的800万美元贡献！ ）和MSNOW （以前称为MSDNC ！ ）已经提起诉讼，要求进入白宫，你们的总统是我！他们为他们画了一个伟大的法官，一个支持吉姆·阿科斯塔的人，他现在似乎已经从星球上消失了。法官的名字是蒂姆·凯利（ Tim Kelly ） ，可悲的是，他是由“特朗普”任命的。",
+      "link": "https://www.trumpstruth.org/statuses/41836",
+      "published": "Mon, 21 Sep 2026 19:39:56 +0000"
     },
     {
-      "original": "[No Title] - Post from September 20, 2026",
-      "translated": "[No Title] - 2026年9月20日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41816",
-      "published": "Sun, 20 Sep 2026 19:52:11 +0000"
+      "original": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington’s 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "迈克尔·鲍姆加特纳（ Michael Baumgartner ）完全支持我作为华盛顿第五国会选区的美国代表再次当选—他永远不会让你失望！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41833",
+      "published": "Mon, 21 Sep 2026 18:43:24 +0000"
     },
     {
-      "original": "[No Title] - Post from September 20, 2026",
-      "translated": "[No Title] - 2026年9月20日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41817",
-      "published": "Sun, 20 Sep 2026 19:51:58 +0000"
+      "original": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa’s 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "乔·米切尔（ Joe Mitchell ）完全支持我成为爱荷华州第二国会选区的下一任美国代表—他永远不会让你失望！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41834",
+      "published": "Mon, 21 Sep 2026 18:43:14 +0000"
     },
     {
-      "original": "[No Title] - Post from September 20, 2026",
-      "translated": "[No Title] - 2026年9月20日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41814",
-      "published": "Sun, 20 Sep 2026 16:22:12 +0000"
+      "original": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan’s 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "Mike Bouchard完全支持我成为密歇根州第十届国会选区的下一任美国代表—他永远不会让你失望！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/41835",
+      "published": "Mon, 21 Sep 2026 18:41:32 +0000"
     }
   ]
 }
