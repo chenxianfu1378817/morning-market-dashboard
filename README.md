@@ -6,7 +6,9 @@
 
 - 天气：Open-Meteo，默认展示南宁、桂林、广州、深圳，可在 `scripts/fetch_data.py` 调整城市。
 - 原油：Yahoo Finance 公开行情接口，展示 WTI（CL=F）和 Brent（BZ=F）的最新价与前收价；页面显示抓取时间。
-- GitHub Actions：每 15 分钟自动抓取并提交 `data/latest.json`（GitHub 定时任务可能有少量延迟）。
+- GitHub Actions：每天北京时间 7:00 左右自动抓取并提交 `data/latest.json`（GitHub 定时任务可能有少量延迟），也可在 Actions 页面手动运行。
+- 数据容错：天气按城市独立抓取；单个数据源失败不会中断其他数据更新，并会沿用上次有效数据、在页面提示。
+- 页面刷新：点击“刷新数据”会绕过浏览器缓存，重新读取仓库中的 JSON 文件。
 - 页面：GitHub Pages 发布 `index.html`，手机浏览器可直接打开。
 
 行情数据可能有延迟，仅供信息参考，不构成交易建议。
