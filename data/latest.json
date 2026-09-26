@@ -1,128 +1,147 @@
 {
-  "updated_at": "2026-09-24 00:58",
+  "updated_at": "2026-09-26 12:16",
+  "updated_at_iso": "2026-09-26T12:16:25+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.3,
-      "feels_like": 33.0,
+      "temperature": 32.4,
+      "feels_like": 38.0,
       "code": 0,
-      "max": 32.2,
+      "max": 33.6,
       "min": 24.7,
-      "rain_probability": 85
+      "rain_probability": 59,
+      "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 25.1,
-      "feels_like": 29.5,
-      "code": 51,
-      "max": 34.0,
-      "min": 23.9,
-      "rain_probability": 46
+      "temperature": 33.1,
+      "feels_like": 36.7,
+      "code": 1,
+      "max": 34.5,
+      "min": 25.8,
+      "rain_probability": 67,
+      "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.7,
-      "feels_like": 32.8,
+      "temperature": 34.0,
+      "feels_like": 39.4,
       "code": 0,
-      "max": 34.1,
-      "min": 24.3,
-      "rain_probability": 84
+      "max": 34.9,
+      "min": 25.7,
+      "rain_probability": 30,
+      "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.2,
-      "feels_like": 31.0,
-      "code": 1,
-      "max": 32.1,
-      "min": 24.9,
-      "rain_probability": 71
+      "temperature": 32.8,
+      "feels_like": 37.4,
+      "code": 0,
+      "max": 33.6,
+      "min": 23.8,
+      "rain_probability": 6,
+      "stale": false
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 92.16,
-      "current_price": 91.53,
-      "previous_close": 94.59,
-      "change": -2.430000000000007,
-      "change_pct": -2.568981921979075,
-      "market_time": "09-24 00:48"
+      "price": 92.44,
+      "current_price": 92.44,
+      "previous_close": 94.61,
+      "change": -2.1700000000000017,
+      "change_pct": -2.2936264665468786,
+      "market_time": "09-26 04:59",
+      "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 98.12,
-      "current_price": 97.34,
-      "previous_close": 99.25,
-      "change": -1.1299999999999955,
-      "change_pct": -1.1385390428211541,
-      "market_time": "09-24 00:48"
+      "price": 97.47,
+      "current_price": 97.47,
+      "previous_close": 100.22,
+      "change": -2.75,
+      "change_pct": -2.743963280782279,
+      "market_time": "09-26 04:59",
+      "stale": false
     }
   ],
   "news": [
     {
-      "title": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702709.shtml",
-      "published": "Thu, 24 Sep 2026 07:25:30 +0800"
+      "title": "美媒：元首会晤显示美中关系趋稳",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704018.shtml",
+      "published": "Sat, 26 Sep 2026 10:42:47 +0800",
+      "stale": false
     },
     {
-      "title": "伊朗总统在联大演讲 誓言“永不屈膝投降”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702704.shtml",
-      "published": "Thu, 24 Sep 2026 06:54:11 +0800"
+      "title": "欧盟启动违规程序要求成员国限期落实多项指令",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10703987.shtml",
+      "published": "Sat, 26 Sep 2026 07:12:30 +0800",
+      "stale": false
     },
     {
-      "title": "伊朗总统：愿意谈判合作 不接受强权威胁",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702671.shtml",
-      "published": "Thu, 24 Sep 2026 00:19:19 +0800"
+      "title": "美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10703980.shtml",
+      "published": "Sat, 26 Sep 2026 06:25:03 +0800",
+      "stale": false
     },
     {
-      "title": "中国科学院院士傅伯杰荣获2026年沃尔沃环境奖",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-23/10702667.shtml",
-      "published": "Wed, 23 Sep 2026 23:45:30 +0800"
+      "title": "第三届南亚国际书展在斯里兰卡启幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10703976.shtml",
+      "published": "Sat, 26 Sep 2026 02:49:41 +0800",
+      "stale": false
     },
     {
-      "title": "柬埔寨首相洪玛奈：打击电信网络诈骗需要加强国际合作",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-23/10702623.shtml",
-      "published": "Wed, 23 Sep 2026 22:30:54 +0800"
+      "title": "哈萨克斯坦总统：哈中多领域合作不断深化",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-26/10703962.shtml",
+      "published": "Sat, 26 Sep 2026 00:21:46 +0800",
+      "stale": false
     },
     {
-      "title": "南非8月CPI升至4.4%",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-23/10702619.shtml",
-      "published": "Wed, 23 Sep 2026 22:27:14 +0800"
+      "title": "俄公布国家杜马选举最终结果 统俄党获349席",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703900.shtml",
+      "published": "Fri, 25 Sep 2026 22:13:58 +0800",
+      "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "The story that the White House, or me, want to affix my name to Ford’s Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derangement Syndrome. They are Degenerates and Losers who make up lie after lie, and this Ford’s Theatre Hoax is just another one of their never-ending, malicious falsehoods to try to discredit and demean. Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "白宫或者我想把我的名字加在华盛顿特区的福特剧院上，亚伯拉罕·林肯就是在那里被暗杀的，这是一个荒谬的谎言。这是假新闻！谁会想要在这样一个悲惨的地方取个名字？ Dumocrats患有严重的特朗普精神错乱综合症。他们是一个又一个谎言的堕落者和失败者，而这个福特的戏剧骗局只是他们另一个永无止境的恶意谎言",
-      "link": "https://www.trumpstruth.org/statuses/41854",
-      "published": "Thu, 24 Sep 2026 00:21:25 +0000"
+      "original": "[No Title] - Post from September 26, 2026",
+      "translated": "[No Title] - 2026年9月26日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41901",
+      "published": "Sat, 26 Sep 2026 00:56:03 +0000",
+      "stale": false
     },
     {
-      "original": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Exports, supporting tens of thousands of American Jobs across our Country. The Market is recognizing what Boeing and I have known all along: When you BUILD IN AMERICA, EXPORT FROM AMERICA, and SUPPORT AMERICAN WORKERS, you make your Company stronger. Congratulations to Boeing, and its incredible workforce! President DONALD J. TRUMP",
-      "translated": "波音和美国制造业的重要日子！今天，土耳其和孟加拉国宣布共购买111架波音飞机，霍华德·拉特尼克（ Howard Lutnick ）和商务部提供了50多架支持。数百亿美元的销售额和庞大的美国出口额，为我们全国数以万计的美国就业岗位提供支持。市场正在认识到波音和我一直都知道的事情：当您在美国建造时，",
-      "link": "https://www.trumpstruth.org/statuses/41855",
-      "published": "Thu, 24 Sep 2026 00:19:29 +0000"
+      "original": "[No Title] - Post from September 26, 2026",
+      "translated": "[No Title] - 2026年9月26日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41902",
+      "published": "Sat, 26 Sep 2026 00:55:53 +0000",
+      "stale": false
     },
     {
-      "original": "[No Title] - Post from September 23, 2026",
-      "translated": "[No Title] - 2026年9月23日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41853",
-      "published": "Wed, 23 Sep 2026 19:50:55 +0000"
+      "original": "[No Title] - Post from September 26, 2026",
+      "translated": "[No Title] - 2026年9月26日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41903",
+      "published": "Sat, 26 Sep 2026 00:55:42 +0000",
+      "stale": false
     },
     {
-      "original": "The Great Gary Player, Bryson DeChambeau, Mikayla Demaiter, and Susan Waterfall, on Marine One! President DONALD J. TRUMP",
-      "translated": "伟大的Gary球员， Bryson DeChambeau ， Mikayla Demaiter和Susan Waterfall ，在Marine One ！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41852",
-      "published": "Wed, 23 Sep 2026 19:44:04 +0000"
+      "original": "[No Title] - Post from September 26, 2026",
+      "translated": "[No Title] - 2026年9月26日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41904",
+      "published": "Sat, 26 Sep 2026 00:55:33 +0000",
+      "stale": false
     },
     {
-      "original": "Victor Davis Hanson on Canada — A MUST SEE! President DONALD J. TRUMP",
-      "translated": "维克多·戴维斯·汉森（ Victor Davis Hanson ）讲述加拿大—唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/41851",
-      "published": "Wed, 23 Sep 2026 13:26:43 +0000"
+      "original": "[No Title] - Post from September 26, 2026",
+      "translated": "[No Title] - 2026年9月26日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/41905",
+      "published": "Sat, 26 Sep 2026 00:55:24 +0000",
+      "stale": false
     }
-  ]
+  ],
+  "errors": []
 }
