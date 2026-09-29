@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-09-28 09:19",
-  "updated_at_iso": "2026-09-28T09:19:06+08:00",
+  "updated_at": "2026-09-29 10:25",
+  "updated_at_iso": "2026-09-29T10:25:22+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 29.4,
-      "feels_like": 33.9,
-      "code": 0,
-      "max": 33.6,
+      "temperature": 30.9,
+      "feels_like": 36.4,
+      "code": 1,
+      "max": 34.5,
       "min": 25.6,
-      "rain_probability": 90,
+      "rain_probability": 73,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 28.1,
-      "feels_like": 31.9,
+      "temperature": 29.5,
+      "feels_like": 33.6,
       "code": 51,
-      "max": 35.3,
-      "min": 24.0,
-      "rain_probability": 98,
+      "max": 33.9,
+      "min": 23.9,
+      "rain_probability": 67,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 30.5,
-      "feels_like": 35.6,
+      "temperature": 32.3,
+      "feels_like": 38.4,
       "code": 0,
-      "max": 35.6,
-      "min": 26.9,
-      "rain_probability": 53,
+      "max": 36.5,
+      "min": 27.2,
+      "rain_probability": 8,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 29.5,
-      "feels_like": 33.3,
-      "code": 1,
-      "max": 32.1,
-      "min": 26.5,
-      "rain_probability": 90,
+      "temperature": 31.2,
+      "feels_like": 36.6,
+      "code": 0,
+      "max": 33.3,
+      "min": 26.7,
+      "rain_probability": 70,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 93.03,
-      "current_price": 93.03,
-      "previous_close": 92.41,
-      "change": 0.6200000000000045,
-      "change_pct": 0.6709230602748669,
-      "market_time": "09-28 09:09",
+      "price": 93.55,
+      "current_price": 93.55,
+      "previous_close": 92.6,
+      "change": 0.9500000000000028,
+      "change_pct": 1.0259179265658778,
+      "market_time": "09-29 10:15",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 98.04,
-      "current_price": 98.04,
-      "previous_close": 97.44,
-      "change": 0.6000000000000085,
-      "change_pct": 0.6157635467980384,
-      "market_time": "09-28 09:09",
+      "price": 99.21,
+      "current_price": 99.21,
+      "previous_close": 97.83,
+      "change": 1.3799999999999955,
+      "change_pct": 1.4106102422569717,
+      "market_time": "09-29 10:14",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "卸任总统，将竞选总理，武契奇的求变之路",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704681.shtml",
-      "published": "Mon, 28 Sep 2026 08:56:14 +0800",
+      "title": "大熊猫来啦！美国人喜悦之情溢于言表！",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705345.shtml",
+      "published": "Tue, 29 Sep 2026 10:17:30 +0800",
       "stale": false
     },
     {
-      "title": "大熊猫“平平”“福双”抵达美国亚特兰大",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704649.shtml",
-      "published": "Mon, 28 Sep 2026 08:35:10 +0800",
+      "title": "试图袭击美军所使用基地的五名嫌疑人获保释 特朗普：很惊讶",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705334.shtml",
+      "published": "Tue, 29 Sep 2026 10:06:37 +0800",
       "stale": false
     },
     {
-      "title": "新一轮洪灾致柬埔寨数万户家庭受影响",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704648.shtml",
-      "published": "Mon, 28 Sep 2026 08:34:34 +0800",
+      "title": "第81届联大一般性辩论闭幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705196.shtml",
+      "published": "Tue, 29 Sep 2026 08:35:41 +0800",
       "stale": false
     },
     {
-      "title": "法国极右翼将首次在参议院组建党团",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704668.shtml",
-      "published": "Mon, 28 Sep 2026 08:33:28 +0800",
+      "title": "欧盟延长拉法口岸边防特派团和巴勒斯坦警察特派团任期",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705193.shtml",
+      "published": "Tue, 29 Sep 2026 08:34:49 +0800",
       "stale": false
     },
     {
-      "title": "武契奇辞职，承认在执政期间“犯过很多错误”，“但战争才刚刚开始！”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704663.shtml",
-      "published": "Mon, 28 Sep 2026 08:25:06 +0800",
+      "title": "特朗普否认其“愿意有条件解除对伊制裁”的报道",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705215.shtml",
+      "published": "Tue, 29 Sep 2026 08:26:45 +0800",
       "stale": false
     },
     {
-      "title": "也门胡塞武装称24小时内遭沙特空袭26次",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704655.shtml",
-      "published": "Mon, 28 Sep 2026 08:01:01 +0800",
+      "title": "美国突发枪击：一名州警身亡，嫌疑人被捕",
+      "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705212.shtml",
+      "published": "Tue, 29 Sep 2026 08:07:22 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "[No Title] - Post from September 27, 2026",
-      "translated": "[No Title] - 2026年9月27日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41999",
-      "published": "Sun, 27 Sep 2026 22:08:20 +0000",
+      "original": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake story, IMMEDIATELY! President DONALD J. TRUMP",
+      "translated": "Axios刚刚发布了一篇报道，称“特朗普”向伊朗提供了制裁救济和冻结资金。这不是真的，我什么都没给他们！像大多数其他人一样， Axios的故事是一个骗局，仅用于满足他们的特朗普精神错乱综合症。他们应该立即撤回这个虚假的故事！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42018",
+      "published": "Mon, 28 Sep 2026 21:34:27 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from September 27, 2026",
-      "translated": "[No Title] - 2026年9月27日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41997",
-      "published": "Sun, 27 Sep 2026 21:36:53 +0000",
+      "original": "Joe Scarborough’s show has been cut way back, and will soon be “dead!” Too predictable and boring! REALLY BAD RATINGS, just like the rest of MSNOW (MSDNC!). President DJT",
+      "translated": "乔·斯卡伯勒（ Joe Scarborough ）的节目已经被剪掉了，很快就会“死了！“太可预测了，太无聊了！非常糟糕的收视率，就像MSNOW （ MSDNC ！ ）的其他成员一样。总裁DJT",
+      "link": "https://www.trumpstruth.org/statuses/42017",
+      "published": "Mon, 28 Sep 2026 12:02:36 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from September 27, 2026",
-      "translated": "[No Title] - 2026年9月27日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41998",
-      "published": "Sun, 27 Sep 2026 21:36:48 +0000",
+      "original": "Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!",
+      "translated": "比尔·马赫的收视率如此之低，以至于很难相信他的节目能继续下去。在很多方面，这很难过，因为实际上我喜欢他。然而，共和党人应该停止利用他作为宣传板。这让他们看起来很虚弱和愚蠢！",
+      "link": "https://www.trumpstruth.org/statuses/42014",
+      "published": "Mon, 28 Sep 2026 11:57:28 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from September 27, 2026",
-      "translated": "[No Title] - 2026年9月27日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41992",
-      "published": "Sun, 27 Sep 2026 21:36:35 +0000",
+      "original": "Kevin Roberts, Heritage Foundation & Heritage Action President, and also, a fabulous guy, was fantastic on FoxNews this morning. The topic was Fake Polls and how well the Republicans are going to do in the upcoming Midterms. Thank you, Kevin. I’ll be out there spending money, and helping every one of them get elected. I won most of these places, often by a landslide. MAGA, pretend I am on the ballot. Don’t let them open your Borders, and allow crime to again flourish. KEEP AMERICA GREAT!!! President DJT",
+      "translated": "凯文·罗伯茨（ Kevin Roberts ） ，遗产基金会和遗产行动总裁，也是一位出色的人物，今天早上在FoxNews上表现出色。主题是假民意调查以及共和党人在即将到来的中期选举中的表现。谢谢你，凯文。我会在那里花钱，帮助他们每个人当选。我赢得了大多数这些地方，通常是通过山体滑坡。MAGA ，假装我在选票上。不要让他们打开你的边框，并允许",
+      "link": "https://www.trumpstruth.org/statuses/42015",
+      "published": "Mon, 28 Sep 2026 11:50:59 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from September 27, 2026",
-      "translated": "[No Title] - 2026年9月27日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/41993",
-      "published": "Sun, 27 Sep 2026 21:36:26 +0000",
+      "original": "“The United States has the BEST Employment Numbers in HISTORY.” FoxNews. The Fake News Media REFUSES to report this rather significant development, however!!! President DJT",
+      "translated": "“美国拥有历史上最好的就业人数。“福克斯新闻。然而，假新闻媒体拒绝报道这一相当重要的发展！ ！ ！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/42012",
+      "published": "Mon, 28 Sep 2026 11:38:48 +0000",
       "stale": false
     }
   ],
