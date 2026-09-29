@@ -7,6 +7,9 @@ permissions:
   contents: write
 jobs:
   update:
+    # Scheduled runs use the default branch; manual dispatches on PR branches
+    # must never commit generated market data back into the pull request.
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
