@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-09-30 09:45",
-  "updated_at_iso": "2026-09-30T09:45:18+08:00",
+  "updated_at": "2026-10-01 09:42",
+  "updated_at_iso": "2026-10-01T09:42:39+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 30.1,
-      "feels_like": 36.0,
-      "code": 1,
-      "max": 34.2,
-      "min": 26.3,
-      "rain_probability": 15,
+      "temperature": 30.2,
+      "feels_like": 36.1,
+      "code": 0,
+      "max": 35.1,
+      "min": 26.6,
+      "rain_probability": 27,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 27.4,
-      "feels_like": 32.4,
-      "code": 0,
-      "max": 33.1,
-      "min": 23.3,
-      "rain_probability": 92,
+      "temperature": 25.2,
+      "feels_like": 29.6,
+      "code": 3,
+      "max": 32.1,
+      "min": 22.0,
+      "rain_probability": 73,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 32.5,
-      "feels_like": 37.9,
-      "code": 0,
-      "max": 37.6,
-      "min": 27.6,
-      "rain_probability": 37,
+      "temperature": 31.9,
+      "feels_like": 38.4,
+      "code": 1,
+      "max": 35.1,
+      "min": 26.1,
+      "rain_probability": 84,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 31.0,
-      "feels_like": 36.0,
+      "temperature": 31.2,
+      "feels_like": 36.9,
       "code": 0,
-      "max": 33.8,
-      "min": 27.0,
-      "rain_probability": 10,
+      "max": 34.0,
+      "min": 25.6,
+      "rain_probability": 96,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 89.68,
-      "current_price": 89.68,
-      "previous_close": 89.38,
-      "change": 0.30000000000001137,
-      "change_pct": 0.33564555829045806,
-      "market_time": "09-30 09:35",
+      "price": 90.14,
+      "current_price": 90.14,
+      "previous_close": 90.42,
+      "change": -0.28000000000000114,
+      "change_pct": -0.30966600309666126,
+      "market_time": "10-01 09:32",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 96.62,
-      "current_price": 96.62,
-      "previous_close": 96.16,
-      "change": 0.46000000000000796,
-      "change_pct": 0.47836938435940934,
-      "market_time": "09-30 09:34",
+      "price": 97.94,
+      "current_price": 97.94,
+      "previous_close": 98.03,
+      "change": -0.09000000000000341,
+      "change_pct": -0.09180863001122454,
+      "market_time": "10-01 09:32",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日本冲击战后和平体制 加剧地区安全困境",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml",
-      "published": "Wed, 30 Sep 2026 09:39:32 +0800",
+      "title": "美防长宣布：组建“自主作战司令部”，马斯克参与研究“未来战争形态”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706602.shtml",
+      "published": "Thu, 1 Oct 2026 09:38:38 +0800",
       "stale": false
     },
     {
-      "title": "西班牙与奥地利宣布对能源价格实施干预",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705999.shtml",
-      "published": "Wed, 30 Sep 2026 09:28:01 +0800",
+      "title": "特朗普：美国发动伊拉克战争的决策“非常糟糕”，让美国陷入泥潭",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706596.shtml",
+      "published": "Thu, 1 Oct 2026 08:58:12 +0800",
       "stale": false
     },
     {
-      "title": "联合国呼吁停止升级乌克兰局势",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705981.shtml",
-      "published": "Wed, 30 Sep 2026 08:56:21 +0800",
+      "title": "俄外交部发言人用中文祝中国人民国庆节快乐",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706588.shtml",
+      "published": "Thu, 1 Oct 2026 07:28:24 +0800",
       "stale": false
     },
     {
-      "title": "金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705970.shtml",
-      "published": "Wed, 30 Sep 2026 07:55:49 +0800",
+      "title": "法国纪念印象派绘画大师莫奈逝世100周年",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706589.shtml",
+      "published": "Thu, 1 Oct 2026 07:27:28 +0800",
       "stale": false
     },
     {
-      "title": "法国债务规模持续攀升 政府财政压力增大",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705957.shtml",
-      "published": "Wed, 30 Sep 2026 07:40:08 +0800",
+      "title": "美国第二季度GDP增速上修至2.2% 好于市场预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706587.shtml",
+      "published": "Thu, 1 Oct 2026 07:26:52 +0800",
       "stale": false
     },
     {
-      "title": "外媒：曼苏里成为摩洛哥首位女首相",
-      "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705964.shtml",
-      "published": "Wed, 30 Sep 2026 07:36:22 +0800",
+      "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
+      "published": "Thu, 1 Oct 2026 07:25:06 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
+      "original": "In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year. We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers. First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country. Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska. Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex as. This will bring tremendous new, reliable Power Capacity to Texas. These are the kinds of Projects that can transform America for Generations — MORE POWER, MORE CONSTRUCTION, MORE MANUFACTURING, MORE ENERGY SECURITY, and major new opportunities for American Workers. These Projects will support the TRILLIONS OF DOLLARS of Investment that have come into the United States under my Administration, including for Advanced Manufacturing, Semiconductors, and all of the Great Industries of the Future. We are building that capacity HERE, in THE UNITED STATES OF AMERICA, and the Projects announced today will help power us for Generations to come. These Deals are driven by our Trade Deals. REAL INVESTMENT, REAL PROJECTS, REAL CAPACITY, and REAL JOBS in America. AMERICA IS BUILDING AGAIN! President DONALD J. TRUMP In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade and Investment Deal that I reached with President Myung last year. We are turning Korea’s Investment commitments into HUGE Construction Projects, and tens of thousands of AMERICAN JOBS. These are massive Energy Projects, adding Power Capacity in the United States. This is new Construction, new Manufacturing, and GREAT Jobs for American Workers. First, the United States and Korea are moving forward on a 120 BILLION DOLLAR Nuclear Power Program to build EIGHT large-scale Nuclear Reactors right here in the United States — Six Westinghouse AP1000 Reactors, and two Korean APR-1400 Reactors. Eight new Reactors. American Power. American Construction. American Manufacturing. More Baseload Electricity, and greater Energy Security for our Country. Second, the United States and Korea have agreed to commence working together on the 50 Billion Dollar ALASKA LNG PROJECT — unlocking the tremendous resources of our Great State of Alaska, and creating new American Gas Infrastructure, and building it with our wonderful American Workers. This Project will deliver transformational change for the People of Alaska. Third, a huge 22 Billion Dollar, 6.4-gigawatt Natural Gas Fired Power Project in Encinal, Tex as. This will bring tremendous new, reliable Power Capacity to Texas. These are the kinds of Projects that can transform America for Generations — MORE POWER, MORE CONSTRUCTION, MORE MANUFACTURING, MORE ENERGY SECURITY, and major new opportunities for American Workers. These Projects will support the TRILLIONS OF DOLLARS of Investment that have come into the United States under my Administration, including for Advanced Manufacturing, Semiconductors, and all of the Great Industries of the Future. We are building that capacity HERE, in THE UNITED STATES OF AMERICA, and the Projects announced today will help power us for Generations to come. These Deals are driven by our Trade Deals. REAL INVESTMENT, REAL PROJECTS, REAL CAPACITY, and REAL JOBS in America. AMERICA IS BUILDING AGAIN! President DONALD J. TRUMP",
+      "translated": "在纽约，我与大韩民国总统Lee Jae Myung会面，我们同意在美国推出2000亿美元的新投资！根据我去年与明总统达成的3500亿美元的韩国战略贸易和投资协议，我们将在美国各地建设美国能源和美国电力。我们正在将韩国的投资承诺转化为庞大的建设项目，以及成千上万的",
+      "link": "https://www.trumpstruth.org/statuses/42037",
+      "published": "Thu, 01 Oct 2026 00:41:28 +0000",
+      "stale": false
+    },
+    {
+      "original": "RT @ realDonaldTrump Today, I am pleased to announce, that the last American Forces are leaving Iraq! It has been a long time, with very bad decision-making that got us involved in this quagmire in the first place, but soon, that will be part of History. This is a Great Day for America and, importantly, we leave with Iraq having a wonderful new Prime Minister, Ali al-Zaidi, somebody I supported from the beginning and fully endorsed. He won an Election that he was not expected to win, and did so, in a landslide! Launched in 2003 under the presidency of George W. Bush, and continued under the Administration of Barack Hussein Obama in 2014, and Sleepy Joe Biden, Operation Inherent Resolve ends in 2026 under the leadership of President Donald J. Trump. This Day is a victory for the United States, a victory for Iraq, and a decisive victory over ISIS, which has been completely decimated by the Trump Administration, First Term, along with other very bad and dangerous players. Unlike Afghanistan, where much Military Equipment and everything else was left behind, and 13 Warriors lie dead, with many badly wounded, this orderly departure of Coalition forces and equipment from Erbil Air Base marks the end of a very expensive excursion into Hell. I set a clear mission, gave our Commanders the tools to finish it, and refused to let a temporary presence become a permanent one. I had a choice to stay or to leave, and felt, without question, that it was time for America to go home! Prime Minister al-Zaidi, is outstanding, and he will hopefully be able to handle things very well. We came to fight a caliphate. There is no longer a caliphate. We are going home! President DONALD J. TRUMP",
+      "translated": "RT @ realDonaldTrump今天，我很高兴地宣布，最后一支美军正在离开伊拉克！很长一段时间以来，非常糟糕的决策使我们首先陷入了这个泥潭，但很快，这将成为历史的一部分。这对美国来说是一个伟大的日子，重要的是，我们与伊拉克一起离开，有一位出色的新总理，阿里·扎伊迪，我从一开始就支持并完全支持他。他赢得了一个Ele",
+      "link": "https://www.trumpstruth.org/statuses/42036",
+      "published": "Wed, 30 Sep 2026 23:30:40 +0000",
+      "stale": false
+    },
+    {
       "original": "[No Title] - Post from September 30, 2026",
       "translated": "[No Title] - 2026年9月30日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42026",
-      "published": "Wed, 30 Sep 2026 00:11:21 +0000",
+      "link": "https://www.trumpstruth.org/statuses/42032",
+      "published": "Wed, 30 Sep 2026 23:10:21 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from September 29, 2026",
-      "translated": "[No Title] - 2026年9月29日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42025",
-      "published": "Tue, 29 Sep 2026 21:24:58 +0000",
+      "original": "[No Title] - Post from September 30, 2026",
+      "translated": "[No Title] - 2026年9月30日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42033",
+      "published": "Wed, 30 Sep 2026 23:10:19 +0000",
       "stale": false
     },
     {
-      "original": "Iran Has Lost Control of the Strait: https:// x.com/BurggrabenH/status/21043 61288000221497",
-      "translated": "伊朗失去了对海峡的控制权： https://x.com/BurggrabenH/status/21043 61288000221497",
-      "link": "https://www.trumpstruth.org/statuses/42023",
-      "published": "Tue, 29 Sep 2026 21:00:34 +0000",
-      "stale": false
-    },
-    {
-      "original": "[No Title] - Post from September 29, 2026",
-      "translated": "[No Title] - 2026年9月29日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42024",
-      "published": "Tue, 29 Sep 2026 20:59:54 +0000",
-      "stale": false
-    },
-    {
-      "original": "[No Title] - Post from September 29, 2026",
-      "translated": "[No Title] - 2026年9月29日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42022",
-      "published": "Tue, 29 Sep 2026 15:54:42 +0000",
+      "original": "[No Title] - Post from September 30, 2026",
+      "translated": "[No Title] - 2026年9月30日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42034",
+      "published": "Wed, 30 Sep 2026 23:08:59 +0000",
       "stale": false
     }
   ],
