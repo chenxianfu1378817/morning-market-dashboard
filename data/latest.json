@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-02 09:53",
-  "updated_at_iso": "2026-10-02T09:53:26+08:00",
+  "updated_at": "2026-10-03 09:35",
+  "updated_at_iso": "2026-10-03T09:35:34+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 30.3,
-      "feels_like": 35.5,
-      "code": 3,
-      "max": 34.8,
-      "min": 26.2,
-      "rain_probability": 45,
+      "temperature": 30.2,
+      "feels_like": 34.6,
+      "code": 1,
+      "max": 33.1,
+      "min": 26.3,
+      "rain_probability": 84,
       "stale": false
     },
     {
       "name": "桂林",
       "temperature": 20.9,
-      "feels_like": 20.8,
-      "code": 51,
-      "max": 26.8,
-      "min": 18.0,
-      "rain_probability": 39,
+      "feels_like": 22.6,
+      "code": 3,
+      "max": 29.0,
+      "min": 17.8,
+      "rain_probability": 84,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 28.3,
-      "feels_like": 32.9,
+      "temperature": 26.0,
+      "feels_like": 31.0,
       "code": 3,
-      "max": 31.6,
-      "min": 24.3,
-      "rain_probability": 100,
+      "max": 29.5,
+      "min": 24.1,
+      "rain_probability": 93,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 28.6,
-      "feels_like": 33.2,
-      "code": 3,
-      "max": 31.1,
-      "min": 24.9,
-      "rain_probability": 100,
+      "temperature": 25.6,
+      "feels_like": 30.8,
+      "code": 53,
+      "max": 29.1,
+      "min": 23.6,
+      "rain_probability": 99,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 92.97,
-      "current_price": 92.97,
+      "price": 91.26,
+      "current_price": 91.26,
       "previous_close": 92.87,
-      "change": 0.09999999999999432,
-      "change_pct": 0.10767739851404577,
-      "market_time": "10-02 09:43",
+      "change": -1.6099999999999994,
+      "change_pct": -1.7336061160762348,
+      "market_time": "10-03 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 102.58,
-      "current_price": 102.58,
+      "price": 102.7,
+      "current_price": 102.7,
       "previous_close": 102.31,
-      "change": 0.269999999999996,
-      "change_pct": 0.26390382171830323,
-      "market_time": "10-02 09:43",
+      "change": 0.39000000000000057,
+      "change_pct": 0.38119440914866637,
+      "market_time": "10-03 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "菲律宾举办“乱世中的勇气”图片展  呼吁铭记“慰安妇”历史",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706995.shtml",
-      "published": "Fri, 2 Oct 2026 09:23:12 +0800",
+      "title": "澳大利亚发生汽车冲撞人群事件 致数人受伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707358.shtml",
+      "published": "Sat, 3 Oct 2026 08:52:28 +0800",
       "stale": false
     },
     {
-      "title": "法国政府公布2027年预算草案 确认540亿欧元节支计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706991.shtml",
-      "published": "Fri, 2 Oct 2026 07:52:16 +0800",
+      "title": "特朗普：与伊朗的战事将“很快结束”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707354.shtml",
+      "published": "Sat, 3 Oct 2026 08:29:23 +0800",
       "stale": false
     },
     {
-      "title": "泰国全国灾害保险体系正式实施",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706983.shtml",
-      "published": "Fri, 2 Oct 2026 07:30:39 +0800",
+      "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+      "published": "Sat, 3 Oct 2026 06:44:20 +0800",
       "stale": false
     },
     {
-      "title": "从“空中浩劫”到“航空奇迹” 迪拜航空安全事件疑点重重",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706988.shtml",
-      "published": "Fri, 2 Oct 2026 06:50:48 +0800",
+      "title": "美国9月非农就业增加2.9万 失业率4.2%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+      "published": "Sat, 3 Oct 2026 06:42:06 +0800",
       "stale": false
     },
     {
-      "title": "特朗普：中期选举后可能加大力度打击伊朗",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
-      "published": "Fri, 2 Oct 2026 06:46:46 +0800",
+      "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+      "published": "Sat, 3 Oct 2026 06:40:20 +0800",
       "stale": false
     },
     {
-      "title": "美国30年期贷款利率升至7.28% 创近3年来最高值",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
-      "published": "Fri, 2 Oct 2026 06:45:26 +0800",
+      "title": "今年9月欧元区通胀率升至3.8%创近三年新高",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707342.shtml",
+      "published": "Sat, 3 Oct 2026 06:40:14 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "I’m almost there Oklahoma — 10 minutes! President DONALD J. TRUMP",
-      "translated": "我即将到达俄克拉荷马州— 10分钟！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42076",
-      "published": "Fri, 02 Oct 2026 00:01:16 +0000",
+      "original": "Thank you Oklahoma! President DONALD J. TRUMP",
+      "translated": "感谢俄克拉荷马州！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42086",
+      "published": "Fri, 02 Oct 2026 22:06:31 +0000",
       "stale": false
     },
     {
-      "original": "To the Great People of Oklahoma, stay tuned — I’ll be there soon! There was a major weather delay, and the planes and helicopters were not able to land, so we’re driving up from Texas. They wanted me to postpone the event, and I said, “NO WAY, I’M GOING TO OKLAHOMA!” “The Beast” is going faster than it has ever gone before. It won’t be long. I love you all! See you in a little while. President DONALD J. TRUMP",
-      "translated": "对于俄克拉荷马州的伟大人民，敬请期待—我很快就会到达！天气严重延误，飞机和直升机无法降落，所以我们从德克萨斯州开车上去。他们希望我推迟活动，我说： “不行，我要去俄克拉荷马州！“《野兽》比以往任何时候都要快。不会太久的。我爱你们所有人！一会儿见。唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42075",
-      "published": "Thu, 01 Oct 2026 23:39:11 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625 Why would the Governor of New York, Kathy Hochul, appoint a Corrupt Prosecutor, Letitia “Peekaboo\" James, to represent the State in the highly controversial Cornell University rape case?",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117373336850052625为什么纽约州州长Kathy Hochul会任命腐败检察官Letitia “Peekaboo” James在备受争议的康奈尔大学强奸案中代表国家？",
+      "link": "https://www.trumpstruth.org/statuses/42084",
+      "published": "Fri, 02 Oct 2026 21:16:16 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from October 1, 2026",
-      "translated": "[No Title] - 2026年10月1日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42074",
-      "published": "Thu, 01 Oct 2026 23:33:40 +0000",
+      "original": "[No Title] - Post from October 2, 2026",
+      "translated": "[No Title] - 2026年10月2日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42085",
+      "published": "Fri, 02 Oct 2026 21:03:08 +0000",
       "stale": false
     },
     {
-      "original": "[No Title] - Post from October 1, 2026",
-      "translated": "[No Title] - 2026年10月1日的帖子",
-      "link": "https://www.trumpstruth.org/statuses/42073",
-      "published": "Thu, 01 Oct 2026 21:30:06 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117372766735299421",
+      "link": "https://www.trumpstruth.org/statuses/42082",
+      "published": "Fri, 02 Oct 2026 18:38:20 +0000",
       "stale": false
     },
     {
-      "original": "Prices are way down from what Biden and the Dumocrats left us. It’s why I won the Election, and now prices are coming down, RAPIDLY. It’s the Dumocrats’ fault, not the fault of the Republicans — But we are fixing it! President DONALD J. TRUMP",
-      "translated": "价格比拜登和杜姆克拉派留给我们的要低得多。这就是我赢得选举的原因，现在价格正在迅速下降。这是杜姆克拉的错，不是共和党的错，但我们正在解决这个问题！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42072",
-      "published": "Thu, 01 Oct 2026 18:38:20 +0000",
+      "original": "[No Title] - Post from October 2, 2026",
+      "translated": "[No Title] - 2026年10月2日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42083",
+      "published": "Fri, 02 Oct 2026 18:38:09 +0000",
       "stale": false
     }
   ],
