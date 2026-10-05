@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-04 10:16",
-  "updated_at_iso": "2026-10-04T10:16:06+08:00",
+  "updated_at": "2026-10-05 09:25",
+  "updated_at_iso": "2026-10-05T09:25:32+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.1,
-      "feels_like": 28.6,
-      "code": 51,
-      "max": 29.3,
-      "min": 23.9,
-      "rain_probability": 82,
+      "temperature": 23.4,
+      "feels_like": 23.2,
+      "code": 3,
+      "max": 27.0,
+      "min": 22.4,
+      "rain_probability": 18,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 18.6,
-      "feels_like": 18.7,
-      "code": 81,
-      "max": 22.3,
-      "min": 16.9,
-      "rain_probability": 86,
+      "temperature": 19.5,
+      "feels_like": 18.9,
+      "code": 3,
+      "max": 20.1,
+      "min": 17.2,
+      "rain_probability": 46,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 29.5,
-      "feels_like": 34.7,
-      "code": 0,
-      "max": 31.8,
-      "min": 24.0,
-      "rain_probability": 96,
+      "temperature": 22.0,
+      "feels_like": 24.0,
+      "code": 51,
+      "max": 27.9,
+      "min": 21.0,
+      "rain_probability": 37,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 29.1,
-      "feels_like": 35.3,
-      "code": 3,
-      "max": 30.1,
-      "min": 23.5,
-      "rain_probability": 98,
+      "temperature": 25.2,
+      "feels_like": 27.2,
+      "code": 2,
+      "max": 30.2,
+      "min": 21.5,
+      "rain_probability": 74,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 91.11,
-      "current_price": 91.11,
-      "previous_close": 92.87,
-      "change": -1.7600000000000051,
-      "change_pct": -1.8951222138473187,
-      "market_time": "10-03 05:00",
+      "price": 90.49,
+      "current_price": 90.49,
+      "previous_close": 91.11,
+      "change": -0.6200000000000045,
+      "change_pct": -0.6804961036110246,
+      "market_time": "10-05 09:15",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 102.25,
-      "current_price": 102.25,
-      "previous_close": 102.31,
-      "change": -0.060000000000002274,
-      "change_pct": -0.05864529371518158,
-      "market_time": "10-03 04:59",
+      "price": 101.87,
+      "current_price": 101.87,
+      "previous_close": 102.25,
+      "change": -0.37999999999999545,
+      "change_pct": -0.3716381418092865,
+      "market_time": "10-05 09:15",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707718.shtml",
-      "published": "Sun, 4 Oct 2026 10:11:00 +0800",
+      "title": "也门战事升级，沙伊博弈再添变数：地区局势会否进一步升温？",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708014.shtml",
+      "published": "Mon, 5 Oct 2026 09:16:09 +0800",
       "stale": false
     },
     {
-      "title": "一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707701.shtml",
-      "published": "Sun, 4 Oct 2026 09:12:23 +0800",
+      "title": "巴西总统选举首轮投票无人胜出 将进行第二轮角逐",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708007.shtml",
+      "published": "Mon, 5 Oct 2026 08:02:25 +0800",
       "stale": false
     },
     {
-      "title": "朝中社：金正恩观摩中程战略导弹发射训练（图）",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707692.shtml",
-      "published": "Sun, 4 Oct 2026 09:07:56 +0800",
+      "title": "泰国洪灾持续 政府启动大范围救助",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707997.shtml",
+      "published": "Mon, 5 Oct 2026 06:43:25 +0800",
       "stale": false
     },
     {
-      "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
-      "published": "Sun, 4 Oct 2026 07:29:40 +0800",
+      "title": "巴西总统选举开启首轮投票",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+      "published": "Mon, 5 Oct 2026 06:42:41 +0800",
       "stale": false
     },
     {
-      "title": "金正恩观摩中程战略导弹发射训练",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
-      "published": "Sun, 4 Oct 2026 07:07:23 +0800",
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708002.shtml",
+      "published": "Mon, 5 Oct 2026 06:41:27 +0800",
       "stale": false
     },
     {
-      "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
-      "published": "Sun, 4 Oct 2026 06:52:47 +0800",
+      "title": "初步调查显示迪拜航空袭击者系单独作案",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708001.shtml",
+      "published": "Mon, 5 Oct 2026 06:39:39 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This massive Onshoring WIN is thanks to my strong Pharmaceutical Tariffs, which have led to over 600 BILLION DOLLARS in new Pharma Investments, and lower (MFN) Drug Prices. Companies everywhere are building in the U.S.A. BUILD IN AMERICA, HIRE AMERICAN WORKERS, AND PRICE DRUGS FOR AMERICAN PATIENTS FAIRLY — OR PAY. I LOVE OHIO! President DONALD J. TRUMP",
-      "translated": "对于我现在要去的俄亥俄州来说，这是一个巨大的消息！拜耳刚刚宣布在哥伦布附近建立一个价值22亿美元的全新制药园区。它将在先进制造业、科学研究、建筑业等领域为俄亥俄州人创造数千个工作岗位。这场巨大的Onshoring胜利得益于我强大的药品关税，这导致了超过6000亿美元的新药投资，以及更低的（最惠国）药品价格。",
-      "link": "https://www.trumpstruth.org/statuses/42125",
-      "published": "Sat, 03 Oct 2026 22:20:59 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117384609805773432",
+      "link": "https://www.trumpstruth.org/statuses/42160",
+      "published": "Sun, 04 Oct 2026 20:50:34 +0000",
       "stale": false
     },
     {
-      "original": "I don’t know about anyone else, but a table full of very distinguished people just told me that they HATE, immediately after a mandatory time change, going home at night – and it’s DARK. It’s depressing! One of the gentleman stated that, “I just hate going home in darkness.” It’s also, in Crime Ridden Blue States, a lot more dangerous to be walking home in the dark! President DONALD J. TRUMP",
-      "translated": "我不了解其他人，但是一张满是杰出人士的桌子告诉我，他们讨厌在强制改变时间后立即晚上回家–而且天黑了。令人沮丧！其中一位先生说： “我只是讨厌在黑暗中回家。“在犯罪骑蓝州，在黑暗中步行回家要危险得多！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42124",
-      "published": "Sat, 03 Oct 2026 18:26:27 +0000",
+      "original": "Thank you Mehek! President DJT",
+      "translated": "谢谢Mehek ！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/42161",
+      "published": "Sun, 04 Oct 2026 20:50:00 +0000",
       "stale": false
     },
     {
-      "original": "If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn’t have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so. That is really putting Arkansas FIRST, and I know, because, unlike Tom, I won that Great State, three times, and by almost 40 points! Additionally, it would be a very nice and easy WIN for the Republican Party, in particular, the Republican Senate, a place where we could use some WINS! The House approved, long ago, “The Sunshine Protection Act,” by a very Bipartisan Vote, 308 to 117. It has been held up in the Senate, a place where things go to die, by Tom Cotton, for months! — And for what, other than “ego?” The reason that it was terminated in the past was that certain Congressmen and Senators, from long ago, used it as a “negotiating chip” for far more important Legislation — And they got plenty! Everybody loved it, but it was given up in order to get bigger, better, and more consequential “things.” Give the Republican Party a Senatorial WIN, for a change! Thank you to Speaker of the House Mike Johnson, and all Members of the House of Representatives, both Republican and Democrat, who so overwhelmingly approved “The No More Ridiculous Changing of Your Clocks Act,” and who so strongly want their “SUN” in the afternoon, rather than the early morning — Loved by Farmers, Sportsman, and Sports (Copy of PGA TOUR letter below!). Daylight Saving Time is 65-35 in the Polls but, why wouldn’t it be — Who wouldn’t want more “SUN” in the afternoon than in the morning? It’s even been proven to be better in stopping CRIME, something of which I have done an Historic job because, CRIMINALS DON’T LIKE WORKING IN THE LIGHT. Not wanting to change your many Clocks, including for Church Steeples and Municipal Buildings is, however, a 100% issue. TAKE THE WIN TOM, JUST TAKE THE WIN! YOU NEED IT, AND SO DOES OUR BELOVED REPUBLICAN PARTY! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "如果汤姆·科顿（ Tom Cotton ）把阿肯色州放在第一位，他会给他们一个额外的日光时间，更重要的是，他们不必每年两次在房子、农场、工作场所和其他地方跑来跑去，必须更换时钟，而且经常忘记这样做。这真的是把阿肯色州放在第一位，我知道，因为，不像汤姆，我赢了三次，差不多40分！此外，这将是一个非常好的",
-      "link": "https://www.trumpstruth.org/statuses/42123",
-      "published": "Sat, 03 Oct 2026 17:46:41 +0000",
+      "original": "A beautiful picture with the Great Leader of China, President Xi Jinping! President DONALD J. TRUMP",
+      "translated": "与中国伟大领导人习近平主席的美丽画面！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42159",
+      "published": "Sun, 04 Oct 2026 18:09:43 +0000",
       "stale": false
     },
     {
-      "original": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It’s called, “The Sunshine Protection Act” or, “We Don’t Want to Change Our Clocks Twice a Year Act.” For some reason, Tom is stopping the Bill and, in the Senate, it’s very easy to do, it only takes one! It should pass overwhelmingly, in a Bipartisan fashion. So, everyone in Arkansas, a State I love, and won 3 times, the last by by 34 points, tell Tom to, GET IT DONE! It will be appreciated by all. Nobody wants to spend their precious time running all over the place, turning Clocks back twice a year and, having sunshine in the afternoon is better than early in the morning! The PGA TOUR, as an example, needs more Daylight in the afternoon in order to finish their Tournaments. Likewise, regular Golfers, Tennis Players, Hunters and, perhaps most importantly, Farmers who want more Daylight to play or work. See letter from Brian Rolapp, CEO of the PGA TOUR below. 65% PLUS want more sun in the afternoon, Daylight Saving Time (The way it is now!), but 100% don’t want to change their Clocks twice a year. They want to, as they say, “LOCK THE CLOCK!” Who doesn’t? It’s very expensive for our Nation where you have high and dangerous steeples to reach, like on churches and municipal buildings. Almost everybody wants “The Sunshine Protection Act” to pass, except for Tom Cotton. To the Great People of Arkansas, please let your Senator know it would be a GREAT Bipartisan WIN for the United States Senate, and for America, itself. Call Tom on his cellphone at, 479-453-0533, and let him know. “The Sunshine Protection Act” was passed in the House by a Vote of 308 to 117. HAVE THE SENATE VOTE, NOW! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "在阿肯色州，我的朋友汤姆·科顿（ Tom Cotton ）举着一个非常重要的法案。它被称为“阳光保护法”或“我们不想每年两次更换时钟。“出于某种原因，汤姆正在阻止该法案，在参议院，这很容易做到，只需要一个！它应该以两党的方式压倒性地通过。所以，阿肯色州的每个人，一个我喜欢的州，赢了3次，最后34分，告诉汤姆， G",
-      "link": "https://www.trumpstruth.org/statuses/42122",
-      "published": "Sat, 03 Oct 2026 14:32:20 +0000",
+      "original": "[No Title] - Post from October 4, 2026",
+      "translated": "[No Title] - 2026年10月4日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42156",
+      "published": "Sun, 04 Oct 2026 17:50:13 +0000",
       "stale": false
     },
     {
-      "original": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "Dan S. Sullivan完全支持我作为来自阿拉斯加的美国参议员再次当选—他永远不会让你失望！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42121",
-      "published": "Sat, 03 Oct 2026 14:01:45 +0000",
+      "original": "[No Title] - Post from October 4, 2026",
+      "translated": "[No Title] - 2026年10月4日的帖子",
+      "link": "https://www.trumpstruth.org/statuses/42157",
+      "published": "Sun, 04 Oct 2026 17:50:02 +0000",
       "stale": false
     }
   ],
