@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-06 10:36",
-  "updated_at_iso": "2026-10-06T10:36:07+08:00",
+  "updated_at": "2026-10-07 09:54",
+  "updated_at_iso": "2026-10-07T09:54:25+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 23.6,
-      "feels_like": 22.3,
-      "code": 2,
-      "max": 27.0,
-      "min": 19.8,
+      "temperature": 24.7,
+      "feels_like": 23.5,
+      "code": 0,
+      "max": 29.3,
+      "min": 19.5,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 21.3,
-      "feels_like": 19.3,
+      "temperature": 21.6,
+      "feels_like": 19.8,
       "code": 0,
-      "max": 25.3,
-      "min": 15.3,
+      "max": 26.6,
+      "min": 16.3,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 22.7,
-      "feels_like": 21.3,
-      "code": 3,
-      "max": 25.6,
-      "min": 19.0,
+      "temperature": 23.2,
+      "feels_like": 22.9,
+      "code": 0,
+      "max": 27.9,
+      "min": 18.7,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 22.7,
-      "feels_like": 22.7,
-      "code": 1,
-      "max": 25.0,
-      "min": 20.3,
+      "temperature": 24.1,
+      "feels_like": 24.1,
+      "code": 0,
+      "max": 28.1,
+      "min": 19.8,
       "rain_probability": 0,
       "stale": false
     }
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 89.74,
-      "current_price": 89.74,
-      "previous_close": 89.43,
-      "change": 0.30999999999998806,
-      "change_pct": 0.3466398300346506,
-      "market_time": "10-06 10:26",
+      "price": 90.27,
+      "current_price": 90.27,
+      "previous_close": 89.44,
+      "change": 0.8299999999999983,
+      "change_pct": 0.9279964221824668,
+      "market_time": "10-07 09:44",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 100.76,
-      "current_price": 100.76,
-      "previous_close": 100.32,
-      "change": 0.44000000000001194,
-      "change_pct": 0.43859649122808214,
-      "market_time": "10-06 10:25",
+      "price": 101.47,
+      "current_price": 101.47,
+      "previous_close": 100.58,
+      "change": 0.8900000000000006,
+      "change_pct": 0.8848677669516808,
+      "market_time": "10-07 09:42",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708357.shtml",
-      "published": "Tue, 6 Oct 2026 10:14:38 +0800",
+      "title": "驻冲绳美军最高负责人下令：对所有驻冲绳美军实施外出限制",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708593.shtml",
+      "published": "Wed, 7 Oct 2026 09:20:01 +0800",
       "stale": false
     },
     {
-      "title": "因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708345.shtml",
-      "published": "Tue, 6 Oct 2026 09:42:50 +0800",
+      "title": "朝中社：金正恩向普京致生日贺电",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708574.shtml",
+      "published": "Wed, 7 Oct 2026 08:25:05 +0800",
       "stale": false
     },
     {
-      "title": "中国（湖北）第20批援莱索托医疗队赴莫霍特隆开展义诊",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708325.shtml",
-      "published": "Tue, 6 Oct 2026 08:46:56 +0800",
+      "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml",
+      "published": "Wed, 7 Oct 2026 06:56:22 +0800",
       "stale": false
     },
     {
-      "title": "联合国人权理事会协商一致通过中国提出的人人享有无障碍决议",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708320.shtml",
-      "published": "Tue, 6 Oct 2026 08:41:08 +0800",
+      "title": "德国8月工业新订单环比大幅下降",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml",
+      "published": "Wed, 7 Oct 2026 06:55:50 +0800",
       "stale": false
     },
     {
-      "title": "法国“戴高乐”号航母发生火灾 未造成人员伤亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708317.shtml",
-      "published": "Tue, 6 Oct 2026 08:38:02 +0800",
+      "title": "德国选择党成员首次担任联邦州议会议长",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml",
+      "published": "Wed, 7 Oct 2026 06:55:09 +0800",
       "stale": false
     },
     {
-      "title": "阿比宣誓就职埃塞俄比亚总理 开启第二任期",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708309.shtml",
-      "published": "Tue, 6 Oct 2026 07:37:48 +0800",
+      "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+      "published": "Wed, 7 Oct 2026 06:45:27 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "The Radical Left is upset with the fact that I am taking Ads, which I consider to be a positive promotion for our Great U.S.A., and paying for them with U.S.A. money. This is a rather standard thing to do but, rather than doing that, although nothing will make them happy, I have decided to do the Patriotic Ads, among others, and pay for them myself, and with money I raised for MAGA, Inc. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-      "translated": "激进左派对我正在接受广告这一事实感到不安，我认为这对我们伟大的美国来说是一个积极的促销活动，并用美国的钱为他们付钱。这是一件相当标准的事情，但与其这样做，尽管没有什么能让他们开心，我决定做爱国广告，除其他外，自己付钱，用我为MAGA公司筹集的钱让美国再次伟大！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42171",
-      "published": "Mon, 05 Oct 2026 22:25:58 +0000",
+      "original": "What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a once great Country! President DJT",
+      "translated": "法国正在发生的事情简直就是失控的大规模移民。这不是关于学校，这是关于伊斯兰教想要接管一个曾经伟大的国家！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/42183",
+      "published": "Tue, 06 Oct 2026 15:25:01 +0000",
       "stale": false
     },
     {
-      "original": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I’m going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J. TRUMP",
-      "translated": "如果共和党人在2026年中期选举中赢得众议院和参议院，我将向美利坚合众国的所有成年公民提供5,000 $。感谢您关注此事，我期待着签署这些支票！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42170",
-      "published": "Mon, 05 Oct 2026 22:00:51 +0000",
+      "original": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT",
+      "translated": "福克斯新闻很长一段时间都在采访卑鄙的丹·奥斯本（ Dan Osborn ） ，他现在正在与我们伟大的共和党参议员皮特·里基茨（ Pete Ricketts ）竞选，来自内布拉斯加州。他们为什么要这么做？ ？ ？ “另一面”不会给我们的员工带来任何积极的曝光或通话时间。我赢了，这是一个奇迹，最后一个山体滑坡，三个总统竞选！总统DJT",
+      "link": "https://www.trumpstruth.org/statuses/42182",
+      "published": "Tue, 06 Oct 2026 14:04:02 +0000",
       "stale": false
     },
     {
-      "original": "Annie “Trannie” Andrews is running against our wonderful Darline Graham for the Senate in South Carolina. For years my dear friend Lindsey would say that, “Darline is the finest, most reliable, and one of the smartest people I have ever known.” He would then always add, “Also, the most loyal!” Oftentimes I would be upset with Lindsey for saying this, because I thought I had all of those qualities. In any event, Darline is a High Quality person, maybe the Highest, and Annie Trannie is not, in particular, as it pertains to representing the Values of the Great People of South Carolina — She is in favor of Transgender for Everyone, Open Borders, Defunding the Police, High Taxes, a Weak Military, and will absolutely fight to take your guns away — In other words, she is against our Great Second Amendment! Trannie is not for South Carolina, and South Carolina must show, in the upcoming Election, that it is not for her. VOTE FOR DARLINE GRAHAM — SHE HAS MY COMPLETE AND TOTAL ENDORSEMENT, AND WILL NOT LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "安妮· “特兰妮” ·安德鲁斯（ Annie “Trannie” Andrews ）与我们出色的达琳·格雷厄姆（ Darline Graham ）竞选南卡罗来纳州参议员。多年来，我亲爱的朋友Lindsey会说： “Darline是我认识的最优秀、最可靠、最聪明的人之一。”然后他总是补充道， “还有，最忠诚的！“很多时候，我会对Lindsey这样说感到不满，因为我认为我具备所有这些品质。无论如何， Darline是一位高素质的人，",
-      "link": "https://www.trumpstruth.org/statuses/42169",
-      "published": "Mon, 05 Oct 2026 21:23:37 +0000",
+      "original": "MY RALLIES ARE SAVING THE REPUBLICAN PARTY, AGAIN!!!",
+      "translated": "我的集会再次拯救了共和党！ ！ ！",
+      "link": "https://www.trumpstruth.org/statuses/42181",
+      "published": "Tue, 06 Oct 2026 13:51:56 +0000",
       "stale": false
     },
     {
-      "original": "The New York Times, in writing a story about one of the finest and most successful resorts anywhere in the World, Trump National Doral, in Miami, posted a picture where the facade has been blackened and denigrated by them in order to make it look shoddy, filthy, and just plain BAD. They want World Leaders to see this, knowing it is not the “TRUMP” way. The actual facade looks like the second picture posted, rather than the one doctored by The Times. Its Blue Monster Golf Course, home of the Cadillac Championship, is considered one of the Best, and Toughest, anywhere in the World! This is what I have to deal with on a constant basis — Artificial News! The Times is a CROOKED outfit that caters to Lunatics who want to see our Country fail. Its numbers are way down due to lack of credibility, and this posting is just a small sample of what I have had to put up with, each and every day, for many years! Guys like Liddle’ Peter Baker, and Maggot HAGerman, are Third Rate Reporters, who I haven’t spoken to in years, but who write about me constantly, never fact checking, or caring, about whether or not their story is true. Some day in the not too distant future The Times will be forced to close its dirty doors, and that will be a Great Day for America! President DONALD J. TRUMP",
-      "translated": "《纽约时报》撰写了一篇关于世界上最优秀、最成功的度假胜地之一的故事，迈阿密的特朗普国家多拉（ Trump National Doral ）发布了一张照片，其中门面被他们涂黑和诋毁，以使其看起来伪劣、肮脏和简陋。他们希望世界各国领导人看到这一点，因为他们知道这不是“特朗普”的方式。实际的立面看起来像张贴的第二张照片，而不是蒂姆篡改的照片",
-      "link": "https://www.trumpstruth.org/statuses/42168",
-      "published": "Mon, 05 Oct 2026 20:35:16 +0000",
+      "original": "FoxNews spends more time covering the Jihadist and Dumocrat candidates than they do the good old fashioned Republicans, the people that have saved America, and are making it great again. All they talk about is Dumocrat Jihadists like El-Sayed, with his softball interview by Martha MacCallum, and the like. She never interviews me like that. They don’t show my record breaking Rallies the morning after, but others do, and that’s what MAGA is watching. Fox is promoting the Dumocrats, not the Republicans and MAGA. They have totally lost their way! President DJT",
+      "translated": "福克斯新闻（ FoxNews ）花更多的时间报道圣战者和邓莫克拉特候选人，而不是老式的共和党人，这些人拯救了美国，并使其再次变得伟大。他们只谈论像El-Sayed这样的Dumocrat圣战分子，以及Martha MacCallum对他的垒球采访等等。她从来没有这样采访过我。他们不会在第二天早上展示我的破纪录集会，但其他人会，这就是MAGA正在观看的",
+      "link": "https://www.trumpstruth.org/statuses/42180",
+      "published": "Tue, 06 Oct 2026 13:50:22 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380 The Fake News New York Times “reported” on my Great, PACKED Rally in Ohio that, “the place was not full. Some upper sections were almost completely empty.” In actuality, thousands of people were unable to get in. The Arena was totally MAXED OUT, including all upper sections. What does happen at all of my SOLD OUT Rallies, is that the people in the upper sections tend to migrate down to the Main Floor — The “migration” process always happens! The Times knows this, and so does everyone else. I never have empty seats — Never have, and never will! Because of their dishonesty, I have cinematographers shooting the various Arenas where I speak, in that some of the Fake News likes to dishonestly report lies and untruths. In actuality, my Events for very good Republican Politicians are probably more crowded than ever. There are no empty seats, there haven’t been for years, and there never will be. The Rallies are “HOTTER” than ever. They are all “happenings,” and they never happened before, and will never be duplicated again. The Networks refuse, however, under any circumstances, to show the Crowds, but you can hear the thunderous applause, and know that it represents thousands and thousands of people. Watch tonight, for example, in the Great State of Nebraska, where I’ll be heading soon. See you later! President DONALD J. TRUMP",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117389593495407380假新闻《纽约时报》“报道”了我在俄亥俄州举行的大型集会， “这个地方不满。有些上段几乎空无一人。“实际上，成千上万的人无法进入。竞技场已经完全满员，包括所有上部区域。在我所有售罄的集会上发生的事情是，上层阶层的人倾向于",
-      "link": "https://www.trumpstruth.org/statuses/42167",
-      "published": "Mon, 05 Oct 2026 17:58:21 +0000",
+      "original": "My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT",
+      "translated": "我的拉力赛人群和热情令人难以置信！从来没有人见过这样的事情。我们到处都在翻转比赛。假新闻知道这一点，但他们不想对观众说实话。一切都在发生！ Dumocrats从未指望过这一点。感谢全面报道拉力赛的伟大网络。他们将获得高评分。关注“中期惊喜！” DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/42177",
+      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
       "stale": false
     }
   ],
