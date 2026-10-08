@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-07 09:54",
-  "updated_at_iso": "2026-10-07T09:54:25+08:00",
+  "updated_at": "2026-10-08 10:22",
+  "updated_at_iso": "2026-10-08T10:22:09+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.7,
-      "feels_like": 23.5,
+      "temperature": 26.5,
+      "feels_like": 27.9,
       "code": 0,
-      "max": 29.3,
-      "min": 19.5,
+      "max": 29.9,
+      "min": 20.0,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 21.6,
-      "feels_like": 19.8,
+      "temperature": 23.0,
+      "feels_like": 24.1,
       "code": 0,
-      "max": 26.6,
-      "min": 16.3,
+      "max": 27.8,
+      "min": 15.5,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 23.2,
-      "feels_like": 22.9,
-      "code": 0,
-      "max": 27.9,
-      "min": 18.7,
+      "temperature": 26.2,
+      "feels_like": 27.7,
+      "code": 1,
+      "max": 29.3,
+      "min": 19.7,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 24.1,
-      "feels_like": 24.1,
-      "code": 0,
-      "max": 28.1,
-      "min": 19.8,
-      "rain_probability": 0,
+      "temperature": 26.2,
+      "feels_like": 27.5,
+      "code": 1,
+      "max": 28.7,
+      "min": 21.8,
+      "rain_probability": 2,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.27,
-      "current_price": 90.27,
-      "previous_close": 89.44,
-      "change": 0.8299999999999983,
-      "change_pct": 0.9279964221824668,
-      "market_time": "10-07 09:44",
+      "price": 89.61,
+      "current_price": 89.61,
+      "previous_close": 88.28,
+      "change": 1.3299999999999983,
+      "change_pct": 1.5065700045310355,
+      "market_time": "10-08 10:12",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 101.47,
-      "current_price": 101.47,
-      "previous_close": 100.58,
-      "change": 0.8900000000000006,
-      "change_pct": 0.8848677669516808,
-      "market_time": "10-07 09:42",
+      "price": 101.97,
+      "current_price": 101.97,
+      "previous_close": 100.2,
+      "change": 1.769999999999996,
+      "change_pct": 1.7664670658682595,
+      "market_time": "10-08 10:12",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "驻冲绳美军最高负责人下令：对所有驻冲绳美军实施外出限制",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708593.shtml",
-      "published": "Wed, 7 Oct 2026 09:20:01 +0800",
+      "title": "深夜，德黑兰放话：必要时我们可能先动手",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708870.shtml",
+      "published": "Thu, 8 Oct 2026 09:16:13 +0800",
       "stale": false
     },
     {
-      "title": "朝中社：金正恩向普京致生日贺电",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708574.shtml",
-      "published": "Wed, 7 Oct 2026 08:25:05 +0800",
+      "title": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708860.shtml",
+      "published": "Thu, 8 Oct 2026 08:19:02 +0800",
       "stale": false
     },
     {
-      "title": "世界银行下调柬埔寨2026年经济增长预期至3.5%",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml",
-      "published": "Wed, 7 Oct 2026 06:56:22 +0800",
+      "title": "鲁比奥：伊朗完全失去对霍尔木兹海峡控制 伊朗：将关闭“非法航道”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708853.shtml",
+      "published": "Thu, 8 Oct 2026 07:38:55 +0800",
       "stale": false
     },
     {
-      "title": "德国8月工业新订单环比大幅下降",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708565.shtml",
-      "published": "Wed, 7 Oct 2026 06:55:50 +0800",
+      "title": "柬国航拟增开至三亚、海口、重庆等多地新航线",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708843.shtml",
+      "published": "Thu, 8 Oct 2026 06:45:38 +0800",
       "stale": false
     },
     {
-      "title": "德国选择党成员首次担任联邦州议会议长",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708564.shtml",
-      "published": "Wed, 7 Oct 2026 06:55:09 +0800",
+      "title": "英国改革党承认资金管理存疏漏 否认涉嫌违法",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708842.shtml",
+      "published": "Thu, 8 Oct 2026 06:44:56 +0800",
       "stale": false
     },
     {
-      "title": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
-      "published": "Wed, 7 Oct 2026 06:45:27 +0800",
+      "title": "俄方称伊尔库茨克州已全面落实预防措施",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708841.shtml",
+      "published": "Thu, 8 Oct 2026 06:44:22 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "What’s happening in France is nothing less than out of control mass migration. This isn’t about schools, this is about Islam wanting to take over a once great Country! President DJT",
-      "translated": "法国正在发生的事情简直就是失控的大规模移民。这不是关于学校，这是关于伊斯兰教想要接管一个曾经伟大的国家！ DJT总裁",
-      "link": "https://www.trumpstruth.org/statuses/42183",
-      "published": "Tue, 06 Oct 2026 15:25:01 +0000",
+      "original": "To the people of Texas, I am headed your way, and one of the people that I am going to pay respect to today is Tano Tijerina. Out of love and passion, he is running against a Dumocrat, Henry Cuellar, who, along with his wife, I pardoned, at the request of his daughters, because they said, “Please don’t let them take our parents away!” They would have gone to jail on federal fraud and conspiracy charges, for over 20 years and, in fact, Henry Cuellar’s brother, a Sheriff, a short time later, was indicted on the same charges. In any event, I did the pardons, and made no deal, where a crooked politician would have, but I thought there would be a good chance that Cuellar, who was persecuted by Democrats because they didn’t like him, would have routinely gone over to the Republican Party — The people that saved him from years in prison. Shockingly, Cuellar announced, only a few days later, that he is going to remain a Dumocrat. Many considered this to be a tremendous act of disloyalty, and certainly, showed him to be an extremely ungrateful person. His wife, as I heard, wanted him to turn to the man and the Party that helped him, but he wouldn’t do it so, because they’re vicious, the Dumocrats will have a chance to go after him again. In any event, the man running against him, Tano Tijerina, is a STAR and, hopefully, will WIN! We call that payback for a disloyal and ungrateful person, a person whose life has been saved only to go back into the clutches of the people that tried so hard to destroy him. Henry Cuellar is a LOSER who, right now, should be serving a longterm jail sentence with his wife in a top level penitentiary. Tano, a legendary Baseball Star, Great Athlete, respected County Judge, and fine person, will hopefully beat Cuellar so that people can show how bad it is when you are recognized and humiliated as being one of the most disloyal political people on Earth! I only wish Henry Cuellar’s daughters, who begged for his survival, would have used the same level of charm to convince their mother and father to do the right thing. I am very proud of the fact that I didn’t make a deal with Cuellar, which I easily could have, but relied on his character, which turned out to be a faulty one. Tano Tijerina, on the other hand, loves Loredo, and all of South Texas but, most importantly, he truly loves the United States of America. VOTE FOR TANO TIJERINA, and show people that disloyalty only causes loss, heartache, and grief! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "对于德克萨斯州人民，我正朝着你们的方向前进，我今天要尊敬的人之一是Tano Tijerina。出于爱和激情，他正在与Dumocrat的Henry Cuellar竞争，他和他的妻子一起，在他的女儿们的要求下，我赦免了他，因为他们说： “请不要让他们带走我们的父母！“他们会因联邦欺诈和阴谋指控而入狱20多年，事实上，亨利·奎尔",
+      "link": "https://www.trumpstruth.org/statuses/42195",
+      "published": "Wed, 07 Oct 2026 22:02:27 +0000",
       "stale": false
     },
     {
-      "original": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The “other side” doesn’t give our people any positive exposure or airtime. It is a miracle that I won, the last by a landslide, three Presidential Races! President DJT",
-      "translated": "福克斯新闻很长一段时间都在采访卑鄙的丹·奥斯本（ Dan Osborn ） ，他现在正在与我们伟大的共和党参议员皮特·里基茨（ Pete Ricketts ）竞选，来自内布拉斯加州。他们为什么要这么做？ ？ ？ “另一面”不会给我们的员工带来任何积极的曝光或通话时间。我赢了，这是一个奇迹，最后一个山体滑坡，三个总统竞选！总统DJT",
-      "link": "https://www.trumpstruth.org/statuses/42182",
-      "published": "Tue, 06 Oct 2026 14:04:02 +0000",
+      "original": "Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and children were murdered, kidnapped, and subjected to unimaginable horrors at the hands of Hamas TERRORISTS. Today, we remember every innocent life taken, honor the survivors and their families, and remember the hostages who endured the unthinkable. I fought relentlessly to bring the hostages home, and reunite them with their loved ones, and I did, both the living and the dead! We will NEVER forget October 7th. We will NEVER forget the victims. And we will always stand against the forces of Terror and Evil. President DONALD J. TRUMP",
+      "translated": "三年前的今天， 10月7日，世界目睹了以色列历史上最黑暗、最邪恶的日子之一。无辜的男人、妇女和儿童在哈马斯恐怖分子手中被谋杀、绑架和遭受难以想象的恐怖。今天，我们铭记每一个被夺走的无辜生命，向幸存者及其家人致敬，并铭记那些忍受不可思议的人质。我坚持不懈地将人质带回家，",
+      "link": "https://www.trumpstruth.org/statuses/42194",
+      "published": "Wed, 07 Oct 2026 21:24:28 +0000",
       "stale": false
     },
     {
-      "original": "MY RALLIES ARE SAVING THE REPUBLICAN PARTY, AGAIN!!!",
-      "translated": "我的集会再次拯救了共和党！ ！ ！",
-      "link": "https://www.trumpstruth.org/statuses/42181",
-      "published": "Tue, 06 Oct 2026 13:51:56 +0000",
+      "original": "Steve Witkoff keeps the light on: https://www. washingtonexaminer.com/opinion /columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/",
+      "translated": "Steve Witkoff保持联系： https://washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/",
+      "link": "https://www.trumpstruth.org/statuses/42193",
+      "published": "Wed, 07 Oct 2026 18:29:23 +0000",
       "stale": false
     },
     {
-      "original": "FoxNews spends more time covering the Jihadist and Dumocrat candidates than they do the good old fashioned Republicans, the people that have saved America, and are making it great again. All they talk about is Dumocrat Jihadists like El-Sayed, with his softball interview by Martha MacCallum, and the like. She never interviews me like that. They don’t show my record breaking Rallies the morning after, but others do, and that’s what MAGA is watching. Fox is promoting the Dumocrats, not the Republicans and MAGA. They have totally lost their way! President DJT",
-      "translated": "福克斯新闻（ FoxNews ）花更多的时间报道圣战者和邓莫克拉特候选人，而不是老式的共和党人，这些人拯救了美国，并使其再次变得伟大。他们只谈论像El-Sayed这样的Dumocrat圣战分子，以及Martha MacCallum对他的垒球采访等等。她从来没有这样采访过我。他们不会在第二天早上展示我的破纪录集会，但其他人会，这就是MAGA正在观看的",
-      "link": "https://www.trumpstruth.org/statuses/42180",
-      "published": "Tue, 06 Oct 2026 13:50:22 +0000",
+      "original": "Chris LaCivita and James Blair are outside consultants. They do not work for me, other than as outside consultants. They most likely have numerous clients, but for that, you would have to ask them. They are allowed to do work for others, just like all consultants in Washington, D.C. I do not have any idea who else they work for but will, on reflection, ask them and, if there’s a conflict, I will terminate them, immediately! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "Chris LaCivita和James Blair是外部顾问。除了作为外部顾问外，他们不为我工作。他们很可能有很多客户，但为此，您必须询问他们。他们被允许为他人工作，就像华盛顿特区的所有顾问一样，我不知道他们还为谁工作，但经过反思，我会问他们，如果发生冲突，我会立即终止他们！感谢您的ATT",
+      "link": "https://www.trumpstruth.org/statuses/42192",
+      "published": "Wed, 07 Oct 2026 16:02:22 +0000",
       "stale": false
     },
     {
-      "original": "My Rally crowds and enthusiasm are unbelievable! Nobody has ever seen anything like it. We are flipping races all over the place. The Fake News knows it, but they don’t want to be truthful with their viewers. It’s all happening! The Dumocrats never counted on this. Thanks you to the great Networks that are covering the Rallies in full. They are being rewarded with BIG RATINGS. Watch for the “Midterm Surprise!” President DJT",
-      "translated": "我的拉力赛人群和热情令人难以置信！从来没有人见过这样的事情。我们到处都在翻转比赛。假新闻知道这一点，但他们不想对观众说实话。一切都在发生！ Dumocrats从未指望过这一点。感谢全面报道拉力赛的伟大网络。他们将获得高评分。关注“中期惊喜！” DJT总裁",
-      "link": "https://www.trumpstruth.org/statuses/42177",
-      "published": "Tue, 06 Oct 2026 12:36:53 +0000",
+      "original": "I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I will be approving 17.9 Million Dollars for the Severe Storms and Tornadoes that Wisconsin has experienced. The people are tough and smart, and will come back stronger than ever — 18 Million Dollars should help, A LOT. See you soon Wisconsin — I LOVE YOU ALL! President DONALD J. TRUMP",
+      "translated": "我刚刚与汤姆·蒂芙尼（ Tom Tiffany ）进行了交谈，他完全支持我成为伟大的威斯康星州的下一任州长。我告诉汤姆，我将批准1790万美元用于威斯康星州经历的严重风暴和龙卷风。人们坚强而聪明，会比以往任何时候都更强大— 1800万美元应该有所帮助，很多。威斯康星州见—我爱你们所有人！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42191",
+      "published": "Wed, 07 Oct 2026 15:15:08 +0000",
       "stale": false
     }
   ],
