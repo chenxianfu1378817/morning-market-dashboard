@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-12 09:55",
-  "updated_at_iso": "2026-10-12T09:55:16+08:00",
+  "updated_at": "2026-10-13 11:16",
+  "updated_at_iso": "2026-10-13T11:16:53+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.6,
-      "feels_like": 31.7,
+      "temperature": 31.3,
+      "feels_like": 36.8,
       "code": 0,
-      "max": 33.2,
-      "min": 22.0,
-      "rain_probability": 0,
+      "max": 33.1,
+      "min": 23.7,
+      "rain_probability": 18,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 26.1,
-      "feels_like": 28.8,
+      "temperature": 31.2,
+      "feels_like": 35.0,
       "code": 0,
-      "max": 32.4,
-      "min": 19.2,
-      "rain_probability": 0,
+      "max": 33.1,
+      "min": 21.3,
+      "rain_probability": 2,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 29.1,
-      "feels_like": 33.5,
+      "temperature": 32.3,
+      "feels_like": 37.4,
       "code": 0,
-      "max": 33.6,
-      "min": 24.0,
-      "rain_probability": 6,
+      "max": 35.0,
+      "min": 24.8,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 28.2,
-      "feels_like": 32.2,
-      "code": 1,
-      "max": 30.3,
-      "min": 23.3,
-      "rain_probability": 0,
+      "temperature": 31.0,
+      "feels_like": 36.3,
+      "code": 0,
+      "max": 33.6,
+      "min": 22.8,
+      "rain_probability": 53,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.39,
-      "current_price": 90.39,
-      "previous_close": 91.85,
+      "price": 92.28,
+      "current_price": 92.28,
+      "previous_close": 93.74,
       "change": -1.4599999999999937,
-      "change_pct": -1.5895481763745172,
-      "market_time": "10-12 09:45",
+      "change_pct": -1.557499466609765,
+      "market_time": "10-13 11:06",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 103.26,
-      "current_price": 103.26,
-      "previous_close": 104.72,
-      "change": -1.4599999999999937,
-      "change_pct": -1.3941940412528588,
-      "market_time": "10-12 09:44",
+      "price": 105.08,
+      "current_price": 105.08,
+      "previous_close": 106.65,
+      "change": -1.5700000000000074,
+      "change_pct": -1.4721050164088207,
+      "market_time": "10-13 11:06",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "特朗普宣布“俄乌能源停火”：双方都同意了，但乌克兰不在桌边",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711188.shtml",
-      "published": "Mon, 12 Oct 2026 09:01:02 +0800",
+      "title": "穿越“风暴”，他们在中国找到“锚点”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713591.shtml",
+      "published": "Tue, 13 Oct 2026 11:02:57 +0800",
       "stale": false
     },
     {
-      "title": "特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711180.shtml",
-      "published": "Mon, 12 Oct 2026 08:29:17 +0800",
+      "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
+      "published": "Tue, 13 Oct 2026 10:32:36 +0800",
       "stale": false
     },
     {
-      "title": "泽连斯基回应特朗普：乌克兰领导人应由乌人民决定",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711178.shtml",
-      "published": "Mon, 12 Oct 2026 08:13:28 +0800",
+      "title": "地面战斗白热化，胡塞武装围困上万也门政府军",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713559.shtml",
+      "published": "Tue, 13 Oct 2026 10:14:23 +0800",
       "stale": false
     },
     {
-      "title": "沙特民航总局：11日利雅得机场再遭袭，致1死11伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711175.shtml",
-      "published": "Mon, 12 Oct 2026 08:01:15 +0800",
+      "title": "“中国联合展台”亮相第42届法国戛纳电视节",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713534.shtml",
+      "published": "Tue, 13 Oct 2026 10:13:27 +0800",
       "stale": false
     },
     {
-      "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
-      "published": "Mon, 12 Oct 2026 07:40:40 +0800",
+      "title": "中国医疗队在中赤几友好医院实施“巡诊+手术”模式",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713532.shtml",
+      "published": "Tue, 13 Oct 2026 10:13:13 +0800",
       "stale": false
     },
     {
-      "title": "伊朗：美国接受伊方所提部分条件，但其回应“不够充分”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711164.shtml",
-      "published": "Mon, 12 Oct 2026 06:54:58 +0800",
+      "title": "法国数百家超市制冷系统遭大规模网络攻击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713516.shtml",
+      "published": "Tue, 13 Oct 2026 09:39:51 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Exclusive: Jack Smith’s Office Bent Its Own Rules to Rush Software Purchase Days Before Indicting Trump: https://www. breitbart.com/politics/2026/09 /28/exclusive-jack-smiths-office-bent-its-own-rules-rush-software-purchase-days-before-indicting-trump/",
-      "translated": "独家：杰克·史密斯（ Jack Smith ）的办公室在起诉特朗普前几天匆忙购买软件的规则： https://breitbart.com/politics/2026/09/28/exclusive-jack-smiths-office-bent-its-own-rules-rush-software-purchase-days-before-indicting-trump/",
-      "link": "https://www.trumpstruth.org/statuses/42257",
-      "published": "Mon, 12 Oct 2026 00:53:15 +0000",
+      "original": "Look what happened in Ohio since my last Rally, and I have another one today. It’s The Golden Age of America! President DONALD J. TRUMP View image",
+      "translated": "看看自从我上次拉力赛以来在俄亥俄州发生了什么，我今天还有一个。现在是美国的黄金时代！唐纳德· J ·特朗普总统查看图片",
+      "link": "https://www.trumpstruth.org/statuses/42299",
+      "published": "Mon, 12 Oct 2026 19:23:36 +0000",
       "stale": false
     },
     {
-      "original": "I have just learned that Roy Cooper, the Radical Left Former Governor of North Carolina, let out 83 murderers from prisons and penitentiaries around the State, with 51 of these prisoners serving life sentences. They ended up committing 25 murders immediately after being released, and Roy Cooper’s reputation will never be the same. He is a TOTAL FRAUD! The reason for releasing them, believe it or not, was because Governor Cooper didn’t want them to catch COVID while in prison. Repeat Violent Offender DeCarlos Brown, Jr., who was put on the streets through release by Cooper, is the infamous murderer of Iryna Zarutska. He violently slashed Iryna from behind, for all to see, while she was innocently sitting on a train. This was captured on security film — So devastating for the reputation of North Carolina! What Roy Cooper has done is worse than Former Governor Michael Dukakis of Massachusetts releasing the infamous Willie Horton, previously convicted of murder, who went on to kidnap, rape, and murder again after Dukakis gave him a release and pardon. This terrible decision by Dukakis, who had an insurmountable lead in the Presidential Election of 1988, led to his resounding and conclusive defeat. Roy Cooper, likewise, has DISGRACED North Carolina, and disqualified himself from Public Office! Republican Michael Whatley is the man for the job. He was the Head of the Republican Party of North Carolina, and then the Head of the United States Republican Party, both unprecedented Victories. NORTH CAROLINA, VOTE FOR MICHAEL WHATLEY. HE HAS MY COMPLETE AND TOTAL ENDORSEMENT FOR THE UNITED STATES SENATE, AND WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "我刚刚了解到，北卡罗来纳州激进左翼前州长罗伊·库珀（ Roy Cooper ）从该州的监狱和监狱中释放了83名杀人犯，其中51名囚犯被判终身监禁。他们在被释放后立即犯下了25起谋杀罪，罗伊·库珀的名声永远不会一样。他是个十足的骗子！信不信由你，释放他们的原因是因为库珀州长不希望他们",
-      "link": "https://www.trumpstruth.org/statuses/42256",
-      "published": "Sun, 11 Oct 2026 23:54:27 +0000",
+      "original": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I love and WON BIG in 2016, 2020, and 2024. Roger is one of my favorite Senators — He is absolutely GREAT, a wonderful person, given a “bum rap” because he was mandated by Law to request money owed from patients. If he didn’t make these requests, he would be breaking the Law, and subject to criminal liability and arrest. A judge ordering a patient’s arrest for not showing up to court many, many times is not Roger Marshall’s fault — IT IS THE LAW, and his Crooked Opponent is using that against him. Roger is running against a Radical Left Dumocrat named Adam Hamilton, a Trump Deranged Phony who pretends to be a “Moderate,” but he’s not! He gave money to Kamala Harris, Crooked Joe Biden, and Barack Hussein Obuma — What else needs to be said? Additionally, Adam Hamilton loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, the Transgender Mutilization of your Children, among other CRAZY ideas, and says that the Great People of Kansas need to repent for eating beef (much like James TalaFREAKo, a Vegan who is running for the United States Senate in Texas). I won the Evangelical Christian Vote IN A LANDSLIDE, a Record Number, the Highest in History, and am more popular with them now, than ever before, because of what I have done, and gotten them — And I wouldn’t want Adam Hamilton being my pastor. He’s caused nothing but turmoil in his church, which has broken up, and is virtually at war with each other because of him. In his church, he has caused great anger and dissension, setting it back decades with discord and vitriol that will never be healed. “Pastor” Hamilton hired a child PREDATOR as a camp counselor, who was caught sneaking into boys' cabins at night. Hamilton DISMISSED their concerns, REFUSED to call the police, and brought this person back to camp the next year — He was caught again. DISGUSTING! As someone who got a massive Majority of the Evangelical Vote, I can state unequivocally that Adam Hamilton is not one of us! He is a Radical Left LUNATIC Dumocrat, whose values are not those of the People of Kansas, or the United States of America, and now he’s trying to take out one of the best and most respected Senators in our Country — But the good news is that Senator Roger Marshall loves the U.S.A., and is a Truly Great American Patriot, who has my Complete and Total Endorsement — HE ALWAYS HAS, AND HE ALWAYS WILL. In the U.S. Senate, Roger is fighting hard to Champion our Great Farmers and American Agriculture, Grow our Economy, Unleash American Energy Dominance, Cut Taxes and Regulations, Keep our Border SECURE, Take Care of, and Protect, our fabulous Military and Vets, and Defend our always under siege Second Amendment. Additionally, Roger is working tirelessly to pass the Credit Card Competition Act, in order to stop the out of control Swipe Fee ripoff! ROGER LOVES KANSAS, AND WILL NEVER LET YOU DOWN! I will be having a Kansas Style Rally, in Roger’s Honor, very soon. See you there! President DONALD J. TRUMP",
+      "translated": "参议员罗杰·马歇尔（ Roger Marshall ）正在为伟大的堪萨斯州（ Great State of Kansas ）努力工作，我非常喜欢这个州，并在2016年、2020年和2024年大获全胜。罗杰是我最喜欢的参议员之一--他绝对是伟大的，是一个了不起的人，因为他被法律授权向患者索要欠款，所以被称为“流浪汉说唱”。如果他没有提出这些要求，他将违反法律，并承担刑事责任和逮捕。法官下令逮捕病人",
+      "link": "https://www.trumpstruth.org/statuses/42298",
+      "published": "Mon, 12 Oct 2026 19:17:11 +0000",
       "stale": false
     },
     {
-      "original": "My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I’d have to be doing Rallies again. The good news is, I love them, the music, and the incredible enthusiasm, and will always be in favor of what’s good for America — and that means the Republican Party. Next stop, tomorrow, Youngstown, Ohio, for our Great Senator Jon Husted, and my friend, Vivek Ramaswamy for Governor, where the Crowds are already waiting in line — and then Alaska, for the Re-Election of one of the Greatest Senators in America, Dan S. Sullivan, and Congressman Nick Begich, who has a Big Future in Alaska. See you there! President DONALD J. TRUMP",
-      "translated": "我的集会已经成为传奇，与共和党的热情产生了巨大的差异。他们一直在等待它们发生，尽管我从未想过我会再次参加集会。好消息是，我喜欢他们、音乐和令人难以置信的热情，并将永远支持对美国有利的事情--这意味着共和党。下一站，明天，俄亥俄州扬斯敦，我们的Gr",
-      "link": "https://www.trumpstruth.org/statuses/42255",
-      "published": "Sun, 11 Oct 2026 21:57:19 +0000",
+      "original": "Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio! President DONALD J. TRUMP",
+      "translated": "俄亥俄拉力赛上的大人群。对试图接管我们国家的激进左翼社会主义者、共产党人和疯子做出的巨大回应。再见，俄亥俄州！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42297",
+      "published": "Mon, 12 Oct 2026 19:00:37 +0000",
       "stale": false
     },
     {
-      "original": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from the very beginning, and will do a fantastic job! President DONALD J. TRUMP",
-      "translated": "我很高兴地宣布， Katie Zacharia将于明天哥伦布日开始担任新闻秘书，并将于周二上午9:30在白宫新闻发布室举行介绍性新闻发布会。Katie从一开始就在精神上和我在一起，并将做得非常出色！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42254",
-      "published": "Sun, 11 Oct 2026 21:37:18 +0000",
+      "original": "Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP View image",
+      "translated": "看看《纽约时报》对我美丽的多拉做了什么！他们篡改了照片。他们在故事中提到它时，人为地在建筑物上放置了霉菌！唐纳德· J ·特朗普总统查看图片",
+      "link": "https://www.trumpstruth.org/statuses/42296",
+      "published": "Mon, 12 Oct 2026 15:18:24 +0000",
       "stale": false
     },
     {
-      "original": "I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been better! President DONALD J. TRUMP",
-      "translated": "我只想向Karoline Leavitt表示敬意和感谢，感谢她作为白宫新闻秘书所做的出色工作—再好不过了！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42253",
-      "published": "Sun, 11 Oct 2026 21:05:50 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/42293",
+      "published": "Mon, 12 Oct 2026 14:45:22 +0000",
       "stale": false
     }
   ],
