@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-13 11:16",
-  "updated_at_iso": "2026-10-13T11:16:53+08:00",
+  "updated_at": "2026-10-14 09:28",
+  "updated_at_iso": "2026-10-14T09:28:49+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 31.3,
-      "feels_like": 36.8,
+      "temperature": 28.2,
+      "feels_like": 32.2,
       "code": 0,
-      "max": 33.1,
-      "min": 23.7,
-      "rain_probability": 18,
-      "stale": false
-    },
-    {
-      "name": "桂林",
-      "temperature": 31.2,
-      "feels_like": 35.0,
-      "code": 0,
-      "max": 33.1,
-      "min": 21.3,
+      "max": 33.2,
+      "min": 23.3,
       "rain_probability": 2,
       "stale": false
     },
     {
-      "name": "广州",
-      "temperature": 32.3,
-      "feels_like": 37.4,
+      "name": "桂林",
+      "temperature": 25.9,
+      "feels_like": 26.7,
       "code": 0,
-      "max": 35.0,
-      "min": 24.8,
+      "max": 32.3,
+      "min": 22.5,
+      "rain_probability": 20,
+      "stale": false
+    },
+    {
+      "name": "广州",
+      "temperature": 28.9,
+      "feels_like": 30.4,
+      "code": 0,
+      "max": 33.3,
+      "min": 24.5,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 31.0,
-      "feels_like": 36.3,
+      "temperature": 27.7,
+      "feels_like": 31.1,
       "code": 0,
-      "max": 33.6,
-      "min": 22.8,
-      "rain_probability": 53,
+      "max": 30.1,
+      "min": 23.7,
+      "rain_probability": 69,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 92.28,
-      "current_price": 92.28,
-      "previous_close": 93.74,
-      "change": -1.4599999999999937,
-      "change_pct": -1.557499466609765,
-      "market_time": "10-13 11:06",
+      "price": 95.38,
+      "current_price": 95.38,
+      "previous_close": 94.14,
+      "change": 1.2399999999999949,
+      "change_pct": 1.3171871680475833,
+      "market_time": "10-14 09:18",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 105.08,
-      "current_price": 105.08,
-      "previous_close": 106.65,
-      "change": -1.5700000000000074,
-      "change_pct": -1.4721050164088207,
-      "market_time": "10-13 11:06",
+      "price": 107.12,
+      "current_price": 107.12,
+      "previous_close": 105.69,
+      "change": 1.4300000000000068,
+      "change_pct": 1.353013530135308,
+      "market_time": "10-14 09:18",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "穿越“风暴”，他们在中国找到“锚点”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713591.shtml",
-      "published": "Tue, 13 Oct 2026 11:02:57 +0800",
+      "title": "美国9月成屋销售量同比下降2.2% 房价连续39个月上涨",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714122.shtml",
+      "published": "Wed, 14 Oct 2026 08:40:16 +0800",
       "stale": false
     },
     {
-      "title": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
-      "published": "Tue, 13 Oct 2026 10:32:36 +0800",
+      "title": "刚果（金）埃博拉确诊病例超过9000例",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714121.shtml",
+      "published": "Wed, 14 Oct 2026 08:37:34 +0800",
       "stale": false
     },
     {
-      "title": "地面战斗白热化，胡塞武装围困上万也门政府军",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713559.shtml",
-      "published": "Tue, 13 Oct 2026 10:14:23 +0800",
+      "title": "报告称英格兰足球联赛体系面临严峻财务风险",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714119.shtml",
+      "published": "Wed, 14 Oct 2026 08:37:26 +0800",
       "stale": false
     },
     {
-      "title": "“中国联合展台”亮相第42届法国戛纳电视节",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713534.shtml",
-      "published": "Tue, 13 Oct 2026 10:13:27 +0800",
+      "title": "俄联邦安全局：一名涉嫌从事间谍活动的日本记者被捕",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714117.shtml",
+      "published": "Wed, 14 Oct 2026 08:36:20 +0800",
       "stale": false
     },
     {
-      "title": "中国医疗队在中赤几友好医院实施“巡诊+手术”模式",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713532.shtml",
-      "published": "Tue, 13 Oct 2026 10:13:13 +0800",
+      "title": "IMF上调英国今年经济增长预期",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714116.shtml",
+      "published": "Wed, 14 Oct 2026 08:35:34 +0800",
       "stale": false
     },
     {
-      "title": "法国数百家超市制冷系统遭大规模网络攻击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-13/10713516.shtml",
-      "published": "Tue, 13 Oct 2026 09:39:51 +0800",
+      "title": "哈萨克斯坦今年前三季度GDP同比增长4.2%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714115.shtml",
+      "published": "Wed, 14 Oct 2026 08:34:50 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Look what happened in Ohio since my last Rally, and I have another one today. It’s The Golden Age of America! President DONALD J. TRUMP View image",
-      "translated": "看看自从我上次拉力赛以来在俄亥俄州发生了什么，我今天还有一个。现在是美国的黄金时代！唐纳德· J ·特朗普总统查看图片",
-      "link": "https://www.trumpstruth.org/statuses/42299",
-      "published": "Mon, 12 Oct 2026 19:23:36 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436230839875415 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117436230839875415查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42318",
+      "published": "Tue, 13 Oct 2026 23:38:29 +0000",
       "stale": false
     },
     {
-      "original": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I love and WON BIG in 2016, 2020, and 2024. Roger is one of my favorite Senators — He is absolutely GREAT, a wonderful person, given a “bum rap” because he was mandated by Law to request money owed from patients. If he didn’t make these requests, he would be breaking the Law, and subject to criminal liability and arrest. A judge ordering a patient’s arrest for not showing up to court many, many times is not Roger Marshall’s fault — IT IS THE LAW, and his Crooked Opponent is using that against him. Roger is running against a Radical Left Dumocrat named Adam Hamilton, a Trump Deranged Phony who pretends to be a “Moderate,” but he’s not! He gave money to Kamala Harris, Crooked Joe Biden, and Barack Hussein Obuma — What else needs to be said? Additionally, Adam Hamilton loves High Taxes, Open Borders, No Consequences for Violent Criminals, Men in Women’s Sports, the Transgender Mutilization of your Children, among other CRAZY ideas, and says that the Great People of Kansas need to repent for eating beef (much like James TalaFREAKo, a Vegan who is running for the United States Senate in Texas). I won the Evangelical Christian Vote IN A LANDSLIDE, a Record Number, the Highest in History, and am more popular with them now, than ever before, because of what I have done, and gotten them — And I wouldn’t want Adam Hamilton being my pastor. He’s caused nothing but turmoil in his church, which has broken up, and is virtually at war with each other because of him. In his church, he has caused great anger and dissension, setting it back decades with discord and vitriol that will never be healed. “Pastor” Hamilton hired a child PREDATOR as a camp counselor, who was caught sneaking into boys' cabins at night. Hamilton DISMISSED their concerns, REFUSED to call the police, and brought this person back to camp the next year — He was caught again. DISGUSTING! As someone who got a massive Majority of the Evangelical Vote, I can state unequivocally that Adam Hamilton is not one of us! He is a Radical Left LUNATIC Dumocrat, whose values are not those of the People of Kansas, or the United States of America, and now he’s trying to take out one of the best and most respected Senators in our Country — But the good news is that Senator Roger Marshall loves the U.S.A., and is a Truly Great American Patriot, who has my Complete and Total Endorsement — HE ALWAYS HAS, AND HE ALWAYS WILL. In the U.S. Senate, Roger is fighting hard to Champion our Great Farmers and American Agriculture, Grow our Economy, Unleash American Energy Dominance, Cut Taxes and Regulations, Keep our Border SECURE, Take Care of, and Protect, our fabulous Military and Vets, and Defend our always under siege Second Amendment. Additionally, Roger is working tirelessly to pass the Credit Card Competition Act, in order to stop the out of control Swipe Fee ripoff! ROGER LOVES KANSAS, AND WILL NEVER LET YOU DOWN! I will be having a Kansas Style Rally, in Roger’s Honor, very soon. See you there! President DONALD J. TRUMP",
-      "translated": "参议员罗杰·马歇尔（ Roger Marshall ）正在为伟大的堪萨斯州（ Great State of Kansas ）努力工作，我非常喜欢这个州，并在2016年、2020年和2024年大获全胜。罗杰是我最喜欢的参议员之一--他绝对是伟大的，是一个了不起的人，因为他被法律授权向患者索要欠款，所以被称为“流浪汉说唱”。如果他没有提出这些要求，他将违反法律，并承担刑事责任和逮捕。法官下令逮捕病人",
-      "link": "https://www.trumpstruth.org/statuses/42298",
-      "published": "Mon, 12 Oct 2026 19:17:11 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42319",
+      "published": "Tue, 13 Oct 2026 23:37:54 +0000",
       "stale": false
     },
     {
-      "original": "Big Crowd at Ohio Rally. Tremendous Response to Radical Left Socialists, Communists, and Lunatics trying to take over our Country. See you later, Ohio! President DONALD J. TRUMP",
-      "translated": "俄亥俄拉力赛上的大人群。对试图接管我们国家的激进左翼社会主义者、共产党人和疯子做出的巨大回应。再见，俄亥俄州！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42297",
-      "published": "Mon, 12 Oct 2026 19:00:37 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42320",
+      "published": "Tue, 13 Oct 2026 23:33:36 +0000",
       "stale": false
     },
     {
-      "original": "Look what The New York Times did to my beautiful Doral! They doctored the photo. They artificially put mold all over the building when referring to it in a story! President DONALD J. TRUMP View image",
-      "translated": "看看《纽约时报》对我美丽的多拉做了什么！他们篡改了照片。他们在故事中提到它时，人为地在建筑物上放置了霉菌！唐纳德· J ·特朗普总统查看图片",
-      "link": "https://www.trumpstruth.org/statuses/42296",
-      "published": "Mon, 12 Oct 2026 15:18:24 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42321",
+      "published": "Tue, 13 Oct 2026 23:33:19 +0000",
       "stale": false
     },
     {
-      "original": "View image",
-      "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/42293",
-      "published": "Mon, 12 Oct 2026 14:45:22 +0000",
+      "original": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www. foxnews.com/opinion/gregg-jarr ett-trump-framed-russia-collusion-hoax-story-exposed",
+      "translated": "Gregg Jarrett太棒了，一定要看！唐纳德· J ·特朗普总统格雷格·贾勒特（ GREGG JARRETT ） ：特朗普被俄罗斯勾结骗局诬陷。现在整个故事都曝光了： https://foxnews.com/opinion/gregg-jarr ett-trump-framed-russia-collusion-hoax-story-exposed",
+      "link": "https://www.trumpstruth.org/statuses/42315",
+      "published": "Tue, 13 Oct 2026 22:51:56 +0000",
       "stale": false
     }
   ],
