@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-14 09:28",
-  "updated_at_iso": "2026-10-14T09:28:49+08:00",
+  "updated_at": "2026-10-15 09:07",
+  "updated_at_iso": "2026-10-15T09:07:04+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 28.2,
-      "feels_like": 32.2,
-      "code": 0,
-      "max": 33.2,
-      "min": 23.3,
-      "rain_probability": 2,
+      "temperature": 26.8,
+      "feels_like": 30.1,
+      "code": 51,
+      "max": 31.8,
+      "min": 24.4,
+      "rain_probability": 58,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 25.9,
-      "feels_like": 26.7,
-      "code": 0,
-      "max": 32.3,
-      "min": 22.5,
-      "rain_probability": 20,
+      "temperature": 23.9,
+      "feels_like": 27.0,
+      "code": 51,
+      "max": 31.5,
+      "min": 21.8,
+      "rain_probability": 82,
       "stale": false
     },
     {
@@ -31,16 +31,16 @@
       "max": 33.3,
       "min": 24.5,
       "rain_probability": 0,
-      "stale": false
+      "stale": true
     },
     {
       "name": "深圳",
-      "temperature": 27.7,
-      "feels_like": 31.1,
-      "code": 0,
-      "max": 30.1,
-      "min": 23.7,
-      "rain_probability": 69,
+      "temperature": 26.8,
+      "feels_like": 29.1,
+      "code": 2,
+      "max": 29.3,
+      "min": 24.0,
+      "rain_probability": 10,
       "stale": false
     }
   ],
@@ -48,100 +48,105 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 95.38,
-      "current_price": 95.38,
-      "previous_close": 94.14,
-      "change": 1.2399999999999949,
-      "change_pct": 1.3171871680475833,
-      "market_time": "10-14 09:18",
+      "price": 94.47,
+      "current_price": 94.47,
+      "previous_close": 95.09,
+      "change": -0.6200000000000045,
+      "change_pct": -0.6520138815858708,
+      "market_time": "10-15 08:57",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 107.12,
-      "current_price": 107.12,
-      "previous_close": 105.69,
-      "change": 1.4300000000000068,
-      "change_pct": 1.353013530135308,
-      "market_time": "10-14 09:18",
+      "price": 105.27,
+      "current_price": 105.27,
+      "previous_close": 106.06,
+      "change": -0.7900000000000063,
+      "change_pct": -0.7448613992080013,
+      "market_time": "10-15 08:55",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "美国9月成屋销售量同比下降2.2% 房价连续39个月上涨",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714122.shtml",
-      "published": "Wed, 14 Oct 2026 08:40:16 +0800",
+      "title": "巴拿马7.6级地震致1人死亡20余人受伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714768.shtml",
+      "published": "Thu, 15 Oct 2026 08:22:12 +0800",
       "stale": false
     },
     {
-      "title": "刚果（金）埃博拉确诊病例超过9000例",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714121.shtml",
-      "published": "Wed, 14 Oct 2026 08:37:34 +0800",
+      "title": "33年后，F1回非洲了！一场32亿美元的“豪赌”，卢旺达总统：今天属于非洲",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714767.shtml",
+      "published": "Thu, 15 Oct 2026 08:20:00 +0800",
       "stale": false
     },
     {
-      "title": "报告称英格兰足球联赛体系面临严峻财务风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714119.shtml",
-      "published": "Wed, 14 Oct 2026 08:37:26 +0800",
+      "title": "国际能源署：全球柴油市场供应紧张状况加剧",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714765.shtml",
+      "published": "Thu, 15 Oct 2026 08:15:28 +0800",
       "stale": false
     },
     {
-      "title": "俄联邦安全局：一名涉嫌从事间谍活动的日本记者被捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714117.shtml",
-      "published": "Wed, 14 Oct 2026 08:36:20 +0800",
+      "title": "“北溪”天然气管道爆炸案嫌疑人在德国受审",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714764.shtml",
+      "published": "Thu, 15 Oct 2026 08:14:40 +0800",
       "stale": false
     },
     {
-      "title": "IMF上调英国今年经济增长预期",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714116.shtml",
-      "published": "Wed, 14 Oct 2026 08:35:34 +0800",
+      "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
+      "published": "Thu, 15 Oct 2026 08:14:34 +0800",
       "stale": false
     },
     {
-      "title": "哈萨克斯坦今年前三季度GDP同比增长4.2%",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714115.shtml",
-      "published": "Wed, 14 Oct 2026 08:34:50 +0800",
+      "title": "美国9月CPI同比上涨3.7%",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714762.shtml",
+      "published": "Thu, 15 Oct 2026 08:13:14 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436230839875415 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117436230839875415查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42318",
-      "published": "Tue, 13 Oct 2026 23:38:29 +0000",
+      "original": "I’m heading to Montana for a “PACKED HOUSE” Speech. It’s broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP",
+      "translated": "我要去蒙大拿州参加一场“挤满了人”的演讲。它在右侧广播网络（ RSBN ）上直播—他们做得多么出色。再见！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42359",
+      "published": "Wed, 14 Oct 2026 22:48:21 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42319",
-      "published": "Tue, 13 Oct 2026 23:37:54 +0000",
+      "original": "I’m watching Right Side Broadcasting Network (RSBN) from Air Force One. They do a magnificent job of covering the Rallies, including the Interviews of people in lines that stretch for miles. So fascinating to see — So exciting! I love the Interviews they do of the people that are in line. Great Americans — They built this Country! There is Great Love and Respect in the air. Landing in Arizona now, then Montana. See you soon! President DONALD J. TRUMP",
+      "translated": "我正在观看空军一号的右侧广播网（ RSBN ）。他们在报道拉力赛方面做得非常出色，包括对长达数英里的队伍进行采访。看到它真是太迷人了—太令人兴奋了！我喜欢他们对排队人员进行的面试。伟大的美国人--他们建造了这个国家！空气中充满了巨大的爱和尊重。现在降落在亚利桑那州，然后是蒙大拿州。再见！唐纳德· J · T总统",
+      "link": "https://www.trumpstruth.org/statuses/42358",
+      "published": "Wed, 14 Oct 2026 19:52:02 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117436212824151092查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42320",
-      "published": "Tue, 13 Oct 2026 23:33:36 +0000",
+      "original": "https://www. youtube.com/live/3bbk6X8FoJE?s i=zhVgVgfpgzuu_rTi",
+      "translated": "https://youtube.com/live/3bbk6X8FoJE?s i = zhVgVgfpgzuu_rTi",
+      "link": "https://www.trumpstruth.org/statuses/42357",
+      "published": "Wed, 14 Oct 2026 19:13:09 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42321",
-      "published": "Tue, 13 Oct 2026 23:33:19 +0000",
+      "original": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA! Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New York. This DEAL will create 27,000 high paying Construction and Supply Chain Jobs and over 1,000 additional highly skilled Manufacturing Jobs in New York. Under my direction, JAPAN WILL PROVIDE THE CAPITAL for the 21 Billion Dollar Investment. This DEAL is a result of my HISTORIC TRADE DEALS to REVITALIZE the American Industrial Base, create HUNDREDS OF THOUSANDS OF GREAT AMERICAN JOBS, and strengthen our National and Economic Security. We are turning the Investment commitments from Japan, Korea and Taiwan into HUGE Construction Projects. These are TRANSFORMATIONAL AND GENERATIONAL DEALS FOR AMERICA — More Semiconductors, more Power, more Energy Security, and more Jobs for the U.S.A. As I showed with our massive WIN with INTEL, my Administration's Commerce Department is the first to ever earn money for America. I am announcing an additional agreement with GlobalFoundries where the U.S. Taxpayer will receive shares in GlobalFoundries. My Commerce Department will invest 955 Million Dollars in Silicon Photonics, Silicon Germanium, and Advanced Packaging. This brings our total Investments to 1.63 Billion Dollars, and now, the U.S. Government’s stake is worth over 2 Billion Dollars. We are the first Administration ever to turn Grants into money for America. Your great Businessman President running the Greatest Economy in the World — AN ALL-AROUND HUGE WIN FOR AMERICA! President DONALD J. TRUMP",
+      "translated": "为美国又进行了210亿美元的巨额投资！今天，在我的领导下， GlobalFoundries和我的商务部部长霍华德·卢特尼克（ Howard Lutnick ）宣布了210亿英镑的巨额投资，用于在纽约马耳他建造两个巨大的新半导体制造工厂。这笔交易将在纽约创造27,000个高薪建筑和供应链工作岗位以及1,000多个额外的高技能制造业工作岗位。在我的直接",
+      "link": "https://www.trumpstruth.org/statuses/42356",
+      "published": "Wed, 14 Oct 2026 16:39:39 +0000",
       "stale": false
     },
     {
-      "original": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMP GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www. foxnews.com/opinion/gregg-jarr ett-trump-framed-russia-collusion-hoax-story-exposed",
-      "translated": "Gregg Jarrett太棒了，一定要看！唐纳德· J ·特朗普总统格雷格·贾勒特（ GREGG JARRETT ） ：特朗普被俄罗斯勾结骗局诬陷。现在整个故事都曝光了： https://foxnews.com/opinion/gregg-jarr ett-trump-framed-russia-collusion-hoax-story-exposed",
-      "link": "https://www.trumpstruth.org/statuses/42315",
-      "published": "Tue, 13 Oct 2026 22:51:56 +0000",
+      "original": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History— The Alaska LNG Project. This 50 Billion Dollar Infrastructure Investment from The Republic of Korea is part of their Trade and Investment Deal with me. I am also announcing today that my Commerce Secretary, Howard Lutnick, has secured an Offtake Commitment from Taiwan of between 70 to 80 Billion Dollars for Alaska LNG — That is 30% of the Pipeline for the next 20 years. This is the largest Offtake Agreement in History. On top of that, Taiwan has also agreed to Invest 4.4 Billion Dollars in Equity into the Project, because this is now a U.S. Federal Government Project, with all necessary permits secured, and all necessary authorizations delivered, and ready to go. This is the GREATEST Project in Alaska History, and this only happens with me in the White House. Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "我刚刚在阿拉斯加启动了阿拉斯加历史上最大的能源基础设施项目--阿拉斯加液化天然气项目。这笔来自大韩民国的500亿美元基础设施投资是他们与我达成的贸易和投资协议的一部分。我今天还宣布，我的商务部长霍华德·拉特尼克（ Howard Lutnick ）已从台湾获得了700亿至800亿美元的阿拉斯加液化天然气承购承诺—这是",
+      "link": "https://www.trumpstruth.org/statuses/42355",
+      "published": "Wed, 14 Oct 2026 16:29:18 +0000",
       "stale": false
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "天气·广州",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    }
+  ]
 }
