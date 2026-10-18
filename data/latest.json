@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-17 08:54",
-  "updated_at_iso": "2026-10-17T08:54:26+08:00",
+  "updated_at": "2026-10-18 08:30",
+  "updated_at_iso": "2026-10-18T08:30:20+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.2,
-      "feels_like": 29.5,
-      "code": 2,
+      "temperature": 25.3,
+      "feels_like": 29.7,
+      "code": 3,
       "max": 31.3,
-      "min": 24.0,
-      "rain_probability": 96,
+      "min": 23.9,
+      "rain_probability": 63,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 25.9,
-      "feels_like": 27.9,
-      "code": 0,
-      "max": 31.5,
-      "min": 23.7,
-      "rain_probability": 25,
+      "temperature": 24.9,
+      "feels_like": 28.9,
+      "code": 3,
+      "max": 31.1,
+      "min": 23.3,
+      "rain_probability": 77,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.0,
-      "feels_like": 30.3,
-      "code": 0,
-      "max": 33.7,
-      "min": 24.0,
-      "rain_probability": 18,
+      "temperature": 26.8,
+      "feels_like": 31.3,
+      "code": 51,
+      "max": 31.7,
+      "min": 24.2,
+      "rain_probability": 90,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.2,
-      "feels_like": 29.6,
+      "temperature": 27.6,
+      "feels_like": 31.1,
       "code": 0,
-      "max": 30.4,
-      "min": 23.8,
-      "rain_probability": 10,
+      "max": 31.4,
+      "min": 24.3,
+      "rain_probability": 21,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 99.04,
-      "current_price": 99.04,
+      "price": 99.02,
+      "current_price": 99.02,
       "previous_close": 96.5,
-      "change": 2.5400000000000063,
-      "change_pct": 2.632124352331613,
+      "change": 2.519999999999996,
+      "change_pct": 2.611398963730566,
       "market_time": "10-17 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 109.69,
-      "current_price": 109.69,
+      "price": 109.86,
+      "current_price": 109.86,
       "previous_close": 105.92,
-      "change": 3.769999999999996,
-      "change_pct": 3.5592900302114767,
+      "change": 3.9399999999999977,
+      "change_pct": 3.7197885196374596,
       "market_time": "10-17 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日媒：高市早苗向靖国神社献祭品",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
-      "published": "Sat, 17 Oct 2026 08:19:44 +0800",
+      "title": "苏丹首都圈地区一军事基地发生爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716482.shtml",
+      "published": "Sun, 18 Oct 2026 06:26:34 +0800",
       "stale": false
     },
     {
-      "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
-      "published": "Sat, 17 Oct 2026 06:07:00 +0800",
+      "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml",
+      "published": "Sun, 18 Oct 2026 06:21:12 +0800",
       "stale": false
     },
     {
-      "title": "苏丹西部城市遭无人机袭击 造成至少30人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716049.shtml",
-      "published": "Sat, 17 Oct 2026 06:04:04 +0800",
+      "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
+      "published": "Sun, 18 Oct 2026 06:19:26 +0800",
       "stale": false
     },
     {
-      "title": "沙特主导联军称拦截3枚导弹和4架无人机",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716048.shtml",
-      "published": "Sat, 17 Oct 2026 01:22:23 +0800",
+      "title": "孟加拉国度假村火灾已致10人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
+      "published": "Sat, 17 Oct 2026 23:45:20 +0800",
       "stale": false
     },
     {
-      "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
-      "published": "Sat, 17 Oct 2026 01:19:13 +0800",
+      "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
+      "published": "Sat, 17 Oct 2026 21:14:33 +0800",
       "stale": false
     },
     {
-      "title": "错估震级9.9级 日本气象厅两度召开记者会致歉",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716023.shtml",
-      "published": "Sat, 17 Oct 2026 00:45:39 +0800",
+      "title": "中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716455.shtml",
+      "published": "Sat, 17 Oct 2026 21:04:55 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Just landed in Georgia, heading over to the Big Rally — Lots of people! See you soon. Will be broadcast LIVE on Right Side Broadcasting Network (RSBN)! We must get Congressman Mike Collins elected to the U.S. Senate — He is far superior to Pee Wee Herman (Jon Osoff). Likewise, Rick Jackson will be a fantastic Governor of the Peach State! President DONALD J. TRUMP",
-      "translated": "刚刚降落在佐治亚州，前往大型集会—很多人！再见。将在右侧广播网络（ RSBN ）上直播！我们必须让国会议员迈克·柯林斯当选为美国参议员--他远远优于皮·维·赫尔曼（乔恩·奥索夫）。同样，里克·杰克逊（ Rick Jackson ）将成为桃子州（ Peach State ）出色的州长！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42386",
-      "published": "Fri, 16 Oct 2026 19:12:38 +0000",
+      "original": "https://www. youtube.com/live/CQU5WIRXRNQ?s i=KJKwuJ_x72DQ8z2n",
+      "translated": "https://youtube.com/live/CQU5WIRXRNQ?s i = KJKwuJ_x72DQ8z2n",
+      "link": "https://www.trumpstruth.org/statuses/42404",
+      "published": "Sat, 17 Oct 2026 18:16:34 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42387",
-      "published": "Fri, 16 Oct 2026 19:10:07 +0000",
+      "original": "James TalaFREAKO is a Radical Left Lunatic and Vegan who is the ANTITHESIS of Texas Values. Ken Paxton is the Greatest Attorney General in the History of Texas, and has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
+      "translated": "James TalaFREAKO是激进的左派疯子和素食主义者，是德克萨斯价值观的对立面。肯·帕克斯顿（ Ken Paxton ）是德克萨斯州历史上最伟大的总检察长，我完全和全面支持他成为德克萨斯州的下一任美国参议员—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
+      "link": "https://www.trumpstruth.org/statuses/42402",
+      "published": "Sat, 17 Oct 2026 17:08:24 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42388",
-      "published": "Fri, 16 Oct 2026 19:09:03 +0000",
+      "original": "Zach Nunn has my Complete and Total Endorsement for Re-Election as U.S. Representative from Iowa’s 3rd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
+      "translated": "扎克·纳恩（ Zach Nunn ）完全支持我作为爱荷华州第三国会选区的美国代表再次当选—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
+      "link": "https://www.trumpstruth.org/statuses/42403",
+      "published": "Sat, 17 Oct 2026 17:08:10 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42389",
-      "published": "Fri, 16 Oct 2026 19:03:01 +0000",
+      "original": "Mohammed El-Sayed is a terrible Candidate for the Dumocrats. Mike Rogers is a Great American Patriot, and has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
+      "translated": "Mohammed El-Sayed是Dumocrats的可怕候选人。迈克·罗杰斯（ Mike Rogers ）是一位伟大的美国爱国者，我完全支持他成为密歇根州的下一任美国参议员—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
+      "link": "https://www.trumpstruth.org/statuses/42401",
+      "published": "Sat, 17 Oct 2026 17:07:49 +0000",
       "stale": false
     },
     {
-      "original": "RT @ DanScavino 𝙂𝙚𝙩 𝙮𝙤𝙪𝙧 𝙩𝙞𝙘𝙠𝙚𝙩𝙨 𝙩𝙤𝙙𝙖𝙮 𝙛𝙤𝙧 𝙪𝙥𝙘𝙤𝙢𝙞𝙣𝙜 𝙏𝙧𝙪𝙢𝙥 𝙍𝙖𝙡𝙡𝙞𝙚𝙨 𝙞𝙣 𝙂𝙚𝙤𝙧𝙜𝙞𝙖, 𝙆𝙚𝙣𝙩𝙪𝙘𝙠𝙮, 𝙆𝙖𝙣𝙨𝙖𝙨, 𝙉𝙤𝙧𝙩𝙝 𝘾𝙖𝙧𝙤𝙡𝙞𝙣𝙖, 𝙎𝙤𝙪𝙩𝙝 𝘾𝙖𝙧𝙤𝙡𝙞𝙣𝙖, 𝙄𝙤𝙬𝙖, 𝙖𝙣𝙙 𝙁𝙡𝙤𝙧𝙞𝙙𝙖—𝙒𝙞𝙩𝙝 𝙢𝙤𝙧𝙚 𝙡𝙤𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙗𝙚𝙞𝙣𝙜 𝙖𝙣𝙣𝙤𝙪𝙣𝙘𝙚𝙙 𝙨𝙤𝙤𝙣! 🚨𝙏𝙞𝙘𝙠𝙚𝙩 𝙖𝙣𝙙 𝙫𝙚𝙣𝙪𝙚 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙗𝙚𝙡𝙤𝙬🚨 🗓️🕒10/16/26 📍DALTON, GEORGIA 🎟️ https:// events.gop.com/events/midterm- rally-in-dalton-georgia-president-donald-j-trump 🗓️🕑10/17/26 📍 KENTUCKY 🎟️ https:// events.gop.com/events/midterm- rally-in-highland-heights-kentucky-president-donald-j-trump 🗓️ 🕕10/19/26 📍KANSAS https:// events.gop.com/events/midterm- rally-in-park-city-kansas-president-donald-j-trump-ks 🗓️🕖10/20/26 📍NORTH CAROLINA 🎟️ https:// events.gop.com/events/midterm- rally-in-greenville-north-carolina-president-donald-j-trump-djtnc ? 🗓️🕖10/21/26 📍SOUTH CAROLINA 🎟️ https:// events.gop.com/events/midterm- rally-in-clemson-sc-president-donald-j-trump-djt47 ? 🗓️🕕10/22/26 📍IOWA 🎟️ https:// events.gop.com/events/midterm- rally-in-sioux-city-ia-president-donald-j-trump-djt ? 🗓️🕑10/23/26 📍FLORIDA 🎟️ https:// events.gop.com/events/midterm- rally-in-fort-myers-fl-president-donald-j-trump-djt47 ? 🚨MORE STOPS COMING SOON🚨 STAY UPDATED AT: https:// events.djt47.co/ Reposted Dan Scavino Jr. 🇺🇸🦅 𝙂𝙚𝙩 𝙮𝙤𝙪𝙧 𝙩𝙞𝙘𝙠𝙚𝙩𝙨 𝙩𝙤𝙙𝙖𝙮 𝙛𝙤𝙧 𝙪𝙥𝙘𝙤𝙢𝙞𝙣𝙜 𝙏𝙧𝙪𝙢𝙥 𝙍𝙖𝙡𝙡𝙞𝙚𝙨 𝙞𝙣 𝙂𝙚𝙤𝙧𝙜𝙞𝙖, 𝙆𝙚𝙣𝙩𝙪𝙘𝙠𝙮, 𝙆𝙖𝙣𝙨𝙖𝙨, 𝙉𝙤𝙧𝙩𝙝 𝘾𝙖𝙧𝙤𝙡𝙞𝙣𝙖, 𝙎𝙤𝙪𝙩𝙝 𝘾𝙖𝙧𝙤𝙡𝙞𝙣𝙖, 𝙄𝙤𝙬𝙖, 𝙖𝙣𝙙 𝙁𝙡𝙤𝙧𝙞𝙙𝙖—𝙒𝙞𝙩𝙝 𝙢𝙤𝙧𝙚 𝙡𝙤𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙗𝙚𝙞𝙣𝙜 𝙖𝙣𝙣𝙤𝙪𝙣𝙘𝙚𝙙 𝙨𝙤𝙤𝙣! 🚨𝙏𝙞𝙘𝙠𝙚𝙩 𝙖𝙣𝙙 𝙫𝙚𝙣𝙪𝙚 𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙗𝙚𝙡𝙤𝙬🚨 🗓️🕒10/16/26 📍DALTON, GEORGIA 🎟️ https:// events.gop.com/events/midterm- rally-in-dalton-georgia-president-donald-j-trump 🗓️🕑10/17/26 📍 KENTUCKY 🎟️ https:// events.gop.com/events/midterm- rally-in-highland-heights-kentucky-president-donald-j-trump 🗓️ 🕕10/19/26 📍KANSAS https:// events.gop.com/events/midterm- rally-in-park-city-kansas-president-donald-j-trump-ks 🗓️🕖10/20/26 📍NORTH CAROLINA 🎟️ https:// events.gop.com/events/midterm- rally-in-greenville-north-carolina-president-donald-j-trump-djtnc ? 🗓️🕖10/21/26 📍SOUTH CAROLINA 🎟️ https:// events.gop.com/events/midterm- rally-in-clemson-sc-president-donald-j-trump-djt47 ? 🗓️🕕10/22/26 📍IOWA 🎟️ https:// events.gop.com/events/midterm- rally-in-sioux-city-ia-president-donald-j-trump-djt ? 🗓️🕑10/23/26 📍FLORIDA 🎟️ https:// events.gop.com/events/midterm- rally-in-fort-myers-fl-president-donald-j-trump-djt47 ? 🚨MORE STOPS COMING SOON🚨 STAY UPDATED AT: https:// events.djt47.co/ View image",
-      "translated": "RT @ DanScavino @ DanScavino @ DanScavino @ DanScavino @ DanScavino @ DanScavino @ DanScavino ，英文原文： 26年10🚨 🗓️🕒月16日，乔治亚州📍道尔顿市🎟️https://events.gop.com/events/midterm- rally-in-dalton-georgia-president-donald-j-trump 26年🗓️🕑10🚨月17日，📍肯塔基州🎟️https://events.gop.com/events/midterm- rally-in-highland-heights-kentucky-pre",
-      "link": "https://www.trumpstruth.org/statuses/42390",
-      "published": "Fri, 16 Oct 2026 18:58:21 +0000",
+      "original": "Darline Graham has my Complete and Total Endorsement for Re-Election as U.S. Senator from South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
+      "translated": "达琳·格雷厄姆（ Darline Graham ）完全支持我作为南卡罗来纳州的美国参议员再次当选—她永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
+      "link": "https://www.trumpstruth.org/statuses/42399",
+      "published": "Sat, 17 Oct 2026 16:58:51 +0000",
       "stale": false
     }
   ],
