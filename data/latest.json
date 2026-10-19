@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-18 08:30",
-  "updated_at_iso": "2026-10-18T08:30:20+08:00",
+  "updated_at": "2026-10-19 08:37",
+  "updated_at_iso": "2026-10-19T08:37:41+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.3,
-      "feels_like": 29.7,
+      "temperature": 25.6,
+      "feels_like": 30.0,
       "code": 3,
-      "max": 31.3,
+      "max": 31.7,
       "min": 23.9,
-      "rain_probability": 63,
+      "rain_probability": 51,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 24.9,
-      "feels_like": 28.9,
-      "code": 3,
-      "max": 31.1,
-      "min": 23.3,
-      "rain_probability": 77,
+      "temperature": 21.8,
+      "feels_like": 24.2,
+      "code": 51,
+      "max": 30.9,
+      "min": 20.5,
+      "rain_probability": 27,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 26.8,
-      "feels_like": 31.3,
-      "code": 51,
-      "max": 31.7,
+      "temperature": 27.0,
+      "feels_like": 31.6,
+      "code": 1,
+      "max": 34.3,
       "min": 24.2,
-      "rain_probability": 90,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.6,
-      "feels_like": 31.1,
-      "code": 0,
-      "max": 31.4,
-      "min": 24.3,
-      "rain_probability": 21,
+      "temperature": 27.3,
+      "feels_like": 31.6,
+      "code": 1,
+      "max": 33.2,
+      "min": 22.9,
+      "rain_probability": 0,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 99.02,
-      "current_price": 99.02,
-      "previous_close": 96.5,
-      "change": 2.519999999999996,
-      "change_pct": 2.611398963730566,
-      "market_time": "10-17 04:59",
+      "price": 97.54,
+      "current_price": 97.54,
+      "previous_close": 99.02,
+      "change": -1.4799999999999898,
+      "change_pct": -1.4946475459503028,
+      "market_time": "10-19 08:27",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 109.86,
-      "current_price": 109.86,
-      "previous_close": 105.92,
-      "change": 3.9399999999999977,
-      "change_pct": 3.7197885196374596,
-      "market_time": "10-17 04:59",
+      "price": 108.06,
+      "current_price": 108.06,
+      "previous_close": 109.86,
+      "change": -1.7999999999999972,
+      "change_pct": -1.6384489350081897,
+      "market_time": "10-19 08:26",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "苏丹首都圈地区一军事基地发生爆炸",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716482.shtml",
-      "published": "Sun, 18 Oct 2026 06:26:34 +0800",
+      "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+      "published": "Mon, 19 Oct 2026 07:32:54 +0800",
       "stale": false
     },
     {
-      "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml",
-      "published": "Sun, 18 Oct 2026 06:21:12 +0800",
+      "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml",
+      "published": "Mon, 19 Oct 2026 07:26:38 +0800",
       "stale": false
     },
     {
-      "title": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716480.shtml",
-      "published": "Sun, 18 Oct 2026 06:19:26 +0800",
+      "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
+      "published": "Mon, 19 Oct 2026 07:20:18 +0800",
       "stale": false
     },
     {
-      "title": "孟加拉国度假村火灾已致10人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716479.shtml",
-      "published": "Sat, 17 Oct 2026 23:45:20 +0800",
+      "title": " 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
+      "published": "Mon, 19 Oct 2026 07:03:19 +0800",
       "stale": false
     },
     {
-      "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
-      "published": "Sat, 17 Oct 2026 21:14:33 +0800",
+      "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
+      "published": "Mon, 19 Oct 2026 06:43:28 +0800",
       "stale": false
     },
     {
-      "title": "中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716455.shtml",
-      "published": "Sat, 17 Oct 2026 21:04:55 +0800",
+      "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
+      "published": "Mon, 19 Oct 2026 06:03:47 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "https://www. youtube.com/live/CQU5WIRXRNQ?s i=KJKwuJ_x72DQ8z2n",
-      "translated": "https://youtube.com/live/CQU5WIRXRNQ?s i = KJKwuJ_x72DQ8z2n",
-      "link": "https://www.trumpstruth.org/statuses/42404",
-      "published": "Sat, 17 Oct 2026 18:16:34 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117464065930232379 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117464065930232379查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42417",
+      "published": "Sun, 18 Oct 2026 21:36:55 +0000",
       "stale": false
     },
     {
-      "original": "James TalaFREAKO is a Radical Left Lunatic and Vegan who is the ANTITHESIS of Texas Values. Ken Paxton is the Greatest Attorney General in the History of Texas, and has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
-      "translated": "James TalaFREAKO是激进的左派疯子和素食主义者，是德克萨斯价值观的对立面。肯·帕克斯顿（ Ken Paxton ）是德克萨斯州历史上最伟大的总检察长，我完全和全面支持他成为德克萨斯州的下一任美国参议员—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
-      "link": "https://www.trumpstruth.org/statuses/42402",
-      "published": "Sat, 17 Oct 2026 17:08:24 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42418",
+      "published": "Sun, 18 Oct 2026 21:36:44 +0000",
       "stale": false
     },
     {
-      "original": "Zach Nunn has my Complete and Total Endorsement for Re-Election as U.S. Representative from Iowa’s 3rd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
-      "translated": "扎克·纳恩（ Zach Nunn ）完全支持我作为爱荷华州第三国会选区的美国代表再次当选—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
-      "link": "https://www.trumpstruth.org/statuses/42403",
-      "published": "Sat, 17 Oct 2026 17:08:10 +0000",
+      "original": "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hostage negotiations! Signing that document at this time will do that, and I can sign it later, or any time that I want! Perhaps more importantly, Russia is doing very little, if anything, to help the Islamic Republic of Iran, compared to what they could be doing, and I want to keep it that way, and will, unless stupid people get in the way. Lastly, Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States. Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price, millions of barrels of diesel to the World. Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him, and that Crooked Joe Biden gave him in the past, he doesn’t want to end this war, and probably never did. He could have made a better deal two years ago than he can now. His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead. I WANT THIS WAR END! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "我对俄罗斯的决定非常简单。我正在就俄罗斯和乌克兰之间的战争进行和平谈判，我不想做任何会愚蠢地将俄罗斯赶出谈判桌的事情。正在取得重大进展，其中包括当前的人质谈判！此时签署该文件即可，我可以稍后签署，也可以随时签署！也许更重要的是，俄罗斯正在做非常小的事情",
+      "link": "https://www.trumpstruth.org/statuses/42416",
+      "published": "Sun, 18 Oct 2026 20:36:22 +0000",
       "stale": false
     },
     {
-      "original": "Mohammed El-Sayed is a terrible Candidate for the Dumocrats. Mike Rogers is a Great American Patriot, and has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
-      "translated": "Mohammed El-Sayed是Dumocrats的可怕候选人。迈克·罗杰斯（ Mike Rogers ）是一位伟大的美国爱国者，我完全支持他成为密歇根州的下一任美国参议员—他永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
-      "link": "https://www.trumpstruth.org/statuses/42401",
-      "published": "Sat, 17 Oct 2026 17:07:49 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42414",
+      "published": "Sun, 18 Oct 2026 18:27:02 +0000",
       "stale": false
     },
     {
-      "original": "Darline Graham has my Complete and Total Endorsement for Re-Election as U.S. Senator from South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP View video",
-      "translated": "达琳·格雷厄姆（ Darline Graham ）完全支持我作为南卡罗来纳州的美国参议员再次当选—她永远不会让你失望！唐纳德· J ·特朗普总统观看视频",
-      "link": "https://www.trumpstruth.org/statuses/42399",
-      "published": "Sat, 17 Oct 2026 16:58:51 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42415",
+      "published": "Sun, 18 Oct 2026 18:26:49 +0000",
       "stale": false
     }
   ],
