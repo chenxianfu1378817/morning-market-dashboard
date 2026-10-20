@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-19 08:37",
-  "updated_at_iso": "2026-10-19T08:37:41+08:00",
+  "updated_at": "2026-10-20 09:22",
+  "updated_at_iso": "2026-10-20T09:22:34+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.6,
-      "feels_like": 30.0,
-      "code": 3,
-      "max": 31.7,
-      "min": 23.9,
-      "rain_probability": 51,
+      "temperature": 26.5,
+      "feels_like": 30.9,
+      "code": 1,
+      "max": 31.8,
+      "min": 23.2,
+      "rain_probability": 4,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 21.8,
-      "feels_like": 24.2,
-      "code": 51,
-      "max": 30.9,
-      "min": 20.5,
-      "rain_probability": 27,
+      "temperature": 26.9,
+      "feels_like": 30.4,
+      "code": 2,
+      "max": 33.2,
+      "min": 23.1,
+      "rain_probability": 5,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.0,
-      "feels_like": 31.6,
-      "code": 1,
-      "max": 34.3,
-      "min": 24.2,
-      "rain_probability": 0,
+      "temperature": 28.4,
+      "feels_like": 33.5,
+      "code": 0,
+      "max": 33.9,
+      "min": 24.7,
+      "rain_probability": 2,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.3,
-      "feels_like": 31.6,
+      "temperature": 28.4,
+      "feels_like": 32.1,
       "code": 1,
-      "max": 33.2,
-      "min": 22.9,
-      "rain_probability": 0,
+      "max": 32.0,
+      "min": 23.4,
+      "rain_probability": 28,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 97.54,
-      "current_price": 97.54,
-      "previous_close": 99.02,
-      "change": -1.4799999999999898,
-      "change_pct": -1.4946475459503028,
-      "market_time": "10-19 08:27",
+      "price": 98.72,
+      "current_price": 98.72,
+      "previous_close": 98.54,
+      "change": 0.1799999999999926,
+      "change_pct": 0.18266693728434402,
+      "market_time": "10-20 09:12",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 108.06,
-      "current_price": 108.06,
-      "previous_close": 109.86,
-      "change": -1.7999999999999972,
-      "change_pct": -1.6384489350081897,
-      "market_time": "10-19 08:26",
+      "price": 109.84,
+      "current_price": 109.84,
+      "previous_close": 109.55,
+      "change": 0.29000000000000625,
+      "change_pct": 0.2647193062528583,
+      "market_time": "10-20 09:10",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
-      "published": "Mon, 19 Oct 2026 07:32:54 +0800",
+      "title": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml",
+      "published": "Tue, 20 Oct 2026 08:19:26 +0800",
       "stale": false
     },
     {
-      "title": "俄乌“能源停火”未果 美调转矛头对伊施压 伊朗：“7日方案”仍可谈",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716922.shtml",
-      "published": "Mon, 19 Oct 2026 07:26:38 +0800",
+      "title": "美国战略石油储备原油库存降至1982年以来最低",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
+      "published": "Tue, 20 Oct 2026 08:03:07 +0800",
       "stale": false
     },
     {
-      "title": "泽连斯基：若乌克兰被要求举行战时选举，他将竞选连任",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716921.shtml",
-      "published": "Mon, 19 Oct 2026 07:20:18 +0800",
+      "title": "泽连斯基：美国推迟对乌武器交付等决定“难以解释”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717569.shtml",
+      "published": "Tue, 20 Oct 2026 08:02:01 +0800",
       "stale": false
     },
     {
-      "title": " 以色列大选将至 特朗普发文支持内塔尼亚胡竞选连任以总理",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716920.shtml",
-      "published": "Mon, 19 Oct 2026 07:03:19 +0800",
+      "title": "突发：哥伦比亚一架“黑鹰”坠机 机上15人全部幸存",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717559.shtml",
+      "published": "Tue, 20 Oct 2026 07:33:37 +0800",
       "stale": false
     },
     {
-      "title": "加拿大军事基地火灾致4人死数十人伤 总理卡尼发声",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716919.shtml",
-      "published": "Mon, 19 Oct 2026 06:43:28 +0800",
+      "title": "哥伦比亚一非法金矿塌方 至少9人死",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717556.shtml",
+      "published": "Tue, 20 Oct 2026 07:15:32 +0800",
       "stale": false
     },
     {
-      "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716917.shtml",
-      "published": "Mon, 19 Oct 2026 06:03:47 +0800",
+      "title": "从柴油吵到“星链” 俄油输美之际 美乌总统继续“隔空互怼”",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717554.shtml",
+      "published": "Tue, 20 Oct 2026 07:06:56 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117464065930232379 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117464065930232379查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42417",
-      "published": "Sun, 18 Oct 2026 21:36:55 +0000",
+      "original": "The last time the Radical Dumocrats had power, they gave us the Worst Inflation in American History, the Highest Energy Prices in American History, the Worst Trade Deficit in American History, they allowed 25 million people to pour across our Borders from all over the World and, if they win the Midterms, they will DO IT ALL AGAIN! President DONALD J. TRUMP",
+      "translated": "激进的Dumocrats上次掌权时，他们给了我们美国历史上最严重的通货膨胀，美国历史上最高的能源价格，美国历史上最严重的贸易逆差，他们允许来自世界各地的2500万人涌入我们的边境，如果他们赢得中期选举，他们将再次做到这一点！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42454",
+      "published": "Tue, 20 Oct 2026 00:38:36 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42418",
-      "published": "Sun, 18 Oct 2026 21:36:44 +0000",
+      "original": "Senator Roger Marshall’s opponent, Adam Hamilton, is a Radical Left Phony who is pretending to be a moderate because he does not have the courage to tell Kansas the truth about who he really is. Hamilton opposed my Travel Ban to keep Terrorists and Extremists out of our Country. He supports flooding Kansas with unvetted refugees from the most dangerous places on earth. Adam Hamilton used church dollars to fund anti-religious transgender activists who openly mock Jesus. He promotes a document listing 125 different genders, and directs his followers to 7 different websites to make children transgender. Adam Hamilton stated that he believes America is systemically racist. He said that white people must “repent” for being white, and that Kansans should repent for eating beef because you are causing global warming. He donated to Kamala Harris, Crooked Joe Biden, and Barack Hussein Obama and, very importantly, Adam Hamilton wants to take away your guns — He has an “F” rating from the N.R.A. With Roger Marshall in the Senate and me as your President, we will ALWAYS protect your Second Amendment right to KEEP AND BEAR ARMS! On top of it all, Adam Hamilton shielded a child sexual predator at his church, and he just admitted that he NEVER contacted Law Enforcement when it was discovered, instead, he let him come back as a camp counselor. That’s all you need after the Election is over, is to find out you elected a big pervert. I won the Christian Vote, getting the Highest Vote Total in the History of Politics. Specifically, I won the Evangelical Vote, the Catholic Vote, and virtually every other Denomination by a massive number. Based on Voter Results, I know more about Christianity than any other politician, and I can state unequivocally that Adam Hamilton is not one of us! He is a Radical Left LUNATIC Dumocrat, whose Values are not those of the People of Kansas, and I can tell you that Roger Marshall is a far better man than Adam Hamilton. Roger was given a “bum rap” because he was mandated by Law to request money owed from patients. If he didn’t make these requests, he would be breaking the Law, and subject to criminal liability and arrest. A judge ordering a patient’s arrest for not showing up to court many, many times is not Roger Marshall’s fault — IT IS THE LAW, and his Crooked Opponent is using that against him. On November 3rd, you need to send a very strange Adam Hamilton back home, and RE-ELECT one of the Greatest Senators in our Country, Roger Marshall, to defend Kansas Values and COMMON SENSE. Roger Marshall is the Number One Champion fighting to protect hardworking Americans and Small Businesses from predatory Credit Card companies and out-of-control swipe fees. Roger’s Bill to end these rip offs will save the typical American 2,000 Dollars a year and, if you vote for Roger and a Republican Congress, I will sign it into LAW! President DONALD J. TRUMP",
+      "translated": "参议员罗杰·马歇尔（ Roger Marshall ）的对手亚当·汉密尔顿（ Adam Hamilton ）是一名激进的左翼骗子，他假装是温和派，因为他没有勇气告诉堪萨斯州他到底是谁。汉密尔顿反对我的旅行禁令，以防止恐怖分子和极端分子进入我们的国家。他支持未经审查的难民从地球上最危险的地方涌入堪萨斯州。亚当·汉密尔顿（ Adam Hamilton ）使用教会资金资助反宗教跨性别活动家",
+      "link": "https://www.trumpstruth.org/statuses/42455",
+      "published": "Tue, 20 Oct 2026 00:38:01 +0000",
       "stale": false
     },
     {
-      "original": "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don’t want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hostage negotiations! Signing that document at this time will do that, and I can sign it later, or any time that I want! Perhaps more importantly, Russia is doing very little, if anything, to help the Islamic Republic of Iran, compared to what they could be doing, and I want to keep it that way, and will, unless stupid people get in the way. Lastly, Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States. Farmers, ranchers, and businesses of all kinds are suffering greatly from this, but Russia is, nevertheless, sending, at a low price, millions of barrels of diesel to the World. Zelenskyy doesn’t care, and frankly, with all of the money that Europe is famously giving him, and that Crooked Joe Biden gave him in the past, he doesn’t want to end this war, and probably never did. He could have made a better deal two years ago than he can now. His country is in shambles, a large portion of his land is lost, his oceans and seas are gone, and his male population is low, wounded, and/or dead. I WANT THIS WAR END! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "我对俄罗斯的决定非常简单。我正在就俄罗斯和乌克兰之间的战争进行和平谈判，我不想做任何会愚蠢地将俄罗斯赶出谈判桌的事情。正在取得重大进展，其中包括当前的人质谈判！此时签署该文件即可，我可以稍后签署，也可以随时签署！也许更重要的是，俄罗斯正在做非常小的事情",
-      "link": "https://www.trumpstruth.org/statuses/42416",
-      "published": "Sun, 18 Oct 2026 20:36:22 +0000",
+      "original": "The Dumocrats are the Party of Abdul Mohammed al-Sayed, Ilhan Omar, Rashida Tlaib, A.O.C., James TalaFREAKO, Elizabeth “Pocahontas” Warren, Maxine Waters, Chuck Schumer, and Nancy Pelosi, representing all the Fraudsters, Thieves, and Thugs driving around in luxury cars, while receiving welfare checks paid for by American Taxpayers. A vote for ANY Democrat this year is a vote to let that small and dangerous group of Extremists hold all of America hostage. In 15 days, we are going to re-elect Roger Marshall, and DEFEAT the Communists, Jihadists, and corrupt anti-American Lunatics once and for all! President DONALD J. TRUMP",
+      "translated": "Dumocrats是Abdul Mohammed al-Sayed ， Ilhan Omar ， Rashida Tlaib ， A.O.C. ， James TalaFREAKO ， Elizabeth “Pocahontas” Warren ， Maxine Waters ， Chuck Schumer和Nancy Pelosi的政党，代表所有驾驶豪华汽车的欺诈者，小偷和暴徒，同时接受美国纳税人支付的福利支票。今年投票给任何民主党人是投票让这个小而危险的极端主义团体控制整个美国",
+      "link": "https://www.trumpstruth.org/statuses/42453",
+      "published": "Tue, 20 Oct 2026 00:26:24 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117463319181671522查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42414",
-      "published": "Sun, 18 Oct 2026 18:27:02 +0000",
+      "original": "The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Borders, shut down the Power Plants, set loose the Criminals, turn your Children transgender, confiscate your money, and raise up the Palestinian Flag, while they defile the American Flag. All of us here tonight represent the Greatest Nation in World History, with the most extraordinary People, the most incredible Art, most Advanced Technology, the most Exceptional Culture ever to exist and, perhaps most importantly, the Greatest Military in the World — and we will not let anyone take it away! President DONALD J. TRUMP",
+      "translated": "杜莫克拉议程是消灭西方文明的计划。他们想打开边界，关闭发电厂，释放罪犯，把你的孩子变成变性人，没收你的钱，升起巴勒斯坦国旗，同时玷污美国国旗。今晚在座的所有人都代表着世界历史上最伟大的国家，拥有最非凡的人民，最令人难以置信的艺术，最先进的技术，除了",
+      "link": "https://www.trumpstruth.org/statuses/42452",
+      "published": "Tue, 20 Oct 2026 00:22:40 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42415",
-      "published": "Sun, 18 Oct 2026 18:26:49 +0000",
+      "original": "If you want to see what is at stake in this Election, just look at what is happening in France — A once-great nation that is being conquered, looted, and burned to the ground by migrants, jihadists, and Communists who hate Christianity, and Western Civilization, itself. As we are seeing in Europe, Globalist Leftwing Politicians have treasonously imported millions of Third World Migrants who are totally incompatible with Western Values, and despise everything that makes France great. They have surrendered their country to vandals who could have never built it themselves, and who refuse to assimilate into their society, but only want to enter the welfare state paid for by hardworking citizens of France, while desecrating the culture that makes it all possible. Europe has to CLOSE THEIR BORDERS, and get out the people who hate their countries, and get them out FAST, before it is too late! These people do not love France, or these other countries under attack. They don’t love the people, they don’t love the art, they don’t love the architecture or the buildings, they don’t love anything that surrounds them. They have no passion for where they are, and they never will and, as I told President Macron when I first met him many years ago, CLOSE YOUR BORDER or, it will be the end of France. We stand with Europe, despite its flaws, its weaknesses and, hopefully, its temporary loss of direction. But if they don’t soon find their way, we will have no choice but to leave. When we asked for help in Iran (Help which we didn’t need, but was done more in the form of a test), they weren’t there to help, something which I can never forget. When you see burning steeples and raging fires in France, just remember, THAT is what the Radical Dumocrats want to do to AMERICA. Just like in Europe, Dumocrats are the party of anti-Western Marxists and hostile Third World Migrants. Senator Roger Marshall and the People of Kansas will not let them plunder our Nation’s Wealth, or demolish what our Ancestors built with their own sweat, blood, tears, and skill. The maniacs attacking our Civilization think they are doing well, you see and read about them all day and all night, but they have NO IDEA of the GIANT they have awoken and unleashed. They are going to find out the hard way on Election Day, November 3rd, 2026! Americans are going to stand up and declare that we will defend our Culture, we will protect our Civilization, we will preserve our Religion, our Values, and our Heritage, and we will never let our Nation be conquered or destroyed! President DONALD J. TRUMP",
+      "translated": "如果你想看看这次选举的利害关系，只需看看法国正在发生什么。法国曾经是一个伟大的国家，被憎恨基督教和西方文明的移民、圣战分子和共产党人征服、掠夺和烧毁。正如我们在欧洲看到的那样，全球主义左翼政客叛国地输入了数百万与西方价值观完全不相容的第三世界移民，",
+      "link": "https://www.trumpstruth.org/statuses/42451",
+      "published": "Tue, 20 Oct 2026 00:21:30 +0000",
       "stale": false
     }
   ],
