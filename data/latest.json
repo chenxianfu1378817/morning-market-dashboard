@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-21 09:08",
-  "updated_at_iso": "2026-10-21T09:08:49+08:00",
+  "updated_at": "2026-10-22 09:06",
+  "updated_at_iso": "2026-10-22T09:06:06+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.0,
-      "feels_like": 31.2,
-      "code": 0,
-      "max": 31.2,
-      "min": 23.3,
-      "rain_probability": 18,
+      "temperature": 22.3,
+      "feels_like": 23.9,
+      "code": 1,
+      "max": 29.2,
+      "min": 20.4,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 20.6,
-      "feels_like": 18.3,
-      "code": 1,
-      "max": 25.1,
-      "min": 18.7,
-      "rain_probability": 2,
+      "temperature": 19.2,
+      "feels_like": 18.1,
+      "code": 0,
+      "max": 27.5,
+      "min": 16.2,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 29.6,
-      "feels_like": 31.9,
+      "temperature": 23.9,
+      "feels_like": 23.8,
       "code": 0,
-      "max": 33.9,
-      "min": 25.1,
+      "max": 31.1,
+      "min": 21.5,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 29.2,
-      "feels_like": 33.1,
+      "temperature": 25.2,
+      "feels_like": 25.6,
       "code": 0,
-      "max": 34.1,
-      "min": 24.4,
+      "max": 31.6,
+      "min": 23.2,
       "rain_probability": 0,
       "stale": false
     }
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 98.48,
-      "current_price": 98.48,
-      "previous_close": 97.82,
-      "change": 0.6600000000000108,
-      "change_pct": 0.6747086485381424,
-      "market_time": "10-21 08:58",
+      "price": 98.02,
+      "current_price": 98.02,
+      "previous_close": 97.15,
+      "change": 0.8699999999999903,
+      "change_pct": 0.8955223880596915,
+      "market_time": "10-22 08:56",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 109.47,
-      "current_price": 109.47,
-      "previous_close": 108.79,
-      "change": 0.6799999999999926,
-      "change_pct": 0.6250574501332775,
-      "market_time": "10-21 08:56",
+      "price": 110.0,
+      "current_price": 110.0,
+      "previous_close": 108.82,
+      "change": 1.1800000000000068,
+      "change_pct": 1.0843594927403115,
+      "market_time": "10-22 08:54",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "美国联邦航空管理局：波音737 MAX 10机型获得适航认证",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718241.shtml",
-      "published": "Wed, 21 Oct 2026 08:29:45 +0800",
+      "title": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
+      "published": "Thu, 22 Oct 2026 08:42:38 +0800",
       "stale": false
     },
     {
-      "title": "威胁刺杀特朗普 美国一男子遭逮捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718244.shtml",
-      "published": "Wed, 21 Oct 2026 07:57:13 +0800",
+      "title": "中方主张不在外空搞“大国竞争”和阵营对抗",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml",
+      "published": "Thu, 22 Oct 2026 08:23:27 +0800",
       "stale": false
     },
     {
-      "title": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718232.shtml",
-      "published": "Wed, 21 Oct 2026 07:29:48 +0800",
+      "title": "俄罗斯一架苏-30战斗机坠毁 飞行员弹射逃生",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718841.shtml",
+      "published": "Thu, 22 Oct 2026 08:19:49 +0800",
       "stale": false
     },
     {
-      "title": "以军宣布：打死哈马斯安全机构高级成员",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718228.shtml",
-      "published": "Wed, 21 Oct 2026 06:59:52 +0800",
+      "title": "伊朗最高领袖会见议会议长 商讨最新局势",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718838.shtml",
+      "published": "Thu, 22 Oct 2026 08:11:03 +0800",
       "stale": false
     },
     {
-      "title": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
-      "published": "Wed, 21 Oct 2026 06:32:30 +0800",
+      "title": "泽连斯基：支持尽快举行美乌俄三方谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718836.shtml",
+      "published": "Thu, 22 Oct 2026 08:03:36 +0800",
       "stale": false
     },
     {
-      "title": "巴黎等多个法国城市继续实施局部宵禁",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-21/10718225.shtml",
-      "published": "Wed, 21 Oct 2026 06:29:36 +0800",
+      "title": "以媒：数十架以军战机飞近伊朗边境",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718826.shtml",
+      "published": "Thu, 22 Oct 2026 07:27:06 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/42526",
-      "published": "Tue, 20 Oct 2026 22:03:32 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/42556",
+      "published": "Wed, 21 Oct 2026 20:43:03 +0000",
       "stale": false
     },
     {
-      "original": "Overflow crowds greet President Trump as he urges Kansans to reelect Sen. Marshall: https:// kansas.com/news/politics-gover nment/election/article317692502.html",
-      "translated": "溢出的人群迎接特朗普总统，他敦促堪萨斯州重新选举参议员。马歇尔： https://kansas.com/news/politics-gover nment/election/article317692502.html",
-      "link": "https://www.trumpstruth.org/statuses/42524",
-      "published": "Tue, 20 Oct 2026 21:12:08 +0000",
+      "original": "Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy Joe Biden and the Dumocrats! President DONALD J. TRUMP View image",
+      "translated": "斯蒂芬·哈伯德和家人从俄罗斯回家。很久以前就应该由昏昏欲睡的乔·拜登（ Joe Biden ）和杜姆克拉特（ Dumocrats ）完成唐纳德· J ·特朗普总统查看图片",
+      "link": "https://www.trumpstruth.org/statuses/42553",
+      "published": "Wed, 21 Oct 2026 17:20:53 +0000",
       "stale": false
     },
     {
-      "original": "Melania Trump Announces White House Women’s Health Initiative: https://www. nytimes.com/2026/10/19/us/poli tics/melania-trump-women-health.html",
-      "translated": "梅拉尼娅·特朗普宣布白宫妇女健康倡议： https://nytimes.com/2026/10/19/us/poli tics/melania-trump-women-health.html",
-      "link": "https://www.trumpstruth.org/statuses/42523",
-      "published": "Tue, 20 Oct 2026 21:08:11 +0000",
+      "original": "RT @ realDonaldTrump Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt. Reposted Donald J. Trump Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been placed, certainly those negotiations would have come to a complete and total halt.",
+      "translated": "RT @ realDonaldTrump许多人要求立即对俄罗斯实施制裁，他们呼吁向特朗普总统道歉，因为他们不知道他正在谈判释放斯蒂芬·哈伯德（ Stephen Hubbard ） ，这对美国来说是一项真正重大和重要的交易。如果制裁已经实施，这些谈判肯定会完全彻底停止。转载唐纳德· J ·特朗普（ Donald J. Trump ）许多人要求",
+      "link": "https://www.trumpstruth.org/statuses/42554",
+      "published": "Wed, 21 Oct 2026 17:20:00 +0000",
       "stale": false
     },
     {
-      "original": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: https:// justthenews.com/government/whi te-house/trump-womens-health",
-      "translated": "特朗普和共和党人在关于女性健康的新行政命令中展示了更加女性友好的一面： https://justthenews.com/government/whi te-house/trump-womens-health",
-      "link": "https://www.trumpstruth.org/statuses/42525",
-      "published": "Tue, 20 Oct 2026 21:07:24 +0000",
+      "original": "RT @ realDonaldTrump Biden should have done the Hubbard release long ago! What a difference a President makes! Reposted Donald J. Trump Biden should have done the Hubbard release long ago! What a difference a President makes!",
+      "translated": "RT @ realDonaldTrump拜登很久以前就应该完成哈伯德的发布！总统能带来多么大的改变！转载的唐纳德· J ·特朗普·拜登（ Donald J. Trump Biden ）早就应该完成哈伯德（ Hubbard ）总统能带来多么大的改变！",
+      "link": "https://www.trumpstruth.org/statuses/42555",
+      "published": "Wed, 21 Oct 2026 17:19:58 +0000",
       "stale": false
     },
     {
-      "original": "Trump, First Lady Announce Actions Aimed at Improving Women's Health: https://www. breitbart.com/health/2026/10/1 9/trump-first-lady-announce-actions-aimed-improving-womens-health/",
-      "translated": "特朗普，第一夫人宣布旨在改善妇女健康的行动： https://breitbart.com/health/2026/10/1 9/trump-first-lady-announce-actions-aimed-improving-womens-health/",
-      "link": "https://www.trumpstruth.org/statuses/42522",
-      "published": "Tue, 20 Oct 2026 20:51:51 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479428956407249 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117479428956407249查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/42549",
+      "published": "Wed, 21 Oct 2026 14:43:58 +0000",
       "stale": false
     }
   ],
