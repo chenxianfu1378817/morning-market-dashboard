@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-23 09:06",
-  "updated_at_iso": "2026-10-23T09:06:34+08:00",
+  "updated_at": "2026-10-24 09:15",
+  "updated_at_iso": "2026-10-24T09:15:45+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 26.0,
-      "feels_like": 28.4,
-      "code": 1,
-      "max": 31.1,
-      "min": 23.6,
-      "rain_probability": 2,
+      "temperature": 24.4,
+      "feels_like": 26.4,
+      "code": 0,
+      "max": 30.4,
+      "min": 21.9,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 20.5,
-      "feels_like": 20.3,
+      "temperature": 20.1,
+      "feels_like": 19.7,
       "code": 0,
-      "max": 27.5,
-      "min": 17.6,
+      "max": 27.3,
+      "min": 17.3,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 24.0,
-      "feels_like": 24.2,
+      "temperature": 24.4,
+      "feels_like": 24.3,
       "code": 0,
-      "max": 30.4,
+      "max": 31.3,
       "min": 21.4,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 24.2,
+      "temperature": 25.2,
       "feels_like": 24.3,
       "code": 0,
-      "max": 31.2,
-      "min": 21.5,
+      "max": 31.7,
+      "min": 22.3,
       "rain_probability": 0,
       "stale": false
     }
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 99.24,
-      "current_price": 99.24,
+      "price": 103.44,
+      "current_price": 103.44,
       "previous_close": 99.47,
-      "change": -0.23000000000000398,
-      "change_pct": -0.23122549512416204,
-      "market_time": "10-23 08:56",
+      "change": 3.969999999999999,
+      "change_pct": 3.9911531114909007,
+      "market_time": "10-24 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 112.87,
-      "current_price": 112.87,
-      "previous_close": 113.17,
-      "change": -0.29999999999999716,
-      "change_pct": -0.2650879208270718,
-      "market_time": "10-23 08:56",
+      "price": 111.66,
+      "current_price": 111.66,
+      "previous_close": 108.66,
+      "change": 3.0,
+      "change_pct": 2.7609055770292654,
+      "market_time": "10-24 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719471.shtml",
-      "published": "Fri, 23 Oct 2026 07:52:44 +0800",
+      "title": "教堂枪击事件致7死40伤 约旦宣布全国哀悼三天",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720189.shtml",
+      "published": "Sat, 24 Oct 2026 08:56:34 +0800",
       "stale": false
     },
     {
-      "title": "美国30年期贷款利率降至7.32% 8月以来首次出现下降",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719470.shtml",
-      "published": "Fri, 23 Oct 2026 07:51:54 +0800",
+      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
+      "published": "Sat, 24 Oct 2026 06:36:43 +0800",
       "stale": false
     },
     {
-      "title": "外媒：美国或于明年开始扩建格陵兰岛军事设施",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719469.shtml",
-      "published": "Fri, 23 Oct 2026 07:37:15 +0800",
+      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
+      "published": "Sat, 24 Oct 2026 06:35:24 +0800",
       "stale": false
     },
     {
-      "title": "外媒：特朗普致电马斯克，要求解除对乌克兰“星链”限制",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719465.shtml",
-      "published": "Fri, 23 Oct 2026 07:17:14 +0800",
+      "title": "“共振：中德当代艺术展”在柏林开幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
+      "published": "Sat, 24 Oct 2026 06:33:24 +0800",
       "stale": false
     },
     {
-      "title": "日本爱知县一大型货机着陆时疑似起火",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719462.shtml",
-      "published": "Fri, 23 Oct 2026 06:52:01 +0800",
+      "title": "俄军宣布27日在赫尔松方向实施停火",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
+      "published": "Sat, 24 Oct 2026 06:33:14 +0800",
       "stale": false
     },
     {
-      "title": "法国总统马克龙称未来数日将禁止非法抗议活动",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719460.shtml",
-      "published": "Fri, 23 Oct 2026 06:43:46 +0800",
+      "title": "法国巴黎大区发生枪击事件致一死多伤 官方定性为恐袭",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
+      "published": "Sat, 24 Oct 2026 06:32:26 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "🚨 SOUTH DAKOTA! Early Voting, in-person, is UNDERWAY NOW in the Great State of South Dakota. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In South Dakota, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/south-dako ta/",
-      "translated": "🚨 南达科他州！南达科他州正在进行亲自提前投票。如果您有邮寄选票，请立即将其退回，如果没有，请立即在民意调查中投票，并让您认识的每个人在每场比赛中投票给共和党人，上下投票！无论您是提前投票、缺席投票、邮寄还是面对面投票，共和党人必须以巨大的投票率淹没激进的左翼民主党人！在南达科他州，你可以把你的伯爵",
-      "link": "https://www.trumpstruth.org/statuses/42632",
-      "published": "Thu, 22 Oct 2026 22:39:07 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/42690",
+      "published": "Fri, 23 Oct 2026 21:49:02 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486955930613095 TO THE GREAT PEOPLE OF PENNSYLVANIA, GET OUT AND VOTE FOR: – Stacy Garrity for Governor – Ryan Mackenzie for U.S. Congress (PA-07) – Rob Bresnahan for U.S. Congress (PA-08) – Dan Meuser for U.S. Congress (PA-09) – Scott Perry for U.S. Congress (PA-10) – Lloyd Smucker for U.S. Congress (PA-11) – John Joyce for U.S. Congress (PA-13) – Guy Reschenthaler for U.S. Congress (PA-14) – Glenn Thompson for U.S. Congress (PA-15) – Mike Kelly for U.S. Congress (PA-16) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/pennsylvan ia/ Quoted post (original ID 117486955930613095)",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117486955930613095致宾夕法尼亚州的伟大人民，请出来投票： – Stacy Garrity为州长– Ryan Mackenzie为美国国会议员（ PA-07 ） – Rob Bresnahan为美国国会议员（ PA-08 ） – Dan Meuser为美国国会议员（ PA-09 ） – Scott Perry为美国国会议员（ PA-10 ） – Lloyd Smucker为美国国会议员（ PA-11 ） – John Joyce为美国国会议员（ PA-13 ） – Guy Reschenthaler为美国国会议员（",
-      "link": "https://www.trumpstruth.org/statuses/42633",
-      "published": "Thu, 22 Oct 2026 22:38:39 +0000",
+      "original": "The Power of Naming: How Trump Uses Names to Reaffirm American Identity: https:// stonezone.com/the-power-of-nam ing-how-trump-uses-names-to-reaffirm-american-identity/",
+      "translated": "命名的力量：特朗普如何使用姓名来重申美国身份： https://stonezone.com/the-power-of-nam ing-how-trump-uses-names-to-reaffirm-american-identity/",
+      "link": "https://www.trumpstruth.org/statuses/42689",
+      "published": "Fri, 23 Oct 2026 18:09:23 +0000",
       "stale": false
     },
     {
-      "original": "🚨 MISSOURI! Early Voting, in-person, is UNDERWAY NOW in the Great State of Missouri. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Missouri, you can cast your early Vote, in-person, all the way through November 2nd. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/missouri/",
-      "translated": "🚨 密苏里州！现场提前投票正在密苏里州进行。如果您有邮寄选票，请立即将其退回，如果没有，请立即在民意调查中投票，并让您认识的每个人在每场比赛中投票给共和党人，上下投票！无论您是提前投票、缺席投票、邮寄还是面对面投票，共和党人必须以巨大的投票率淹没激进的左翼民主党人！在密苏里州，您可以提前投票，",
-      "link": "https://www.trumpstruth.org/statuses/42630",
-      "published": "Thu, 22 Oct 2026 22:21:02 +0000",
+      "original": "A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
+      "translated": "一个健康的人有一千个梦想。生病的人只有一个（让自己变得更好） ！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42688",
+      "published": "Fri, 23 Oct 2026 17:44:32 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486885112939890 TO THE GREAT PEOPLE OF MISSISSIPPI, GET OUT AND VOTE FOR: – Cindy Hyde-Smith for U.S. Senate – Trent Kelly for U.S. Congress (MS-01) – Michael Guest for U.S. Congress (MS-03) – Mike Ezell for U.S. Congress (MS-04) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/mississipp i/ Quoted Donald J. Trump 🚨 MISSISSIPPI! Early Voting, in-person, is UNDERWAY NOW in the Great State of Mississippi. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Mississippi, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/mississipp i/",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117486885112939890致密西西比州的伟大人民，请出去投票： –美国参议院的Cindy Hyde-Smith –美国国会的Trent Kelly （ MS-01 ） –美国国会的Michael Guest （ MS-03 ） –美国国会的Mike Ezell （ MS-04 ）这些伟大的爱国者得到了我完全和全面的支持—他们永远不会让你失望！唐纳德· J ·特朗普总统https://swampthevoteusa.com/mississipp",
-      "link": "https://www.trumpstruth.org/statuses/42626",
-      "published": "Thu, 22 Oct 2026 22:20:31 +0000",
+      "original": "https://www. youtube.com/live/_a7iclXCcPM?s i=0ut11EXqxw1ZvykV",
+      "translated": "https://youtube.com/live/_a7iclXCcPM?s i = 0ut11EXqxw1ZvykV",
+      "link": "https://www.trumpstruth.org/statuses/42687",
+      "published": "Fri, 23 Oct 2026 17:42:01 +0000",
       "stale": false
     },
     {
-      "original": "🚨 MISSISSIPPI! Early Voting, in-person, is UNDERWAY NOW in the Great State of Mississippi. If you have a mail-in ballot, return it immediately and, if not, GO VOTE at the Polls RIGHT NOW, and get everyone you know to VOTE FOR THE REPUBLICAN IN EVERY RACE, UP AND DOWN THE BALLOT! Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Mississippi, you can cast your early Vote, in-person, all the way through October 31st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/mississipp i/",
-      "translated": "🚨 密西西比州！伟大的密西西比州目前正在进行亲自提前投票。如果您有邮寄选票，请立即将其退回，如果没有，请立即在民意调查中投票，并让您认识的每个人在每场比赛中投票给共和党人，上下投票！无论您是提前投票、缺席投票、邮寄还是面对面投票，共和党人必须以巨大的投票率淹没激进的左翼民主党人！在密西西比州，你可以把你的早期V",
-      "link": "https://www.trumpstruth.org/statuses/42627",
-      "published": "Thu, 22 Oct 2026 22:19:57 +0000",
+      "original": "Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewing of the Patriots standing on line. Tremendous Crowd, and Great Excitement. The Republican Party is “HOTTER” than it’s ever been. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "translated": "前往佛罗里达州！活动现场报道将在右侧广播网络（ RSBN ）播出。他们做得非常出色，尤其是他们对站在线上的爱国者队的采访。巨大的人群和巨大的兴奋。共和党比以往任何时候都“更热”。让美国再次伟大！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42686",
+      "published": "Fri, 23 Oct 2026 16:58:03 +0000",
       "stale": false
     }
   ],
