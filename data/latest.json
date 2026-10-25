@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-24 09:15",
-  "updated_at_iso": "2026-10-24T09:15:45+08:00",
+  "updated_at": "2026-10-25 08:42",
+  "updated_at_iso": "2026-10-25T08:42:00+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 24.4,
-      "feels_like": 26.4,
-      "code": 0,
-      "max": 30.4,
-      "min": 21.9,
+      "temperature": 23.7,
+      "feels_like": 24.9,
+      "code": 2,
+      "max": 30.8,
+      "min": 23.0,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 20.1,
-      "feels_like": 19.7,
+      "temperature": 19.1,
+      "feels_like": 18.5,
       "code": 0,
-      "max": 27.3,
-      "min": 17.3,
+      "max": 27.4,
+      "min": 16.8,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 24.4,
-      "feels_like": 24.3,
-      "code": 0,
-      "max": 31.3,
-      "min": 21.4,
+      "temperature": 23.4,
+      "feels_like": 23.3,
+      "code": 1,
+      "max": 31.1,
+      "min": 21.3,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 25.2,
-      "feels_like": 24.3,
+      "temperature": 23.6,
+      "feels_like": 24.0,
       "code": 0,
-      "max": 31.7,
-      "min": 22.3,
-      "rain_probability": 0,
+      "max": 31.0,
+      "min": 21.2,
+      "rain_probability": 2,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 103.44,
-      "current_price": 103.44,
+      "price": 103.27,
+      "current_price": 103.27,
       "previous_close": 99.47,
-      "change": 3.969999999999999,
-      "change_pct": 3.9911531114909007,
+      "change": 3.799999999999997,
+      "change_pct": 3.8202473107469563,
       "market_time": "10-24 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 111.66,
-      "current_price": 111.66,
+      "price": 111.7,
+      "current_price": 111.7,
       "previous_close": 108.66,
-      "change": 3.0,
-      "change_pct": 2.7609055770292654,
+      "change": 3.0400000000000063,
+      "change_pct": 2.7977176513896618,
       "market_time": "10-24 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "教堂枪击事件致7死40伤 约旦宣布全国哀悼三天",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720189.shtml",
-      "published": "Sat, 24 Oct 2026 08:56:34 +0800",
+      "title": "全球媒体聚焦｜长征精神为中国式现代化注入动力 为全球繁荣发展注入强大精神动能",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720546.shtml",
+      "published": "Sun, 25 Oct 2026 08:35:56 +0800",
       "stale": false
     },
     {
-      "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720169.shtml",
-      "published": "Sat, 24 Oct 2026 06:36:43 +0800",
+      "title": "俄乌将为阿列什基人道主义行动同步停火",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+      "published": "Sun, 25 Oct 2026 06:49:14 +0800",
       "stale": false
     },
     {
-      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
-      "published": "Sat, 24 Oct 2026 06:35:24 +0800",
+      "title": "也门胡塞武装称沙特一天内发动百次空袭",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+      "published": "Sun, 25 Oct 2026 06:41:35 +0800",
       "stale": false
     },
     {
-      "title": "“共振：中德当代艺术展”在柏林开幕",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720167.shtml",
-      "published": "Sat, 24 Oct 2026 06:33:24 +0800",
+      "title": "泽连斯基：不会为结束冲突放弃更多领土",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+      "published": "Sun, 25 Oct 2026 06:40:07 +0800",
       "stale": false
     },
     {
-      "title": "俄军宣布27日在赫尔松方向实施停火",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
-      "published": "Sat, 24 Oct 2026 06:33:14 +0800",
+      "title": "马里军方在梅纳卡市附近发现54具遗体",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720540.shtml",
+      "published": "Sun, 25 Oct 2026 06:38:37 +0800",
       "stale": false
     },
     {
-      "title": "法国巴黎大区发生枪击事件致一死多伤 官方定性为恐袭",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720165.shtml",
-      "published": "Sat, 24 Oct 2026 06:32:26 +0800",
+      "title": "泰国总理：泰国将积极参与国际合作推动和平与可持续发展",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720517.shtml",
+      "published": "Sat, 24 Oct 2026 21:51:10 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
+      "original": "RT @ realDonaldTrump https://www. youtube.com/live/9eW9_If62pc?s i=71CRiZtnDnyw5eK3 Reposted Donald J. Trump https://www. youtube.com/live/9eW9_If62pc?s i=71CRiZtnDnyw5eK3",
+      "translated": "RT @ realDonaldTrump https://youtube.com/live/9eW9_If62pc?s i = 71CRiZtnDnyw5eK3转载Donald J. Trump https://youtube.com/live/9eW9_If62pc?s i = 71CRiZtnDnyw5eK3",
+      "link": "https://www.trumpstruth.org/statuses/42706",
+      "published": "Sat, 24 Oct 2026 18:32:21 +0000",
+      "stale": false
+    },
+    {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/42690",
-      "published": "Fri, 23 Oct 2026 21:49:02 +0000",
+      "link": "https://www.trumpstruth.org/statuses/42707",
+      "published": "Sat, 24 Oct 2026 18:32:17 +0000",
       "stale": false
     },
     {
-      "original": "The Power of Naming: How Trump Uses Names to Reaffirm American Identity: https:// stonezone.com/the-power-of-nam ing-how-trump-uses-names-to-reaffirm-american-identity/",
-      "translated": "命名的力量：特朗普如何使用姓名来重申美国身份： https://stonezone.com/the-power-of-nam ing-how-trump-uses-names-to-reaffirm-american-identity/",
-      "link": "https://www.trumpstruth.org/statuses/42689",
-      "published": "Fri, 23 Oct 2026 18:09:23 +0000",
+      "original": "https://www. youtube.com/live/9eW9_If62pc?s i=71CRiZtnDnyw5eK3",
+      "translated": "https://youtube.com/live/9eW9_If62pc?s i = 71CRiZtnDnyw5eK3",
+      "link": "https://www.trumpstruth.org/statuses/42705",
+      "published": "Sat, 24 Oct 2026 18:19:51 +0000",
       "stale": false
     },
     {
-      "original": "A healthy person has a thousand dreams. A sick person has only one (to get better)! President DONALD J. TRUMP",
-      "translated": "一个健康的人有一千个梦想。生病的人只有一个（让自己变得更好） ！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42688",
-      "published": "Fri, 23 Oct 2026 17:44:32 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/42704",
+      "published": "Sat, 24 Oct 2026 17:41:03 +0000",
       "stale": false
     },
     {
-      "original": "https://www. youtube.com/live/_a7iclXCcPM?s i=0ut11EXqxw1ZvykV",
-      "translated": "https://youtube.com/live/_a7iclXCcPM?s i = 0ut11EXqxw1ZvykV",
-      "link": "https://www.trumpstruth.org/statuses/42687",
-      "published": "Fri, 23 Oct 2026 17:42:01 +0000",
-      "stale": false
-    },
-    {
-      "original": "Heading to Florida! LIVE Coverage of the Event will be on Right Side Broadcasting Network (RSBN). They do a fantastic job, especially their interviewing of the Patriots standing on line. Tremendous Crowd, and Great Excitement. The Republican Party is “HOTTER” than it’s ever been. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-      "translated": "前往佛罗里达州！活动现场报道将在右侧广播网络（ RSBN ）播出。他们做得非常出色，尤其是他们对站在线上的爱国者队的采访。巨大的人群和巨大的兴奋。共和党比以往任何时候都“更热”。让美国再次伟大！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42686",
-      "published": "Fri, 23 Oct 2026 16:58:03 +0000",
+      "original": "https://www. youtube.com/live/9eW9_If62pc?s i=v4kLaTJTayJhAlTp",
+      "translated": "https://youtube.com/live/9eW9_If62pc?s i = v4kLaTJTayJhAlTp",
+      "link": "https://www.trumpstruth.org/statuses/42703",
+      "published": "Sat, 24 Oct 2026 16:46:03 +0000",
       "stale": false
     }
   ],
