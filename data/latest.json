@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-26 08:52",
-  "updated_at_iso": "2026-10-26T08:52:28+08:00",
+  "updated_at": "2026-10-27 09:44",
+  "updated_at_iso": "2026-10-27T09:44:17+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.7,
-      "feels_like": 27.7,
+      "temperature": 27.1,
+      "feels_like": 28.0,
       "code": 0,
-      "max": 31.3,
-      "min": 23.0,
+      "max": 30.8,
+      "min": 23.8,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 21.5,
-      "feels_like": 22.0,
+      "temperature": 23.9,
+      "feels_like": 23.9,
       "code": 0,
-      "max": 29.6,
-      "min": 18.3,
+      "max": 28.0,
+      "min": 20.3,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 25.0,
-      "feels_like": 25.7,
+      "temperature": 27.1,
+      "feels_like": 27.3,
       "code": 0,
-      "max": 31.1,
-      "min": 21.4,
+      "max": 31.3,
+      "min": 22.7,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 25.6,
-      "feels_like": 26.3,
-      "code": 1,
-      "max": 31.4,
-      "min": 22.4,
-      "rain_probability": 0,
+      "temperature": 26.8,
+      "feels_like": 27.8,
+      "code": 3,
+      "max": 30.2,
+      "min": 22.8,
+      "rain_probability": 10,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 101.76,
-      "current_price": 101.76,
-      "previous_close": 103.27,
-      "change": -1.509999999999991,
-      "change_pct": -1.4621865014040776,
-      "market_time": "10-26 08:42",
+      "price": 100.89,
+      "current_price": 100.89,
+      "previous_close": 101.76,
+      "change": -0.8700000000000045,
+      "change_pct": -0.8549528301886837,
+      "market_time": "10-27 09:34",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 110.44,
-      "current_price": 110.44,
-      "previous_close": 111.7,
-      "change": -1.2600000000000051,
-      "change_pct": -1.1280214861235498,
-      "market_time": "10-26 08:42",
+      "price": 109.74,
+      "current_price": 109.74,
+      "previous_close": 110.74,
+      "change": -1.0,
+      "change_pct": -0.9030160736861116,
+      "market_time": "10-27 09:34",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "外媒：巴西总统卢拉赢得连任",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720902.shtml",
-      "published": "Mon, 26 Oct 2026 08:21:42 +0800",
+      "title": "以色列议会选举，内塔尼亚胡能否挺过命运“大考”？",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml",
+      "published": "Tue, 27 Oct 2026 08:48:18 +0800",
       "stale": false
     },
     {
-      "title": "直击巴西大选：选情胶着 投票有序",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720889.shtml",
-      "published": "Mon, 26 Oct 2026 08:13:29 +0800",
+      "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
+      "published": "Tue, 27 Oct 2026 07:16:27 +0800",
       "stale": false
     },
     {
-      "title": "巴西总统卢拉赢得连任",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720896.shtml",
-      "published": "Mon, 26 Oct 2026 08:12:17 +0800",
+      "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml",
+      "published": "Tue, 27 Oct 2026 06:48:21 +0800",
       "stale": false
     },
     {
-      "title": "日本民众集会抗议：“不要导弹”“反对战争”",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720895.shtml",
-      "published": "Mon, 26 Oct 2026 08:08:57 +0800",
+      "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
+      "published": "Tue, 27 Oct 2026 06:48:09 +0800",
       "stale": false
     },
     {
-      "title": "日本小笠原群岛附近海域发生5.6级地震 震源深度500千米",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720878.shtml",
-      "published": "Mon, 26 Oct 2026 07:11:16 +0800",
+      "title": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721434.shtml",
+      "published": "Tue, 27 Oct 2026 06:36:23 +0800",
       "stale": false
     },
     {
-      "title": "“仅靠道歉无法了事” 蒙古国考虑就草原火灾向日企索赔",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-26/10720875.shtml",
-      "published": "Mon, 26 Oct 2026 06:51:57 +0800",
+      "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
+      "published": "Tue, 27 Oct 2026 06:36:09 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042 To the people of Israel, to those who haven’t seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu. As everyone is aware, including the enemy, Bibi and I have had a great relationship in winning together. I did the Venezuelan attack, one of the most successful Military Operations in History but, before that, we did Operation Midnight Hammer, stopping the World’s Number One State Sponsor of Terror from obtaining a Nuclear Weapon. Then we did Operation Epic Fury, and Iran now has No Navy, No Air Force, and both their Military and Economy are in shambles, including the fact that Iran’s Inflation is at 301%. The Naval Blockade has precluded them from getting Oil, and two levels of leadership, both Military and otherwise, are gone. When you go to the Polls please remember that Bibi has been an outstanding Warrior Prime Minister! Israel was called The Little Satan, with the United States being called The Big Satan, by some very evil people. There can no longer be the chant heard around the World of “Death to America, Death to Israel,” and there won’t be. Vote for Bibi Netanyahu for Prime Minister, we have to finish the job that we started! President DONALD J. TRUMP Quoted Donald J. Trump To the Great People of Israel: Bibi Netanyahu has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran, with its 51 year old chant, “Death to Israel, Death to America! We will destroy the Little Satan and the Big Satan.” What Country can survive when things such as this are allowed to be said, because eventually, they always end up being true? It would have been only a question of time until Iran would have put that ominous phrase into effect, but they have been systematically destroyed, both Militarily and Financially, and unless they change their ways, rapidly, we will soon finish the job. If Israel has the wrong Leader, which would be anyone other than Bibi, America will have to do this work ourselves, and I am not inclined to do so. Bibi Netanyahu has been Strong, Brave, and Brilliant in the face of tremendous opposition, including that coming from even Israel, itself. Despite all of that, he has endured and, in fact, he has thrived! I have watched Bibi under the most trying of times. Normal men or women in such situations would have wilted under the pressure — But Bibi did not wilt, he actually got stronger, and maintains that same Strength today. This is the kind of Partner that the United States of America is demanding of Israel, a Country for which it has done so much. Please let this Letter serve to represent my Complete and Total Endorsement of Bibi Netanyahu in his upcoming Race for Re-Election as Prime Minister of Israel. BIBI NETANYAHU WILL NEVER LET YOU DOWN! Thank you for your attention to this matter. DONALD J. TRUMP PRESIDENT OF THE UNITED STATES OF AMERICA",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042对于以色列人民，对于那些没有看到它的人，我附上我一周前给你们的总理比比内塔尼亚胡的支持。众所周知，包括敌人， Bibi和我在一起获胜的关系非常好。我进行了委内瑞拉的袭击，这是历史上最成功的军事行动之一，但在此之前，我们进行了",
-      "link": "https://www.trumpstruth.org/statuses/42719",
-      "published": "Sun, 25 Oct 2026 22:58:09 +0000",
+      "original": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can! As Speaker, Mike is working tirelessly to deliver and codify our very successful America First and Make America Great Again Agenda. He is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Mike Johnson is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election — HE IS A GREAT PATRIOT WHO WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+      "translated": "国会议员迈克·约翰逊（ Mike Johnson ）是一位伟人，是路易斯安那州第四国会选区出色人民的杰出代表，也是美国众议院坚强无畏的演讲者。他能在别人做不到的时候把事情做好！作为议长， Mike正在不知疲倦地工作，以实现和编纂我们非常成功的“美国优先”和“让美国再次伟大”议程。他正在努力发展我们的经济，削减",
+      "link": "https://www.trumpstruth.org/statuses/42753",
+      "published": "Mon, 26 Oct 2026 22:39:15 +0000",
       "stale": false
     },
     {
-      "original": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood — A man who should never be allowed inside the Halls of our Great and Beautiful Capital Building, in Washington, D.C. Everything he stands for is bad for our Country, which is now the “HOTTEST,” by far, anywhere in the World! Because of me, the Auto Industry is doing better than it has ever done before, with Plants and Factories being built, and expanded, all over the Country, especially in Michigan. I saved Selfridge Air Force Base when the Dumocrats were closing it down, saving thousands of Jobs and the Prestige that comes along with having such a place — Only I could have done that! Abdulrahman Mohamed El-Sayed wants our Country to go to Sharia Law. If it ever does, he should be the first that’s tried! President DONALD J. TRUMP",
-      "translated": "前往密歇根州与穆斯林兄弟会的一名圣战分子作战—这个人永远不应该被允许进入我们位于华盛顿特区的伟大而美丽的首都大楼的大厅。他所代表的一切对我们的国家都是不利的，这个国家现在是迄今为止世界上任何地方的“最热门” ！因为我，汽车行业比以往任何时候都做得更好，整个伯爵府都在建造和扩建工厂和工厂",
-      "link": "https://www.trumpstruth.org/statuses/42718",
-      "published": "Sun, 25 Oct 2026 17:29:30 +0000",
+      "original": "https:// truthsocial.com/@RSBN/11750950 8354811780",
+      "translated": "https://truthsocial.com/ @ RSBN/11750950 8354811780",
+      "link": "https://www.trumpstruth.org/statuses/42754",
+      "published": "Mon, 26 Oct 2026 22:39:14 +0000",
       "stale": false
     },
     {
-      "original": "FoxNews is spending far too much time putting on the OPPONENTS of Republican Party Candidates, people that love our Country, and have Great Policies and Ideas. These American Patriots are being absolutely “blurred out” by the Media, and Fox is doing little to help. That’s the only reason this Race is close, if it is indeed close. President DONALD J. TRUMP",
-      "translated": "福克斯新闻花了太多时间在共和党候选人的反对者身上，他们热爱我们的国家，并且有伟大的政策和想法。这些美国爱国者被媒体彻底“模糊”了，福克斯也没有提供什么帮助。这就是这场比赛接近的唯一原因，如果它真的接近的话。唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42717",
-      "published": "Sun, 25 Oct 2026 16:49:33 +0000",
+      "original": "The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes! This Federal and State Initiative will support thousands and thousands of Nurses and Nursing Students Nationwide, including those serving rural communities. Through the brand new Nurses for Nursing Homes Initiative at CMS, Nurses can get up to $50,000 in Grants for working in rural communities or understaffed facilities. This Fund was nearly a THIRD of this amount until I stepped in, and had our Great Governors join the fight. Now many more of our Incredible Nurses can be rewarded for helping our Fantastic Seniors. This is a BIG Win for America! No one else in the HISTORY of our Country has delivered more for our Nurses and our Seniors than my Administration. Thank you for your attention to this matter! President DONALD J. TRUMP https:// nursesfornursinghomes.cms.gov View video",
+      "translated": "特朗普政府自豪地宣布一项2.5亿美元以上的举措，为疗养院招募和留住护士！这项联邦和州倡议将支持全国成千上万的护士和护理学生，包括为农村社区服务的学生。通过CMS全新的护理院护士计划，护士可以获得高达50,000 $的补助金，用于在农村社区或人员不足的便利设施工作",
+      "link": "https://www.trumpstruth.org/statuses/42750",
+      "published": "Mon, 26 Oct 2026 22:10:52 +0000",
       "stale": false
     },
     {
-      "original": "https://www. youtube.com/live/tVCs0-N4XiY?s i=qvAuIZc2WDP8MCEL",
-      "translated": "https://youtube.com/live/tVCs0-N4XiY?s i = qvAuIZc2WDP8MCEL",
-      "link": "https://www.trumpstruth.org/statuses/42716",
-      "published": "Sun, 25 Oct 2026 15:50:50 +0000",
+      "original": "Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two Great Patriots are currently doing the anchoring. Wow, I've never heard such great things being said about me! PACKED HOUSE — Will be at the venue soon. VOTE FOR CINDY HYDE-SMITH FOR SENATE! President DONALD J. TRUMP",
+      "translated": "右边广播网（ RSBN ）在密西西比州广播拉力赛方面做得非常出色。在空军一号上观看我们的着陆。两位伟大的爱国者目前正在做锚定。哇，我从来没有听人说过这么好的话！人满为患的房子—很快就会到达场地。为参议院投CINDY HYDE-SMITH一票！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/42748",
+      "published": "Mon, 26 Oct 2026 21:51:05 +0000",
       "stale": false
     },
     {
-      "original": "Conservative Party wins in British Columbia for first time in almost 100 years: https:// justthenews.com/world/canada/c onservative-party-wins-british-columbia-first-time-almost-100-years",
-      "translated": "保守党在不列颠哥伦比亚省近100年来首次获胜： https://justthenews.com/world/canada/c onservative-party-wins-british-columbia-first-time-almost-100-years",
-      "link": "https://www.trumpstruth.org/statuses/42715",
-      "published": "Sun, 25 Oct 2026 13:22:45 +0000",
+      "original": "The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, “Lawmakers in Washington have tried to kill the clock change for good, and this summer the House overwhelmingly passed the Sunshine Protection Act, 308-117, which would make Daylight Saving Time permanent year-round. That bill, however, remains locked in the Senate, meaning Daylight Saving Time will end as regularly scheduled to the disappointment of many Americans.”",
+      "translated": "美国参议院正在让日光节约法案死亡，而这个国家的绝大多数人都想要它。大多数人都要求晚上有光线，但他们都不想再换时钟了。投票！正如《纽约邮报》所说， “华盛顿的立法者一直试图彻底改变时钟，今年夏天，众议院压倒性地通过了《阳光保护法》， 308-117 ，这将使夏令时",
+      "link": "https://www.trumpstruth.org/statuses/42744",
+      "published": "Mon, 26 Oct 2026 21:37:47 +0000",
       "stale": false
     }
   ],
