@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-27 09:44",
-  "updated_at_iso": "2026-10-27T09:44:17+08:00",
+  "updated_at": "2026-10-31 09:55",
+  "updated_at_iso": "2026-10-31T09:55:45+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.1,
-      "feels_like": 28.0,
-      "code": 0,
-      "max": 30.8,
-      "min": 23.8,
-      "rain_probability": 0,
+      "temperature": 28.2,
+      "feels_like": 30.9,
+      "code": 51,
+      "max": 31.5,
+      "min": 24.7,
+      "rain_probability": 37,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 23.9,
-      "feels_like": 23.9,
-      "code": 0,
-      "max": 28.0,
-      "min": 20.3,
-      "rain_probability": 0,
+      "temperature": 25.3,
+      "feels_like": 27.9,
+      "code": 1,
+      "max": 30.7,
+      "min": 20.0,
+      "rain_probability": 92,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.1,
-      "feels_like": 27.3,
+      "temperature": 28.1,
+      "feels_like": 31.3,
       "code": 0,
-      "max": 31.3,
-      "min": 22.7,
-      "rain_probability": 0,
+      "max": 32.1,
+      "min": 23.8,
+      "rain_probability": 14,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 26.8,
-      "feels_like": 27.8,
-      "code": 3,
-      "max": 30.2,
-      "min": 22.8,
-      "rain_probability": 10,
+      "temperature": 27.6,
+      "feels_like": 29.2,
+      "code": 0,
+      "max": 29.5,
+      "min": 22.3,
+      "rain_probability": 0,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 100.89,
-      "current_price": 100.89,
-      "previous_close": 101.76,
-      "change": -0.8700000000000045,
-      "change_pct": -0.8549528301886837,
-      "market_time": "10-27 09:34",
+      "price": 102.95,
+      "current_price": 102.95,
+      "previous_close": 102.0,
+      "change": 0.9500000000000028,
+      "change_pct": 0.9313725490196106,
+      "market_time": "10-31 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 109.74,
-      "current_price": 109.74,
-      "previous_close": 110.74,
-      "change": -1.0,
-      "change_pct": -0.9030160736861116,
-      "market_time": "10-27 09:34",
+      "price": 112.33,
+      "current_price": 112.33,
+      "previous_close": 110.8,
+      "change": 1.5300000000000011,
+      "change_pct": 1.3808664259927808,
+      "market_time": "10-31 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "以色列议会选举，内塔尼亚胡能否挺过命运“大考”？",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml",
-      "published": "Tue, 27 Oct 2026 08:48:18 +0800",
+      "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml",
+      "published": "Sat, 31 Oct 2026 09:44:46 +0800",
       "stale": false
     },
     {
-      "title": "中期选举倒计时 特朗普称举报选举舞弊可获100万美元",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721441.shtml",
-      "published": "Tue, 27 Oct 2026 07:16:27 +0800",
+      "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml",
+      "published": "Sat, 31 Oct 2026 09:40:43 +0800",
       "stale": false
     },
     {
-      "title": "泽连斯基签署法案 延长国家战时状态和总动员令90天",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721438.shtml",
-      "published": "Tue, 27 Oct 2026 06:48:21 +0800",
+      "title": "伊朗：在格什姆岛上空击落一架美军无人机",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723783.shtml",
+      "published": "Sat, 31 Oct 2026 09:34:01 +0800",
       "stale": false
     },
     {
-      "title": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
-      "published": "Tue, 27 Oct 2026 06:48:09 +0800",
+      "title": "18件高棉文物回归柬埔寨",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
+      "published": "Sat, 31 Oct 2026 06:59:35 +0800",
       "stale": false
     },
     {
-      "title": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721434.shtml",
-      "published": "Tue, 27 Oct 2026 06:36:23 +0800",
+      "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723724.shtml",
+      "published": "Sat, 31 Oct 2026 06:53:02 +0800",
       "stale": false
     },
     {
-      "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
-      "published": "Tue, 27 Oct 2026 06:36:09 +0800",
+      "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
+      "published": "Sat, 31 Oct 2026 06:50:24 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana’s 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can! As Speaker, Mike is working tirelessly to deliver and codify our very successful America First and Make America Great Again Agenda. He is fighting hard to Grow our Economy, Cut Taxes and Regulations, Champion our Great Farmers and American Agriculture, Promote MADE IN THE U.S.A., Advance American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment. Mike Johnson is a true friend, fighter, and WINNER, and has my Complete and Total Endorsement for Re-Election — HE IS A GREAT PATRIOT WHO WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "国会议员迈克·约翰逊（ Mike Johnson ）是一位伟人，是路易斯安那州第四国会选区出色人民的杰出代表，也是美国众议院坚强无畏的演讲者。他能在别人做不到的时候把事情做好！作为议长， Mike正在不知疲倦地工作，以实现和编纂我们非常成功的“美国优先”和“让美国再次伟大”议程。他正在努力发展我们的经济，削减",
-      "link": "https://www.trumpstruth.org/statuses/42753",
-      "published": "Mon, 26 Oct 2026 22:39:15 +0000",
+      "original": "RT @ realDonaldTrump Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP Reposted Donald J. Trump Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP",
+      "translated": "RT @ realDonaldTrump期待周日在爱荷华州和堪萨斯州与您相聚！我们将让Ashley Hinson当选为美国参议员， Zach Lahn当选为爱荷华州下一任州长， Roger Marshall再次当选为美国参议员， Ty Masterson当选为堪萨斯州下一任州长！唐纳德· J ·特朗普总统转发唐纳德· J ·特朗普，期待周日在爱荷华州和堪萨斯州与您相聚！我们要让Ashley Hinson当选",
+      "link": "https://www.trumpstruth.org/statuses/42927",
+      "published": "Fri, 30 Oct 2026 23:02:19 +0000",
       "stale": false
     },
     {
-      "original": "https:// truthsocial.com/@RSBN/11750950 8354811780",
-      "translated": "https://truthsocial.com/ @ RSBN/11750950 8354811780",
-      "link": "https://www.trumpstruth.org/statuses/42754",
-      "published": "Mon, 26 Oct 2026 22:39:14 +0000",
+      "original": "RT @ realDonaldTrump Reposted Donald J. Trump View video",
+      "translated": "RT @ realDonaldTrump转载Donald J. Trump观看视频",
+      "link": "https://www.trumpstruth.org/statuses/42928",
+      "published": "Fri, 30 Oct 2026 23:02:09 +0000",
       "stale": false
     },
     {
-      "original": "The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes! This Federal and State Initiative will support thousands and thousands of Nurses and Nursing Students Nationwide, including those serving rural communities. Through the brand new Nurses for Nursing Homes Initiative at CMS, Nurses can get up to $50,000 in Grants for working in rural communities or understaffed facilities. This Fund was nearly a THIRD of this amount until I stepped in, and had our Great Governors join the fight. Now many more of our Incredible Nurses can be rewarded for helping our Fantastic Seniors. This is a BIG Win for America! No one else in the HISTORY of our Country has delivered more for our Nurses and our Seniors than my Administration. Thank you for your attention to this matter! President DONALD J. TRUMP https:// nursesfornursinghomes.cms.gov View video",
-      "translated": "特朗普政府自豪地宣布一项2.5亿美元以上的举措，为疗养院招募和留住护士！这项联邦和州倡议将支持全国成千上万的护士和护理学生，包括为农村社区服务的学生。通过CMS全新的护理院护士计划，护士可以获得高达50,000 $的补助金，用于在农村社区或人员不足的便利设施工作",
-      "link": "https://www.trumpstruth.org/statuses/42750",
-      "published": "Mon, 26 Oct 2026 22:10:52 +0000",
+      "original": "RT @ realDonaldTrump Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP Reposted Donald J. Trump Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP",
+      "translated": "在我们进入代托纳时， RT @ realDonaldTrump在空军一号上观看右侧广播网络（ RSBN ）。拉力赛很拥挤！很棒的演讲者和令人难以置信的佛罗里达爱国者队。很快就要着陆了。一会儿见！当我们进入代托纳时，唐纳德· J ·特朗普总统在空军一号上转发了唐纳德· J ·特朗普观看右边广播网络（ RSBN ）。拉力赛很拥挤！很棒的演讲者和令人难以置信的佛罗里达爱国者队。将降落s",
+      "link": "https://www.trumpstruth.org/statuses/42929",
+      "published": "Fri, 30 Oct 2026 23:01:50 +0000",
       "stale": false
     },
     {
-      "original": "Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two Great Patriots are currently doing the anchoring. Wow, I've never heard such great things being said about me! PACKED HOUSE — Will be at the venue soon. VOTE FOR CINDY HYDE-SMITH FOR SENATE! President DONALD J. TRUMP",
-      "translated": "右边广播网（ RSBN ）在密西西比州广播拉力赛方面做得非常出色。在空军一号上观看我们的着陆。两位伟大的爱国者目前正在做锚定。哇，我从来没有听人说过这么好的话！人满为患的房子—很快就会到达场地。为参议院投CINDY HYDE-SMITH一票！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/42748",
-      "published": "Mon, 26 Oct 2026 21:51:05 +0000",
+      "original": "RT @ realDonaldTrump Reposted Donald J. Trump RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450 View image",
+      "translated": "RT @ realDonaldTrump转载Donald J. Trump RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450查看图片",
+      "link": "https://www.trumpstruth.org/statuses/42930",
+      "published": "Fri, 30 Oct 2026 23:01:39 +0000",
       "stale": false
     },
     {
-      "original": "The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, “Lawmakers in Washington have tried to kill the clock change for good, and this summer the House overwhelmingly passed the Sunshine Protection Act, 308-117, which would make Daylight Saving Time permanent year-round. That bill, however, remains locked in the Senate, meaning Daylight Saving Time will end as regularly scheduled to the disappointment of many Americans.”",
-      "translated": "美国参议院正在让日光节约法案死亡，而这个国家的绝大多数人都想要它。大多数人都要求晚上有光线，但他们都不想再换时钟了。投票！正如《纽约邮报》所说， “华盛顿的立法者一直试图彻底改变时钟，今年夏天，众议院压倒性地通过了《阳光保护法》， 308-117 ，这将使夏令时",
-      "link": "https://www.trumpstruth.org/statuses/42744",
-      "published": "Mon, 26 Oct 2026 21:37:47 +0000",
+      "original": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate – Greg Abbott for Governor – Dan Patrick for Lieutenant Governor – Mayes Middleton for Attorney General – Don Huffines for Comptroller – Dawn Buckingham for Land Commissioner – Nathaniel Moran for U.S. Congress (TX-01) – Steve Toth for U.S. Congress (TX-02) – Keith Self for U.S. Congress (TX-03) – Pat Fallon for U.S. Congress (TX-04) – Lance Gooden for U.S. Congress (TX-05) – Jake Ellzey for U.S. Congress (TX-06) – Jessica Steinmann for U.S. Congress (TX-08) – Alex Mealer for U.S. Congress (TX-09) – Chris Gober for U.S. Congress (TX-10) – August Pfluger for U.S. Congress (TX-11) – Craig Goldman for U.S. Congress (TX-12) – Ronny Jackson for U.S. Congress (TX-13) – Randy Weber for U.S. Congress (TX-14) – Monica De La Cruz for U.S. Congress (TX-15) – Pete Sessions for U.S. Congress (TX-17) – Tom Sell for U.S. Congress (TX-19) – Mark Teixeira for U.S. Congress (TX-21) – Trever Nehls for U.S. Congress (TX-22) – Brandon Herrera for U.S. Congress (TX-23) – Beth Van Duyne for U.S. Congress (TX-24) – Roger Williams for U.S. Congress (TX-25) – Brandon Gill for U.S. Congress (TX-26) – Michael Cloud for U.S. Congress (TX-27) – Tano Tijerina for U.S. Congress (TX-28) – John Carter for U.S. Congress (TX-31) – Jace Yarbrough for U.S. Congress (TX-32) – Eric Flores for U.S. Congress (TX-34) – Carlos De La Cruz for U.S. Congress (TX-35) – Brian Babin for U.S. Congress (TX-36) – Jon Bonck for U.S. Congress (TX-38) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/texas/",
+      "translated": "致德克萨斯州的伟大人民，请出来投票： – Ken Paxton代表美国参议院– Greg Abbott代表州长– Dan Patrick代表副州长– Mayes Middleton代表司法部长– Don Huffines代表审计长– Dawn Buckingham代表土地专员– Nathaniel Moran代表美国国会（ TX-01 ） – Steve Toth代表美国国会（ TX-02 ） – Keith Self代表美国国会（ TX-03 ） – Pat Fallon代表美国国会（ TX-04 ） – Lance Gooden代表美国国会",
+      "link": "https://www.trumpstruth.org/statuses/42931",
+      "published": "Fri, 30 Oct 2026 23:01:14 +0000",
       "stale": false
     }
   ],
