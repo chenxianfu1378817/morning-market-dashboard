@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-10-31 09:55",
-  "updated_at_iso": "2026-10-31T09:55:45+08:00",
+  "updated_at": "2026-11-01 09:41",
+  "updated_at_iso": "2026-11-01T09:41:48+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 28.2,
-      "feels_like": 30.9,
-      "code": 51,
-      "max": 31.5,
-      "min": 24.7,
-      "rain_probability": 37,
+      "temperature": 27.1,
+      "feels_like": 29.5,
+      "code": 3,
+      "max": 29.5,
+      "min": 24.4,
+      "rain_probability": 99,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 25.3,
-      "feels_like": 27.9,
-      "code": 1,
-      "max": 30.7,
-      "min": 20.0,
-      "rain_probability": 92,
+      "temperature": 24.2,
+      "feels_like": 27.1,
+      "code": 51,
+      "max": 30.4,
+      "min": 16.9,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 28.1,
-      "feels_like": 31.3,
-      "code": 0,
-      "max": 32.1,
-      "min": 23.8,
-      "rain_probability": 14,
+      "temperature": 27.5,
+      "feels_like": 30.3,
+      "code": 2,
+      "max": 32.2,
+      "min": 23.5,
+      "rain_probability": 13,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.6,
-      "feels_like": 29.2,
-      "code": 0,
-      "max": 29.5,
-      "min": 22.3,
-      "rain_probability": 0,
+      "temperature": 27.0,
+      "feels_like": 29.7,
+      "code": 2,
+      "max": 29.1,
+      "min": 22.6,
+      "rain_probability": 61,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 102.95,
-      "current_price": 102.95,
+      "price": 104.12,
+      "current_price": 104.12,
       "previous_close": 102.0,
-      "change": 0.9500000000000028,
-      "change_pct": 0.9313725490196106,
+      "change": 2.1200000000000045,
+      "change_pct": 2.0784313725490238,
       "market_time": "10-31 04:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 112.33,
-      "current_price": 112.33,
+      "price": 113.43,
+      "current_price": 113.43,
       "previous_close": 110.8,
-      "change": 1.5300000000000011,
-      "change_pct": 1.3808664259927808,
+      "change": 2.6300000000000097,
+      "change_pct": 2.3736462093862905,
       "market_time": "10-31 04:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml",
-      "published": "Sat, 31 Oct 2026 09:44:46 +0800",
+      "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml",
+      "published": "Sun, 1 Nov 2026 08:01:09 +0800",
       "stale": false
     },
     {
-      "title": "伊朗：4艘油轮在霍尔木兹海峡爆炸起火",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723785.shtml",
-      "published": "Sat, 31 Oct 2026 09:40:43 +0800",
+      "title": "在纽伦堡国际发明展感受中国创新活力",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml",
+      "published": "Sun, 1 Nov 2026 08:01:03 +0800",
       "stale": false
     },
     {
-      "title": "伊朗：在格什姆岛上空击落一架美军无人机",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723783.shtml",
-      "published": "Sat, 31 Oct 2026 09:34:01 +0800",
+      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+      "published": "Sun, 1 Nov 2026 06:29:54 +0800",
       "stale": false
     },
     {
-      "title": "18件高棉文物回归柬埔寨",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
-      "published": "Sat, 31 Oct 2026 06:59:35 +0800",
+      "title": "泰国着手制定第四个国家旅游发展计划",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
+      "published": "Sat, 31 Oct 2026 23:23:46 +0800",
       "stale": false
     },
     {
-      "title": "伊朗称当天第四艘违规航行油轮穿越霍尔木兹海峡时触雷爆炸",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723724.shtml",
-      "published": "Sat, 31 Oct 2026 06:53:02 +0800",
+      "title": "伊朗外长：目前没有与美国官员会面的计划",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
+      "published": "Sat, 31 Oct 2026 23:14:32 +0800",
       "stale": false
     },
     {
-      "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723723.shtml",
-      "published": "Sat, 31 Oct 2026 06:50:24 +0800",
+      "title": "130名持马来西亚护照人员涉嫌网络诈骗在巴基斯坦被捕",
+      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
+      "published": "Sat, 31 Oct 2026 21:48:15 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT @ realDonaldTrump Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP Reposted Donald J. Trump Looking forward to being with you in Iowa and Kansas on Sunday! We’re going to get Ashley Hinson elected to the U.S. Senate, Zach Lahn to be the next Governor of Iowa, Roger Marshall Re-Elected to the U.S. Senate, and Ty Masterson elected to be the next Governor of Kansas! President DONALD J. TRUMP",
-      "translated": "RT @ realDonaldTrump期待周日在爱荷华州和堪萨斯州与您相聚！我们将让Ashley Hinson当选为美国参议员， Zach Lahn当选为爱荷华州下一任州长， Roger Marshall再次当选为美国参议员， Ty Masterson当选为堪萨斯州下一任州长！唐纳德· J ·特朗普总统转发唐纳德· J ·特朗普，期待周日在爱荷华州和堪萨斯州与您相聚！我们要让Ashley Hinson当选",
-      "link": "https://www.trumpstruth.org/statuses/42927",
-      "published": "Fri, 30 Oct 2026 23:02:19 +0000",
+      "original": "RT @ realDonaldTrump TO THE GREAT PEOPLE OF MICHIGAN, I will doing a TeleRally, LIVE, at 5:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ Reposted Donald J. Trump TO THE GREAT PEOPLE OF MICHIGAN, I will doing a TeleRally, LIVE, at 5:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ View image",
+      "translated": "RT @ realDonaldTrump致密歇根州的伟大人民，我将在东部时间下午5:15进行远程拉力赛，现场直播—接听电话，尽情享受吧！唐纳德· J ·特朗普总统https://swampthevoteusa.com/michigan/将唐纳德· J ·特朗普转发给密歇根州的伟大人民，我将在美国东部时间下午5:15现场直播—接听电话，尽情享受吧！唐纳德· J ·特朗普总统https://swampthevoteusa.com/michigan/查看图片",
+      "link": "https://www.trumpstruth.org/statuses/43032",
+      "published": "Sat, 31 Oct 2026 20:54:28 +0000",
       "stale": false
     },
     {
-      "original": "RT @ realDonaldTrump Reposted Donald J. Trump View video",
-      "translated": "RT @ realDonaldTrump转载Donald J. Trump观看视频",
-      "link": "https://www.trumpstruth.org/statuses/42928",
-      "published": "Fri, 30 Oct 2026 23:02:09 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543 TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR: – Mike Rogers for U.S. Senate – John James for Governor – Jack Bergman for U.S. Congress (MI-01) – John Moolenaar for U.S. Congress (MI-02) – Bill Huizenga for U.S. Congress (MI-04) – Tim Walberg for U.S. Congress (MI-05) – Tom Barrett for U.S. Congress (MI-07) – Lisa McClain for U.S. Congress (MI-09) – Mike Bouchard for U.S. Congress (MI-10) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ Quoted Donald J. Trump 🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/michigan/ View image",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543致密歇根州的伟大人民： – Mike Rogers代表美国参议院– John James代表州长– Jack Bergman代表美国国会（ MI-01 ） – John Moolenaar代表美国国会（ MI-02 ） – Bill Huizenga代表美国国会（ MI-04 ） – Tim Walberg代表美国国会（ MI-05 ） – Tom Barrett代表美国国会（ MI-07 ） – Lisa McClain代表美国国会（ MI-09 ） – Mike Bouchar",
+      "link": "https://www.trumpstruth.org/statuses/43028",
+      "published": "Sat, 31 Oct 2026 20:53:36 +0000",
       "stale": false
     },
     {
-      "original": "RT @ realDonaldTrump Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP Reposted Donald J. Trump Watching Right Side Broadcasting Network (RSBN) on Air Force One as we head into Daytona. Rally is PACKED! Great speakers, and incredible Florida Patriots. Will be landing soon. See you in a little while! President DONALD J. TRUMP",
-      "translated": "在我们进入代托纳时， RT @ realDonaldTrump在空军一号上观看右侧广播网络（ RSBN ）。拉力赛很拥挤！很棒的演讲者和令人难以置信的佛罗里达爱国者队。很快就要着陆了。一会儿见！当我们进入代托纳时，唐纳德· J ·特朗普总统在空军一号上转发了唐纳德· J ·特朗普观看右边广播网络（ RSBN ）。拉力赛很拥挤！很棒的演讲者和令人难以置信的佛罗里达爱国者队。将降落s",
-      "link": "https://www.trumpstruth.org/statuses/42929",
-      "published": "Fri, 30 Oct 2026 23:01:50 +0000",
+      "original": "🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/michigan/ View image",
+      "translated": "🚨 密歇根州！伟大的密歇根州目前正在进行亲自提前投票。无论您是提前投票、缺席投票、邮寄还是面对面投票，共和党人必须以巨大的投票率淹没激进的左翼民主党人！在密歇根州，您可以在11月1日之前亲自提前投票。非常重要—请出去投票。MAGA ！唐纳德· J ·特朗普总统在此处查找您的投票地点： https://swampthevoteusa.com/michigan/查看图片",
+      "link": "https://www.trumpstruth.org/statuses/43029",
+      "published": "Sat, 31 Oct 2026 20:53:15 +0000",
       "stale": false
     },
     {
-      "original": "RT @ realDonaldTrump Reposted Donald J. Trump RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450 View image",
-      "translated": "RT @ realDonaldTrump转载Donald J. Trump RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117531905350627450查看图片",
-      "link": "https://www.trumpstruth.org/statuses/42930",
-      "published": "Fri, 30 Oct 2026 23:01:39 +0000",
+      "original": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S. Senate in the Great State of Michigan, a State I love and WON BIG! From the U.S. Army to Congress, Mike has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Senate. His opponent, Abdul El-Sayed, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Abdul El-Sayed is Reckless, Radical, and Dangerous! On the other hand, as your next Senator, Mike will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Mike Rogers has my Complete and Total Endorsement to be the next United States Senator from the Great State of Michigan. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/",
+      "translated": "我非常荣幸地为美国第一爱国者迈克·罗杰斯（ Mike Rogers ）背书，他正在伟大的密歇根州竞选美国参议员，我热爱这个州，并赢得了巨大的胜利！从美国陆军到国会，迈克出色地为我们的国家服务，并将同样的战斗精神带给美国参议院。他的对手Abdul El-Sayed是一位激进的左翼Dumocrat ，他反对对小费征税，不对加班费征税，也不对社会保障征税，如果他",
+      "link": "https://www.trumpstruth.org/statuses/43030",
+      "published": "Sat, 31 Oct 2026 20:52:53 +0000",
       "stale": false
     },
     {
-      "original": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate – Greg Abbott for Governor – Dan Patrick for Lieutenant Governor – Mayes Middleton for Attorney General – Don Huffines for Comptroller – Dawn Buckingham for Land Commissioner – Nathaniel Moran for U.S. Congress (TX-01) – Steve Toth for U.S. Congress (TX-02) – Keith Self for U.S. Congress (TX-03) – Pat Fallon for U.S. Congress (TX-04) – Lance Gooden for U.S. Congress (TX-05) – Jake Ellzey for U.S. Congress (TX-06) – Jessica Steinmann for U.S. Congress (TX-08) – Alex Mealer for U.S. Congress (TX-09) – Chris Gober for U.S. Congress (TX-10) – August Pfluger for U.S. Congress (TX-11) – Craig Goldman for U.S. Congress (TX-12) – Ronny Jackson for U.S. Congress (TX-13) – Randy Weber for U.S. Congress (TX-14) – Monica De La Cruz for U.S. Congress (TX-15) – Pete Sessions for U.S. Congress (TX-17) – Tom Sell for U.S. Congress (TX-19) – Mark Teixeira for U.S. Congress (TX-21) – Trever Nehls for U.S. Congress (TX-22) – Brandon Herrera for U.S. Congress (TX-23) – Beth Van Duyne for U.S. Congress (TX-24) – Roger Williams for U.S. Congress (TX-25) – Brandon Gill for U.S. Congress (TX-26) – Michael Cloud for U.S. Congress (TX-27) – Tano Tijerina for U.S. Congress (TX-28) – John Carter for U.S. Congress (TX-31) – Jace Yarbrough for U.S. Congress (TX-32) – Eric Flores for U.S. Congress (TX-34) – Carlos De La Cruz for U.S. Congress (TX-35) – Brian Babin for U.S. Congress (TX-36) – Jon Bonck for U.S. Congress (TX-38) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/texas/",
-      "translated": "致德克萨斯州的伟大人民，请出来投票： – Ken Paxton代表美国参议院– Greg Abbott代表州长– Dan Patrick代表副州长– Mayes Middleton代表司法部长– Don Huffines代表审计长– Dawn Buckingham代表土地专员– Nathaniel Moran代表美国国会（ TX-01 ） – Steve Toth代表美国国会（ TX-02 ） – Keith Self代表美国国会（ TX-03 ） – Pat Fallon代表美国国会（ TX-04 ） – Lance Gooden代表美国国会",
-      "link": "https://www.trumpstruth.org/statuses/42931",
-      "published": "Fri, 30 Oct 2026 23:01:14 +0000",
+      "original": "It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan! A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respected U.S. Congressman, John has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State, and our Nation. His opponent, Jocelyn Benson, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jocelyn Benson is Reckless, Radical, and Dangerous! On the other hand, as your next Governor, John will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Brave Military/Veterans, Safeguard our Elections, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Michigan. John James has my Complete and Total Endorsement to be the next Governor of the Great State of Michigan. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/",
+      "translated": "我非常荣幸地支持美国第一国会议员约翰·詹姆斯（ John James ） ，他将竞选成为美丽的密歇根州的下一任州长！西点军校毕业生、战斗飞行员、勇敢的伊拉克战争老兵、成功的商人和创造就业机会的人，现在，作为一位备受尊敬的美国国会议员，约翰已经证明他有勇气和智慧为他的美好国家和我们国家的令人难以置信的人民带来强大的成果。他的对手",
+      "link": "https://www.trumpstruth.org/statuses/43031",
+      "published": "Sat, 31 Oct 2026 20:52:42 +0000",
       "stale": false
     }
   ],
