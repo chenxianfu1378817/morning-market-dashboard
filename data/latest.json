@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-01 09:41",
-  "updated_at_iso": "2026-11-01T09:41:48+08:00",
+  "updated_at": "2026-11-02 09:58",
+  "updated_at_iso": "2026-11-02T09:58:49+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.1,
-      "feels_like": 29.5,
-      "code": 3,
-      "max": 29.5,
-      "min": 24.4,
-      "rain_probability": 99,
+      "temperature": 22.0,
+      "feels_like": 24.8,
+      "code": 2,
+      "max": 25.4,
+      "min": 21.0,
+      "rain_probability": 96,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 24.2,
-      "feels_like": 27.1,
-      "code": 51,
-      "max": 30.4,
-      "min": 16.9,
-      "rain_probability": 100,
+      "temperature": 16.2,
+      "feels_like": 14.2,
+      "code": 3,
+      "max": 19.3,
+      "min": 14.9,
+      "rain_probability": 94,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.5,
-      "feels_like": 30.3,
-      "code": 2,
-      "max": 32.2,
-      "min": 23.5,
-      "rain_probability": 13,
+      "temperature": 28.0,
+      "feels_like": 31.3,
+      "code": 3,
+      "max": 31.0,
+      "min": 23.7,
+      "rain_probability": 75,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.0,
-      "feels_like": 29.7,
-      "code": 2,
-      "max": 29.1,
-      "min": 22.6,
-      "rain_probability": 61,
+      "temperature": 28.4,
+      "feels_like": 31.9,
+      "code": 3,
+      "max": 32.5,
+      "min": 23.1,
+      "rain_probability": 84,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 104.12,
-      "current_price": 104.12,
-      "previous_close": 102.0,
-      "change": 2.1200000000000045,
-      "change_pct": 2.0784313725490238,
-      "market_time": "10-31 04:59",
+      "price": 101.78,
+      "current_price": 101.78,
+      "previous_close": 104.12,
+      "change": -2.3400000000000034,
+      "change_pct": -2.247406838263545,
+      "market_time": "11-02 09:48",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 113.43,
-      "current_price": 113.43,
-      "previous_close": 110.8,
-      "change": 2.6300000000000097,
-      "change_pct": 2.3736462093862905,
-      "market_time": "10-31 04:59",
+      "price": 111.23,
+      "current_price": 111.23,
+      "previous_close": 113.43,
+      "change": -2.200000000000003,
+      "change_pct": -1.9395221722648353,
+      "market_time": "11-02 09:48",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "俄联邦安全局：从美方获得策划恐袭情报 相关部门正在处置",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724128.shtml",
-      "published": "Sun, 1 Nov 2026 08:01:09 +0800",
+      "title": "外媒关注中国算力基础设施发展：中国“算”就是行",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724586.shtml",
+      "published": "Mon, 2 Nov 2026 09:50:56 +0800",
       "stale": false
     },
     {
-      "title": "在纽伦堡国际发明展感受中国创新活力",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724129.shtml",
-      "published": "Sun, 1 Nov 2026 08:01:03 +0800",
+      "title": "“高度警惕日本借助文化产品篡改和歪曲历史”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724559.shtml",
+      "published": "Mon, 2 Nov 2026 09:28:54 +0800",
       "stale": false
     },
     {
-      "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
-      "published": "Sun, 1 Nov 2026 06:29:54 +0800",
+      "title": "出口民调：保加利亚现总统约托娃在总统选举第二轮投票中领先",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724536.shtml",
+      "published": "Mon, 2 Nov 2026 07:37:50 +0800",
       "stale": false
     },
     {
-      "title": "泰国着手制定第四个国家旅游发展计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724123.shtml",
-      "published": "Sat, 31 Oct 2026 23:23:46 +0800",
+      "title": "伊朗革命卫队情报机构宣布逮捕一名间谍 ",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724531.shtml",
+      "published": "Mon, 2 Nov 2026 07:22:37 +0800",
       "stale": false
     },
     {
-      "title": "伊朗外长：目前没有与美国官员会面的计划",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724122.shtml",
-      "published": "Sat, 31 Oct 2026 23:14:32 +0800",
+      "title": "外媒：特朗普与内塔尼亚胡就美伊谈判进行通话",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724530.shtml",
+      "published": "Mon, 2 Nov 2026 07:04:41 +0800",
       "stale": false
     },
     {
-      "title": "130名持马来西亚护照人员涉嫌网络诈骗在巴基斯坦被捕",
-      "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724089.shtml",
-      "published": "Sat, 31 Oct 2026 21:48:15 +0800",
+      "title": "俄安全部门调查莫斯科恐袭情报期间逮捕一名未成年人",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724526.shtml",
+      "published": "Mon, 2 Nov 2026 06:55:36 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT @ realDonaldTrump TO THE GREAT PEOPLE OF MICHIGAN, I will doing a TeleRally, LIVE, at 5:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ Reposted Donald J. Trump TO THE GREAT PEOPLE OF MICHIGAN, I will doing a TeleRally, LIVE, at 5:15pm ET — Answer your phones, and ENJOY! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ View image",
-      "translated": "RT @ realDonaldTrump致密歇根州的伟大人民，我将在东部时间下午5:15进行远程拉力赛，现场直播—接听电话，尽情享受吧！唐纳德· J ·特朗普总统https://swampthevoteusa.com/michigan/将唐纳德· J ·特朗普转发给密歇根州的伟大人民，我将在美国东部时间下午5:15现场直播—接听电话，尽情享受吧！唐纳德· J ·特朗普总统https://swampthevoteusa.com/michigan/查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43032",
-      "published": "Sat, 31 Oct 2026 20:54:28 +0000",
+      "original": "NY prosecutor claims Letitia James' office directed him to target Trump: https://www. timesunion.com/capitol/article /ny-prosecutor-claims-letitia-james-office-22409213.php",
+      "translated": "纽约检察官声称， Letitia James的办公室指示他针对特朗普： https://timesunion.com/capitol/article/ny-prosecutor-claims-letitia-james-office-22409213.php",
+      "link": "https://www.trumpstruth.org/statuses/43154",
+      "published": "Sun, 01 Nov 2026 23:51:22 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543 TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR: – Mike Rogers for U.S. Senate – John James for Governor – Jack Bergman for U.S. Congress (MI-01) – John Moolenaar for U.S. Congress (MI-02) – Bill Huizenga for U.S. Congress (MI-04) – Tim Walberg for U.S. Congress (MI-05) – Tom Barrett for U.S. Congress (MI-07) – Lisa McClain for U.S. Congress (MI-09) – Mike Bouchard for U.S. Congress (MI-10) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/ Quoted Donald J. Trump 🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/michigan/ View image",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543致密歇根州的伟大人民： – Mike Rogers代表美国参议院– John James代表州长– Jack Bergman代表美国国会（ MI-01 ） – John Moolenaar代表美国国会（ MI-02 ） – Bill Huizenga代表美国国会（ MI-04 ） – Tim Walberg代表美国国会（ MI-05 ） – Tom Barrett代表美国国会（ MI-07 ） – Lisa McClain代表美国国会（ MI-09 ） – Mike Bouchar",
-      "link": "https://www.trumpstruth.org/statuses/43028",
-      "published": "Sat, 31 Oct 2026 20:53:36 +0000",
+      "original": "RT @ realDonaldTrump The Fake Daniel J. Sullivan, Jr., has DISAPPEARED! Nobody can find him, including Law Enforcement. He knows that he committed a Criminal Act, but he also knows that there are those around him who, in a certain way, were far worse, like Lawyer Marc Elias, and Liberal Radical Left Activist “Lawyer” Norm Eisen. Others that are really bad, and corrupt, in so many ways, include Political Activists and Lowlives, Reid Hoffman, and Neville Roy Singham. These are CRIMINALS who totally abuse the Laws of our Land, and are destructive to our Country at levels never thought possible before. Thank you for your attention to this matter! President DONALD J. TRUMP Reposted Donald J. Trump The Fake Daniel J. Sullivan, Jr., has DISAPPEARED! Nobody can find him, including Law Enforcement. He knows that he committed a Criminal Act, but he also knows that there are those around him who, in a certain way, were far worse, like Lawyer Marc Elias, and Liberal Radical Left Activist “Lawyer” Norm Eisen. Others that are really bad, and corrupt, in so many ways, include Political Activists and Lowlives, Reid Hoffman, and Neville Roy Singham. These are CRIMINALS who totally abuse the Laws of our Land, and are destructive to our Country at levels never thought possible before. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "RT @ realDonaldTrump假Daniel J. Sullivan, Jr.已经消失！没有人能找到他，包括执法部门。他知道自己犯了罪，但他也知道周围的人在某种程度上更糟糕，比如律师马克·埃利亚斯（ Marc Elias ）和自由激进左翼活动家“律师”诺姆·艾森（ Norm Eisen ）。其他在很多方面都是非常糟糕和腐败的，包括政治活动家和Lowlives ， Reid Hoffman和N",
+      "link": "https://www.trumpstruth.org/statuses/43132",
+      "published": "Sun, 01 Nov 2026 19:37:33 +0000",
       "stale": false
     },
     {
-      "original": "🚨 MICHIGAN! Early Voting, in-person, is UNDERWAY NOW in the Great State of Michigan. Whether you VOTE early, absentee, by mail, or in-person, Republicans must SWAMP the Radical Left Dumocrats with massive turnout! In Michigan, you can cast your early Vote, in-person, through November 1st. SO IMPORTANT — PLEASE GET OUT AND VOTE. MAGA! President DONALD J. TRUMP Find your Voting Location here: https:// swampthevoteusa.com/michigan/ View image",
-      "translated": "🚨 密歇根州！伟大的密歇根州目前正在进行亲自提前投票。无论您是提前投票、缺席投票、邮寄还是面对面投票，共和党人必须以巨大的投票率淹没激进的左翼民主党人！在密歇根州，您可以在11月1日之前亲自提前投票。非常重要—请出去投票。MAGA ！唐纳德· J ·特朗普总统在此处查找您的投票地点： https://swampthevoteusa.com/michigan/查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43029",
-      "published": "Sat, 31 Oct 2026 20:53:15 +0000",
+      "original": "RT @ realDonaldTrump Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate! Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled. Haley said what few people are willing to say. She showed great and almost unprecedented loyalty to the Great People of Michigan with what she did. It’s a thing called bravery, and few people have it like just displayed by Congresswoman Haley Stevens! President DONALD J. TRUMP Reposted Donald J. Trump Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate! Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled. Haley said what few people are willing to say. She showed great and almost unprecedented loyalty to the Great People of Michigan with what she did. It’s a thing called bravery, and few people have it like just displayed by Congresswoman Haley Stevens! President DONALD J. TRUMP",
+      "translated": "RT @ realDonaldTrump哇，这太大了！国会女议员海莉·史蒂文斯（ Haley Stevens ）是一位备受尊敬的民主党人，她在初选中以微弱优势输给了阿卜杜勒·穆罕默德·赛义德（ Abdul Mohamed El-Sayed ） ，并且在密歇根州竞选美国参议员反对迈克·罗杰斯（ Mike Rogers ）的竞选中，被杜姆克拉特（ Dumocrats ）喘不过气来地喝酒和吃饭，刚刚支持迈克·罗杰斯（她的追随者人数众多，受到密歇根州人民的尊重，尤其是我们的非洲裔美国人",
+      "link": "https://www.trumpstruth.org/statuses/43133",
+      "published": "Sun, 01 Nov 2026 19:37:28 +0000",
       "stale": false
     },
     {
-      "original": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S. Senate in the Great State of Michigan, a State I love and WON BIG! From the U.S. Army to Congress, Mike has served our Nation with distinction, and will bring that same Fighting Spirit to the U.S. Senate. His opponent, Abdul El-Sayed, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if he and the Dumocrats ever got in, all of these things will be terminated. He wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Abdul El-Sayed is Reckless, Radical, and Dangerous! On the other hand, as your next Senator, Mike will work tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Support our Incredible Military/Veterans, and Defend our always under siege Second Amendment. Mike Rogers has my Complete and Total Endorsement to be the next United States Senator from the Great State of Michigan. GET OUT AND VOTE FOR MIKE — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/",
-      "translated": "我非常荣幸地为美国第一爱国者迈克·罗杰斯（ Mike Rogers ）背书，他正在伟大的密歇根州竞选美国参议员，我热爱这个州，并赢得了巨大的胜利！从美国陆军到国会，迈克出色地为我们的国家服务，并将同样的战斗精神带给美国参议院。他的对手Abdul El-Sayed是一位激进的左翼Dumocrat ，他反对对小费征税，不对加班费征税，也不对社会保障征税，如果他",
-      "link": "https://www.trumpstruth.org/statuses/43030",
-      "published": "Sat, 31 Oct 2026 20:52:53 +0000",
+      "original": "RT @ realDonaldTrump Heading to lowa, and then, so importantly, Kansas (Will be my last stop!), to make sure our Great Patriots get out and vote for truly incredible Candidates, Ashley Hinson for Senate and Zach Lahn for Governor in lowa, and Roger Marshall for Senate and Ty Masterson for Governor in Kansas — In addition to all of our fabulous Warrior Republicans running for Congress, and other vital positions. Big day, and Tuesday will be the Most Important Midterm Election in the History of the U.S.A. See you soon! President DONALD J. TRUMP Reposted Donald J. Trump Heading to lowa, and then, so importantly, Kansas (Will be my last stop!), to make sure our Great Patriots get out and vote for truly incredible Candidates, Ashley Hinson for Senate and Zach Lahn for Governor in lowa, and Roger Marshall for Senate and Ty Masterson for Governor in Kansas — In addition to all of our fabulous Warrior Republicans running for Congress, and other vital positions. Big day, and Tuesday will be the Most Important Midterm Election in the History of the U.S.A. See you soon! President DONALD J. TRUMP View image View image",
+      "translated": "RT @ realDonaldTrump前往LOWA ，然后，非常重要的是，堪萨斯州（将是我的最后一站！ ） ，以确保我们伟大的爱国者离开并投票选出真正令人难以置信的候选人，参议院的Ashley Hinson和LOWA州长的Zach Lahn ，参议院的Roger Marshall和堪萨斯州州长的Ty Masterson —除了我们所有竞选国会的神话般的勇士共和党人和其他重要职位。大日子，周二将是Mo",
+      "link": "https://www.trumpstruth.org/statuses/43134",
+      "published": "Sun, 01 Nov 2026 19:37:24 +0000",
       "stale": false
     },
     {
-      "original": "It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan! A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respected U.S. Congressman, John has proven he has the Courage and Wisdom to deliver strong results for the incredible people of his wonderful State, and our Nation. His opponent, Jocelyn Benson, is a Radical Left Dumocrat who is opposed to NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY and, if she and the Dumocrats ever got in, all of these things will be terminated. She wants massive Tax Increases, Open Borders, Men playing in Women's Sports, and Transgender Mutilization of your Children. Jocelyn Benson is Reckless, Radical, and Dangerous! On the other hand, as your next Governor, John will fight tirelessly to Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Brave Military/Veterans, Safeguard our Elections, Defend our always under siege Second Amendment, and Advocate for the Working Men and Women of Michigan. John James has my Complete and Total Endorsement to be the next Governor of the Great State of Michigan. GET OUT AND VOTE FOR JOHN — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP https:// swampthevoteusa.com/michigan/",
-      "translated": "我非常荣幸地支持美国第一国会议员约翰·詹姆斯（ John James ） ，他将竞选成为美丽的密歇根州的下一任州长！西点军校毕业生、战斗飞行员、勇敢的伊拉克战争老兵、成功的商人和创造就业机会的人，现在，作为一位备受尊敬的美国国会议员，约翰已经证明他有勇气和智慧为他的美好国家和我们国家的令人难以置信的人民带来强大的成果。他的对手",
-      "link": "https://www.trumpstruth.org/statuses/43031",
-      "published": "Sat, 31 Oct 2026 20:52:42 +0000",
+      "original": "The Fake Daniel J. Sullivan, Jr., has DISAPPEARED! Nobody can find him, including Law Enforcement. He knows that he committed a Criminal Act, but he also knows that there are those around him who, in a certain way, were far worse, like Lawyer Marc Elias, and Liberal Radical Left Activist “Lawyer” Norm Eisen. Others that are really bad, and corrupt, in so many ways, include Political Activists and Lowlives, Reid Hoffman, and Neville Roy Singham. These are CRIMINALS who totally abuse the Laws of our Land, and are destructive to our Country at levels never thought possible before. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "小假丹尼尔· J ·沙利文不见了！没有人能找到他，包括执法部门。他知道自己犯了罪，但他也知道周围的人在某种程度上更糟糕，比如律师马克·埃利亚斯（ Marc Elias ）和自由激进左翼活动家“律师”诺姆·艾森（ Norm Eisen ）。其他在很多方面都是非常糟糕和腐败的，包括政治活动家和Lowlives ， Reid Hoffman和Neville Roy Singham。T",
+      "link": "https://www.trumpstruth.org/statuses/43128",
+      "published": "Sun, 01 Nov 2026 19:29:15 +0000",
       "stale": false
     }
   ],
