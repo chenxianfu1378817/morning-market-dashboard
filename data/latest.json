@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-04 10:49",
-  "updated_at_iso": "2026-11-04T10:49:35+08:00",
+  "updated_at": "2026-11-05 10:58",
+  "updated_at_iso": "2026-11-05T10:58:06+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 27.5,
-      "feels_like": 31.3,
-      "code": 3,
-      "max": 29.4,
-      "min": 23.1,
-      "rain_probability": 94,
+      "temperature": 25.7,
+      "feels_like": 30.3,
+      "code": 80,
+      "max": 28.5,
+      "min": 22.1,
+      "rain_probability": 96,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 23.2,
-      "feels_like": 26.4,
-      "code": 1,
-      "max": 28.3,
-      "min": 17.8,
-      "rain_probability": 94,
+      "temperature": 16.3,
+      "feels_like": 15.3,
+      "code": 61,
+      "max": 19.7,
+      "min": 15.6,
+      "rain_probability": 97,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.0,
-      "feels_like": 30.0,
-      "code": 2,
-      "max": 29.6,
-      "min": 23.5,
-      "rain_probability": 94,
+      "temperature": 27.5,
+      "feels_like": 31.6,
+      "code": 3,
+      "max": 29.7,
+      "min": 23.3,
+      "rain_probability": 88,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 26.8,
-      "feels_like": 29.6,
-      "code": 51,
-      "max": 27.7,
-      "min": 23.3,
-      "rain_probability": 86,
+      "temperature": 29.5,
+      "feels_like": 33.8,
+      "code": 0,
+      "max": 30.7,
+      "min": 22.9,
+      "rain_probability": 84,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 94.98,
-      "current_price": 94.98,
-      "previous_close": 96.09,
-      "change": -1.1099999999999994,
-      "change_pct": -1.1551670309085227,
-      "market_time": "11-04 10:39",
+      "price": 87.39,
+      "current_price": 87.39,
+      "previous_close": 88.12,
+      "change": -0.730000000000004,
+      "change_pct": -0.8284157966409486,
+      "market_time": "11-05 10:48",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 102.6,
-      "current_price": 102.6,
-      "previous_close": 103.6,
-      "change": -1.0,
-      "change_pct": -0.9652509652509652,
-      "market_time": "11-04 10:39",
+      "price": 94.16,
+      "current_price": 94.16,
+      "previous_close": 94.62,
+      "change": -0.46000000000000796,
+      "change_pct": -0.4861551469034115,
+      "market_time": "11-05 10:48",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "西班牙交通大臣因列车相撞事故宣布辞职",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725826.shtml",
-      "published": "Wed, 4 Nov 2026 10:36:47 +0800",
+      "title": "朝鲜试射新型防空导弹",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml",
+      "published": "Thu, 5 Nov 2026 10:21:43 +0800",
       "stale": false
     },
     {
-      "title": "2026伦敦世界旅游交易会中国展区开幕",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml",
-      "published": "Wed, 4 Nov 2026 10:32:43 +0800",
+      "title": "全球媒体聚焦｜西班牙智库：深圳APEC会议为全球合作提供新契机",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726438.shtml",
+      "published": "Thu, 5 Nov 2026 10:18:37 +0800",
       "stale": false
     },
     {
-      "title": "巴基斯坦成功试射首枚国产空对空导弹",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725798.shtml",
-      "published": "Wed, 4 Nov 2026 10:32:07 +0800",
+      "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726432.shtml",
+      "published": "Thu, 5 Nov 2026 10:11:31 +0800",
       "stale": false
     },
     {
-      "title": "三方会谈前俄乌各亮议题：乌提能源停火，俄谈安全保障",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725797.shtml",
-      "published": "Wed, 4 Nov 2026 10:31:25 +0800",
+      "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726355.shtml",
+      "published": "Thu, 5 Nov 2026 09:54:10 +0800",
       "stale": false
     },
     {
-      "title": "苏丹一加油站遭无人机袭击 至少7死36伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725778.shtml",
-      "published": "Wed, 4 Nov 2026 10:30:47 +0800",
+      "title": "特朗普回应可能遭弹劾：那会摧毁民主党",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726411.shtml",
+      "published": "Thu, 5 Nov 2026 09:51:19 +0800",
       "stale": false
     },
     {
-      "title": "美国媒体预计民主党将夺回众议院多数席位",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725805.shtml",
-      "published": "Wed, 4 Nov 2026 10:21:24 +0800",
+      "title": "白宫发帖提示：特朗普仍是美国总统",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726395.shtml",
+      "published": "Thu, 5 Nov 2026 09:22:30 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR: – Jeff Van Drew for U.S. Congress (NJ-02) – Chris Smith for U.S. Congress (NJ-04) – Tom Kean for U.S. Congress (NJ-07) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-jersey/ View image",
-      "translated": "TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR: – Jeff Van Drew for U.S. Congress (NJ-02) – Chris Smith for U.S. Congress (NJ-04) – Tom Kean for U.S. Congress (NJ-07) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-jersey/ View image",
-      "link": "https://www.trumpstruth.org/statuses/43325",
-      "published": "Tue, 03 Nov 2026 13:34:44 +0000",
+      "original": "Too bad the Senate has not yet approved the Sunshine Protection Act or, the I Don’t Want to Change My Clocks Anymore Act. It’s so dark outside, so early (Sunset was 5:06 P.M., and it was dark by 5:31 P.M. — Isn’t that ridiculous?). Just a few days ago it was so nice and sunny at this same time. In addition, everyone’s been running around changing their clocks all over the place. I didn’t want to make a big deal out of this prior to the Election because I didn’t want to have certain Senators lose their Race, in a landslide, but it is too bad they can’t get it done. The House sent it over to the Senate with great bipartisan support, numerous times (308-117), but the Senate didn’t take it up. We have far bigger priorities, but I will keep fighting for this! President DONALD J. TRUMP",
+      "translated": "太糟糕了，参议院还没有批准《阳光保护法》或《我不想再改变我的时钟法》。外面太黑了，太早了（日落时间是下午5:06 ，下午5:31天黑了—这不是很荒谬吗？ ）。就在几天前，天气非常好，阳光明媚。此外，每个人都到处跑来跑去换时钟。我不想在选举前把这件事搞得一团糟b",
+      "link": "https://www.trumpstruth.org/statuses/43487",
+      "published": "Wed, 04 Nov 2026 23:33:47 +0000",
       "stale": false
     },
     {
-      "original": "TO THE GREAT PEOPLE OF NEW MEXICO, GET OUT AND VOTE FOR: – Greg Cunningham for U.S. Congress (NM-02) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-mexico/ View image",
-      "translated": "TO THE GREAT PEOPLE OF NEW MEXICO, GET OUT AND VOTE FOR: – Greg Cunningham for U.S. Congress (NM-02) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-mexico/ View image",
-      "link": "https://www.trumpstruth.org/statuses/43326",
-      "published": "Tue, 03 Nov 2026 13:34:22 +0000",
+      "original": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP",
+      "translated": "股市刚刚再创历史新高--短短91天--不到两年。您的401 (k)通过屋顶。创纪录！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43486",
+      "published": "Wed, 04 Nov 2026 17:27:54 +0000",
       "stale": false
     },
     {
-      "original": "TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR: – Bruce Blakeman for Governor – Saritha Komatireddy for Attorney General – Nick LaLota for U.S. Congress (NY-01) – Andrew Garbarino for U.S. Congress (NY-02) – Mike LiPetri for U.S. Congress (NY-03) – Jeanine Driscoll for U.S. Congress (NY-04) – Nicole Malliotakis for U.S. Congress (NY-11) – Mike Lawler for U.S. Congress (NY-17) – Peter Oberacker for U.S. Congress (NY-19) – Anthony Constantino for U.S. Congress (NY-21) – Kailee Buller for U.S. Congress (NY-22) – Nick Langworthy for U.S. Congress (NY-23) – Claudia Tenney for U.S. Congress (NY-24) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-york/ View image",
-      "translated": "TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR: – Bruce Blakeman for Governor – Saritha Komatireddy for Attorney General – Nick LaLota for U.S. Congress (NY-01) – Andrew Garbarino for U.S. Congress (NY-02) – Mike LiPetri for U.S. Congress (NY-03) – Jeanine Driscoll for U.S. Congress (NY-04) – Nicole Malliotakis for U.S. Congress (NY-11) – Mike Lawler for U.S. Congress (NY-17) – Peter Oberacker for U.S. Congress (NY-19) – Anthony Constantino for U.S. Congress (NY-21) – Kailee Buller for U.S. Congress (NY-22) – Nick Langworthy for U.S. Congress (NY-23) – Claudia Tenney for U.S. Congress (NY-24) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/new-york/ View image",
-      "link": "https://www.trumpstruth.org/statuses/43327",
-      "published": "Tue, 03 Nov 2026 13:34:01 +0000",
+      "original": "View image View image View image",
+      "translated": "查看图像查看图像查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43485",
+      "published": "Wed, 04 Nov 2026 17:05:32 +0000",
       "stale": false
     },
     {
-      "original": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR: – Michael Whatley for U.S. Senate – Laurie Buckhout for U.S. Congress (NC-01) – Greg Murphy for U.S. Congress (NC-03) – Virginia Foxx for U.S. Congress (NC-05) – Addison McDowell for U.S. Congress (NC-06) – David Rouzer for U.S. Congress (NC-07) – Mark Harris for U.S. Congress (NC-08) – Richard Hudson for U.S. Congress (NC-09) – Pat Harrigan for U.S. Congress (NC-10) – Jennifer Balkcom for U.S. Congress (NC-11) – Brad Knott for U.S. Congress (NC-13) – Tim Moore for U.S. Congress (NC-14) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-carolina/ View image",
-      "translated": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR: – Michael Whatley for U.S. Senate – Laurie Buckhout for U.S. Congress (NC-01) – Greg Murphy for U.S. Congress (NC-03) – Virginia Foxx for U.S. Congress (NC-05) – Addison McDowell for U.S. Congress (NC-06) – David Rouzer for U.S. Congress (NC-07) – Mark Harris for U.S. Congress (NC-08) – Richard Hudson for U.S. Congress (NC-09) – Pat Harrigan for U.S. Congress (NC-10) – Jennifer Balkcom for U.S. Congress (NC-11) – Brad Knott for U.S. Congress (NC-13) – Tim Moore for U.S. Congress (NC-14) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-carolina/ View image",
-      "link": "https://www.trumpstruth.org/statuses/43328",
-      "published": "Tue, 03 Nov 2026 13:33:32 +0000",
+      "original": "Why does FoxNews have Bill de Blasio, the Worst Mayor in the History of New York City, on air, ranting and raving like a Lunatic? He left the City in disgrace, and the damage he caused was incalculable — It has never been the same, and now he’s telling us how to run America. FoxNews bears responsibility for these losses by constantly and consistently putting on the Dumocrat opposition, and worse. GOD BLESS AMERICA! President DONALD J. TRUMP",
+      "translated": "为什么FoxNews让纽约市历史上最糟糕的市长比尔·德布拉西奥（ Bill de Blasio ）像疯子一样在空中咆哮和胡言乱语？他耻辱地离开了这座城市，他造成的损害是无法估量的—从未如此，现在他告诉我们如何管理美国。福克斯新闻（ FoxNews ）对这些损失负有责任，持续不断地反对杜莫克拉派，甚至更糟。上帝保佑美国！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43484",
+      "published": "Wed, 04 Nov 2026 04:52:32 +0000",
       "stale": false
     },
     {
-      "original": "TO THE GREAT PEOPLE OF NORTH DAKOTA, GET OUT AND VOTE FOR: – Julie Fedorchak for U.S. Congress (ND-AL) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-dakota/ View image",
-      "translated": "TO THE GREAT PEOPLE OF NORTH DAKOTA, GET OUT AND VOTE FOR: – Julie Fedorchak for U.S. Congress (ND-AL) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMP swampthevoteusa.com/north-dakota/ View image",
-      "link": "https://www.trumpstruth.org/statuses/43329",
-      "published": "Tue, 03 Nov 2026 13:33:10 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43483",
+      "published": "Wed, 04 Nov 2026 04:40:22 +0000",
       "stale": false
     }
   ],
