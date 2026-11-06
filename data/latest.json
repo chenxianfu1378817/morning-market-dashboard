@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-05 10:58",
-  "updated_at_iso": "2026-11-05T10:58:06+08:00",
+  "updated_at": "2026-11-06 10:58",
+  "updated_at_iso": "2026-11-06T10:58:10+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 25.7,
-      "feels_like": 30.3,
-      "code": 80,
-      "max": 28.5,
-      "min": 22.1,
-      "rain_probability": 96,
+      "temperature": 24.8,
+      "feels_like": 28.4,
+      "code": 51,
+      "max": 27.4,
+      "min": 20.9,
+      "rain_probability": 80,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 16.3,
-      "feels_like": 15.3,
-      "code": 61,
+      "temperature": 17.4,
+      "feels_like": 16.9,
+      "code": 3,
       "max": 19.7,
-      "min": 15.6,
-      "rain_probability": 97,
+      "min": 16.2,
+      "rain_probability": 47,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 27.5,
-      "feels_like": 31.6,
-      "code": 3,
-      "max": 29.7,
-      "min": 23.3,
-      "rain_probability": 88,
+      "temperature": 28.1,
+      "feels_like": 31.9,
+      "code": 1,
+      "max": 30.9,
+      "min": 22.5,
+      "rain_probability": 81,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 29.5,
-      "feels_like": 33.8,
-      "code": 0,
-      "max": 30.7,
-      "min": 22.9,
-      "rain_probability": 84,
+      "temperature": 28.7,
+      "feels_like": 32.3,
+      "code": 51,
+      "max": 29.5,
+      "min": 23.2,
+      "rain_probability": 100,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 87.39,
-      "current_price": 87.39,
-      "previous_close": 88.12,
-      "change": -0.730000000000004,
-      "change_pct": -0.8284157966409486,
-      "market_time": "11-05 10:48",
+      "price": 91.58,
+      "current_price": 91.58,
+      "previous_close": 90.52,
+      "change": 1.0600000000000023,
+      "change_pct": 1.1710119310649607,
+      "market_time": "11-06 10:48",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 94.16,
-      "current_price": 94.16,
-      "previous_close": 94.62,
-      "change": -0.46000000000000796,
-      "change_pct": -0.4861551469034115,
-      "market_time": "11-05 10:48",
+      "price": 99.85,
+      "current_price": 99.85,
+      "previous_close": 98.29,
+      "change": 1.559999999999988,
+      "change_pct": 1.5871400956353525,
+      "market_time": "11-06 10:47",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "朝鲜试射新型防空导弹",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726441.shtml",
-      "published": "Thu, 5 Nov 2026 10:21:43 +0800",
+      "title": "特朗普回应美股大跌：是民主党人造成的",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727100.shtml",
+      "published": "Fri, 6 Nov 2026 10:34:15 +0800",
       "stale": false
     },
     {
-      "title": "全球媒体聚焦｜西班牙智库：深圳APEC会议为全球合作提供新契机",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726438.shtml",
-      "published": "Thu, 5 Nov 2026 10:18:37 +0800",
+      "title": "日本学者：日本应坚守“无核三原则”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727097.shtml",
+      "published": "Fri, 6 Nov 2026 10:33:01 +0800",
       "stale": false
     },
     {
-      "title": "万斯发长文分析共和党中期选举失利：就是因为这场战争",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726432.shtml",
-      "published": "Thu, 5 Nov 2026 10:11:31 +0800",
+      "title": "美国30年期贷款利率降至7.18%  连续三周下降",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10726993.shtml",
+      "published": "Fri, 6 Nov 2026 08:04:52 +0800",
       "stale": false
     },
     {
-      "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726355.shtml",
-      "published": "Thu, 5 Nov 2026 09:54:10 +0800",
+      "title": "第十四届慕尼黑华语电影节开幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10726991.shtml",
+      "published": "Fri, 6 Nov 2026 08:04:14 +0800",
       "stale": false
     },
     {
-      "title": "特朗普回应可能遭弹劾：那会摧毁民主党",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726411.shtml",
-      "published": "Thu, 5 Nov 2026 09:51:19 +0800",
+      "title": "伊朗官员与普京会面，转达伊朗最高领袖讯息",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10727001.shtml",
+      "published": "Fri, 6 Nov 2026 07:58:00 +0800",
       "stale": false
     },
     {
-      "title": "白宫发帖提示：特朗普仍是美国总统",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726395.shtml",
-      "published": "Thu, 5 Nov 2026 09:22:30 +0800",
+      "title": "特朗普：俄乌冲突已非常接近解决",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-06/10726987.shtml",
+      "published": "Fri, 6 Nov 2026 07:20:00 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Too bad the Senate has not yet approved the Sunshine Protection Act or, the I Don’t Want to Change My Clocks Anymore Act. It’s so dark outside, so early (Sunset was 5:06 P.M., and it was dark by 5:31 P.M. — Isn’t that ridiculous?). Just a few days ago it was so nice and sunny at this same time. In addition, everyone’s been running around changing their clocks all over the place. I didn’t want to make a big deal out of this prior to the Election because I didn’t want to have certain Senators lose their Race, in a landslide, but it is too bad they can’t get it done. The House sent it over to the Senate with great bipartisan support, numerous times (308-117), but the Senate didn’t take it up. We have far bigger priorities, but I will keep fighting for this! President DONALD J. TRUMP",
-      "translated": "太糟糕了，参议院还没有批准《阳光保护法》或《我不想再改变我的时钟法》。外面太黑了，太早了（日落时间是下午5:06 ，下午5:31天黑了—这不是很荒谬吗？ ）。就在几天前，天气非常好，阳光明媚。此外，每个人都到处跑来跑去换时钟。我不想在选举前把这件事搞得一团糟b",
-      "link": "https://www.trumpstruth.org/statuses/43487",
-      "published": "Wed, 04 Nov 2026 23:33:47 +0000",
+      "original": "I JUST WASN’T ON THE BALLOT. IF I WERE, WE WOULD HAVE WON IN A LANDSLIDE! President DONALD J. TRUMP",
+      "translated": "我只是不在选票上。如果我是，我们就会在山体滑坡中获胜！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43493",
+      "published": "Fri, 06 Nov 2026 00:14:11 +0000",
       "stale": false
     },
     {
-      "original": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP",
-      "translated": "股市刚刚再创历史新高--短短91天--不到两年。您的401 (k)通过屋顶。创纪录！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43486",
-      "published": "Wed, 04 Nov 2026 17:27:54 +0000",
+      "original": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+      "translated": "今天股市崩盘是因为Dumocrats有一个大星期二—可悲的是，你们只能怪自己！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43492",
+      "published": "Fri, 06 Nov 2026 00:02:31 +0000",
       "stale": false
     },
     {
-      "original": "View image View image View image",
-      "translated": "查看图像查看图像查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43485",
-      "published": "Wed, 04 Nov 2026 17:05:32 +0000",
+      "original": "The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to get us to a level that no one has ever seen before, and then this. Your 401(k)s have, therefore, dropped. Remember, it wasn’t Republicans, it was Dumocrats. Do not fear, however, we will soon, one way or the other, be BIGGER AND STRONGER THAN EVER BEFORE. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
+      "translated": "根据选举结果，股市遭遇了历史上最糟糕的一天。多么悲哀的事情啊！我们花了很多时间才达到前所未有的水平，然后就是这个。因此，您的401 (k)已被删除。请记住，这不是共和党人，而是邓莫克拉派。然而，不要害怕，我们很快就会以这样或那样的方式变得比以往任何时候都更大、更强大。让美国再次伟大！唐纳德· J ·总统",
+      "link": "https://www.trumpstruth.org/statuses/43491",
+      "published": "Thu, 05 Nov 2026 23:18:52 +0000",
       "stale": false
     },
     {
-      "original": "Why does FoxNews have Bill de Blasio, the Worst Mayor in the History of New York City, on air, ranting and raving like a Lunatic? He left the City in disgrace, and the damage he caused was incalculable — It has never been the same, and now he’s telling us how to run America. FoxNews bears responsibility for these losses by constantly and consistently putting on the Dumocrat opposition, and worse. GOD BLESS AMERICA! President DONALD J. TRUMP",
-      "translated": "为什么FoxNews让纽约市历史上最糟糕的市长比尔·德布拉西奥（ Bill de Blasio ）像疯子一样在空中咆哮和胡言乱语？他耻辱地离开了这座城市，他造成的损害是无法估量的—从未如此，现在他告诉我们如何管理美国。福克斯新闻（ FoxNews ）对这些损失负有责任，持续不断地反对杜莫克拉派，甚至更糟。上帝保佑美国！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43484",
-      "published": "Wed, 04 Nov 2026 04:52:32 +0000",
+      "original": "The vote totals for the Fake Dan Sullivan, plus the other “slug” that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over - He easily wins. There is no other fair solution! President DJT",
+      "translated": "假Dan Sullivan的投票总数，加上Dems在选票上投下的另一个“蛞蝓” ，应该立即交给真正的Dan Sullivan ，选举结束了-他很容易获胜。没有其他公平的解决方案！ DJT总裁",
+      "link": "https://www.trumpstruth.org/statuses/43490",
+      "published": "Thu, 05 Nov 2026 13:40:44 +0000",
       "stale": false
     },
     {
-      "original": "View image",
-      "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43483",
-      "published": "Wed, 04 Nov 2026 04:40:22 +0000",
+      "original": "https:// truthsocial.com/@WhiteHouse/11 7550235500967429",
+      "translated": "https://truthsocial.com/ @ WhiteHouse/11 7550235500967429",
+      "link": "https://www.trumpstruth.org/statuses/43489",
+      "published": "Thu, 05 Nov 2026 13:22:19 +0000",
       "stale": false
     }
   ],
