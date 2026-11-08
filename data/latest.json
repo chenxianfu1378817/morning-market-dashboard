@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-07 10:28",
-  "updated_at_iso": "2026-11-07T10:28:04+08:00",
+  "updated_at": "2026-11-08 09:56",
+  "updated_at_iso": "2026-11-08T09:56:46+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 22.9,
-      "feels_like": 25.4,
-      "code": 3,
-      "max": 26.9,
-      "min": 19.1,
+      "temperature": 22.2,
+      "feels_like": 25.5,
+      "code": 80,
+      "max": 27.9,
+      "min": 18.2,
       "rain_probability": 94,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 16.8,
-      "feels_like": 17.7,
-      "code": 53,
-      "max": 20.1,
-      "min": 15.2,
-      "rain_probability": 99,
+      "temperature": 18.0,
+      "feels_like": 19.3,
+      "code": 80,
+      "max": 20.3,
+      "min": 15.1,
+      "rain_probability": 80,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 26.1,
+      "temperature": 25.7,
       "feels_like": 29.0,
-      "code": 1,
-      "max": 29.6,
-      "min": 22.5,
-      "rain_probability": 96,
+      "code": 2,
+      "max": 29.5,
+      "min": 21.3,
+      "rain_probability": 71,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 26.9,
-      "feels_like": 28.3,
+      "temperature": 26.8,
+      "feels_like": 27.9,
       "code": 0,
-      "max": 28.6,
-      "min": 22.8,
-      "rain_probability": 4,
+      "max": 29.8,
+      "min": 22.9,
+      "rain_probability": 22,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.34,
-      "current_price": 90.34,
+      "price": 90.83,
+      "current_price": 90.83,
       "previous_close": 90.52,
-      "change": -0.1799999999999926,
-      "change_pct": -0.19885108263366394,
+      "change": 0.3100000000000023,
+      "change_pct": 0.34246575342466007,
       "market_time": "11-07 05:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 97.76,
-      "current_price": 97.76,
+      "price": 98.32,
+      "current_price": 98.32,
       "previous_close": 98.29,
-      "change": -0.5300000000000011,
-      "change_pct": -0.5392206735171443,
+      "change": 0.029999999999986926,
+      "change_pct": 0.0305219249160514,
       "market_time": "11-07 05:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
-      "published": "Sat, 7 Nov 2026 09:07:17 +0800",
+      "title": "日本静冈县西部发生5.7级地震",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
+      "published": "Sun, 8 Nov 2026 07:54:25 +0800",
       "stale": false
     },
     {
-      "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
-      "published": "Sat, 7 Nov 2026 08:54:50 +0800",
+      "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+      "published": "Sun, 8 Nov 2026 06:53:16 +0800",
       "stale": false
     },
     {
-      "title": "美国10月非农就业新增16.5万 失业率4.1%",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
-      "published": "Sat, 7 Nov 2026 07:46:00 +0800",
+      "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+      "published": "Sun, 8 Nov 2026 06:49:32 +0800",
       "stale": false
     },
     {
-      "title": "欧盟向缅甸和孟加拉国追加1600万欧元人道主义援助",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727738.shtml",
-      "published": "Sat, 7 Nov 2026 07:43:24 +0800",
+      "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
+      "published": "Sun, 8 Nov 2026 06:35:15 +0800",
       "stale": false
     },
     {
-      "title": "德国一小型飞机坠毁 机上2人遇难",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727731.shtml",
-      "published": "Sat, 7 Nov 2026 06:42:21 +0800",
+      "title": "伊朗南部多地接连传出类似爆炸巨响",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
+      "published": "Sun, 8 Nov 2026 06:34:31 +0800",
       "stale": false
     },
     {
-      "title": "菲律宾妇女团体抗议美国扩大军事存在 反对“硅和平”倡议",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727730.shtml",
-      "published": "Sat, 7 Nov 2026 06:41:21 +0800",
+      "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
+      "published": "Sat, 7 Nov 2026 23:52:17 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026. Susie Wiles, who has done an outstanding job, will be moving over to the Trump Political Operation. I want to thank her for her service as Chief of Staff — She has done a great job! President DONALD J. TRUMP",
-      "translated": "我很高兴地宣布，现任特朗普政府副幕僚长、我最信任的顾问之一斯蒂芬·米勒先生将从2026年11月9日星期一开始担任幕僚长。工作出色的苏茜·怀尔斯（ Susie Wiles ）将转入特朗普政治行动。我要感谢她作为幕僚长的服务--她做得很好！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43498",
-      "published": "Fri, 06 Nov 2026 18:51:30 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43523",
+      "published": "Sat, 07 Nov 2026 21:54:30 +0000",
       "stale": false
     },
     {
-      "original": "Israel and, in fact, the entire Middle East, WOULD NOT EXIST TODAY if I did not stop Iran from having a Nuclear Weapon. Nobody wants to say that, but everybody knows it’s true! President DONALD J. TRUMP",
-      "translated": "如果我不阻止伊朗拥有核武器，以色列乃至整个中东今天都不会存在。没有人想这么说，但每个人都知道这是真的！唐纳德· J ·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43497",
-      "published": "Fri, 06 Nov 2026 18:09:41 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43520",
+      "published": "Sat, 07 Nov 2026 21:48:09 +0000",
       "stale": false
     },
     {
-      "original": "MAGA Warrior Joe Gruters, who has been with us from the very beginning, is running to continue as Chairman of the Republican National Committee. As Chairman, Joe turned the RNC into an efficient, focused, and powerful machine that will continue to empower the America First Agenda for many years to come. As State Senator and Chairman of the Republican Party of Florida, Joe helped us deliver massive and historic Victories across the State, including my three BIG WINS in 2016, 2020, and 2024! Joe was the Chairman of Florida when I won that Great State by the Highest Vote Margin in History, as we then went on to win the 2024 Presidential Election. As Sarasota County Chairman, Joe named me Statesman of the Year in both 2012 and 2015 — The only person to ever win it two times! Joe Gruters should return as Chairman of the RNC to continue to build our Party, and be a trusted partner as we MAKE AMERICA GREAT AGAIN, and ensure Free and Fair Elections. Republicans everywhere should support him as he continues his mission at the RNC. Joe is 100% America First, the Grassroots LOVES him, and I know he will do an incredible job in 2028, and secure Great Success for Republicans all across our Country. Joe has my Complete and Total Endorsement — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-      "translated": "从一开始就与我们在一起的MAGA勇士乔·格鲁特斯（ Joe Gruters ）将继续担任共和党全国委员会主席。作为主席， Joe将RNC变成了一台高效、专注和强大的机器，并将在未来的许多年里继续为“美国优先议程”赋能。作为佛罗里达州参议员和共和党主席， Joe帮助我们在全州取得了巨大的历史性胜利，",
-      "link": "https://www.trumpstruth.org/statuses/43496",
-      "published": "Fri, 06 Nov 2026 18:05:27 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43521",
+      "published": "Sat, 07 Nov 2026 21:47:56 +0000",
       "stale": false
     },
     {
-      "original": "As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them. They are GOLD, and only foolish leadership will say “NO” to the riches they bring! President DJT",
-      "translated": "作为总统，我100%支持超级智能（ SI ） ，并将与美国许多希望通过拥有超级智能致富的州合作。他们是黄金，只有愚蠢的领导才会对他们带来的财富说“不” ！ DJT总裁",
-      "link": "https://www.trumpstruth.org/statuses/43495",
-      "published": "Fri, 06 Nov 2026 12:01:50 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339 View image Quoted Donald J. Trump View video",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339查看图片引用唐纳德· J ·特朗普查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43522",
+      "published": "Sat, 07 Nov 2026 21:47:48 +0000",
       "stale": false
     },
     {
-      "original": "NEWSMAX: “Trump is a Winner, and he’s right on Iran!”",
-      "translated": "NEWSMAX ： “特朗普是赢家，他在伊朗问题上是对的！”",
-      "link": "https://www.trumpstruth.org/statuses/43494",
-      "published": "Fri, 06 Nov 2026 11:48:32 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43519",
+      "published": "Sat, 07 Nov 2026 21:46:22 +0000",
       "stale": false
     }
   ],
