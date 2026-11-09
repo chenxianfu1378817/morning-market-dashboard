@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-08 09:56",
-  "updated_at_iso": "2026-11-08T09:56:46+08:00",
+  "updated_at": "2026-11-09 10:14",
+  "updated_at_iso": "2026-11-09T10:14:17+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 22.2,
-      "feels_like": 25.5,
-      "code": 80,
-      "max": 27.9,
-      "min": 18.2,
-      "rain_probability": 94,
-      "stale": false
-    },
-    {
-      "name": "桂林",
-      "temperature": 18.0,
-      "feels_like": 19.3,
-      "code": 80,
-      "max": 20.3,
-      "min": 15.1,
-      "rain_probability": 80,
-      "stale": false
-    },
-    {
-      "name": "广州",
-      "temperature": 25.7,
-      "feels_like": 29.0,
-      "code": 2,
-      "max": 29.5,
-      "min": 21.3,
+      "temperature": 16.9,
+      "feels_like": 14.5,
+      "code": 3,
+      "max": 20.1,
+      "min": 14.8,
       "rain_probability": 71,
       "stale": false
     },
     {
-      "name": "深圳",
-      "temperature": 26.8,
-      "feels_like": 27.9,
-      "code": 0,
-      "max": 29.8,
-      "min": 22.9,
+      "name": "桂林",
+      "temperature": 14.3,
+      "feels_like": 8.9,
+      "code": 2,
+      "max": 15.8,
+      "min": 10.5,
       "rain_probability": 22,
+      "stale": false
+    },
+    {
+      "name": "广州",
+      "temperature": 20.1,
+      "feels_like": 17.0,
+      "code": 3,
+      "max": 22.3,
+      "min": 14.7,
+      "rain_probability": 17,
+      "stale": false
+    },
+    {
+      "name": "深圳",
+      "temperature": 22.6,
+      "feels_like": 19.9,
+      "code": 0,
+      "max": 24.5,
+      "min": 16.0,
+      "rain_probability": 67,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.83,
-      "current_price": 90.83,
-      "previous_close": 90.52,
-      "change": 0.3100000000000023,
-      "change_pct": 0.34246575342466007,
-      "market_time": "11-07 05:59",
+      "price": 90.55,
+      "current_price": 90.55,
+      "previous_close": 90.83,
+      "change": -0.28000000000000114,
+      "change_pct": -0.3082681933281968,
+      "market_time": "11-09 10:04",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 98.32,
-      "current_price": 98.32,
-      "previous_close": 98.29,
-      "change": 0.029999999999986926,
-      "change_pct": 0.0305219249160514,
-      "market_time": "11-07 05:59",
+      "price": 97.49,
+      "current_price": 97.49,
+      "previous_close": 98.32,
+      "change": -0.8299999999999983,
+      "change_pct": -0.8441822620016257,
+      "market_time": "11-09 10:03",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日本静冈县西部发生5.7级地震",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728203.shtml",
-      "published": "Sun, 8 Nov 2026 07:54:25 +0800",
+      "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
+      "published": "Mon, 9 Nov 2026 08:34:59 +0800",
       "stale": false
     },
     {
-      "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
-      "published": "Sun, 8 Nov 2026 06:53:16 +0800",
+      "title": "南非公布地方选举结果 过半数市镇现“悬峙议会”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml",
+      "published": "Mon, 9 Nov 2026 08:11:16 +0800",
       "stale": false
     },
     {
-      "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
-      "published": "Sun, 8 Nov 2026 06:49:32 +0800",
+      "title": "外媒：伊拉克库区天然气田遭不明来源无人机袭击",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml",
+      "published": "Mon, 9 Nov 2026 08:02:06 +0800",
       "stale": false
     },
     {
-      "title": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
-      "published": "Sun, 8 Nov 2026 06:35:15 +0800",
+      "title": "日本宫城县近海发生4.5级地震 多地有震感",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
+      "published": "Mon, 9 Nov 2026 06:59:18 +0800",
       "stale": false
     },
     {
-      "title": "伊朗南部多地接连传出类似爆炸巨响",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
-      "published": "Sun, 8 Nov 2026 06:34:31 +0800",
+      "title": "美国一大学接连发生两起枪击事件 致1死3伤",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
+      "published": "Mon, 9 Nov 2026 06:49:56 +0800",
       "stale": false
     },
     {
-      "title": "泰国强调粮食和能源安全 以多元供应体系应对外部风险",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml",
-      "published": "Sat, 7 Nov 2026 23:52:17 +0800",
+      "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武　",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
+      "published": "Mon, 9 Nov 2026 06:22:42 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43523",
-      "published": "Sat, 07 Nov 2026 21:54:30 +0000",
+      "original": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE. This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and ensure that we can build Pipelines, Mines, and Power Plants faster than ever before, lowering Energy Costs for American Families, and creating High Paying American Jobs. This Legislation also codifies my RATEPAYER PROTECTION PLEDGE, ensuring Data Centers build and pay for their own Electricity, and help invest in their local communities. Remember, China will take any Data Center that we don’t want, and pay lots of money for it. We’re Number One — Let’s keep it that way! Call your Senator TODAY, and tell them to vote YES. President DONALD J. TRUMP",
+      "translated": "我敦促所有参议员投票支持《美国负担能力和就业法案》（ S.5653 ） ！该法案是美国能源独立和主导地位的重大胜利。这项具有里程碑意义的允许改革立法将编纂我们的美国第一能源议程，并确保我们能够比以往任何时候都更快地建设管道、矿山和发电厂，降低美国家庭的能源成本，并创造高薪的美国就业机会。该立法还编纂了",
+      "link": "https://www.trumpstruth.org/statuses/43532",
+      "published": "Mon, 09 Nov 2026 00:05:49 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117577356194134392查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43520",
-      "published": "Sat, 07 Nov 2026 21:48:09 +0000",
+      "original": "View image View image View image View image",
+      "translated": "查看图像查看图像查看图像查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43531",
+      "published": "Sun, 08 Nov 2026 23:43:12 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43521",
-      "published": "Sat, 07 Nov 2026 21:47:56 +0000",
+      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117583459253586462 View image Quoted Donald J. Trump View image View video View image",
+      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117583459253586462查看图片引用唐纳德· J ·特朗普查看图片查看视频查看图片",
+      "link": "https://www.trumpstruth.org/statuses/43530",
+      "published": "Sun, 08 Nov 2026 23:41:05 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339 View image Quoted Donald J. Trump View video",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117577346685295339查看图片引用唐纳德· J ·特朗普查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43522",
-      "published": "Sat, 07 Nov 2026 21:47:48 +0000",
+      "original": "View image View video View image",
+      "translated": "查看图片查看视频查看图片",
+      "link": "https://www.trumpstruth.org/statuses/43529",
+      "published": "Sun, 08 Nov 2026 23:40:01 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43519",
-      "published": "Sat, 07 Nov 2026 21:46:22 +0000",
+      "original": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran! President DJT",
+      "translated": "特遣部队铁门在伊朗伊斯兰共和国全面发挥作用。再加上历史上最大的海军封锁，很少有人进出伊朗！ DJT总统",
+      "link": "https://www.trumpstruth.org/statuses/43528",
+      "published": "Sun, 08 Nov 2026 20:46:51 +0000",
       "stale": false
     }
   ],
