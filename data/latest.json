@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-09 10:14",
-  "updated_at_iso": "2026-11-09T10:14:17+08:00",
+  "updated_at": "2026-11-10 12:25",
+  "updated_at_iso": "2026-11-10T12:25:25+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 16.9,
-      "feels_like": 14.5,
-      "code": 3,
+      "temperature": 18.2,
+      "feels_like": 16.5,
+      "code": 0,
       "max": 20.1,
-      "min": 14.8,
-      "rain_probability": 71,
+      "min": 13.0,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 14.3,
-      "feels_like": 8.9,
+      "temperature": 14.8,
+      "feels_like": 10.2,
       "code": 2,
-      "max": 15.8,
-      "min": 10.5,
-      "rain_probability": 22,
+      "max": 16.6,
+      "min": 9.7,
+      "rain_probability": 29,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 20.1,
-      "feels_like": 17.0,
-      "code": 3,
-      "max": 22.3,
-      "min": 14.7,
-      "rain_probability": 17,
+      "temperature": 18.2,
+      "feels_like": 15.1,
+      "code": 0,
+      "max": 19.9,
+      "min": 12.2,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 22.6,
-      "feels_like": 19.9,
+      "temperature": 20.8,
+      "feels_like": 18.0,
       "code": 0,
-      "max": 24.5,
-      "min": 16.0,
-      "rain_probability": 67,
+      "max": 22.2,
+      "min": 14.0,
+      "rain_probability": 0,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 90.55,
-      "current_price": 90.55,
-      "previous_close": 90.83,
-      "change": -0.28000000000000114,
-      "change_pct": -0.3082681933281968,
-      "market_time": "11-09 10:04",
+      "price": 85.91,
+      "current_price": 85.91,
+      "previous_close": 86.85,
+      "change": -0.9399999999999977,
+      "change_pct": -1.0823258491652248,
+      "market_time": "11-10 12:15",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 97.49,
-      "current_price": 97.49,
-      "previous_close": 98.32,
-      "change": -0.8299999999999983,
-      "change_pct": -0.8441822620016257,
-      "market_time": "11-09 10:03",
+      "price": 91.78,
+      "current_price": 91.78,
+      "previous_close": 92.57,
+      "change": -0.789999999999992,
+      "change_pct": -0.853408231608504,
+      "market_time": "11-10 12:15",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
-      "published": "Mon, 9 Nov 2026 08:34:59 +0800",
+      "title": "英国大雾侵袭多地扰乱交通",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729277.shtml",
+      "published": "Tue, 10 Nov 2026 12:11:20 +0800",
       "stale": false
     },
     {
-      "title": "南非公布地方选举结果 过半数市镇现“悬峙议会”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728586.shtml",
-      "published": "Mon, 9 Nov 2026 08:11:16 +0800",
+      "title": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729301.shtml",
+      "published": "Tue, 10 Nov 2026 12:11:14 +0800",
       "stale": false
     },
     {
-      "title": "外媒：伊拉克库区天然气田遭不明来源无人机袭击",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728597.shtml",
-      "published": "Mon, 9 Nov 2026 08:02:06 +0800",
+      "title": "圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729324.shtml",
+      "published": "Tue, 10 Nov 2026 12:05:29 +0800",
       "stale": false
     },
     {
-      "title": "日本宫城县近海发生4.5级地震 多地有震感",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
-      "published": "Mon, 9 Nov 2026 06:59:18 +0800",
+      "title": "“你好！中国”水韵江苏文旅推介会在巴黎举办",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729313.shtml",
+      "published": "Tue, 10 Nov 2026 12:05:07 +0800",
       "stale": false
     },
     {
-      "title": "美国一大学接连发生两起枪击事件 致1死3伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
-      "published": "Mon, 9 Nov 2026 06:49:56 +0800",
+      "title": "中国—土耳其绿色发展商务论坛在伊斯坦布尔举办",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729305.shtml",
+      "published": "Tue, 10 Nov 2026 12:04:01 +0800",
       "stale": false
     },
     {
-      "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武　",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
-      "published": "Mon, 9 Nov 2026 06:22:42 +0800",
+      "title": "“卷帙匠心——古今书籍装帧美学”展在柏林开幕",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729303.shtml",
+      "published": "Tue, 10 Nov 2026 12:03:09 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE. This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and ensure that we can build Pipelines, Mines, and Power Plants faster than ever before, lowering Energy Costs for American Families, and creating High Paying American Jobs. This Legislation also codifies my RATEPAYER PROTECTION PLEDGE, ensuring Data Centers build and pay for their own Electricity, and help invest in their local communities. Remember, China will take any Data Center that we don’t want, and pay lots of money for it. We’re Number One — Let’s keep it that way! Call your Senator TODAY, and tell them to vote YES. President DONALD J. TRUMP",
-      "translated": "我敦促所有参议员投票支持《美国负担能力和就业法案》（ S.5653 ） ！该法案是美国能源独立和主导地位的重大胜利。这项具有里程碑意义的允许改革立法将编纂我们的美国第一能源议程，并确保我们能够比以往任何时候都更快地建设管道、矿山和发电厂，降低美国家庭的能源成本，并创造高薪的美国就业机会。该立法还编纂了",
-      "link": "https://www.trumpstruth.org/statuses/43532",
-      "published": "Mon, 09 Nov 2026 00:05:49 +0000",
+      "original": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-time low under Sleepy Joe Biden, and TWO VICTORIES, Venezuela and Iran, Pete Hegseth should be praised, not Impeached. Congress, stand up for Pete!!! President DJT",
+      "translated": "被击败的共和党国会议员托马斯·马西（ Thomas Massie ）是一个彻头彻尾的失败者，他正试图弹劾可能是该国最受欢迎和最成功的军事官员，战争部长皮特·赫格塞斯（ Pete Hegseth ）。在昏昏欲睡的乔·拜登（ Joe Biden ）的领导下，招募人数从历史最低点创下历史新高，委内瑞拉和伊朗两次胜利，皮特·赫格塞特（ Pete Hegseth ）应该得到赞扬，而不是弹劾。国会，为皮特挺身而出！ ！ ！总统DJT",
+      "link": "https://www.trumpstruth.org/statuses/43539",
+      "published": "Tue, 10 Nov 2026 01:36:56 +0000",
       "stale": false
     },
     {
-      "original": "View image View image View image View image",
-      "translated": "查看图像查看图像查看图像查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43531",
-      "published": "Sun, 08 Nov 2026 23:43:12 +0000",
+      "original": "Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Federal Judges. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "非常重要的是，美国参议院要确认我们的所有待定161项提名，包括25名联邦法官。感谢您关注此事！唐纳德· J ·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43538",
+      "published": "Mon, 09 Nov 2026 23:04:20 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117583459253586462 View image Quoted Donald J. Trump View image View video View image",
-      "translated": "RT ： https://truthsocial.com/users/realDonaldTrump/statuses/117583459253586462查看图片引用唐纳德· J ·特朗普查看图片查看视频查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43530",
-      "published": "Sun, 08 Nov 2026 23:41:05 +0000",
+      "original": "I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, the Prime Minister of Qatar, wherein much was discussed with respect to the Islamic Republic of Iran. Most importantly, Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others, would prefer the status quo, in other words, a continuation of the Greatest Naval Blockade in History, and the new Operation Iron Gate — Therefore, Land and Sea. All have agreed that Iran cannot have a Nuclear Weapon — That is non-negotiable! Should there be any change with respect to developments in the Middle East, the United States of America is “locked and loaded” and ready to go. At this point, however, that seems to be quite unlikely. Israel, and the entire Middle East, are protected from Iranian danger and threats. We are seeing positive momentum toward an end to this Conflict, and will ensure that America’s interests are at all times protected. At the conclusion of this Military Engagement, the American People, and the World, will be far safer and more secure. President DONALD J. TRUMP",
+      "translated": "我与卡塔尔首相谢赫穆罕默德·本·阿卜杜勒拉赫曼·本·贾西姆·阿勒萨尼（ Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani ）进行了很好的对话，就伊朗伊斯兰共和国进行了很多讨论。最重要的是，卡塔尔、沙特阿拉伯、阿联酋、巴林、科威特和其他国家希望维持现状，换句话说，延续历史上最大的海军封锁，以及新的铁门行动--陆地和海洋。所有人都同意Ir",
+      "link": "https://www.trumpstruth.org/statuses/43537",
+      "published": "Mon, 09 Nov 2026 21:29:28 +0000",
       "stale": false
     },
     {
-      "original": "View image View video View image",
-      "translated": "查看图片查看视频查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43529",
-      "published": "Sun, 08 Nov 2026 23:40:01 +0000",
+      "original": "I am proud to announce that David MacNeil, the GREAT American entrepreneur and founder of WeatherTech, will be the Special Envoy for Manufacturing! David has built an incredible American company that makes outstanding products, RIGHT HERE IN THE U.S.A. He knows how to create jobs, bring Manufacturing back home, and put America First. Together, we will bring back American jobs, strengthen our factories, and make sure that future products are MADE IN AMERICA. Congratulations David — Your unparalleled expertise is vitally needed! President DONALD J. TRUMP",
+      "translated": "我很自豪地宣布，伟大的美国企业家和WeatherTech创始人David MacNeil将成为制造业特使！ David在美国建立了一家令人难以置信的美国公司，生产出色的产品。他知道如何创造就业机会，将制造业带回国内，并把美国放在第一位。我们将共同带回美国的就业机会，加强我们的工厂，并确保未来的产品",
+      "link": "https://www.trumpstruth.org/statuses/43536",
+      "published": "Mon, 09 Nov 2026 20:58:41 +0000",
       "stale": false
     },
     {
-      "original": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran! President DJT",
-      "translated": "特遣部队铁门在伊朗伊斯兰共和国全面发挥作用。再加上历史上最大的海军封锁，很少有人进出伊朗！ DJT总统",
-      "link": "https://www.trumpstruth.org/statuses/43528",
-      "published": "Sun, 08 Nov 2026 20:46:51 +0000",
+      "original": "View video",
+      "translated": "查看视频",
+      "link": "https://www.trumpstruth.org/statuses/43535",
+      "published": "Mon, 09 Nov 2026 19:23:25 +0000",
       "stale": false
     }
   ],
