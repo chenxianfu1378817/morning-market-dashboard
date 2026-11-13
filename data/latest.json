@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-12 11:29",
-  "updated_at_iso": "2026-11-12T11:29:44+08:00",
+  "updated_at": "2026-11-13 11:03",
+  "updated_at_iso": "2026-11-13T11:03:10+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 21.1,
+      "temperature": 18.8,
       "feels_like": 20.7,
-      "code": 3,
-      "max": 22.4,
-      "min": 15.6,
-      "rain_probability": 78,
+      "code": 61,
+      "max": 20.9,
+      "min": 16.8,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 18.4,
-      "feels_like": 17.8,
-      "code": 3,
-      "max": 19.2,
-      "min": 12.8,
-      "rain_probability": 74,
+      "temperature": 16.0,
+      "feels_like": 17.4,
+      "code": 55,
+      "max": 17.2,
+      "min": 14.3,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 24.2,
-      "feels_like": 25.3,
+      "temperature": 26.2,
+      "feels_like": 27.6,
       "code": 3,
-      "max": 26.7,
-      "min": 15.5,
-      "rain_probability": 0,
+      "max": 28.0,
+      "min": 19.2,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 26.1,
-      "feels_like": 27.0,
+      "temperature": 26.8,
+      "feels_like": 27.8,
       "code": 3,
-      "max": 27.7,
-      "min": 18.6,
-      "rain_probability": 0,
+      "max": 27.6,
+      "min": 21.0,
+      "rain_probability": 92,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 85.57,
-      "current_price": 85.57,
-      "previous_close": 86.53,
-      "change": -0.960000000000008,
-      "change_pct": -1.1094418120883023,
-      "market_time": "11-12 11:19",
+      "price": 88.32,
+      "current_price": 88.32,
+      "previous_close": 88.74,
+      "change": -0.4200000000000017,
+      "change_pct": -0.47329276538201687,
+      "market_time": "11-13 10:53",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 91.69,
-      "current_price": 91.69,
-      "previous_close": 92.76,
-      "change": -1.0700000000000074,
-      "change_pct": -1.1535144458818536,
-      "market_time": "11-12 11:19",
+      "price": 95.61,
+      "current_price": 95.61,
+      "previous_close": 95.82,
+      "change": -0.20999999999999375,
+      "change_pct": -0.21916092673762655,
+      "market_time": "11-13 10:52",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "中国-墨西哥亚克斯科波伊尔联合考古项目发掘开工",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730712.shtml",
-      "published": "Thu, 12 Nov 2026 11:24:44 +0800",
+      "title": "美国纽约楼房倒塌搜救行动结束 遇难人数升至8人",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731257.shtml",
+      "published": "Fri, 13 Nov 2026 10:05:51 +0800",
       "stale": false
     },
     {
-      "title": "俄外交部：日本应放弃推进再军事化",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
-      "published": "Thu, 12 Nov 2026 11:00:45 +0800",
+      "title": "第22届中美电影节和电视节在洛杉矶举办高峰论坛暨影视推介会",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731255.shtml",
+      "published": "Fri, 13 Nov 2026 10:05:17 +0800",
       "stale": false
     },
     {
-      "title": "美政商界人士呼吁共同推动稳定健康的美中关系",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730693.shtml",
-      "published": "Thu, 12 Nov 2026 10:58:55 +0800",
+      "title": "日本接连发生禽流感疫情 20余万只鸡将被扑杀",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731308.shtml",
+      "published": "Fri, 13 Nov 2026 10:05:13 +0800",
       "stale": false
     },
     {
-      "title": "朝中社：金正恩现场指导重要海军基地建设",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730649.shtml",
-      "published": "Thu, 12 Nov 2026 10:27:11 +0800",
+      "title": "俄总统助理：俄美同意继续推进乌克兰问题谈判",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731250.shtml",
+      "published": "Fri, 13 Nov 2026 09:50:04 +0800",
       "stale": false
     },
     {
-      "title": "巴黎和平论坛“解读中国的全球角色和影响力”专题研讨会举办",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730598.shtml",
-      "published": "Thu, 12 Nov 2026 10:06:50 +0800",
+      "title": "黄仁勋“闪辞”，英伟达市值蒸发超1.2万亿元人民币",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731272.shtml",
+      "published": "Fri, 13 Nov 2026 08:57:49 +0800",
       "stale": false
     },
     {
-      "title": "巴拿马外长回应美防长：运河由巴拿马掌控",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-12/10730613.shtml",
-      "published": "Thu, 12 Nov 2026 10:06:06 +0800",
+      "title": "胡塞武装宣布对沙特发起四次军事行动，打击石油设施及空军基地",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731249.shtml",
+      "published": "Fri, 13 Nov 2026 07:27:04 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "View image",
-      "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43553",
-      "published": "Wed, 11 Nov 2026 18:38:43 +0000",
+      "original": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020: https:// investor.lilly.com/news-releas es/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site",
+      "translated": "礼来在宾夕法尼亚州利哈伊谷动工建设一个价值 35 亿美元的工厂，用于生产下一代肥胖症药物。这是自 2020 年以来礼来在美国新建的 10 个工厂中的最新一个：https:// investor.lilly.com/news-releas es/news-release-details/lilly-breaks-ground-pennsylvanias-lehigh-valley-35-billion-site",
+      "link": "https://www.trumpstruth.org/statuses/43565",
+      "published": "Fri, 13 Nov 2026 00:18:24 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43551",
-      "published": "Wed, 11 Nov 2026 17:56:32 +0000",
+      "original": "From Hugh Hewitt: “President Trump was as good as he has ever been today. Still the best interview in the country. Please pass along my thanks to President Trump. Hugh”",
+      "translated": "休·休伊特（Hugh Hewitt）说：“特朗普总统今天的表现和他以往一样出色。仍然是全美最好的访谈。请转达我对特朗普总统的谢意。休”",
+      "link": "https://www.trumpstruth.org/statuses/43564",
+      "published": "Thu, 12 Nov 2026 23:30:25 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43552",
-      "published": "Wed, 11 Nov 2026 17:56:20 +0000",
+      "original": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he’s referring to Democrat run Blue States such as California, Minnesota, Illinois, Maine, and New York. Billions of Dollars are being stolen on an hourly basis. Hopefully his words will ring true! It will be an honor to work with him on this very big Democrat problem that, when solved, will literally balance the Budget of the U.S. President DONALD J. TRUMP",
+      "translated": "参议员查克·舒默刚刚表示，他希望杜绝美国的腐败现象。我想他指的是由民主党执政的蓝州，比如加利福尼亚州、明尼苏达州、伊利诺伊州、缅因州和纽约州。每小时都有数十亿美元被盗。希望他的话能兑现！我很荣幸能与他合作，解决这个非常严重的民主党问题。一旦解决，美国联邦预算将真正实现平衡。美国总统唐纳德·J.",
+      "link": "https://www.trumpstruth.org/statuses/43563",
+      "published": "Thu, 12 Nov 2026 18:41:03 +0000",
       "stale": false
     },
     {
-      "original": "The failing New York Times wrote about the “settling of a sexual harassment suit brought years ago by a waitress at President Trump’s golf club in Bedminster, N.J.” What they fail to say is that it did not involve President Trump, a rather important omission. FAKE NEWS!!!",
-      "translated": "日薄西山的《纽约时报》报道了“几年前由新泽西州贝德明斯特市特朗普总统高尔夫俱乐部的一名女服务员提起的性骚扰诉讼的和解”。他们没有说的是，这起诉讼与特朗普总统无关，这是一个相当重要的遗漏。假新闻！！！",
-      "link": "https://www.trumpstruth.org/statuses/43550",
-      "published": "Wed, 11 Nov 2026 06:47:20 +0000",
+      "original": "I rebuilt our Military in my First Term, and we’re doing it AGAIN, bigger and better than ever before! The Radical Democrat Majority in the next Congress has already made it clear that their Number One Agenda is to BLOCK and RESIST this historic investment in our National Security. They want to leave our Warriors weak, and unguarded, but the American People want their Warriors SAFE and STRONG. That’s why TODAY I am calling on Senate Leadership to IMMEDIATELY move on the 350 Billion Dollar Reconciliation Bill to give our brave Warriors the DECISIVE ADVANTAGE they deserve. Our Military must be strong, powerful, and respected. Republicans must deliver for our Warriors. The Democrats never will. The time is NOW. MAKE AMERICA STRONG AGAIN! President DONALD J. TRUMP",
+      "translated": "我在第一任期内重建了我们的军队，现在我们正在再次重建，规模更大、水平更高，前所未有！下一届国会中的激进民主党多数派已经明确表示，他们的头等大事就是阻挠和抵制这项对我们国家安全的历史性投资。他们想让我们的战士变得软弱无力、毫无防备，但美国人民希望他们的战士安全无虞、强大有力。这就是为什么我今天呼吁参议院领导层",
+      "link": "https://www.trumpstruth.org/statuses/43562",
+      "published": "Thu, 12 Nov 2026 17:24:53 +0000",
       "stale": false
     },
     {
-      "original": "The New York Times incorrectly reported that “Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.” This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span’s request, not mine. The Times knew this, but lied, in order to demean - But this is the least of their lies!",
-      "translated": "《纽约时报》错误地报道称，“特朗普先生 特朗普先生在C-Span节目首播时打来电话，显然没有事先通知。” 这是错误的。这是一次完全按计划进行的通话，是为了帮C-Span一个忙，由白宫传播部门安排。这是应C-Span的要求，而不是我的要求。《纽约时报》知道这一点，但为了贬低我而撒谎——但这只是他们撒的谎中最轻微的一个！",
-      "link": "https://www.trumpstruth.org/statuses/43549",
-      "published": "Wed, 11 Nov 2026 06:25:25 +0000",
+      "original": "Will the Seditious Six ever be prosecuted? What they did was a great violation to our Country and its Constitution! President DONALD J. TRUMP",
+      "translated": "“煽动叛乱六人组”是否会受到起诉？他们的所作所为严重侵犯了我们的国家及其宪法！唐纳德·J·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43561",
+      "published": "Thu, 12 Nov 2026 15:59:05 +0000",
       "stale": false
     }
   ],
