@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-15 10:17",
-  "updated_at_iso": "2026-11-15T10:17:23+08:00",
+  "updated_at": "2026-11-16 10:29",
+  "updated_at_iso": "2026-11-16T10:29:27+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 21.7,
-      "feels_like": 23.3,
-      "code": 3,
-      "max": 24.2,
-      "min": 16.6,
-      "rain_probability": 0,
-      "stale": true
+      "temperature": 23.5,
+      "feels_like": 25.7,
+      "code": 51,
+      "max": 27.3,
+      "min": 19.5,
+      "rain_probability": 92,
+      "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 21.0,
-      "feels_like": 21.5,
-      "code": 2,
-      "max": 23.6,
-      "min": 14.9,
-      "rain_probability": 6,
+      "temperature": 17.2,
+      "feels_like": 18.2,
+      "code": 3,
+      "max": 20.2,
+      "min": 16.1,
+      "rain_probability": 92,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 23.4,
-      "feels_like": 25.7,
-      "code": 1,
-      "max": 26.7,
-      "min": 18.1,
-      "rain_probability": 2,
+      "temperature": 24.3,
+      "feels_like": 26.1,
+      "code": 0,
+      "max": 26.6,
+      "min": 18.7,
+      "rain_probability": 25,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 23.9,
-      "feels_like": 26.4,
-      "code": 0,
-      "max": 26.4,
-      "min": 18.9,
-      "rain_probability": 25,
+      "temperature": 24.9,
+      "feels_like": 27.2,
+      "code": 51,
+      "max": 25.5,
+      "min": 19.4,
+      "rain_probability": 18,
       "stale": false
     }
   ],
@@ -48,105 +48,100 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 88.56,
-      "current_price": 88.56,
-      "previous_close": 88.74,
-      "change": -0.1799999999999926,
-      "change_pct": -0.20283975659228376,
-      "market_time": "11-14 06:00",
+      "price": 88.1,
+      "current_price": 88.1,
+      "previous_close": 88.56,
+      "change": -0.46000000000000796,
+      "change_pct": -0.5194218608852845,
+      "market_time": "11-16 10:18",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 95.84,
-      "current_price": 95.84,
-      "previous_close": 95.82,
-      "change": 0.020000000000010232,
-      "change_pct": 0.02087246921311859,
-      "market_time": "11-14 05:59",
+      "price": 95.13,
+      "current_price": 95.13,
+      "previous_close": 95.84,
+      "change": -0.710000000000008,
+      "change_pct": -0.7408180300500918,
+      "market_time": "11-16 10:19",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml",
-      "published": "Sun, 15 Nov 2026 09:25:01 +0800",
+      "title": "以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732610.shtml",
+      "published": "Mon, 16 Nov 2026 09:54:46 +0800",
       "stale": false
     },
     {
-      "title": "南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml",
-      "published": "Sun, 15 Nov 2026 09:24:15 +0800",
+      "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
+      "published": "Mon, 16 Nov 2026 09:04:21 +0800",
       "stale": false
     },
     {
-      "title": "在柬埔寨金边“法语国家文化村”感受多元文化魅力",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml",
-      "published": "Sat, 14 Nov 2026 23:43:11 +0800",
+      "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
+      "published": "Mon, 16 Nov 2026 08:04:58 +0800",
       "stale": false
     },
     {
-      "title": "英国格拉斯哥公寓楼发生蓄意纵火案 15人送医",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml",
-      "published": "Sat, 14 Nov 2026 22:56:39 +0800",
+      "title": "美国“火神”火箭未能将亚马逊卫星送入预定轨道",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732548.shtml",
+      "published": "Mon, 16 Nov 2026 07:54:47 +0800",
       "stale": false
     },
     {
-      "title": "2026釜山国际艺术节在韩国举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732160.shtml",
-      "published": "Sat, 14 Nov 2026 20:32:47 +0800",
+      "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+      "published": "Mon, 16 Nov 2026 07:41:55 +0800",
       "stale": false
     },
     {
-      "title": "联合国警告：也门塔伊兹省面临人道主义危机",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml",
-      "published": "Sat, 14 Nov 2026 20:32:37 +0800",
+      "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
+      "published": "Mon, 16 Nov 2026 07:20:21 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Dollars in Value? In other words, Investors throughout the World hated seeing what took place on Election Day. But have no fear, the Market has since gone up, and America will soon be GREATER THAN EVER BEFORE! President DONALD J. TRUMP",
-      "translated": "有没有人注意到，大选刚结束，股市就蒸发了3万亿美元的市值？换句话说，世界各地的投资者都对选举日发生的事情感到厌恶。不过不用担心，此后股市已经上涨，美国很快就会比以往任何时候都更加强大！唐纳德·J·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43582",
-      "published": "Sun, 15 Nov 2026 00:50:04 +0000",
+      "original": "Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with End of Iran War: https://www. breitbart.com/politics/2026/11 /15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/",
+      "translated": "独家报道 — 伊拉克总统尼扎尔·阿梅迪：特朗普总统是历史上“非常重要的伟人”，他能够结束伊朗战争，为世界带来和平与繁荣： https://www. breitbart.com/politics/2026/11 /15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/",
+      "link": "https://www.trumpstruth.org/statuses/43593",
+      "published": "Sun, 15 Nov 2026 19:21:01 +0000",
       "stale": false
     },
     {
-      "original": "Some of the people that Gavin Newscum freed from the Death Penalty, after many years of going through the California “Justice” System, make Hannibal Lecter, of Silence of the Lambs, look like a nice guy! President DJT",
-      "translated": "加文·纽斯坎姆在经过加利福尼亚“司法”系统多年审理后，将一些人从死刑中解救出来，这让《沉默的羔羊》中的汉尼拔·莱克特看起来像个好人！唐纳德·J·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43581",
-      "published": "Sat, 14 Nov 2026 22:00:23 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43591",
+      "published": "Sun, 15 Nov 2026 16:10:26 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619 Trash Island is currently the Worst Golf Course anywhere in the World, but the Department of the Interior is going to make it into the Best Golf Course anywhere in the World. Unfortunately, Judge Ana Reyes doesn’t want us to quickly and inexpensively fix up the Course which is, also, very dangerous — The Fairways are far too close together. When you walk down the corridors of Trash Island, you don’t hear the sound of the running Potomac, all you hear is the sound of people screaming, “FORE!” In any event, we’re making progress, and hopefully the Judge will agree that the Dignity, Beauty, and Importance of Washington, D.C., will be greatly enhanced by this soon to be beautiful Project. Trash Island, after years of laughter and scorn, will evolve into something very special, something which the Judge will be able to take great pride in seeing! All over the World it will be acclaimed as being the Best Golf Course anywhere, attracting the U.S. Open, the PGA Championship, the Ryder Cup, and the Presidents Cup, with all of the Economic Development that will bring. Very importantly, also, is that anyone living in the D.C. area will be given a 50% discount on any and all Rates charged. The Department of the Interior has done a magnificent job of cleaning, fixing, renovating, and rebuilding 83 Fountains, Monuments, and Statues throughout our beautiful Capital. Even the Reflecting Pool, which hasn’t worked properly since its building in 1922, is open, beautiful, and working as it was always expected to do. Perhaps most importantly, Crime in Washington, D.C., is down 91%, A RECORD, and the People are happy and safe again! The Department of the Interior’s Golf Project will greatly enhance everything else that has already taken place in the last two year period. Everyone is proud and grateful again! Thank you for your attention to this matter. President DONALD J. TRUMP View image View image View image View image Quoted Donald J. Trump RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249 View image",
-      "translated": "转发：https://truthsocial.com/users/realDonaldTrump/statuses/117616455572752619垃圾岛目前是世界上最差的高尔夫球场，但内政部将把它打造成世界上最好的高尔夫球场。不幸的是，安娜·雷耶斯法官不希望我们以快速且低廉的方式修缮这座球场，而它也确实非常危险——球道之间的距离太近了。当您沿着走廊走时",
-      "link": "https://www.trumpstruth.org/statuses/43580",
-      "published": "Sat, 14 Nov 2026 19:35:21 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43592",
+      "published": "Sun, 15 Nov 2026 16:10:17 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249 View image Quoted Donald J. Trump RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186 View image View image View image View image",
-      "translated": "转发：https://truthsocial.com/users/realDonaldTrump/statuses/117616454522358249 查看图片 引用唐纳德·J·特朗普 转发：https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186 查看图片 查看图片 查看图片 查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43578",
-      "published": "Sat, 14 Nov 2026 19:31:25 +0000",
+      "original": "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconstruction, by the Department of the Interior, of one of the worst and most dangerous golf courses anywhere in the U.S. “Trash Island,” as it is affectionately known, needs work, and needs it now! It is in a terrible state of disrepair, as anybody can see by just looking at the pictures that are now circulating all over the Country, and in the Court. They don’t call it Trash Island for no reason! Why would a judge want to delay taking a terrible and very unsafe golf course, one that is mocked all over D.C.(and far beyond!), instead of quickly turning it into a great and admired one? “INTERIOR” has the absolute right to do so, and will immediately appeal, on an expedited basis, this highly destructive and political decision of the judge. Time is of the essence, or golf seasons, jobs, prestige, and much money, will be lost! Thank you for your attention to this matter! President DJT",
+      "translated": "拜登任命的Reyes法官又将内政部对美国境内最差、最危险的高尔夫球场之一的修缮和重建工作推迟了两周。这个被亲切地称为“垃圾岛”的高尔夫球场亟需修缮，而且刻不容缓！正如任何人都可以从目前在全国各地以及在法庭上流传的照片中看到的那样，它处于极度破败的状态。这些照片没有",
+      "link": "https://www.trumpstruth.org/statuses/43590",
+      "published": "Sun, 15 Nov 2026 14:30:15 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186 View image View image View image View image Quoted Donald J. Trump RT: https://truthsocial.com/users/realDonaldTrump/statuses/117616446948354692 View image View image View image",
-      "translated": "转发：https://truthsocial.com/users/realDonaldTrump/statuses/117616450635385186 查看图片 查看图片 查看图片 查看图片 引用唐纳德·J·特朗普 转发：https://truthsocial.com/users/realDonaldTrump/statuses/117616446948354692 查看图片 查看图片 查看图片",
-      "link": "https://www.trumpstruth.org/statuses/43579",
-      "published": "Sat, 14 Nov 2026 19:31:09 +0000",
+      "original": "I am in the White House having meetings on many subjects. Very exciting times for the USA. Great things are happening - We are the “hottest” Country anywhere in the World! President DJT",
+      "translated": "我正在白宫就许多议题举行会议。对美国来说，这是一个非常激动人心的时刻。正在发生一些了不起的事情——我们是全世界“最热门”的国家！DJT总统",
+      "link": "https://www.trumpstruth.org/statuses/43589",
+      "published": "Sun, 15 Nov 2026 13:42:05 +0000",
       "stale": false
     }
   ],
-  "errors": [
-    {
-      "source": "天气·南宁",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    }
-  ]
+  "errors": []
 }
