@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-16 10:29",
-  "updated_at_iso": "2026-11-16T10:29:27+08:00",
+  "updated_at": "2026-11-17 12:53",
+  "updated_at_iso": "2026-11-17T12:53:25+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 23.5,
-      "feels_like": 25.7,
-      "code": 51,
-      "max": 27.3,
-      "min": 19.5,
-      "rain_probability": 92,
+      "temperature": 27.2,
+      "feels_like": 31.1,
+      "code": 2,
+      "max": 28.8,
+      "min": 21.7,
+      "rain_probability": 86,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 17.2,
-      "feels_like": 18.2,
+      "temperature": 21.6,
+      "feels_like": 22.7,
       "code": 3,
-      "max": 20.2,
-      "min": 16.1,
-      "rain_probability": 92,
+      "max": 22.4,
+      "min": 15.3,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 24.3,
-      "feels_like": 26.1,
-      "code": 0,
-      "max": 26.6,
-      "min": 18.7,
-      "rain_probability": 25,
+      "temperature": 27.5,
+      "feels_like": 30.4,
+      "code": 1,
+      "max": 28.1,
+      "min": 20.7,
+      "rain_probability": 78,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 24.9,
-      "feels_like": 27.2,
-      "code": 51,
-      "max": 25.5,
-      "min": 19.4,
-      "rain_probability": 18,
+      "temperature": 28.7,
+      "feels_like": 31.8,
+      "code": 2,
+      "max": 28.9,
+      "min": 21.3,
+      "rain_probability": 2,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 88.1,
-      "current_price": 88.1,
-      "previous_close": 88.56,
-      "change": -0.46000000000000796,
-      "change_pct": -0.5194218608852845,
-      "market_time": "11-16 10:18",
+      "price": 85.1,
+      "current_price": 85.1,
+      "previous_close": 85.72,
+      "change": -0.6200000000000045,
+      "change_pct": -0.723285114325717,
+      "market_time": "11-17 12:42",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 95.13,
-      "current_price": 95.13,
-      "previous_close": 95.84,
-      "change": -0.710000000000008,
-      "change_pct": -0.7408180300500918,
-      "market_time": "11-16 10:19",
+      "price": 91.78,
+      "current_price": 91.78,
+      "previous_close": 92.44,
+      "change": -0.6599999999999966,
+      "change_pct": -0.7139766334919911,
+      "market_time": "11-17 12:36",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "以色列爆料“伊朗近期可能袭击特朗普”，特朗普减少公开活动，贝森特、鲁比奥等高官住进“安全屋”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732610.shtml",
-      "published": "Mon, 16 Nov 2026 09:54:46 +0800",
+      "title": "法医专家：爱泼斯坦可能在狱中遭谋杀，而非自杀",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733336.shtml",
+      "published": "Tue, 17 Nov 2026 12:40:43 +0800",
       "stale": false
     },
     {
-      "title": "刚果（金）埃博拉疫情持续六个月 已致5400余人死亡",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732536.shtml",
-      "published": "Mon, 16 Nov 2026 09:04:21 +0800",
+      "title": "联合国前副秘书长索尔海姆：别只听传言，亲眼看看中国的绿色蜕变 | 新闻会客厅",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733325.shtml",
+      "published": "Tue, 17 Nov 2026 12:25:29 +0800",
       "stale": false
     },
     {
-      "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
-      "published": "Mon, 16 Nov 2026 08:04:58 +0800",
+      "title": "抵达深圳后，加拿大总理卡尼发文：期待为太平洋两岸开拓新机遇",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733303.shtml",
+      "published": "Tue, 17 Nov 2026 11:21:59 +0800",
       "stale": false
     },
     {
-      "title": "美国“火神”火箭未能将亚马逊卫星送入预定轨道",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732548.shtml",
-      "published": "Mon, 16 Nov 2026 07:54:47 +0800",
+      "title": "葡萄牙大陆地区今年已出现10次热浪 创单年热浪次数新高",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733279.shtml",
+      "published": "Tue, 17 Nov 2026 11:20:01 +0800",
       "stale": false
     },
     {
-      "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
-      "published": "Mon, 16 Nov 2026 07:41:55 +0800",
+      "title": "欧洲“完整阵容”与乌美会谈  俄方指责欧洲无意推动和平解决冲突",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733246.shtml",
+      "published": "Tue, 17 Nov 2026 11:19:19 +0800",
       "stale": false
     },
     {
-      "title": "伊朗：两艘油轮在霍尔木兹海峡触雷引发剧烈爆炸",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732537.shtml",
-      "published": "Mon, 16 Nov 2026 07:20:21 +0800",
+      "title": "8人凌晨3点潜入军工厂纵火，这个国家却要关闭对俄口岸！俄罗斯：这是“恐俄症”发作",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733273.shtml",
+      "published": "Tue, 17 Nov 2026 10:41:25 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "Exclusive — Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with End of Iran War: https://www. breitbart.com/politics/2026/11 /15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/",
-      "translated": "独家报道 — 伊拉克总统尼扎尔·阿梅迪：特朗普总统是历史上“非常重要的伟人”，他能够结束伊朗战争，为世界带来和平与繁荣： https://www. breitbart.com/politics/2026/11 /15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significantly-important-man-in-history-who-can-bring-peace-prosperity-to-world-with-end-of-iran-war/",
-      "link": "https://www.trumpstruth.org/statuses/43593",
-      "published": "Sun, 15 Nov 2026 19:21:01 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43609",
+      "published": "Tue, 17 Nov 2026 02:31:28 +0000",
       "stale": false
     },
     {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43591",
-      "published": "Sun, 15 Nov 2026 16:10:26 +0000",
+      "link": "https://www.trumpstruth.org/statuses/43610",
+      "published": "Tue, 17 Nov 2026 02:31:25 +0000",
       "stale": false
     },
     {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43592",
-      "published": "Sun, 15 Nov 2026 16:10:17 +0000",
+      "link": "https://www.trumpstruth.org/statuses/43611",
+      "published": "Tue, 17 Nov 2026 02:31:05 +0000",
       "stale": false
     },
     {
-      "original": "Biden appointed Judge Reyes has delayed, for yet another two weeks, the fix up and reconstruction, by the Department of the Interior, of one of the worst and most dangerous golf courses anywhere in the U.S. “Trash Island,” as it is affectionately known, needs work, and needs it now! It is in a terrible state of disrepair, as anybody can see by just looking at the pictures that are now circulating all over the Country, and in the Court. They don’t call it Trash Island for no reason! Why would a judge want to delay taking a terrible and very unsafe golf course, one that is mocked all over D.C.(and far beyond!), instead of quickly turning it into a great and admired one? “INTERIOR” has the absolute right to do so, and will immediately appeal, on an expedited basis, this highly destructive and political decision of the judge. Time is of the essence, or golf seasons, jobs, prestige, and much money, will be lost! Thank you for your attention to this matter! President DJT",
-      "translated": "拜登任命的Reyes法官又将内政部对美国境内最差、最危险的高尔夫球场之一的修缮和重建工作推迟了两周。这个被亲切地称为“垃圾岛”的高尔夫球场亟需修缮，而且刻不容缓！正如任何人都可以从目前在全国各地以及在法庭上流传的照片中看到的那样，它处于极度破败的状态。这些照片没有",
-      "link": "https://www.trumpstruth.org/statuses/43590",
-      "published": "Sun, 15 Nov 2026 14:30:15 +0000",
+      "original": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World, Citizens in Blue States like New York have been paying 3X-7X more for Natural Gas due to the costly Anti-Energy Policies pushed by Blue State Governors and Political leaders. We must protect our American Families from these Radical Climate Extremists, they are exploding Energy costs. The Democrat Party wants to ban all Pipelines, all Refineries, and all Fossil Fuels. The great news is that I am working to END the Left's War on Energy Affordability and Energy Security, and I will UNLEASH American Energy Dominance for ALL Americans! President DONALD J. TRUMP",
+      "translated": "尽管美国拥有世界上最丰富的天然气供应和最低的天然气成本，但由于蓝州州长和政治领袖推行代价高昂的反能源政策，像纽约这样的蓝州居民一直在为天然气支付高出3至7倍的价格。我们必须保护美国家庭免受这些激进的气候极端分子的侵害，他们正在使能源成本飙升。民主党想要禁止所有输油管道、所有炼油厂，以及",
+      "link": "https://www.trumpstruth.org/statuses/43607",
+      "published": "Tue, 17 Nov 2026 00:44:37 +0000",
       "stale": false
     },
     {
-      "original": "I am in the White House having meetings on many subjects. Very exciting times for the USA. Great things are happening - We are the “hottest” Country anywhere in the World! President DJT",
-      "translated": "我正在白宫就许多议题举行会议。对美国来说，这是一个非常激动人心的时刻。正在发生一些了不起的事情——我们是全世界“最热门”的国家！DJT总统",
-      "link": "https://www.trumpstruth.org/statuses/43589",
-      "published": "Sun, 15 Nov 2026 13:42:05 +0000",
+      "original": "Under my leadership, our Economy is booming! New Businesses created in America have reached ALL-TIME HIGHS — Over 500,000 new Businesses formed every month this year. Unlike the Communists that want to tax our Small Business Owners to “death,” my Administration and Republicans in Congress rewarded them with the Largest Tax Cuts in American History, which EVERY Democrat voted against. I WILL ALWAYS FIGHT FOR THE AMERICAN PEOPLE! President DONALD J. TRUMP",
+      "translated": "在我的领导下，我们的经济蓬勃发展！美国新创企业的数量达到了历史最高水平——今年每月新成立的企业超过50万家。与那些想把我们的小企业主“征税征死”的共产主义者不同，我的政府和国会中的共和党人为他们提供了美国历史上最大规模的减税，而每一位民主党人都投了反对票。我将永远为美国人民而战！唐纳德·J·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43608",
+      "published": "Tue, 17 Nov 2026 00:42:06 +0000",
       "stale": false
     }
   ],
