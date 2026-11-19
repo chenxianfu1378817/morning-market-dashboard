@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-18 11:57",
-  "updated_at_iso": "2026-11-18T11:57:52+08:00",
+  "updated_at": "2026-11-19 11:54",
+  "updated_at_iso": "2026-11-19T11:54:43+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 20.2,
-      "feels_like": 19.3,
+      "temperature": 18.3,
+      "feels_like": 16.6,
       "code": 3,
-      "max": 23.2,
-      "min": 17.1,
-      "rain_probability": 90,
+      "max": 19.2,
+      "min": 14.7,
+      "rain_probability": 88,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 13.8,
-      "feels_like": 11.0,
+      "temperature": 15.7,
+      "feels_like": 11.9,
       "code": 3,
-      "max": 15.5,
-      "min": 11.8,
-      "rain_probability": 78,
+      "max": 18.3,
+      "min": 10.2,
+      "rain_probability": 55,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 21.9,
-      "feels_like": 21.9,
-      "code": 51,
-      "max": 23.2,
-      "min": 17.2,
-      "rain_probability": 72,
+      "temperature": 20.0,
+      "feels_like": 18.4,
+      "code": 3,
+      "max": 22.1,
+      "min": 15.2,
+      "rain_probability": 8,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 27.1,
-      "feels_like": 30.3,
-      "code": 51,
-      "max": 27.3,
-      "min": 17.9,
-      "rain_probability": 90,
+      "temperature": 19.9,
+      "feels_like": 18.1,
+      "code": 3,
+      "max": 20.0,
+      "min": 16.9,
+      "rain_probability": 24,
       "stale": false
     }
   ],
@@ -48,65 +48,72 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 84.94,
-      "current_price": 84.94,
-      "previous_close": 86.01,
-      "change": -1.0700000000000074,
-      "change_pct": -1.2440413905359926,
-      "market_time": "11-18 11:47",
+      "price": 81.94,
+      "current_price": 81.94,
+      "previous_close": 82.31,
+      "change": -0.37000000000000455,
+      "change_pct": -0.4495201069128958,
+      "market_time": "11-19 11:44",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 92.57,
-      "current_price": 92.57,
-      "previous_close": 93.14,
-      "change": -0.5700000000000074,
-      "change_pct": -0.6119819626368986,
-      "market_time": "11-18 11:46",
+      "price": 89.09,
+      "current_price": 89.09,
+      "previous_close": 89.17,
+      "change": -0.0799999999999983,
+      "change_pct": -0.08971627228888447,
+      "market_time": "11-19 11:44",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "数千海地居民声援萨尔瓦多部队打击黑帮",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733942.shtml",
-      "published": "Wed, 18 Nov 2026 11:42:49 +0800",
+      "title": "日本多个民间团体要求政府坚持“无核三原则”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml",
+      "published": "Thu, 19 Nov 2026 10:52:19 +0800",
       "stale": false
     },
     {
-      "title": "美官员称对伊朗格什姆岛实施“自卫”打击",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733941.shtml",
-      "published": "Wed, 18 Nov 2026 11:41:19 +0800",
+      "title": "“晶通丝路”东海水晶文化体验活动在曼谷举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734491.shtml",
+      "published": "Thu, 19 Nov 2026 10:11:59 +0800",
       "stale": false
     },
     {
-      "title": "多国工商界人士：期待APEC各经济体加强合作 创造繁荣",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733945.shtml",
-      "published": "Wed, 18 Nov 2026 11:03:17 +0800",
+      "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
+      "published": "Thu, 19 Nov 2026 10:11:13 +0800",
       "stale": false
     },
     {
-      "title": "苹果、万豪等美国公司突发网络技术故障",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
-      "published": "Wed, 18 Nov 2026 10:53:42 +0800",
+      "title": "艾格纳：德国首位女总统？",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734508.shtml",
+      "published": "Thu, 19 Nov 2026 09:56:36 +0800",
       "stale": false
     },
     {
-      "title": "胡塞武装宣布夺取也门西南两省的10个地区",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733893.shtml",
-      "published": "Wed, 18 Nov 2026 10:10:12 +0800",
+      "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
+      "published": "Thu, 19 Nov 2026 09:13:28 +0800",
       "stale": false
     },
     {
-      "title": "以色列议会选举正直党议员卡哈纳出任议长",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733884.shtml",
-      "published": "Wed, 18 Nov 2026 10:09:32 +0800",
+      "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
+      "published": "Thu, 19 Nov 2026 07:43:53 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
+    {
+      "original": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in particular, a Deal that will be great for our Farmers and those in the business of “Energy.” President Marcos is a powerful leader, and a man of high integrity and substance. It was an Honor to be with him, and his beautiful wife and son. See you in China! President DONALD J. TRUMP",
+      "translated": "我刚刚在菲律宾就贸易、国家安全和其他议题举行了一次成功的会晤，现在正从菲律宾前往中国。我很高兴地宣布，我们与菲律宾达成了一项全新的、截然不同的贸易协议，这将是一项真正的里程碑式协议，尤其是一项对我们的农民和“能源”行业从业者非常有利的协议。小马科斯总统是一位强有力的领导人，是一位品格高尚、能力出众的人。我",
+      "link": "https://www.trumpstruth.org/statuses/43616",
+      "published": "Wed, 18 Nov 2026 07:44:12 +0000",
+      "stale": false
+    },
     {
       "original": "Thank you, BIG John. You are great!!! President DJT https://www. youtube.com/shorts/CTlVRPAtdXA",
       "translated": "谢谢你，大个子约翰。您太棒了！！！DJT总统https://www. youtube.com/shorts/CTlVRPAtdXA",
@@ -116,7 +123,7 @@
     },
     {
       "original": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT Quoted Schoenlaw https:// tradersunion.com/news/market-v oices/show/4212469-us-gasoline-prices-drop/ . Last week saw the biggest drop in retail gas prices at the pump in 18 years! The blockade is working. Where is the media???Credit President Trump!!! @ realDonaldTrump",
-      "translated": "转发：https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 汽油价格创18年来最大跌幅。注意到他们等到“大选”之后才这样做吗？DJT总统引用了Schoenlaw的话 https:// tradersunion.com/news/market-v oices/show/4212469-us-gasoline-prices-drop/ 。上周，加油站的零售汽油价格出现了18年来最大跌幅！封锁正在奏效。媒体在哪里？？？功劳归于特朗普总统！！！@ realDonaldTrump",
+      "translated": "转发：https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 18年来汽油价格最大跌幅。注意到他们等到“大选”之后了吗？DJT总统引用了Schoenlaw的话 https:// tradersunion.com/news/market-v oices/show/4212469-us-gasoline-prices-drop/ 。上周，加油站的零售汽油价格出现了18年来最大跌幅！封锁正在发挥作用。媒体在哪里？？？功劳归于特朗普总统！！！@ realDonaldTrump",
       "link": "https://www.trumpstruth.org/statuses/43613",
       "published": "Tue, 17 Nov 2026 22:09:46 +0000",
       "stale": false
@@ -133,13 +140,6 @@
       "translated": "查看图像",
       "link": "https://www.trumpstruth.org/statuses/43609",
       "published": "Tue, 17 Nov 2026 02:31:28 +0000",
-      "stale": false
-    },
-    {
-      "original": "View image",
-      "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43610",
-      "published": "Tue, 17 Nov 2026 02:31:25 +0000",
       "stale": false
     }
   ],
