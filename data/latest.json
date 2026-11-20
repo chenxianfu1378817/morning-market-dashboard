@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-19 11:54",
-  "updated_at_iso": "2026-11-19T11:54:43+08:00",
+  "updated_at": "2026-11-20 11:47",
+  "updated_at_iso": "2026-11-20T11:47:52+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 18.3,
-      "feels_like": 16.6,
+      "temperature": 13.7,
+      "feels_like": 10.7,
       "code": 3,
-      "max": 19.2,
-      "min": 14.7,
-      "rain_probability": 88,
+      "max": 15.2,
+      "min": 11.7,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 15.7,
+      "temperature": 16.4,
       "feels_like": 11.9,
-      "code": 3,
-      "max": 18.3,
-      "min": 10.2,
-      "rain_probability": 55,
+      "code": 0,
+      "max": 18.2,
+      "min": 11.6,
+      "rain_probability": 53,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 20.0,
-      "feels_like": 18.4,
-      "code": 3,
-      "max": 22.1,
-      "min": 15.2,
-      "rain_probability": 8,
+      "temperature": 13.6,
+      "feels_like": 12.3,
+      "code": 51,
+      "max": 17.6,
+      "min": 11.7,
+      "rain_probability": 94,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 19.9,
-      "feels_like": 18.1,
-      "code": 3,
-      "max": 20.0,
-      "min": 16.9,
-      "rain_probability": 24,
+      "temperature": 12.5,
+      "feels_like": 10.1,
+      "code": 55,
+      "max": 17.2,
+      "min": 11.6,
+      "rain_probability": 100,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 81.94,
-      "current_price": 81.94,
-      "previous_close": 82.31,
-      "change": -0.37000000000000455,
-      "change_pct": -0.4495201069128958,
-      "market_time": "11-19 11:44",
+      "price": 82.67,
+      "current_price": 82.67,
+      "previous_close": 82.44,
+      "change": 0.23000000000000398,
+      "change_pct": 0.2789907811741921,
+      "market_time": "11-20 11:37",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 89.09,
-      "current_price": 89.09,
-      "previous_close": 89.17,
-      "change": -0.0799999999999983,
-      "change_pct": -0.08971627228888447,
-      "market_time": "11-19 11:44",
+      "price": 89.71,
+      "current_price": 89.71,
+      "previous_close": 89.44,
+      "change": 0.269999999999996,
+      "change_pct": 0.30187835420393117,
+      "market_time": "11-20 11:37",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "日本多个民间团体要求政府坚持“无核三原则”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml",
-      "published": "Thu, 19 Nov 2026 10:52:19 +0800",
+      "title": "中泰媒体合作交流活动在曼谷举行",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735044.shtml",
+      "published": "Fri, 20 Nov 2026 10:32:00 +0800",
       "stale": false
     },
     {
-      "title": "“晶通丝路”东海水晶文化体验活动在曼谷举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734491.shtml",
-      "published": "Thu, 19 Nov 2026 10:11:59 +0800",
+      "title": "挪威创新署官员：中国电动汽车制造商正获得竞争优势",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735042.shtml",
+      "published": "Fri, 20 Nov 2026 10:31:28 +0800",
       "stale": false
     },
     {
-      "title": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
-      "published": "Thu, 19 Nov 2026 10:11:13 +0800",
+      "title": "巴西2026年农牧业总产值预计达1.46万亿雷亚尔",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735012.shtml",
+      "published": "Fri, 20 Nov 2026 10:30:52 +0800",
       "stale": false
     },
     {
-      "title": "艾格纳：德国首位女总统？",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734508.shtml",
-      "published": "Thu, 19 Nov 2026 09:56:36 +0800",
+      "title": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml",
+      "published": "Fri, 20 Nov 2026 09:44:48 +0800",
       "stale": false
     },
     {
-      "title": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
-      "published": "Thu, 19 Nov 2026 09:13:28 +0800",
+      "title": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735056.shtml",
+      "published": "Fri, 20 Nov 2026 09:39:38 +0800",
       "stale": false
     },
     {
-      "title": "沙特主导的联军称摧毁胡塞武装60个军事目标",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734452.shtml",
-      "published": "Thu, 19 Nov 2026 07:43:53 +0800",
+      "title": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735023.shtml",
+      "published": "Fri, 20 Nov 2026 08:53:39 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in particular, a Deal that will be great for our Farmers and those in the business of “Energy.” President Marcos is a powerful leader, and a man of high integrity and substance. It was an Honor to be with him, and his beautiful wife and son. See you in China! President DONALD J. TRUMP",
-      "translated": "我刚刚在菲律宾就贸易、国家安全和其他议题举行了一次成功的会晤，现在正从菲律宾前往中国。我很高兴地宣布，我们与菲律宾达成了一项全新的、截然不同的贸易协议，这将是一项真正的里程碑式协议，尤其是一项对我们的农民和“能源”行业从业者非常有利的协议。小马科斯总统是一位强有力的领导人，是一位品格高尚、能力出众的人。我",
-      "link": "https://www.trumpstruth.org/statuses/43616",
-      "published": "Wed, 18 Nov 2026 07:44:12 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43645",
+      "published": "Fri, 20 Nov 2026 01:51:30 +0000",
       "stale": false
     },
     {
-      "original": "Thank you, BIG John. You are great!!! President DJT https://www. youtube.com/shorts/CTlVRPAtdXA",
-      "translated": "谢谢你，大个子约翰。您太棒了！！！DJT总统https://www. youtube.com/shorts/CTlVRPAtdXA",
-      "link": "https://www.trumpstruth.org/statuses/43615",
-      "published": "Wed, 18 Nov 2026 01:01:45 +0000",
-      "stale": false
-    },
-    {
-      "original": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT Quoted Schoenlaw https:// tradersunion.com/news/market-v oices/show/4212469-us-gasoline-prices-drop/ . Last week saw the biggest drop in retail gas prices at the pump in 18 years! The blockade is working. Where is the media???Credit President Trump!!! @ realDonaldTrump",
-      "translated": "转发：https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 18年来汽油价格最大跌幅。注意到他们等到“大选”之后了吗？DJT总统引用了Schoenlaw的话 https:// tradersunion.com/news/market-v oices/show/4212469-us-gasoline-prices-drop/ 。上周，加油站的零售汽油价格出现了18年来最大跌幅！封锁正在发挥作用。媒体在哪里？？？功劳归于特朗普总统！！！@ realDonaldTrump",
-      "link": "https://www.trumpstruth.org/statuses/43613",
-      "published": "Tue, 17 Nov 2026 22:09:46 +0000",
+      "original": "How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump’s Administration: https://www. breitbart.com/politics/2026/11 /11/how-pete-hegseth-and-stephen-miller-have-partnered-on-key-issues-in-trumps-administration/",
+      "translated": "Pete Hegseth 和 Stephen Miller 如何在特朗普政府的关键问题上合作：https://www. breitbart.com/politics/2026/11 /11/how-pete-hegseth-and-stephen-miller-have-partnered-on-key-issues-in-trumps-administration/",
+      "link": "https://www.trumpstruth.org/statuses/43644",
+      "published": "Fri, 20 Nov 2026 00:47:46 +0000",
       "stale": false
     },
     {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43612",
-      "published": "Tue, 17 Nov 2026 03:07:24 +0000",
+      "link": "https://www.trumpstruth.org/statuses/43643",
+      "published": "Fri, 20 Nov 2026 00:47:13 +0000",
       "stale": false
     },
     {
-      "original": "View image",
-      "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43609",
-      "published": "Tue, 17 Nov 2026 02:31:28 +0000",
+      "original": "The Factories Are Coming Home, ISM Just Confirmed It: https://www. realclearmarkets.com/articles/ 2026/11/02/the_factories_are_coming_home_ism_just_confirmed_it_1214700.html",
+      "translated": "工厂正在回归本土，ISM 刚刚证实了这一点：https://www. realclearmarkets.com/articles/ 2026/11/02/the_factories_are_coming_home_ism_just_confirmed_it_1214700.html",
+      "link": "https://www.trumpstruth.org/statuses/43642",
+      "published": "Fri, 20 Nov 2026 00:37:35 +0000",
+      "stale": false
+    },
+    {
+      "original": "President of the United States Donald J. Trump and The John F. Kennedy Center for the Performing Arts Announce the 49th Class of Honorees: https://www. kennedy-center.org/news-room/p ress-release-landing-page/49th-kc-honorees/",
+      "translated": "美国总统唐纳德·J·特朗普和约翰·F·肯尼迪表演艺术中心宣布第49届获奖者名单： https://www. kennedy-center.org/news-room/p ress-release-landing-page/49th-kc-honorees/",
+      "link": "https://www.trumpstruth.org/statuses/43641",
+      "published": "Fri, 20 Nov 2026 00:32:32 +0000",
       "stale": false
     }
   ],
