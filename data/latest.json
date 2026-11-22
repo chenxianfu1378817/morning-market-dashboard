@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-21 11:38",
-  "updated_at_iso": "2026-11-21T11:38:51+08:00",
+  "updated_at": "2026-11-22 10:45",
+  "updated_at_iso": "2026-11-22T10:45:04+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 18.7,
-      "feels_like": 16.9,
-      "code": 2,
-      "max": 21.2,
-      "min": 13.2,
-      "rain_probability": 2,
+      "temperature": 19.7,
+      "feels_like": 19.6,
+      "code": 3,
+      "max": 19.8,
+      "min": 13.9,
+      "rain_probability": 12,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 17.3,
-      "feels_like": 16.6,
+      "temperature": 16.7,
+      "feels_like": 15.4,
       "code": 3,
-      "max": 21.0,
-      "min": 6.5,
-      "rain_probability": 0,
+      "max": 17.8,
+      "min": 11.7,
+      "rain_probability": 100,
       "stale": false
     },
     {
       "name": "广州",
       "temperature": 18.3,
-      "feels_like": 16.9,
-      "code": 0,
-      "max": 21.1,
-      "min": 11.6,
-      "rain_probability": 2,
+      "feels_like": 16.8,
+      "code": 2,
+      "max": 20.1,
+      "min": 14.5,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 18.0,
-      "feels_like": 15.9,
-      "code": 1,
-      "max": 20.7,
-      "min": 12.5,
-      "rain_probability": 52,
+      "temperature": 19.1,
+      "feels_like": 17.1,
+      "code": 3,
+      "max": 21.8,
+      "min": 15.0,
+      "rain_probability": 0,
       "stale": false
     }
   ],
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 83.62,
-      "current_price": 83.62,
+      "price": 83.41,
+      "current_price": 83.41,
       "previous_close": 82.44,
-      "change": 1.1800000000000068,
-      "change_pct": 1.43134400776323,
+      "change": 0.9699999999999989,
+      "change_pct": 1.1766132945172232,
       "market_time": "11-21 05:59",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 89.87,
-      "current_price": 89.87,
+      "price": 89.95,
+      "current_price": 89.95,
       "previous_close": 89.44,
-      "change": 0.4300000000000068,
-      "change_pct": 0.48076923076923844,
+      "change": 0.5100000000000051,
+      "change_pct": 0.5702146690518841,
       "market_time": "11-21 05:59",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "沙特称拦截3枚胡塞武装导弹 也门媒体称沙特袭击致41死",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735663.shtml",
-      "published": "Sat, 21 Nov 2026 11:33:02 +0800",
+      "title": "特朗普：将寻求与伊朗达成一项“永久性”协议",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735946.shtml",
+      "published": "Sun, 22 Nov 2026 08:49:20 +0800",
       "stale": false
     },
     {
-      "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735662.shtml",
-      "published": "Sat, 21 Nov 2026 11:32:08 +0800",
+      "title": "英国国防大臣访基辅重申长期援乌承诺",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735938.shtml",
+      "published": "Sun, 22 Nov 2026 06:35:31 +0800",
       "stale": false
     },
     {
-      "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
-      "published": "Sat, 21 Nov 2026 11:27:26 +0800",
+      "title": "英国凯特王妃通过纪录片深度讲述抗癌经历",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735937.shtml",
+      "published": "Sun, 22 Nov 2026 06:34:59 +0800",
       "stale": false
     },
     {
-      "title": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735660.shtml",
-      "published": "Sat, 21 Nov 2026 10:31:47 +0800",
+      "title": "墨西哥抓获大毒枭“矮子伊西德罗”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735936.shtml",
+      "published": "Sun, 22 Nov 2026 06:14:20 +0800",
       "stale": false
     },
     {
-      "title": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735659.shtml",
-      "published": "Sat, 21 Nov 2026 10:25:04 +0800",
+      "title": "伊朗革命卫队称袭击美军在巴林两处基地防空雷达",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-22/10735934.shtml",
+      "published": "Sun, 22 Nov 2026 06:10:13 +0800",
       "stale": false
     },
     {
-      "title": "“讲中国故事”暨印尼摄影家赴福建采风成果展在雅加达举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735636.shtml",
-      "published": "Sat, 21 Nov 2026 10:05:33 +0800",
+      "title": "中方设备解了我们燃眉之急——委内瑞拉感谢中方支持灾后重建",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735909.shtml",
+      "published": "Sat, 21 Nov 2026 21:03:51 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "RT @ Schoenlaw By engaging in an unprecedented tripartite summit with the leaders of China and Russia, countries with which we have profound differences, President Trump not only continues his well-founded policy of always seeking to keep dialogue open, but that policy is consistent with the great statesmen of generations past: Abraham Lincoln: “Do I not destroy my enemies when I make them my friends?\" Yitzhak Rabin: “You don't make peace with friends. You make it with very unsavory enemies.\" Winston Churchill: “It is better to jaw-jaw than to war-war” Lord Palmerston: “We have no eternal allies, and we have no perpetual enemies. Our interests are eternal and perpetual, and those interests it is our duty to follow.\" John F. Kennedy: “Let us never negotiate out of fear. But let us never fear to negotiate.\" @ realDonaldTrump Reposted Schoenlaw By engaging in an unprecedented tripartite summit with the leaders of China and Russia, countries with which we have profound differences, President Trump not only continues his well-founded policy of always seeking to keep dialogue open, but that policy is consistent with the great statesmen of generations past: Abraham Lincoln: “Do I not destroy my enemies when I make them my friends?\" Yitzhak Rabin: “You don't make peace with friends. You make it with very unsavory enemies.\" Winston Churchill: “It is better to jaw-jaw than to war-war” Lord Palmerston: “We have no eternal allies, and we have no perpetual enemies. Our interests are eternal and perpetual, and those interests it is our duty to follow.\" John F. Kennedy: “Let us never negotiate out of fear. But let us never fear to negotiate.\" @ realDonaldTrump",
-      "translated": "转发 @ Schoenlaw 通过与中国和俄罗斯领导人举行前所未有的三方峰会（这两个国家与我们存在深刻分歧），特朗普总统不仅继续奉行他有充分理由的政策，即始终寻求保持对话畅通，而且这一政策也与历代伟大政治家的做法相一致：亚伯拉罕·林肯曾说：“当我把敌人变成朋友时，难道我不是在消灭敌人吗？” 伊扎克·拉宾：“你不会与朋友缔结和平。”",
-      "link": "https://www.trumpstruth.org/statuses/43646",
-      "published": "Fri, 20 Nov 2026 13:03:07 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43684",
+      "published": "Sat, 21 Nov 2026 21:14:53 +0000",
       "stale": false
     },
     {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43645",
-      "published": "Fri, 20 Nov 2026 01:51:30 +0000",
-      "stale": false
-    },
-    {
-      "original": "How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump’s Administration: https://www. breitbart.com/politics/2026/11 /11/how-pete-hegseth-and-stephen-miller-have-partnered-on-key-issues-in-trumps-administration/",
-      "translated": "Pete Hegseth 和 Stephen Miller 如何在特朗普政府的关键问题上合作：https://www. breitbart.com/politics/2026/11 /11/how-pete-hegseth-and-stephen-miller-have-partnered-on-key-issues-in-trumps-administration/",
-      "link": "https://www.trumpstruth.org/statuses/43644",
-      "published": "Fri, 20 Nov 2026 00:47:46 +0000",
+      "link": "https://www.trumpstruth.org/statuses/43685",
+      "published": "Sat, 21 Nov 2026 21:14:37 +0000",
       "stale": false
     },
     {
       "original": "View image",
       "translated": "查看图像",
-      "link": "https://www.trumpstruth.org/statuses/43643",
-      "published": "Fri, 20 Nov 2026 00:47:13 +0000",
+      "link": "https://www.trumpstruth.org/statuses/43686",
+      "published": "Sat, 21 Nov 2026 21:14:30 +0000",
       "stale": false
     },
     {
-      "original": "The Factories Are Coming Home, ISM Just Confirmed It: https://www. realclearmarkets.com/articles/ 2026/11/02/the_factories_are_coming_home_ism_just_confirmed_it_1214700.html",
-      "translated": "工厂正在回归本土，ISM 刚刚证实了这一点：https://www. realclearmarkets.com/articles/ 2026/11/02/the_factories_are_coming_home_ism_just_confirmed_it_1214700.html",
-      "link": "https://www.trumpstruth.org/statuses/43642",
-      "published": "Fri, 20 Nov 2026 00:37:35 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43687",
+      "published": "Sat, 21 Nov 2026 21:14:19 +0000",
+      "stale": false
+    },
+    {
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43683",
+      "published": "Sat, 21 Nov 2026 21:10:20 +0000",
       "stale": false
     }
   ],
