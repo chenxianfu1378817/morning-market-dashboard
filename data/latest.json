@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-23 11:22",
-  "updated_at_iso": "2026-11-23T11:22:55+08:00",
+  "updated_at": "2026-11-24 14:35",
+  "updated_at_iso": "2026-11-24T14:35:51+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 19.7,
-      "feels_like": 19.6,
+      "temperature": 20.7,
+      "feels_like": 19.0,
       "code": 3,
-      "max": 19.8,
-      "min": 13.9,
-      "rain_probability": 12,
-      "stale": true
+      "max": 21.2,
+      "min": 16.6,
+      "rain_probability": 84,
+      "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 16.7,
-      "feels_like": 15.4,
+      "temperature": 18.8,
+      "feels_like": 14.3,
       "code": 3,
-      "max": 17.8,
-      "min": 11.7,
-      "rain_probability": 100,
-      "stale": true
+      "max": 18.8,
+      "min": 12.7,
+      "rain_probability": 22,
+      "stale": false
     },
     {
       "name": "广州",
-      "temperature": 18.3,
-      "feels_like": 16.8,
-      "code": 2,
-      "max": 20.1,
-      "min": 14.5,
-      "rain_probability": 0,
-      "stale": true
+      "temperature": 21.8,
+      "feels_like": 19.5,
+      "code": 1,
+      "max": 21.7,
+      "min": 15.0,
+      "rain_probability": 100,
+      "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 23.0,
-      "feels_like": 23.5,
+      "temperature": 19.3,
+      "feels_like": 17.7,
       "code": 3,
-      "max": 23.3,
-      "min": 19.8,
-      "rain_probability": 10,
+      "max": 21.3,
+      "min": 15.9,
+      "rain_probability": 100,
       "stale": false
     }
   ],
@@ -48,113 +48,100 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 83.3,
-      "current_price": 83.3,
-      "previous_close": 83.41,
-      "change": -0.10999999999999943,
-      "change_pct": -0.13187867162210698,
-      "market_time": "11-23 11:16",
+      "price": 79.8,
+      "current_price": 79.8,
+      "previous_close": 80.17,
+      "change": -0.37000000000000455,
+      "change_pct": -0.46151927154796624,
+      "market_time": "11-24 14:25",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 89.82,
-      "current_price": 89.82,
-      "previous_close": 89.95,
-      "change": -0.13000000000000966,
-      "change_pct": -0.1445247359644354,
-      "market_time": "11-23 11:16",
+      "price": 86.38,
+      "current_price": 86.38,
+      "previous_close": 86.68,
+      "change": -0.30000000000001137,
+      "change_pct": -0.34610059990771963,
+      "market_time": "11-24 14:23",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "美伊谈判僵持冲突外溢 内塔尼亚胡被曝欲单独对伊动武",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736273.shtml",
-      "published": "Mon, 23 Nov 2026 09:47:06 +0800",
+      "title": "金与正谴责瑞士将朝鲜一个夏令营列入制裁名单：令人吃惊的卑鄙行径",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736883.shtml",
+      "published": "Tue, 24 Nov 2026 12:32:01 +0800",
       "stale": false
     },
     {
-      "title": "韩国各地手机一天内三次警报大作，三天后韩国教育部长辞职",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736272.shtml",
-      "published": "Mon, 23 Nov 2026 09:43:57 +0800",
+      "title": "民主党人：将“动用全部权力”调查黄仁勋、特朗普",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736880.shtml",
+      "published": "Tue, 24 Nov 2026 12:27:38 +0800",
       "stale": false
     },
     {
-      "title": "日本文部科学大臣丑闻不断发酵 朝野要求其辞职声音扩大",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736238.shtml",
-      "published": "Mon, 23 Nov 2026 08:08:56 +0800",
+      "title": "朝鲜考虑关闭瑞士驻平壤外交办事处",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736850.shtml",
+      "published": "Tue, 24 Nov 2026 11:29:03 +0800",
       "stale": false
     },
     {
-      "title": "外媒：伊拉克安全部队打死极端组织“伊斯兰国”一头目",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736231.shtml",
-      "published": "Mon, 23 Nov 2026 07:37:20 +0800",
+      "title": "国际最新研发出用植物生产抗癌药紫杉醇的新方式",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736829.shtml",
+      "published": "Tue, 24 Nov 2026 11:19:15 +0800",
       "stale": false
     },
     {
-      "title": "2026年清华财经新闻论坛在美举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736226.shtml",
-      "published": "Mon, 23 Nov 2026 07:34:32 +0800",
+      "title": "日本为何盯着核动力潜艇不放？专家分析背后更大企图",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736838.shtml",
+      "published": "Tue, 24 Nov 2026 10:59:00 +0800",
       "stale": false
     },
     {
-      "title": "日本熊本县发生4.1级地震 多地有震感",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
-      "published": "Mon, 23 Nov 2026 07:24:20 +0800",
+      "title": "德国巴登-符腾堡州一公寓内发现5人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-24/10736780.shtml",
+      "published": "Tue, 24 Nov 2026 10:06:31 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP",
-      "translated": "我希望英伟达董事会重新聘用黄仁勋。这对公司来说是最好的事情，对美国总统唐纳德·J·特朗普来说也是如此。",
-      "link": "https://www.trumpstruth.org/statuses/43709",
-      "published": "Mon, 23 Nov 2026 02:54:45 +0000",
+      "original": "EXTREME CLIMATE SCIENCE “BITES THE DUST!” Climate Change activists always described their Extreme Climate Science assumptions as “settled science,” and the scenarios of doom and destruction based on “Climate Change” have dominated their outlook. Well, their Climate Science has now been debunked, withdrawn, and taken down by the UN IPCC. That’s right, the same organization that published these projections as “settled science” has now determined they are not reliable and have withdrawn them. No more catastrophic predictions. GONE! GONE! GONE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "极端气候科学“灰飞烟灭”！气候变化活动人士一直将他们的极端气候科学假设描述为“定论科学”，而基于“气候变化”的末日和毁灭情景主导了他们的观点。如今，他们的气候科学已被联合国政府间气候变化专门委员会（IPCC）揭穿、撤回并废除。没错，正是将这些预测作为“定论科学”发布的同一个组织，现在认定",
+      "link": "https://www.trumpstruth.org/statuses/43718",
+      "published": "Mon, 23 Nov 2026 18:55:49 +0000",
       "stale": false
     },
     {
-      "original": "It’s incredible that Somalians have been able to completely take over the once great State of Minnesota. They own it, “lock, stock, and barrel” and, almost 95% are on some form of welfare. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP",
-      "translated": "令人难以置信的是，索马里人竟然完全掌控了曾经伟大的明尼苏达州。他们“全盘掌控”明尼苏达州，几乎95%的人口都领取某种形式的福利。让美国再次伟大！唐纳德·J·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43708",
-      "published": "Sun, 22 Nov 2026 21:53:08 +0000",
+      "original": "Iowa is a very special place to me, a place that I won, by substantial margins, in all three Elections but, whether I won or lost, would never deter me from making a correct decision. As everyone knows, there is a Military “clean up” operation, without which, a very dangerous situation exists. In 2009, the Obama Administration improperly stored a vast number of explosives, and the Experts, who know it well, and have been studying it for many years, feel there is a substantial chance that this material will explode of its own volition, perhaps sometime in the near future. We have an opportunity to do a highly controlled detonation of these dangerous and rapidly corroding materials. The Experts, in particular the United States Military, feel that this approach will be a far safer one than allowing the situation to fester, not knowing when they will detonate by themselves. This operation would, in other words, be a controlled one rather than a large, spontaneous explosion. The weather, right now, is optimal for this planned response to take place. I feel the proper course is to get rid of this longterm problem but, at the same time, have ordered the Military not to do so until such time as the Eighth Circuit agrees that we can go forward, and am further making this decision fully subject to the incoming Governor Elect, Rob Sand, agreeing to the operation. If he or the Courts do not agree, we will have no choice but to not proceed with the controlled removal of these hazardous materials, and be forced to hold the incoming Governor responsible for any and all death or destruction caused by this very unfortunate, and longterm, situation. Thank you for your attention to this matter! President DONALD J. TRUMP",
+      "translated": "艾奥瓦州对我来说是一个非常特别的地方，我在那里的三次选举中都以相当大的优势获胜，但无论输赢，都绝不会阻止我做出正确的决定。众所周知，正在进行一场军事“清理”行动，如果没有这场行动，就会出现非常危险的局面。2009年，奥巴马政府不当储存了大量爆炸物，对此非常了解并研究了多年的专家们",
+      "link": "https://www.trumpstruth.org/statuses/43717",
+      "published": "Mon, 23 Nov 2026 18:00:54 +0000",
       "stale": false
     },
     {
-      "original": "Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Elections? I said that was going to happen. The whole thing is a Giant Hoax! President DONALD J. TRUMP",
-      "translated": "中期选举后油价暴跌，这难道不有意思吗？我说过会发生这种情况。这整件事就是一场大骗局！唐纳德·J·特朗普总统",
-      "link": "https://www.trumpstruth.org/statuses/43707",
-      "published": "Sun, 22 Nov 2026 21:49:11 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43716",
+      "published": "Mon, 23 Nov 2026 16:32:47 +0000",
       "stale": false
     },
     {
-      "original": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran, which has killed 81,000 protestors as of today, will grow more aggressive in their attacks, which has also occurred. Iran has launched more drones and missiles in the last week than at any time for over a year. Don’t worry, they’ve all been knocked down, and done no damage. Iranian leaders consider the Democrats weak, ineffective, and Country destroying, but I won’t let that happen! Both the Dems and Iran fought like hell to keep the Oil price up as long as possible and, since the Election, the Oil price has dropped by a record level. Too bad the Voters didn’t understand this before they pulled the trigger, but the whole Election was very “strange.” In the end, America will win! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "大家还记得，我曾就11月3日的中期选举预测了两件事。第一，如果民主党获胜，股市将大幅下跌，事实也的确如此；第二，截至今日已杀害8.1万名抗议者的伊朗伊斯兰共和国将在袭击中变得更加咄咄逼人，这一点也已成为现实。过去一周，伊朗发射的无人机和导弹数量超过了一年多以来的任何时候。不要",
-      "link": "https://www.trumpstruth.org/statuses/43706",
-      "published": "Sun, 22 Nov 2026 21:47:46 +0000",
+      "original": "Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! President DONALD J. TRUMP",
+      "translated": "祝贺英伟达做出我认为绝对明智的决定！唐纳德·J·特朗普总统",
+      "link": "https://www.trumpstruth.org/statuses/43715",
+      "published": "Mon, 23 Nov 2026 14:50:52 +0000",
       "stale": false
     },
     {
-      "original": "View video",
-      "translated": "查看视频",
-      "link": "https://www.trumpstruth.org/statuses/43705",
-      "published": "Sun, 22 Nov 2026 21:09:07 +0000",
+      "original": "The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Thank you for your attention to this matter. President DONALD J. TRUMP",
+      "translated": "英伟达董事会做出了正确且恰当的决定，让黄仁勋重返首席执行官职位。国家需要Jensen在NVIDIA的领导，以确保不仅是公司，还有美国经济的成功和繁荣。美国政府没有理由认为Jensen重返NVIDIA会对国家安全构成任何风险。美国司法部长已确认，",
+      "link": "https://www.trumpstruth.org/statuses/43714",
+      "published": "Mon, 23 Nov 2026 14:07:17 +0000",
       "stale": false
     }
   ],
-  "errors": [
-    {
-      "source": "天气·南宁",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "source": "天气·桂林",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "source": "天气·广州",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    }
-  ]
+  "errors": []
 }
