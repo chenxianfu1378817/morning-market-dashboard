@@ -1,164 +1,147 @@
 {
-  "updated_at": "2026-11-25 13:09",
-  "updated_at_iso": "2026-11-25T13:09:36+08:00",
+  "updated_at": "2026-11-26 12:36",
+  "updated_at_iso": "2026-11-26T12:36:40+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 20.7,
-      "feels_like": 19.0,
-      "code": 3,
-      "max": 21.2,
-      "min": 16.6,
-      "rain_probability": 84,
-      "stale": true
+      "temperature": 17.2,
+      "feels_like": 18.0,
+      "code": 0,
+      "max": 19.2,
+      "min": 10.5,
+      "rain_probability": 22,
+      "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 18.8,
-      "feels_like": 14.3,
-      "code": 3,
-      "max": 18.8,
-      "min": 12.7,
-      "rain_probability": 22,
-      "stale": true
+      "temperature": 15.5,
+      "feels_like": 15.4,
+      "code": 0,
+      "max": 18.9,
+      "min": 8.0,
+      "rain_probability": 17,
+      "stale": false
     },
     {
       "name": "广州",
-      "temperature": 21.8,
-      "feels_like": 19.5,
-      "code": 1,
-      "max": 21.7,
-      "min": 15.0,
-      "rain_probability": 100,
-      "stale": true
+      "temperature": 17.6,
+      "feels_like": 17.0,
+      "code": 3,
+      "max": 19.5,
+      "min": 12.2,
+      "rain_probability": 68,
+      "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 19.3,
-      "feels_like": 17.7,
+      "temperature": 19.5,
+      "feels_like": 19.3,
       "code": 3,
-      "max": 21.3,
-      "min": 15.9,
-      "rain_probability": 100,
-      "stale": true
+      "max": 21.2,
+      "min": 13.8,
+      "rain_probability": 15,
+      "stale": false
     }
   ],
   "oil": [
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 80.69,
-      "current_price": 80.69,
-      "previous_close": 82.05,
-      "change": -1.3599999999999994,
-      "change_pct": -1.6575258988421688,
-      "market_time": "11-25 13:02",
+      "price": 84.32,
+      "current_price": 84.32,
+      "previous_close": 83.68,
+      "change": 0.6399999999999864,
+      "change_pct": 0.764818355640519,
+      "market_time": "11-26 12:26",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 87.46,
-      "current_price": 87.46,
-      "previous_close": 88.78,
-      "change": -1.3200000000000074,
-      "change_pct": -1.486821356161306,
-      "market_time": "11-25 13:02",
+      "price": 91.07,
+      "current_price": 91.07,
+      "previous_close": 90.64,
+      "change": 0.4299999999999926,
+      "change_pct": 0.47440423654015074,
+      "market_time": "11-26 12:20",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "朝中社：朝鲜驱逐瑞士外交办事处代表 限其48小时内离境",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737460.shtml",
-      "published": "Wed, 25 Nov 2026 12:13:18 +0800",
+      "title": "也门胡塞武装称袭击沙特两个港口",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737995.shtml",
+      "published": "Thu, 26 Nov 2026 11:38:31 +0800",
       "stale": false
     },
     {
-      "title": "黄仁勋“闪电复出”，发了88篇报道“围攻”他的《纽约时报》尴尬了",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737442.shtml",
-      "published": "Wed, 25 Nov 2026 11:32:00 +0800",
+      "title": "阿富汗警方称击毙6名武装分子",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737988.shtml",
+      "published": "Thu, 26 Nov 2026 11:30:34 +0800",
       "stale": false
     },
     {
-      "title": "泽连斯基证实乌方袭击芬兰湾俄货船 多国担忧俄乌冲突外溢",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737420.shtml",
-      "published": "Wed, 25 Nov 2026 11:27:58 +0800",
+      "title": "巴西决定驻阿根廷大使不再返任",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
+      "published": "Thu, 26 Nov 2026 11:14:50 +0800",
       "stale": false
     },
     {
-      "title": "埃及阿斯旺省发生交通事故造成10死7伤",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737419.shtml",
-      "published": "Wed, 25 Nov 2026 11:27:18 +0800",
+      "title": "金正恩视察朝鲜核物质生产及核武器研究部门",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737979.shtml",
+      "published": "Thu, 26 Nov 2026 11:02:25 +0800",
       "stale": false
     },
     {
-      "title": "哥伦比亚旅游城市发生人质劫持事件",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737418.shtml",
-      "published": "Wed, 25 Nov 2026 11:27:12 +0800",
+      "title": "埃及一油车起火波及27辆车致31人死亡",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737962.shtml",
+      "published": "Thu, 26 Nov 2026 10:49:00 +0800",
       "stale": false
     },
     {
-      "title": "（国际观察）卢拉政府打出财政“组合拳” 巴西市场信心能否回暖？",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737417.shtml",
-      "published": "Wed, 25 Nov 2026 11:25:34 +0800",
+      "title": "巴西回应美国拟加征新关税：不可接受，不会屈服",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
+      "published": "Thu, 26 Nov 2026 10:48:24 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
-      "original": "https:// vimeo.com/1249782646/7e27022b5 4",
-      "translated": "https:// vimeo.com/1249782646/7e27022b5 4",
-      "link": "https://www.trumpstruth.org/statuses/43727",
-      "published": "Wed, 25 Nov 2026 01:02:33 +0000",
+      "original": "Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable. When a PERFECT detonation was completed and there for all to see, they went CRAZY with anger. They want our Country to lose. “Another win for Trump!”",
+      "translated": "假新闻CNN希望在艾奥瓦州出现糟糕的结果。他们的预先报道不准确，令人遗憾。当一次完美的“引爆”完成，所有人都看在眼里时，他们气得发疯。他们希望我们的国家失败。“特朗普又赢了！”",
+      "link": "https://www.trumpstruth.org/statuses/43732",
+      "published": "Wed, 25 Nov 2026 20:37:06 +0000",
       "stale": false
     },
     {
-      "original": "View image",
-      "translated": "View image",
-      "link": "https://www.trumpstruth.org/statuses/43723",
-      "published": "Wed, 25 Nov 2026 00:58:03 +0000",
+      "original": "Rob Sands, the new future Governor of Iowa, is obviously unhappy that the Obama created (2009!) mess was so perfectly handled by the U.S. Army through a flawless detonation, that he’s now complaining about the lead up to the event. He hurt and delayed the process. Was absolutely no help. Just another politician. He should rejoice at this great success, not nitpick and issue phony complaints on “transparency.” I will remember! President DJT",
+      "translated": "爱荷华州新任未来州长罗布·桑兹（Rob Sands）显然对美国陆军通过一次完美的引爆行动，如此完美地处理了奥巴马制造的（2009年！）混乱感到不满，以至于他现在开始抱怨事件的起因。他阻碍并拖延了这一进程。他一点忙都没帮上。又一个政客。他应该为这次大获全胜感到高兴，而不是吹毛求疵，假惺惺地抱怨“透明度”问题。我会记住的！DJT总统",
+      "link": "https://www.trumpstruth.org/statuses/43731",
+      "published": "Wed, 25 Nov 2026 20:27:36 +0000",
       "stale": false
     },
     {
-      "original": "RT @ Schoenlaw Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. https://www. dropbox.com/scl/fi/92yu855x4cf bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&st=kqcljs98&dl=0 Reposted Schoenlaw Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. https://www. dropbox.com/scl/fi/92yu855x4cf bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&st=kqcljs98&dl=0",
-      "translated": "RT @ Schoenlaw Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. https://www. dropbox.com/scl/fi/92yu855x4cf bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&st=kqcljs98&dl=0 Reposted Schoenlaw Regarding Newsom’s wholesale commutations and an avenue for challenging at least some of them based on the California Constitution. https://www. dropbox.com/scl/fi/92yu855x4cf bdb9ki6ajx/2-SCHOEN.mp4?rlkey=jsw56tbxxhutu1cbo9jzxp4fm&st=kqcljs98&dl=0",
-      "link": "https://www.trumpstruth.org/statuses/43724",
-      "published": "Wed, 25 Nov 2026 00:57:43 +0000",
+      "original": "Great job by the Army, and others, in Iowa!!! President DJT",
+      "translated": "陆军和其他人在爱荷华州做得很好！！！DJT总统",
+      "link": "https://www.trumpstruth.org/statuses/43730",
+      "published": "Wed, 25 Nov 2026 20:03:33 +0000",
       "stale": false
     },
     {
-      "original": "Ilhan Omar’s legal reckoning is looming, and redactions can't hide it: https://www. foxnews.com/opinion/ilhan-omar s-legal-reckoning-looming-redactions-cant-hide",
-      "translated": "Ilhan Omar’s legal reckoning is looming, and redactions can't hide it: https://www. foxnews.com/opinion/ilhan-omar s-legal-reckoning-looming-redactions-cant-hide",
-      "link": "https://www.trumpstruth.org/statuses/43726",
-      "published": "Wed, 25 Nov 2026 00:57:33 +0000",
+      "original": "Stocks are down sharply because of the November Third Election results. I wasn’t on the Ballot, but if I was, the results, just like all three times before, would have been much different, and the Stock Market, and your 401-k’s, would be BOOMING. I told you so!!! President DJT",
+      "translated": "由于11月3日大选的结果，股市大幅下挫。我没有出现在选票上，但如果我出现在选票上，结果就会像前三次一样大不相同，股市和你们的401(k)退休账户都会蓬勃发展。我早就告诉过你们！！！DJT总统",
+      "link": "https://www.trumpstruth.org/statuses/43729",
+      "published": "Wed, 25 Nov 2026 17:14:26 +0000",
       "stale": false
     },
     {
-      "original": "Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Course, referred to as Trash Island because it has been in such bad shape for so many years, is doing everything in her power to stop the Department of the Interior from bringing an old, decrepit, and very unsafe Golf Course from being built into a Course that Washington and, indeed, the U.S.A., can be proud of. The new Course will be open to the Public, and for residents of Washington, D.C., at a substantially reduced rate. It will also be a Course designed to the Highest Standards of Golf. The Department of the Interior has an absolute right to renovate the Course, but the judge is not allowing them to do so, at great danger and peril to the Public. She wants to become a Golf Course Designer and approve every move we make — And it just doesn’t work that way. This Project can be done easily and quickly. We are simply replacing a dangerous and bad Golf Course with a safe and good Golf Course, one that will be GREAT for the area. Time is of the essence — This is a Project that must be started, IMMEDIATELY, or many Seasons will be missed, and the costs will only continue to rise! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "translated": "Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Course, referred to as Trash Island because it has been in such bad shape for so many years, is doing everything in her power to stop the Department of the Interior from bringing an old, decrepit, and very unsafe Golf Course from being built into a Course that Washington and, indeed, the U.S.A., can be proud of. The new Course will be open to the Public, and for residents of Washington, D.C., at a substantially reduced rate. It will also be a Course designed to the Highest Standards of Golf. The Department of the Interior has an absolute right to renovate the Course, but the judge is not allowing them to do so, at great danger and peril to the Public. She wants to become a Golf Course Designer and approve every move we make — And it just doesn’t work that way. This Project can be done easily and quickly. We are simply replacing a dangerous and bad Golf Course with a safe and good Golf Course, one that will be GREAT for the area. Time is of the essence — This is a Project that must be started, IMMEDIATELY, or many Seasons will be missed, and the costs will only continue to rise! Thank you for your attention to this matter. President DONALD J. TRUMP",
-      "link": "https://www.trumpstruth.org/statuses/43722",
-      "published": "Tue, 24 Nov 2026 18:58:04 +0000",
+      "original": "Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.",
+      "translated": "来自爱荷华州的早期报告显示，陆军的减灾工作远远超出了预期。",
+      "link": "https://www.trumpstruth.org/statuses/43728",
+      "published": "Wed, 25 Nov 2026 15:20:42 +0000",
       "stale": false
     }
   ],
-  "errors": [
-    {
-      "source": "天气·南宁",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "source": "天气·桂林",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "source": "天气·广州",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    },
-    {
-      "source": "天气·深圳",
-      "message": "<urlopen error _ssl.c:994: The handshake operation timed out>"
-    }
-  ]
+  "errors": []
 }
