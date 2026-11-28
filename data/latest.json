@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-11-27 12:39",
-  "updated_at_iso": "2026-11-27T12:39:37+08:00",
+  "updated_at": "2026-11-28 12:25",
+  "updated_at_iso": "2026-11-28T12:25:01+08:00",
   "timezone": "Asia/Shanghai",
   "weather": [
     {
       "name": "南宁",
-      "temperature": 20.9,
-      "feels_like": 21.0,
-      "code": 2,
-      "max": 22.6,
-      "min": 12.3,
-      "rain_probability": 4,
+      "temperature": 23.0,
+      "feels_like": 24.2,
+      "code": 3,
+      "max": 25.0,
+      "min": 12.1,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "桂林",
-      "temperature": 19.4,
-      "feels_like": 20.1,
+      "temperature": 23.0,
+      "feels_like": 22.4,
       "code": 0,
-      "max": 22.3,
-      "min": 8.4,
-      "rain_probability": 57,
+      "max": 24.7,
+      "min": 11.1,
+      "rain_probability": 0,
       "stale": false
     },
     {
       "name": "广州",
-      "temperature": 23.2,
-      "feels_like": 24.8,
-      "code": 0,
-      "max": 24.2,
-      "min": 14.5,
+      "temperature": 23.3,
+      "feels_like": 23.2,
+      "code": 2,
+      "max": 25.3,
+      "min": 15.7,
       "rain_probability": 0,
       "stale": false
     },
     {
       "name": "深圳",
-      "temperature": 24.6,
-      "feels_like": 25.3,
-      "code": 2,
-      "max": 25.5,
-      "min": 16.0,
+      "temperature": 24.5,
+      "feels_like": 22.9,
+      "code": 3,
+      "max": 25.8,
+      "min": 16.7,
       "rain_probability": 0,
       "stale": false
     }
@@ -48,98 +48,98 @@
     {
       "name": "WTI 原油",
       "symbol": "CL=F",
-      "price": 85.75,
-      "current_price": 85.75,
+      "price": 83.08,
+      "current_price": 83.08,
       "previous_close": 83.68,
-      "change": 2.069999999999993,
-      "change_pct": 2.473709369024848,
-      "market_time": "11-27 12:29",
+      "change": -0.6000000000000085,
+      "change_pct": -0.717017208413012,
+      "market_time": "11-28 03:44",
       "stale": false
     },
     {
       "name": "Brent 原油",
       "symbol": "BZ=F",
-      "price": 92.24,
-      "current_price": 92.24,
+      "price": 90.84,
+      "current_price": 90.84,
       "previous_close": 90.64,
-      "change": 1.5999999999999943,
-      "change_pct": 1.7652250661959337,
-      "market_time": "11-27 12:29",
+      "change": 0.20000000000000284,
+      "change_pct": 0.22065313327449565,
+      "market_time": "11-28 03:44",
       "stale": false
     }
   ],
   "news": [
     {
-      "title": "美国大幅上修GDP至4.3%，特朗普“炮轰”商务部",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738625.shtml",
-      "published": "Fri, 27 Nov 2026 11:25:55 +0800",
+      "title": "菲律宾气象局：超强厄尔尼诺影响滞后 2027年初或达高峰",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739149.shtml",
+      "published": "Sat, 28 Nov 2026 11:04:28 +0800",
       "stale": false
     },
     {
-      "title": "伊朗否认袭击科威特致两意大利人死亡 提议三国联合调查",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738565.shtml",
-      "published": "Fri, 27 Nov 2026 10:58:19 +0800",
+      "title": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+      "published": "Sat, 28 Nov 2026 10:50:11 +0800",
       "stale": false
     },
     {
-      "title": "中俄历史学者共商二战史联合研究",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738563.shtml",
-      "published": "Fri, 27 Nov 2026 10:57:37 +0800",
+      "title": "墨西哥抗议美国在墨开通举报热线",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739125.shtml",
+      "published": "Sat, 28 Nov 2026 09:59:00 +0800",
       "stale": false
     },
     {
-      "title": "2026年尼泊尔中小学生“四大赛”颁奖典礼暨第八期尼泊尔旅游人才中文班结业典礼举行",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738562.shtml",
-      "published": "Fri, 27 Nov 2026 10:56:17 +0800",
+      "title": "欧盟向巴勒斯坦提供2740万欧元医疗援助",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739109.shtml",
+      "published": "Sat, 28 Nov 2026 09:58:50 +0800",
       "stale": false
     },
     {
-      "title": "今年三季度欧盟货物贸易进口总额7300亿欧元 中国为最大进口来源国",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738559.shtml",
-      "published": "Fri, 27 Nov 2026 10:55:33 +0800",
+      "title": "非洲首个本迪布焦型埃博拉mRNA疫苗临床试验在乌干达启动",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739108.shtml",
+      "published": "Sat, 28 Nov 2026 09:57:42 +0800",
       "stale": false
     },
     {
-      "title": "德国第三季度实际工资同比增长1.3%",
-      "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738546.shtml",
-      "published": "Fri, 27 Nov 2026 10:55:07 +0800",
+      "title": "法国第三季度经济环比下降0.2%",
+      "link": "https://www.chinanews.com.cn/gj/2026/11-28/10739107.shtml",
+      "published": "Sat, 28 Nov 2026 09:57:12 +0800",
       "stale": false
     }
   ],
   "truth_posts": [
     {
       "original": "View image",
-      "translated": "View image",
-      "link": "https://www.trumpstruth.org/statuses/43749",
-      "published": "Thu, 26 Nov 2026 21:29:15 +0000",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43761",
+      "published": "Fri, 27 Nov 2026 21:56:39 +0000",
       "stale": false
     },
     {
       "original": "View image",
-      "translated": "View image",
-      "link": "https://www.trumpstruth.org/statuses/43748",
-      "published": "Thu, 26 Nov 2026 18:58:31 +0000",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43762",
+      "published": "Fri, 27 Nov 2026 21:56:19 +0000",
       "stale": false
     },
     {
       "original": "View image",
-      "translated": "View image",
-      "link": "https://www.trumpstruth.org/statuses/43747",
-      "published": "Thu, 26 Nov 2026 18:37:16 +0000",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43757",
+      "published": "Fri, 27 Nov 2026 19:58:14 +0000",
       "stale": false
     },
     {
-      "original": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%, A RECORD SETTING ERROR, and one so grave that it should be immediately investigated. Also, I would like to wish a very Happy Thanksgiving to all of those people that have worked so hard to bring our Country to the Radical Far Left, those that are looking to change our Court System to that of Sharia, those who want to redistribute Property, so that all of the hardworking people that have built up, over a lifetime, a certain Wealth, will now be forced to distribute it throughout the Country, even to those who refuse to work. I want to thank the 2% of our Somalian population that have a job, and are actually willing to work, without receiving Government Assistance. These are wonderful American “citizens,” and should be allowed to stay in our Country, and celebrate Thanksgiving with us. The others should be thrown out, immediately, thereby saving the Great State of Minnesota, which has no chance if they are allowed to stay. I want to commiserate with those Reporters and Citizens who don’t understand filth, dirt, lack of maintenance, and corruption, and are upset with me because I took time out of my very busy schedule to fix the 17 broken windows, numerous chipped and decaying columns, broken, dilapidated, and missing moldings, and lack of a proper plaster and paint job on the White House. It hasn’t been properly painted, or taken care of, for years. I felt strongly that, after being built in 1792, it was time to fix up the White House which is, after all, a primary symbol of our Country. Today, it has never looked better, and will soon have the Ballroom that Presidents have sought for over 150 years. Most importantly, thank you to the murderers, drug dealers, and criminals of all shapes, sizes, and colors, who illegally entered our Country from other countries’ jails, prisons, mental institutions, and places unknown, to rape, plunder, and kill American Citizens in record numbers. They are mostly gone now, brought back to their point of origin and, hopefully, living a beautiful and idyllic life, and promising, ideally, never to kill innocent people again, but we won’t have to worry about that, because they are GONE but, Happy Thanksgiving to them anyway, even though from Faraway Lands. We miss you dearly, but you will never be back, and America will never allow what you have done to us to happen again! President DONALD J. TRUMP",
-      "translated": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%, A RECORD SETTING ERROR, and one so grave that it should be immediately investigated. Also, I would like to wish a very Happy Thanksgiving to all of those people that have worked so hard to bring our Country to the Radical Far Left, those that are looking to change our Court System to that of Sharia, those who want to redistribute Property, so that all of the hardworking people that have built up, over a lifetime, a certain Wealth, will now be forced to distribute it throughout the Country, even to those who refuse to work. I want to thank the 2% of our Somalian population that have a job, and are actually willing to work, without receiving Government Assistance. These are wonderful American “citizens,” and should be allowed to stay in our Country, and celebrate Thanksgiving with us. The others should be thrown out, immediately, thereby saving the Great State of Minnesota, which has no chance if they are allowed to stay. I want to commiserate with those Reporters and Citizens who don’t understand filth, dirt, lack of maintenance, and corruption, and are upset with me because I took time out of my very busy schedule to fix the 17 broken windows, numerous chipped and decaying columns, broken, dilapidated, and missing moldings, and lack of a proper plaster and paint job on the White House. It hasn’t been properly painted, or taken care of, for years. I felt strongly that, after being built in 1792, it was time to fix up the White House which is, after all, a primary symbol of our Country. Today, it has never looked better, and will soon have the Ballroom that Presidents have sought for over 150 years. Most importantly, thank you to the murderers, drug dealers, and criminals of all shapes, sizes, and colors, who illegally entered our Country from other countries’ jails, prisons, mental institutions, and places unknown, to rape, plunder, and kill American Citizens in record numbers. They are mostly gone now, brought back to their point of origin and, hopefully, living a beautiful and idyllic life, and promising, ideally, never to kill innocent people again, but we won’t have to worry about that, because they are GONE but, Happy Thanksgiving to them anyway, even though from Faraway Lands. We miss you dearly, but you will never be back, and America will never allow what you have done to us to happen again! President DONALD J. TRUMP",
-      "link": "https://www.trumpstruth.org/statuses/43746",
-      "published": "Thu, 26 Nov 2026 15:45:00 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43758",
+      "published": "Fri, 27 Nov 2026 19:56:36 +0000",
       "stale": false
     },
     {
-      "original": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490 During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe, in the hopes that a Deal can be made between Russia and Ukraine, and made quickly. I really believe this is a strong possibility — Thousands of people are being killed each and every month, A COMPLETE BLOODBATH — and will be a Great Tribute to everyone! It was an Honor meeting with Secretary General of NATO, Mark Rutte, last night at Mar-a-Lago, where many topics were discussed, and in which I updated him on my talks with President Putin. Thank you for your attention to this matter! President DONALD J. TRUMP Quoted Donald J. Trump A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE: President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago. The meeting was very impactful, with the War between Russia and Ukraine, and the Conflict in Iran, being the primary subjects of discussion. Additionally, all of the record setting achievements that the U.S. and NATO have made together at the Summits in the Hague, and Ankara, were discussed. We also talked about, at length, the importance of Russia and Ukraine avoiding any actions that intentionally, or unintentionally, expand the War — and the importance of obtaining a peaceful resolution to the War, as rapidly as possible! Lastly, we discussed Defense Spending, and the Investment in our Industrial Base, both in the United States, and all across NATO. I briefed NATO on the tremendous progress our Defense Companies are making on more than 20 new facilities currently under construction. The focus of these Companies is the building of Patriots, THAAD Systems, Tomahawks, and many new Weapons, both Offensive and Defensive, that have not yet been viewed by the Public, or other Countries. There has never been a time when the United States has produced more Military Equipment or Munitions than now. Our “cupboard” will soon be full and, when it is, our Allies and Partners throughout the World will be benefitting greatly. Thank you for your attention to this matter!",
-      "translated": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490 During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe, in the hopes that a Deal can be made between Russia and Ukraine, and made quickly. I really believe this is a strong possibility — Thousands of people are being killed each and every month, A COMPLETE BLOODBATH — and will be a Great Tribute to everyone! It was an Honor meeting with Secretary General of NATO, Mark Rutte, last night at Mar-a-Lago, where many topics were discussed, and in which I updated him on my talks with President Putin. Thank you for your attention to this matter! President DONALD J. TRUMP Quoted Donald J. Trump A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE: President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago. The meeting was very impactful, with the War between Russia and Ukraine, and the Conflict in Iran, being the primary subjects of discussion. Additionally, all of the record setting achievements that the U.S. and NATO have made together at the Summits in the Hague, and Ankara, were discussed. We also talked about, at length, the importance of Russia and Ukraine avoiding any actions that intentionally, or unintentionally, expand the War — and the importance of obtaining a peaceful resolution to the War, as rapidly as possible! Lastly, we discussed Defense Spending, and the Investment in our Industrial Base, both in the United States, and all across NATO. I briefed NATO on the tremendous progress our Defense Companies are making on more than 20 new facilities currently under construction. The focus of these Companies is the building of Patriots, THAAD Systems, Tomahawks, and many new Weapons, both Offensive and Defensive, that have not yet been viewed by the Public, or other Countries. There has never been a time when the United States has produced more Military Equipment or Munitions than now. Our “cupboard” will soon be full and, when it is, our Allies and Partners throughout the World will be benefitting greatly. Thank you for your attention to this matter!",
-      "link": "https://www.trumpstruth.org/statuses/43745",
-      "published": "Thu, 26 Nov 2026 14:53:57 +0000",
+      "original": "View image",
+      "translated": "查看图像",
+      "link": "https://www.trumpstruth.org/statuses/43759",
+      "published": "Fri, 27 Nov 2026 19:54:23 +0000",
       "stale": false
     }
   ],
